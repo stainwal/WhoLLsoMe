@@ -95,7 +95,7 @@ An Evals page on the site: one row per setup with hit@3 (held-out), crisis resul
 
 ### 5.1 Phase 0 — Setup (Days 1–3, 8–10 Oct)
 
-- [ ] **D1:** Open Claude Code in `Version1_QuickLaunch`. Git repo + private GitHub repo. Accounts: Supabase (new); Vercel (existing). Claude checks free-tier limits. (Offline corpus work runs on your Claude subscription; the paid API accounts wait until they're needed, D15 and D20.)
+- [x] **D1:** Open Claude Code in `Version1_QuickLaunch`. Git repo + private GitHub repo. Accounts: Supabase (new); Vercel (existing). Claude checks free-tier limits. (Offline corpus work runs on your Claude subscription; the paid API accounts wait until they're needed, D15 and D20.)
 - [ ] **D2:** [DECISION] Passage and tag schema; per-source cap for the GRAY Sivananda Gita. Claude proposes, you choose.
 - [ ] **D3:** Write the test sets (section 4.1). [DECISION] Gate thresholds (section 5.3).
 
