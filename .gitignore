@@ -1,0 +1,21 @@
+# Secrets — never commit keys (CLAUDE.md section 5, rule 4)
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+build/
+.vercel/
+__pycache__/
+*.pyc
+.venv/
+
+# OS and editor clutter
+.DS_Store
+*.log
+.idea/
+.vscode/
