@@ -1,53 +1,56 @@
 # Status
 
-*Updated at the end of every session. Last update: Wed 7 Oct 2026 (Day 2 evening session, which also completed Day 4 and part of Day 6).*
+*Updated at the end of every session. Last update: Thu 8 Oct 2026, 01:20 IST (overnight session 3: Day 6 rules locked, Days 7–11 full corpus run).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1, 2, 4; Day 6 partly done. Day 3 (test sets) is still to come; it was skipped on purpose so the statements are written before any pilot review. Plan dates unchanged.
+- **Plan days done:** 1, 2, 4, 6, 7–11. Still open: Day 3 (test sets) and Day 5 (blind keep/cut review). Days 7–11 finished about 5 days ahead of the plan dates.
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
-  - Day 2: tag schema and taxonomy v2 (`pipeline/prompts/taxonomy.md`); source on/off switch (`pipeline/sources.toml`); harm review narrowed to a safety field (Decision 3).
-  - Day 4:
-    - all 33 sources normalised (4.18M words, `corpus/passages/normalised/`);
-    - extraction harness built;
-    - pilot extracted on Sonnet 5.5 and Opus 5.5, with 100% verbatim matches.
-  - Day 6, pulled forward: pilot tagged on both models.
-- **Not started:** test sets, full corpus run, retrieval, app code.
+  - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
+  - Day 4: 33 sources normalised (4.18M words); extraction harness; pilot on Sonnet and Opus.
+  - Day 6: pilot tagged on both models; model Opus 5.5 at medium effort; prompts locked (v1).
+  - Days 7–11 (`logs/D07.md`):
+    - all 33 sources extracted: 4,096,568 words, 1,720 chunks;
+    - 5,029 passages passed the verbatim check (7 rejected);
+    - all 5,029 tagged;
+    - 16 cut and 45 hidden from distress by the safety field;
+    - one file per source in `corpus/passages/`.
+- **Not started:** test sets, deduplication and corpus statistics, retrieval, app code.
 
-## 2. Next session (Day 3)
+## 2. Next session
 
-1. Shailesh writes the test sets (Plan section 4.1):
+1. **Shailesh:** scan the cut list in `logs/D07.md` section 2 and decide on the three likely over-cuts and the two "argues against suicide" passages (section 3 below).
+2. **Day 3:** Shailesh writes the test sets (Plan section 4.1):
    - 40 golden statements
    - 20 held-out statements
    - 5 crisis statements
    - 5 crisis look-alikes
-
-   Suggestion: cover every situation family in taxonomy section 4 at least once.
-2. [DECISION] Gate thresholds (Plan section 5.3).
-3. Then Day 5: blind keep/cut review of the 101 pooled pilot passages (`corpus/passages/pilot/pool.jsonl`).
+3. **Day 5:** blind keep/cut review, now on a 40-passage sample from the full corpus to measure Opus precision.
+4. **Then Days 12–13:**
+   - fix the SuttaCentral `<j>` markup and re-extract the affected chunks;
+   - deduplicate;
+   - corpus statistics by source and theme.
 
 ## 3. Open decisions
 
 | Day | Decision |
 | --- | --- |
 | 3 | Gate thresholds (proposed bar in `docs/Plan.md` section 5.3) |
-| 6 | Model for bulk work: Sonnet (49 picks) vs Opus (86 picks); decide after the Day 5 blind review |
+| 7 | Restore three likely over-cuts: 2 Maccabees 6:24, Rumi "annihilation", Zitkala-Ša racism passage (recommend restore) |
+| 7 | Two passages that argue against suicide (MN 144, Walden): show, or hide from distress (recommend hide from distress) |
+| 7 | Fix `<j>` markup and re-extract about 15 SuttaCentral chunks (recommend yes, before Day 14) |
 | 27 | Name, look, domain |
 
 ## 4. Eval results
 
-Pilot results (Day 4 and Day 6 pulled forward; details in `logs/D04.md`):
-
-- **Verbatim check:**
-  - Sonnet 49 of 49 exact matches
-  - Opus 86 of 86 exact matches
-- **Tag agreement, Sonnet vs Opus, same top tag:**
-  - themes 87%
-  - tone 79%
-  - feelings 57% (after Decision 4)
-  - situations 55%
-  - safety 100%
+- **Full corpus run (Days 7–11, `logs/D07.md`):**
+  - Verbatim check: 5,029 of 5,036 exact (99.86%); 7 rejected and logged.
+  - Tag validity: 0 problems across 5,029 passages.
+  - Safety field: 16 cut (12 Seneca "open door" passages, 2 likely over-cuts, 2 `group-hatred`); 45 `welcomes-death`.
+- **Pilot (`logs/D04.md`):**
+  - Verbatim: Sonnet 49 of 49, Opus 86 of 86.
+  - Same top tag, Sonnet vs Opus: themes 87%, tone 79%, feelings 57%, situations 55%, safety 100%.
 
 ## 5. Parking list
 
@@ -58,19 +61,22 @@ Ideas raised but out of v1 scope. Add here; don't build.
 - Phase 2 sources (Dark Night/Lewis, Macauliffe selections, Epicurus, Curtis)
 - Other SuttaCentral Minor Collection books already on disk (Sutta Nipata, Udana, Itivuttaka, Theragatha, Therigatha, Jataka…), all CC0
 - Test whether a higher effort level changes extraction selectivity
+- Re-run the 3 early extraction packs where helpers filtered for safety at extraction (Meditations 007–014, As a Man Thinketh, Avot)
+- Pre-filtered Bible books (Leviticus, Numbers, 1 Chronicles; 73,189 words), not yet read
 
 ## 6. Token budget
 
 Used by `CLAUDE.md` section 4.3 for every heavy run.
 
-- **Calibration (rough, 7 Oct):**
-  - **Cost:** about 1.4% of the weekly limit per 100,000 words, per extraction pass (±50%).
-  - **Method:** the pilot moved weekly by under 1% per 13,000-word run, so the figure is derived from the session bar (session % ≈ 5.5 × weekly %).
-  - **Model:** Sonnet 5.5 and Opus 5.5 look the same at this resolution.
-  - **Next:** refine on the first Day 7 batch.
+- **Calibration (measured on the full run, 7–8 Oct):**
+  - **Cost:** about 0.5% of the weekly limit per 100,000 words for extraction and tagging together. The full run took 4.10M words and moved weekly from 46% to 66%.
+  - **5-hour window:** about 3% per 100,000 words, so one window holds about 3M words. On a big run this is the binding limit.
+  - **Ratio:** session % ≈ 6 × weekly %.
+  - **Superseded:** the Day 4 estimate (1.4% per 100k words for extraction alone) was about 3 times too high.
+  - **Readings:** Claude reads both bars through the app's usage API, so no screenshots are needed.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
-- **Model for bulk work:** Sonnet, pending the Day 6 decision.
+- **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
 - **Weekly limit resets:** Thursdays about 05:30 IST (Usage screen, 7 Oct). Allowance left unused before a reset is lost, so the evening before a reset the 30% reserve can be relaxed if Shailesh agrees.
 - **Readings so far:**
 
@@ -81,6 +87,10 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | After Sonnet extraction | 24% | 44% |
   | After Opus extraction | 25% | 44% |
   | After tagging | 29% | 45% |
+  | Before full run, 22:07 | 3% | 46% |
+  | Window 1 paused, 22:49 | 84% | 59% |
+  | Window 2 start, 8 Oct 00:51 | 0% | 60% |
+  | Full run complete, 8 Oct 01:12 | 39% | 66% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Save it for the full corpus run (Plan Days 7–11); use only with Shailesh's say-so.
 
 ## 7. Free-tier limits

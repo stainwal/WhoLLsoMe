@@ -51,7 +51,7 @@ A heavy run is any job that reads a lot of text or calls models many times: extr
 4. **Run in batches.** Process source by source and chunk by chunk, keeping a running tally against the estimate. Stop at the end of the batch that would cross the budget; progress is saved, so the next run resumes there.
 5. **Close the loop.** Afterwards, ask for a second `/usage` reading. Record estimated vs actual in the session log and update the calibration in `STATUS.md` section 6.
 
-Bulk extraction and tagging run in subagents on Sonnet; Opus is kept for planning and judgement, unless the Day 6 pilot comparison says otherwise.
+Bulk extraction and tagging run in subagents on **Opus 5.5** at medium effort, the same settings as the pilot (Shailesh's decision, 7 Oct 2026).
 
 ## 5. Rules
 
@@ -80,6 +80,8 @@ Bulk extraction and tagging run in subagents on Sonnet; Opus is kept for plannin
 | `evals/` | Golden set, held-out set, eval scripts and results |
 | `logs/` | Session logs (`D01.md` …) and phase reports (section 4.2) |
 | `.claude/skills/session-close/` | Session-close skill: steps (`SKILL.md`) and log format (`log-template.md`) |
+| `logs/Reviews.md` | Reviews of each session by the Cowork reviewer. Read; don't edit |
+| `docs/Showcase.md` | Case-study material and the publication checklist, kept by the Cowork reviewer. Read; don't edit |
 | `pipeline/` | Extraction and tagging code |
 | `backend/` | Supabase database: schema, migrations, search functions |
 | `app/` | Next.js web app, including its API routes (crisis check, retrieval, bridging sentence) |

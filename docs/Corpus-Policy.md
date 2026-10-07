@@ -111,7 +111,7 @@ How the corpus becomes searchable. Steps 1–6 run once, offline; step 7 runs ev
 - Scale: 4.1M words after normalisation (7 Oct 2026). Spread over Plan Days 7–11.
 - **Token budget:** every run follows `CLAUDE.md` section 4.3. The pre-filter (step 2) is the biggest saving: text no model reads costs nothing.
 - **Calibration:** the Day 4 pilot measures how much of Shailesh's weekly limit a given number of words uses (a `/usage` reading before and after). The figure, as "% of weekly limit per 100,000 words", lives in `../STATUS.md` section 6 and is refined after every run.
-- **Model:** bulk extraction and tagging run in subagents on Sonnet. The Day 6 pilot runs the same chunks through Sonnet and Opus; Opus is used for bulk work only if its passages are clearly better.
+- **Model:** bulk extraction and tagging run in subagents on Opus 5.5 at medium effort (decided 7 Oct 2026). The pilot showed Sonnet and Opus cost the same per chunk; Opus picks more passages (86 vs 49 on the pilot), so tagging volume is higher.
 
 ### 7.2 At runtime
 

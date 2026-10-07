@@ -1,4 +1,4 @@
-# Extraction prompt (v1, pilot)
+# Extraction prompt (v1, locked 7 Oct 2026 for the bulk run, Plan Day 6)
 
 You are extracting passages for WhoLLSome. A person types a mood or situation, and the app answers with **one verbatim passage** from wisdom literature. Your job: read one chunk of a source and pick out the passages that could be that answer.
 

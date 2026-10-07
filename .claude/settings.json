@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(corpus/**)",
+      "Read(pipeline/**)",
+      "Edit(corpus/passages/bulk/extract/**)",
+      "Edit(corpus/passages/bulk/tags/**)",
+      "Write(corpus/passages/bulk/extract/**)",
+      "Write(corpus/passages/bulk/tags/**)",
+      "Bash(python3 pipeline/bulk.py:*)",
+      "Bash(caffeinate:*)",
+      "Bash(sleep:*)"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+# Regenerable or transient run files (python3 pipeline/bulk.py prep rebuilds chunks deterministically)
+chunks/
+tag-in/
+claims.json

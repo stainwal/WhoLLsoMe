@@ -104,9 +104,9 @@ Exit: accounts live, schema agreed, 70 test statements written.
 ### 5.2 Phase 1 — Corpus (Days 4–14, 11–21 Oct)
 
 - [x] **D4:** Normalise all 33 sources (Corpus-Policy section 7, step 1). Pilot extraction and verbatim check on one short, structured source (Dhammapada) and one dense one (a Vivekananda lecture). First heavy run: Claude walks you through the `/usage` readings and records the token calibration (CLAUDE.md section 4.3).
-- [ ] **D5:** You judge 30 pilot passages keep/cut; extraction rules adjusted.
-- [ ] **D6:** Pilot tagging + both harm passes; the same chunks run through Sonnet and Opus. [DECISION] Model for bulk work. Rules locked.
-- [ ] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you review that day's flagged passages and the 5% sample.
+- [ ] **D5:** You judge pilot passages keep/cut; extraction rules adjusted. No longer gates the model choice: it now checks the quality of Opus picks and can run alongside the bulk run.
+- [x] **D6:** Pilot tagging with the safety field (Decision 3); the same chunks run through Sonnet and Opus. Model for bulk work: **Opus 5.5** (decided 7 Oct). Rules locked.
+- [x] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you scan that day's cut list (Corpus-Policy section 6). Sources with open questions (Rumi headings, the Zitkala-Ša quoted report, *Way of Perfection*, *Brother Lawrence*) run last.
 - [ ] **D12–13:** Deduplicate, check consistency, corpus statistics by source and theme.
 - [ ] **D14:** Corpus freeze v1. `logs/Phase-1-Report.md`. [DECISION] Accept, or extend by up to 3 days.
 
@@ -135,13 +135,14 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 
 - [ ] **D30–31:** Fix what testers found.
 - [ ] **D32:** Final eval run on the deployed system; `logs/Launch-Report.md`. [DECISION] Go / no-go.
-- [ ] **D33:** Public launch: LinkedIn post built on the eval results, share with your network.
+- [ ] **D33:** Public launch: LinkedIn post built on the eval results, linking a case-study page (`docs/Showcase.md`); share with your network.
 
 ### 5.6 After launch
 
 1. Android: [DECISION] wrap the website as an Android app (fastest) or build a React Native app that reuses the API (more native). Then register Google Play Console ($25), recruit 15–20 closed testers from web users, run the 14-day closed test. Live around early December (estimate).
 2. Grow the corpus server-side (Phase 2 sources) without app releases.
 3. iOS after Android.
+4. Publication prep: a clean public repo with fresh history, a public README and code licence, and every item on the `docs/Showcase.md` checklist cleared before anything is made public.
 
 ## 6. Risks
 
