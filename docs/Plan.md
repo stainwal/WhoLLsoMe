@@ -96,14 +96,14 @@ An Evals page on the site: one row per setup with hit@3 (held-out), crisis resul
 ### 5.1 Phase 0 — Setup (Days 1–3, 8–10 Oct)
 
 - [x] **D1:** Open Claude Code in `Version1_QuickLaunch`. Git repo + private GitHub repo. Accounts: Supabase (new); Vercel (existing). Claude checks free-tier limits. (Offline corpus work runs on your Claude subscription; the paid API accounts wait until they're needed, D15 and D20.)
-- [ ] **D2:** [DECISION] Passage and tag schema; per-source cap for the GRAY Sivananda Gita. Claude proposes, you choose.
+- [x] **D2:** [DECISION] Passage and tag schema; per-source cap for the GRAY Sivananda Gita. Claude proposes, you choose.
 - [ ] **D3:** Write the test sets (section 4.1). [DECISION] Gate thresholds (section 5.3).
 
 Exit: accounts live, schema agreed, 70 test statements written.
 
 ### 5.2 Phase 1 — Corpus (Days 4–14, 11–21 Oct)
 
-- [ ] **D4:** Normalise all 33 sources (Corpus-Policy section 7, step 1). Pilot extraction and verbatim check on one short, structured source (Dhammapada) and one dense one (a Vivekananda lecture). First heavy run: Claude walks you through the `/usage` readings and records the token calibration (CLAUDE.md section 4.3).
+- [x] **D4:** Normalise all 33 sources (Corpus-Policy section 7, step 1). Pilot extraction and verbatim check on one short, structured source (Dhammapada) and one dense one (a Vivekananda lecture). First heavy run: Claude walks you through the `/usage` readings and records the token calibration (CLAUDE.md section 4.3).
 - [ ] **D5:** You judge 30 pilot passages keep/cut; extraction rules adjusted.
 - [ ] **D6:** Pilot tagging + both harm passes; the same chunks run through Sonnet and Opus. [DECISION] Model for bulk work. Rules locked.
 - [ ] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you review that day's flagged passages and the 5% sample.

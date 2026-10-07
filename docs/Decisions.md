@@ -6,6 +6,16 @@ Newest first. **Decided** = Shailesh's call. **Proposed** = recommended, not yet
 
 | Status | Decision | Why | Supersedes |
 | --- | --- | --- | --- |
+| Decided | **Tag schema: option C**, fixed lists plus up to 3 free keywords; fine tags rolled up to families (D2, 1) | Consistent across 33 sources; keywords catch nuance and help hybrid search | Free-form tags |
+| Decided | **Feelings axis added** (36 tags), meaning the feeling a reader **arrives with** (D2, 1b; Decision 4) | Users type feelings; "arrives with" removed opposite-pole confusion in the pilot (positive tags 17% → 4%) | — |
+| Decided | **Faith framing field** (secular / spiritual / devotional), used for ranking only (D2, 1c) | A secular reader shouldn't get a prayer first; Pew 2023: about 21% of US adults neither religious nor spiritual | — |
+| Decided | **Taxonomy v2 approved**: 36 feelings, 37 themes (incl. growth and practice), 57 situations, 9 tones, grounded in ICD-10 Z codes, DSM-5, LTE, Holmes–Rahe, Crisis Text Line, Anthropic support study, VIA, Common Wisdom Model, Social Support Behavior Code | Credible external grounding; `pipeline/prompts/taxonomy.md` | Draft lists |
+| Decided | **Extraction keeps spiritual teaching** a reader outside the tradition can follow (D2, 1d) | Old "skip doctrine" rule would have gutted the Upanishads, Vivekananda, Teresa | Corpus-Policy 4.3 wording |
+| Decided | **Sivananda Gita treated like any other source**, no cap; Shailesh handles its licensing (D2, 2) | Shailesh's call | Proposed 75-passage cap |
+| Decided | **Both Gita translations independent**; no one-voice-per-verse rule; duplicates only via the general search-time filter | Not worth extra logic or tokens | Corpus-Policy 4.6 |
+| Decided | **Keep *Way of Perfection* (Peers) and *Brother Lawrence* (Lightheart 2002)** despite both being copyrighted editions | Shailesh has a plan for both | Manifest's wrong attributions |
+| Decided | **Source on/off switch** in `pipeline/sources.toml`; switching off skips every pipeline step and the app, deletes nothing | Lets any source be withdrawn later in one edit | — |
+| Decided | **Harm review narrowed (Decision 3, option B, amended)**: a safety field in tagging; cut endorses-suicide (incl. methods), sexual violence, group hatred; death-welcoming kept but never for distress; no separate harm pass, keyword pass or 5% sample | Broad harshness filtering would strip the corpus; serious cases still caught; WHO 2023 safe-messaging guidance | Corpus-Policy section 6 (three-layer review) |
 | Decided | **Web first**; Android after the web launch, then iOS | Live with real users weeks sooner; no store review or 14-day closed test on the critical path; a link is an easier resume demo | iOS-first (Aug), Android-first (earlier on 7 Oct) |
 | Decided | **Full corpus in v1:** all 33 sources | "Make sure it actually works" matters more than speed | 8-source v1 cut |
 | Decided | Drop duplicates: WEB Bible over KJV; Arnold + Sivananda Gita, not Besant-Das | Near-identical passages would compete in search | — |
@@ -14,7 +24,7 @@ Newest first. **Decided** = Shailesh's call. **Proposed** = recommended, not yet
 | Decided | `Version1_QuickLaunch/` is the working home; plan lives in `docs/Plan.md` | One source of truth Claude Code reads every session | Plan doc in Claude Docs (now stale) |
 | Proposed | Study list is no longer a gate; learning happens through the build and evals | Saves ~6 hours before anything ships | "Theory first" step |
 | Proposed | Text box + keyboard voice typing instead of speech-to-text code | Free, no code, works on every phone | — |
-| Proposed | Risk-based harm review (auto-flags + second Claude pass + 5% sample) | Full manual review of thousands of passages won't fit 1 hour/day | "I curate, you edit" on every passage |
+| Superseded | Risk-based harm review (auto-flags + second Claude pass + 5% sample) — replaced 7 Oct by Decision 3 | Full manual review of thousands of passages won't fit 1 hour/day | "I curate, you edit" on every passage |
 | Decided | **Heavy runs under a token budget**, driven by Claude (`CLAUDE.md` section 4.3) | Protects the plan allowance he shares with other daily work | — |
 | Decided | Project history moved to `../../Version0/`; root holds only Version0 and Version1_QuickLaunch | Clean working home | — |
 | Decided | Results shown **one passage at a time**, with Next / Back through the **10 best fits** in ranked order | Lets the user find the passage that lands without overwhelming them | Single answer + "show another" |

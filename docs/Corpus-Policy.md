@@ -8,12 +8,12 @@ The ancient text is never the copyright problem; the translation is.
 
 - **Tier A (default):** US public domain, or a verified open licence (CC0, CC-BY).
 - **Tier B (stopgap):** a modern translation that is freely circulated, has a named translator and carries no stated restriction. Allowed only when no adequate Tier A option exists. Marked **GRAY**, credited in-app, excerpts kept modest, replaced before any real monetisation.
-- **Never:** anonymous or unattributed translations; anything under an NC or ND licence; commercially active famous translations (Mitchell, Barks, Peers, Easwaran, Hays, Blakney).
+- **Never:** anonymous or unattributed translations; anything under an NC or ND licence; commercially active famous translations (Mitchell, Barks, Peers, Easwaran, Hays, Blakney). Exception: *Way of Perfection* in the Peers translation, kept on Shailesh's call (7 Oct 2026, `Decisions.md`).
 - **Rejected sources, don't re-propose:** Carl Jung, Zen classics, *Black Elk Speaks*, the "Chief Seattle speech", the "Prayer of St Francis", *Man's Search for Meaning*, *Desiderata*, Bahá'í writings, the nitnemsahib.com Japji.
 
 ## 2. Sources in v1 (33)
 
-All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral is a JSON tree, so its count includes markup.
+All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral is a JSON tree, so its count includes markup. **Which sources are in use is set in `../pipeline/sources.toml`**: switching one off there removes it from every pipeline step and from the app, without deleting anything.
 
 | Folder | Tradition | Work | Translator | Licence | Words |
 | --- | --- | --- | --- | --- | --- |
@@ -35,10 +35,10 @@ All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral 
 | pirkei-avot | Judaism | Pirkei Avot | Joshua Kulp (Mishnah Yomit) | **CC-BY** | 9,117 |
 | bible-web | Christianity / Judaism | World English Bible (complete) | WEB | Public domain | 991,344 |
 | imitation-of-christ-benham | Christianity | The Imitation of Christ | William Benham, 1874 | US PD | 63,729 |
-| brother-lawrence | Christianity | The Practice of the Presence of God | PD translation | US PD | 14,109 |
+| brother-lawrence | Christianity | The Practice of the Presence of God | Lightheart edition, 2002 | **Copyrighted**; kept on Shailesh's call (7 Oct 2026) | 14,109 |
 | augustine-confessions-pusey | Christianity | Confessions | Edward Pusey, 1838 | US PD | 114,873 |
 | teresa-interior-castle | Christianity | Interior Castle | Benedictines of Stanbrook, 1921 | US PD | 90,288 |
-| teresa-way-of-perfection | Christianity | Way of Perfection | Benedictines of Stanbrook, 1911 | US PD | 83,771 |
+| teresa-way-of-perfection | Christianity | Way of Perfection | E. Allison Peers (Image Books ed., 1964) | **Copyrighted**; kept on Shailesh's call (7 Oct 2026) | 83,771 |
 | eckhart-sermons-field | Christianity | Sermons | Claud Field, 1909 | US PD | 12,871 |
 | rumi-masnavi-whinfield | Sufism | Masnavi (abridged, 6 books) | E.H. Whinfield, 1887 | US PD | 104,350 |
 | prophet-gibran | Sufism-adjacent | The Prophet | Kahlil Gibran (original English) | US PD | 15,725 |
@@ -71,25 +71,24 @@ A passage earns a place only if it stands alone and speaks to a human situation.
 
 1. **Self-contained:** makes sense with no surrounding context; no dangling "he", "this" or "therefore".
 2. **Length:** roughly 1–8 sentences. Never cut mid-sentence; never alter wording.
-3. **Speaks to a situation:** grief, failure, anger, fear, loss, love, work, purpose, change, loneliness and the like. Narrative, genealogy, law codes, ritual detail and technical argument are skipped.
+3. **Speaks to a situation:** grief, failure, anger, fear, loss, love, work, purpose, change, loneliness and the like. Spiritual seeking counts too: teaching on practice, the path, the true self and liberation qualifies when a reader outside the tradition could follow it (decided 7 Oct 2026). Narrative, genealogy, law codes, ritual detail, technical argument and lines needing specialist vocabulary are skipped.
 4. **Selective by design:** dense sources (Aristotle, Augustine, the Nikayas, most of the Bible) will yield a small fraction of their text. That's expected.
 5. **Location kept:** every passage records its source folder and exact location so it can be traced back.
-6. **One Gita voice per verse:** when Arnold and Sivananda cover the same verse, keep the clearer one and record the other as an alternate.
+6. **Gita translations are independent sources.** Arnold and Sivananda are extracted separately, with no Gita-specific rule. Near-identical results are removed only by the general search-time filter (decided 7 Oct 2026).
 7. **Verbatim check:** a script matches every extracted passage against the normalised source text. Anything that isn't an exact match is rejected and logged, never fixed by hand. This guarantees the model never paraphrases a source.
 
 ## 5. Tagging
 
-Each passage gets: themes, situations it helps with, emotional tone, a one-line "when this helps" description, and a harm flag (section 6). The exact schema is set on Plan Day 2 ([DECISION]).
+Each passage gets fine-grained tags on six axes: feelings (the feeling a reader arrives with), themes, situations, tone, faith framing and safety, plus up to 3 free keywords and a one-line "when this helps". Tags and definitions are in `../pipeline/prompts/taxonomy.md`, grounded in clinical, psychological and support-service sources (decided 7 Oct 2026).
 
 ## 6. Harm review
 
-Shailesh can't read thousands of passages, so review is risk-based.
+Decided 7 Oct 2026: review is limited to the most serious cases. Harshness, blame, stern rebukes and talk of sin or death are **not** grounds for hiding a passage.
 
-1. **Auto-flag** any passage touching death, suicide, self-harm, violence, war, killing, sin, damnation, punishment, or contempt for a group of people. Expect flags in Schopenhauer, the Gita's battlefield setting, the Bible and Plato's *Phaedo*.
-2. **Second pass:** a separate Claude review reads every passage as a vulnerable reader would and flags anything that could land as harmful out of context.
-3. **Shailesh reviews** every flagged passage plus a 5% random sample of unflagged ones, deciding keep, cut or keep-but-never-for-distress.
-4. **A passage that could read as endorsing self-harm is cut**, regardless of literary merit.
-5. If the random sample turns up a problem the flags missed, the flag rules are tightened and the batch is re-flagged.
+1. **Safety is one field filled in during tagging** (taxonomy section 7). There is no separate harm pass, keyword pass or random sample.
+2. **Cut automatically:** passages that endorse suicide or self-harm (including "the door is open" images and descriptions of methods, following the WHO's 2023 safe-messaging guidance), sexual violence, and hatred of a group.
+3. **Kept but never shown to someone in distress:** passages that present death as a release without recommending it.
+4. **Cuts are logged with the tagger's reason, not deleted.** Shailesh can scan the cut list after each batch and restore anything wrongly cut.
 
 ## 7. Pipeline
 
@@ -102,14 +101,14 @@ How the corpus becomes searchable. Steps 1–6 run once, offline; step 7 runs ev
 | 3. Extract | Claude reads chunks of ~2,000–3,000 words and returns qualifying passages verbatim with locations (section 4) | Claude Code, parallel by source | Subscription tokens: the heavy step |
 | 4. Verbatim check | Exact match against the normalised source (section 4, rule 7) | Script | Free |
 | 5. Tag | Themes, situations, tone, "when this helps" line, harm flag (section 5) | Claude Code | Subscription tokens |
-| 6. Harm review | Second Claude pass, then Shailesh on flags + 5% sample (section 6) | Claude Code, then Shailesh | His review time |
+| 6. Safety check | Done inside tagging (step 5); cuts automatic and logged (section 6) | Claude Code | Subscription tokens (negligible) |
 | 7. Embed | Each passage (or its "when this helps" line, whichever wins in evals) turned into a vector and stored in Supabase pgvector | Embeddings API | Cents for the whole corpus |
 
 ### 7.1 Running it
 
 - One output file per source in `../corpus/passages/`, so sources can be rerun independently.
 - Progress is saved after every chunk; an interruption or usage limit resumes where it stopped.
-- Scale: ~5M words, roughly 6–7M tokens to read once (estimate). Spread over Plan Days 7–11.
+- Scale: 4.1M words after normalisation (7 Oct 2026). Spread over Plan Days 7–11.
 - **Token budget:** every run follows `CLAUDE.md` section 4.3. The pre-filter (step 2) is the biggest saving: text no model reads costs nothing.
 - **Calibration:** the Day 4 pilot measures how much of Shailesh's weekly limit a given number of words uses (a `/usage` reading before and after). The figure, as "% of weekly limit per 100,000 words", lives in `../STATUS.md` section 6 and is refined after every run.
 - **Model:** bulk extraction and tagging run in subagents on Sonnet. The Day 6 pilot runs the same chunks through Sonnet and Opus; Opus is used for bulk work only if its passages are clearly better.

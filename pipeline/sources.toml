@@ -1,0 +1,111 @@
+# Which sources the system uses. Edit `active` to switch a source on or off.
+#
+#   active = true    the source is normalised, extracted, tagged and can be shown in the app
+#   active = false   the source is skipped by every pipeline step, and its passages are
+#                    left out when the database is loaded and at search time
+#
+# Turning a source off never deletes anything: its files and already-extracted
+# passages stay on disk, so turning it back on needs no re-run of finished work.
+# `note` is for humans only.
+
+[sources.american-indian-stories-zitkala]
+active = true
+
+[sources.aristotle-ethics]
+active = true
+
+[sources.as-a-man-thinketh-allen]
+active = true
+
+[sources.augustine-confessions-pusey]
+active = true
+
+[sources.bible-web]
+active = true
+
+[sources.brother-lawrence]
+active = true
+note = "File is the 2002 Lightheart edition (copyrighted), not a PD translation. Kept on Shailesh's call, 7 Oct 2026."
+
+[sources.chuang-tzu-giles]
+active = true
+
+[sources.eckhart-sermons-field]
+active = true
+
+[sources.emerson-essays]
+active = true
+
+[sources.epictetus-discourses-long]
+active = true
+
+[sources.epictetus-enchiridion]
+active = true
+
+[sources.gita-arnold-song-celestial]
+active = true
+
+[sources.gita-sivananda]
+active = true
+note = "Tier B GRAY. Treated like any other source, no cap (Shailesh, 7 Oct 2026)."
+
+[sources.imitation-of-christ-benham]
+active = true
+
+[sources.japji-macauliffe]
+active = true
+
+[sources.light-of-asia-arnold]
+active = true
+
+[sources.meditations-long]
+active = true
+
+[sources.pirkei-avot]
+active = true
+
+[sources.plato-apology-jowett]
+active = true
+
+[sources.plato-phaedo-jowett]
+active = true
+
+[sources.prophet-gibran]
+active = true
+
+[sources.rumi-masnavi-whinfield]
+active = true
+
+[sources.schopenhauer-counsels-maxims]
+active = true
+
+[sources.schopenhauer-wisdom-of-life]
+active = true
+
+[sources.seneca-letters-gummere]
+active = true
+
+[sources.soul-of-the-indian-eastman]
+active = true
+
+[sources.suttacentral-sujato]
+active = true
+
+[sources.tao-te-ching-legge]
+active = true
+
+[sources.teresa-interior-castle]
+active = true
+
+[sources.teresa-way-of-perfection]
+active = true
+note = "File is the E. Allison Peers translation (1964), not Stanbrook 1911. Kept on Shailesh's call, 7 Oct 2026."
+
+[sources.upanishads-paramananda]
+active = true
+
+[sources.vivekananda]
+active = true
+
+[sources.walden-thoreau]
+active = true

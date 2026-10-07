@@ -1,0 +1,711 @@
+{
+ "tags": [
+  {
+   "id": "pp001",
+   "feelings": [
+    "anxiety",
+    "guilt"
+   ]
+  },
+  {
+   "id": "pp002",
+   "feelings": [
+    "resentment",
+    "anger"
+   ]
+  },
+  {
+   "id": "pp003",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp004",
+   "feelings": [
+    "frustration",
+    "loneliness"
+   ]
+  },
+  {
+   "id": "pp005",
+   "feelings": [
+    "overwhelm",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp006",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp007",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp008",
+   "feelings": [
+    "dread",
+    "fear"
+   ]
+  },
+  {
+   "id": "pp009",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp010",
+   "feelings": [
+    "resentment",
+    "anger"
+   ]
+  },
+  {
+   "id": "pp011",
+   "feelings": [
+    "shame",
+    "despair"
+   ]
+  },
+  {
+   "id": "pp012",
+   "feelings": [
+    "loneliness",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp013",
+   "feelings": [
+    "craving",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp014",
+   "feelings": [
+    "insecurity",
+    "shame"
+   ]
+  },
+  {
+   "id": "pp015",
+   "feelings": [
+    "guilt",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp016",
+   "feelings": [
+    "guilt",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp017",
+   "feelings": [
+    "shame",
+    "insecurity"
+   ]
+  },
+  {
+   "id": "pp018",
+   "feelings": [
+    "insecurity",
+    "embarrassment"
+   ]
+  },
+  {
+   "id": "pp019",
+   "feelings": [
+    "sorrow",
+    "craving"
+   ]
+  },
+  {
+   "id": "pp020",
+   "feelings": [
+    "craving",
+    "envy"
+   ]
+  },
+  {
+   "id": "pp021",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp022",
+   "feelings": [
+    "anger",
+    "restlessness"
+   ]
+  },
+  {
+   "id": "pp023",
+   "feelings": [
+    "exhaustion",
+    "discouragement"
+   ]
+  },
+  {
+   "id": "pp024",
+   "feelings": [
+    "guilt",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp025",
+   "feelings": [
+    "discouragement",
+    "guilt"
+   ]
+  },
+  {
+   "id": "pp026",
+   "feelings": [
+    "guilt",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp027",
+   "feelings": [
+    "discouragement",
+    "insecurity"
+   ]
+  },
+  {
+   "id": "pp028",
+   "feelings": [
+    "anger",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp029",
+   "feelings": [
+    "anger",
+    "restlessness"
+   ]
+  },
+  {
+   "id": "pp030",
+   "feelings": [
+    "emptiness",
+    "despair"
+   ]
+  },
+  {
+   "id": "pp031",
+   "feelings": [
+    "dread",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp032",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ]
+  },
+  {
+   "id": "pp033",
+   "feelings": [
+    "regret",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp034",
+   "feelings": [
+    "shame",
+    "insecurity"
+   ]
+  },
+  {
+   "id": "pp035",
+   "feelings": [
+    "frustration",
+    "discouragement"
+   ]
+  },
+  {
+   "id": "pp036",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ]
+  },
+  {
+   "id": "pp037",
+   "feelings": [
+    "discouragement",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp038",
+   "feelings": [
+    "guilt",
+    "shame"
+   ]
+  },
+  {
+   "id": "pp039",
+   "feelings": [
+    "guilt",
+    "lostness"
+   ]
+  },
+  {
+   "id": "pp040",
+   "feelings": [
+    "exhaustion",
+    "emptiness"
+   ]
+  },
+  {
+   "id": "pp041",
+   "feelings": [
+    "guilt",
+    "shame"
+   ]
+  },
+  {
+   "id": "pp042",
+   "feelings": [
+    "craving",
+    "emptiness"
+   ]
+  },
+  {
+   "id": "pp043",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp044",
+   "feelings": [
+    "envy",
+    "craving"
+   ]
+  },
+  {
+   "id": "pp045",
+   "feelings": [
+    "resentment",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp046",
+   "feelings": [
+    "anxiety",
+    "craving"
+   ]
+  },
+  {
+   "id": "pp047",
+   "feelings": [
+    "sorrow",
+    "longing"
+   ]
+  },
+  {
+   "id": "pp048",
+   "feelings": [
+    "grief",
+    "fear"
+   ]
+  },
+  {
+   "id": "pp049",
+   "feelings": [
+    "craving",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp050",
+   "feelings": [
+    "anger",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp051",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp052",
+   "feelings": [
+    "embarrassment",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp053",
+   "feelings": [
+    "insecurity",
+    "embarrassment"
+   ]
+  },
+  {
+   "id": "pp054",
+   "feelings": [
+    "guilt",
+    "shame"
+   ]
+  },
+  {
+   "id": "pp055",
+   "feelings": [
+    "shame",
+    "guilt"
+   ]
+  },
+  {
+   "id": "pp056",
+   "feelings": [
+    "craving",
+    "anger"
+   ]
+  },
+  {
+   "id": "pp057",
+   "feelings": [
+    "resentment",
+    "anger"
+   ]
+  },
+  {
+   "id": "pp058",
+   "feelings": [
+    "bitterness",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp059",
+   "feelings": [
+    "anger",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp060",
+   "feelings": [
+    "insecurity",
+    "anxiety"
+   ]
+  },
+  {
+   "id": "pp061",
+   "feelings": [
+    "insecurity",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp062",
+   "feelings": [
+    "discouragement",
+    "lostness"
+   ]
+  },
+  {
+   "id": "pp063",
+   "feelings": [
+    "sorrow",
+    "craving"
+   ]
+  },
+  {
+   "id": "pp064",
+   "feelings": [
+    "exhaustion",
+    "discouragement"
+   ]
+  },
+  {
+   "id": "pp065",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ]
+  },
+  {
+   "id": "pp066",
+   "feelings": [
+    "craving",
+    "contentment"
+   ]
+  },
+  {
+   "id": "pp067",
+   "feelings": [
+    "resentment",
+    "envy"
+   ]
+  },
+  {
+   "id": "pp068",
+   "feelings": [
+    "insecurity",
+    "shame"
+   ]
+  },
+  {
+   "id": "pp069",
+   "feelings": [
+    "loneliness",
+    "peace"
+   ]
+  },
+  {
+   "id": "pp070",
+   "feelings": [
+    "guilt",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp071",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp072",
+   "feelings": [
+    "restlessness",
+    "lostness"
+   ]
+  },
+  {
+   "id": "pp073",
+   "feelings": [
+    "despair",
+    "discouragement"
+   ]
+  },
+  {
+   "id": "pp074",
+   "feelings": [
+    "loneliness",
+    "longing"
+   ]
+  },
+  {
+   "id": "pp075",
+   "feelings": [
+    "loneliness",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp076",
+   "feelings": [
+    "gratitude",
+    "contentment"
+   ]
+  },
+  {
+   "id": "pp077",
+   "feelings": [
+    "craving",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp078",
+   "feelings": [
+    "sorrow",
+    "craving"
+   ]
+  },
+  {
+   "id": "pp079",
+   "feelings": [
+    "longing",
+    "regret"
+   ]
+  },
+  {
+   "id": "pp080",
+   "feelings": [
+    "craving",
+    "envy"
+   ]
+  },
+  {
+   "id": "pp081",
+   "feelings": [
+    "lostness",
+    "loneliness"
+   ]
+  },
+  {
+   "id": "pp082",
+   "feelings": [
+    "exhaustion",
+    "restlessness"
+   ]
+  },
+  {
+   "id": "pp083",
+   "feelings": [
+    "insecurity",
+    "discouragement"
+   ]
+  },
+  {
+   "id": "pp084",
+   "feelings": [
+    "craving",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp085",
+   "feelings": [
+    "insecurity",
+    "restlessness"
+   ]
+  },
+  {
+   "id": "pp086",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp087",
+   "feelings": [
+    "anger",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp088",
+   "feelings": [
+    "anxiety",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp089",
+   "feelings": [
+    "sorrow",
+    "despair"
+   ]
+  },
+  {
+   "id": "pp090",
+   "feelings": [
+    "sorrow",
+    "longing"
+   ]
+  },
+  {
+   "id": "pp091",
+   "feelings": [
+    "emptiness",
+    "loneliness"
+   ]
+  },
+  {
+   "id": "pp092",
+   "feelings": [
+    "emptiness",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp093",
+   "feelings": [
+    "longing",
+    "disappointment"
+   ]
+  },
+  {
+   "id": "pp094",
+   "feelings": [
+    "craving",
+    "sorrow"
+   ]
+  },
+  {
+   "id": "pp095",
+   "feelings": [
+    "disappointment",
+    "resentment"
+   ]
+  },
+  {
+   "id": "pp096",
+   "feelings": [
+    "discouragement",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp097",
+   "feelings": [
+    "despair",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp098",
+   "feelings": [
+    "discouragement",
+    "bitterness"
+   ]
+  },
+  {
+   "id": "pp099",
+   "feelings": [
+    "anger",
+    "frustration"
+   ]
+  },
+  {
+   "id": "pp100",
+   "feelings": [
+    "resentment",
+    "anger"
+   ]
+  },
+  {
+   "id": "pp101",
+   "feelings": [
+    "overwhelm",
+    "lostness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "chunks": [
+  {
+   "id": "dhp-001",
+   "source": "suttacentral-sujato",
+   "work": "Dhammapada",
+   "first_uid": "suttacentral-sujato:000001",
+   "last_uid": "suttacentral-sujato:000114",
+   "units": 114,
+   "words": 2477
+  },
+  {
+   "id": "dhp-002",
+   "source": "suttacentral-sujato",
+   "work": "Dhammapada",
+   "first_uid": "suttacentral-sujato:000115",
+   "last_uid": "suttacentral-sujato:000230",
+   "units": 116,
+   "words": 2489
+  },
+  {
+   "id": "dhp-003",
+   "source": "suttacentral-sujato",
+   "work": "Dhammapada",
+   "first_uid": "suttacentral-sujato:000231",
+   "last_uid": "suttacentral-sujato:000346",
+   "units": 116,
+   "words": 2497
+  },
+  {
+   "id": "dhp-004",
+   "source": "suttacentral-sujato",
+   "work": "Dhammapada",
+   "first_uid": "suttacentral-sujato:000347",
+   "last_uid": "suttacentral-sujato:000449",
+   "units": 103,
+   "words": 2509
+  },
+  {
+   "id": "viv-work-001",
+   "source": "vivekananda",
+   "work": "Lectures (Complete Works, Vol. II)",
+   "first_uid": "vivekananda:001932",
+   "last_uid": "vivekananda:001954",
+   "units": 23,
+   "words": 3031
+  }
+ ]
+}
