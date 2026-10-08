@@ -20,7 +20,7 @@
 
 ## 2. Next session
 
-1. **Shailesh:** decide on the two "argues against suicide" passages (section 3 below). Cuts stay cut (decided 8 Oct).
+1. Decided 8 Oct: cuts stay cut; MN 144 and Walden passages hidden from distress; `<j>` stripped for display.
 2. **Day 3:** Shailesh writes the test sets (Plan section 4.1):
    - 40 golden statements
    - 20 held-out statements
@@ -28,7 +28,6 @@
    - 5 crisis look-alikes
 3. **Day 5:** blind keep/cut review, now on a 40-passage sample from the full corpus to measure Opus precision.
 4. **Then Days 12–13:**
-   - strip leftover `<j>` markup from kept passages for display (no re-extraction);
    - deduplicate;
    - corpus statistics by source and theme.
 
@@ -37,7 +36,6 @@
 | Day | Decision |
 | --- | --- |
 | 3 | Gate thresholds (proposed bar in `docs/Plan.md` section 5.3) |
-| 7 | Two passages that argue against suicide (MN 144, Walden): show, or hide from distress (recommend hide from distress) |
 | 27 | Name, look, domain |
 
 ## 4. Eval results

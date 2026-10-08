@@ -279,6 +279,9 @@ def merge():
                            else "no-distress" if safety == "welcomes-death" else "keep")
         else:
             p["status"] = "untagged"
+        # SuttaCentral layout markup (<j> = verse-line indent) is apparatus, not the translator's words:
+        # `text` stays exactly as matched against the source; the app shows `display_text`.
+        p["display_text"] = p["text"].replace("<j>", "")
         if p["pid"] in overrides:
             p["status"] = overrides[p["pid"]]["status"]
             p["override"] = overrides[p["pid"]]["reason"]
