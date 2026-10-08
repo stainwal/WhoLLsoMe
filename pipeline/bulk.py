@@ -30,6 +30,8 @@ from compare import vocab, LIMITS  # noqa: E402
 RUN = ROOT / "corpus" / "passages" / "bulk"
 CHUNKS, EXTRACT, TAG_IN, TAGS = RUN / "chunks", RUN / "extract", RUN / "tag-in", RUN / "tags"
 MANIFEST, CLAIMS = RUN / "manifest.json", RUN / "claims.json"
+# Shailesh's per-passage calls, applied after the safety field: {pid: {"status": ..., "reason": ...}}
+OVERRIDES = RUN / "overrides.json"
 PILOT = ROOT / "corpus" / "passages" / "pilot"
 CLAIM_TTL = 90 * 60
 WORDS = 2500
@@ -261,6 +263,7 @@ def merge():
             print(f"BAD TAG FILE {f.name}: {e}")
     problems = Counter()
     per_src = defaultdict(list)
+    overrides = jload(OVERRIDES, {})
     for p in checked_passages():
         t = tags.get(p["pid"])
         if t:
@@ -276,6 +279,9 @@ def merge():
                            else "no-distress" if safety == "welcomes-death" else "keep")
         else:
             p["status"] = "untagged"
+        if p["pid"] in overrides:
+            p["status"] = overrides[p["pid"]]["status"]
+            p["override"] = overrides[p["pid"]]["reason"]
         per_src[p["source"]].append(p)
     for src, ps in per_src.items():
         with (ROOT / "corpus" / "passages" / f"{src}.jsonl").open("w", encoding="utf-8") as fo:
@@ -299,8 +305,8 @@ def merge():
             lines += ["| Id | Location | Safety | Reason | Opening words |", "| --- | --- | --- | --- | --- |"]
             for p in flagged:
                 opening = " ".join(p["text"].split()[:14]).replace("|", "/")
-                reason = (p["tags"].get("safety_reason") or "").replace("|", "/")
-                lines.append(f"| {p['pid']} | {p['display']} | {p['tags']['safety']} | {reason} | {opening}… |")
+                reason = (p.get("override") or p["tags"].get("safety_reason") or "").replace("|", "/")
+                lines.append(f"| {p['pid']} | {p['display']} | {p['tags']['safety'] if 'override' not in p else 'decided: ' + p['status']} | {reason} | {opening}… |")
             lines.append("")
     (RUN / "cuts.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"merged {sum(map(len, per_src.values()))} passages over {len(per_src)} sources; "

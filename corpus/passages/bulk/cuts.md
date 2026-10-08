@@ -20,12 +20,13 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 3. suttacentral-sujato
 
-750 tagged; 1 cut; 2 kept but hidden from distress.
+750 tagged; 1 cut; 3 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
 | an-122-p01 | AN 8.27, Powers (1st) | group-hatred | Read alone, the line 'Anger is the power of ladies' presents a demeaning stereotype of women. | Crying is the power of babies. Anger is the power of ladies. Weapons are… |
 | dn-032-p02 | DN 16, The Great Discourse on the Buddha’s Extinguishment | welcomes-death | Read alone, 'having given it up, I'll depart' presents letting go of life as a chosen, settled departure. | I’ve reached a ripe old age, and little of my life is left. Having… |
+| mn-123-p02 | MN 144, Advice to Channa | decided: no-distress | Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026) | “Please don’t commit suicide! Venerable Channa, keep going! We want you to keep going.… |
 | sn-140-p02 | SN 55.43, Overflowing Merit (3rd) | welcomes-death | Read alone, 'delighting in ending' and not trembling at Death can read as delighting in death itself. | “One who desires merit, grounded in the skillful, develops the path to realize freedom… |
 
 ## 4. bible-web
@@ -130,7 +131,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 21. walden-thoreau
 
-147 tagged; 0 cut; 0 kept but hidden from distress.
+147 tagged; 0 cut; 1 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| walden-thoreau-044-p03 | Walden, Conclusion | decided: no-distress | Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026) | Some are dinning in our ears that we Americans, and moderns generally, are intellectual… |
 
 ## 22. chuang-tzu-giles
 
