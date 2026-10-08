@@ -6,6 +6,7 @@ Newest first. **Decided** = Shailesh's call. **Proposed** = recommended, not yet
 
 | Status | Decision | Why | Supersedes |
 | --- | --- | --- | --- |
+| Decided | **Corpus stands as extracted; nothing cut is recovered** (8 Oct, after D7–11). The 16 safety-field cuts stay cut, including the three likely over-cuts. No re-run for the 7 verbatim rejects, the `<j>`-skipped SuttaCentral verses, or passages helpers left out at extraction | 5,029 passages is enough; recovering a handful is not worth the effort | Proposed restores and re-runs in `logs/D07.md` section 4 |
 | Decided | **Opus 5.5 for bulk extraction and tagging**, medium effort (D6) | Pilot cost indistinguishable from Sonnet; Opus the stronger model. Picks more passages (86 vs 49), so tagging volume and corpus size are higher | Sonnet default (proposed 7 Oct) |
 | Decided | **Tag schema: option C**, fixed lists plus up to 3 free keywords; fine tags rolled up to families (D2, 1) | Consistent across 33 sources; keywords catch nuance and help hybrid search | Free-form tags |
 | Decided | **Feelings axis added** (36 tags), meaning the feeling a reader **arrives with** (D2, 1b; Decision 4) | Users type feelings; "arrives with" removed opposite-pole confusion in the pilot (positive tags 17% → 4%) | — |

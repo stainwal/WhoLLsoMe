@@ -20,7 +20,7 @@
 
 ## 2. Next session
 
-1. **Shailesh:** scan the cut list in `logs/D07.md` section 2 and decide on the three likely over-cuts and the two "argues against suicide" passages (section 3 below).
+1. **Shailesh:** decide on the two "argues against suicide" passages (section 3 below). Cuts stay cut (decided 8 Oct).
 2. **Day 3:** Shailesh writes the test sets (Plan section 4.1):
    - 40 golden statements
    - 20 held-out statements
@@ -28,7 +28,7 @@
    - 5 crisis look-alikes
 3. **Day 5:** blind keep/cut review, now on a 40-passage sample from the full corpus to measure Opus precision.
 4. **Then Days 12–13:**
-   - fix the SuttaCentral `<j>` markup and re-extract the affected chunks;
+   - strip leftover `<j>` markup from kept passages for display (no re-extraction);
    - deduplicate;
    - corpus statistics by source and theme.
 
@@ -37,9 +37,7 @@
 | Day | Decision |
 | --- | --- |
 | 3 | Gate thresholds (proposed bar in `docs/Plan.md` section 5.3) |
-| 7 | Restore three likely over-cuts: 2 Maccabees 6:24, Rumi "annihilation", Zitkala-Ša racism passage (recommend restore) |
 | 7 | Two passages that argue against suicide (MN 144, Walden): show, or hide from distress (recommend hide from distress) |
-| 7 | Fix `<j>` markup and re-extract about 15 SuttaCentral chunks (recommend yes, before Day 14) |
 | 27 | Name, look, domain |
 
 ## 4. Eval results
@@ -61,7 +59,6 @@ Ideas raised but out of v1 scope. Add here; don't build.
 - Phase 2 sources (Dark Night/Lewis, Macauliffe selections, Epicurus, Curtis)
 - Other SuttaCentral Minor Collection books already on disk (Sutta Nipata, Udana, Itivuttaka, Theragatha, Therigatha, Jataka…), all CC0
 - Test whether a higher effort level changes extraction selectivity
-- Re-run the 3 early extraction packs where helpers filtered for safety at extraction (Meditations 007–014, As a Man Thinketh, Avot)
 - Pre-filtered Bible books (Leviticus, Numbers, 1 Chronicles; 73,189 words), not yet read
 
 ## 6. Token budget
