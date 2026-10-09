@@ -1,44 +1,39 @@
 # Status
 
-*Updated at the end of every session. Last update: Thu 8 Oct 2026, 01:20 IST (overnight session 3: Day 6 rules locked, Days 7–11 full corpus run).*
+*Updated at the end of every session. Last update: Fri 9 Oct 2026 (session 4: Days 3, 12–13 and 14; Day 5 sample drawn).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1, 2, 4, 6, 7–11. Still open: Day 3 (test sets) and Day 5 (blind keep/cut review). Days 7–11 finished about 5 days ahead of the plan dates.
+- **Plan days done:** 1, 2, 4, 6, 7–11, 12–13. Day 3 done except the gate-threshold decision. Day 5 sample drawn, review pending. Day 14 report written (`logs/Phase-1-Report.md`), freeze decision pending. Phase 1 reached 12 days ahead of the plan date.
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
+  - Day 3: both test sets in `evals/`: human (32 held-out, 5 crisis, 5 look-alikes) and agent (60 golden, 20 held-out, 8 crisis, 8 look-alikes).
   - Day 4: 33 sources normalised (4.18M words); extraction harness; pilot on Sonnet and Opus.
   - Day 6: pilot tagged on both models; model Opus 5.5 at medium effort; prompts locked (v1).
-  - Days 7–11 (`logs/D07.md`):
-    - all 33 sources extracted: 4,096,568 words, 1,720 chunks;
-    - 5,029 passages passed the verbatim check (7 rejected);
-    - all 5,029 tagged;
-    - 16 cut and 45 hidden from distress by the safety field;
-    - one file per source in `corpus/passages/`.
-- **Not started:** test sets, deduplication and corpus statistics, retrieval, app code.
+  - Days 7–11 (`logs/D07.md`): all 33 sources extracted and tagged; 5,029 passages, 99.86% verbatim; 16 cut, 47 hidden from distress.
+  - Days 12–13 (`logs/D12.md`): 84 duplicates marked, 18 near groups; display clean-ups; `corpus/passages/stats.md`. **4,929 passages can be shown.**
+- **Not started:** retrieval (Day 15 on), app code.
 
 ## 2. Next session
 
-1. Decided 8 Oct: cuts stay cut; MN 144 and Walden passages hidden from distress; `<j>` stripped for display.
-2. **Day 3, mostly done 9 Oct** (Plan section 4.1):
-   - Human set written: `../Test-Statements-Human.md` (32 held-out, 5 crisis, 5 look-alikes). Still to do: convert it to `evals/human-set.jsonl` in the same format as the agent set.
-   - Agent set compiled by the Cowork reviewer: `evals/agent-set.md` and `.jsonl` (60 golden, 20 held-out, 8 crisis, 8 look-alikes); sources in `evals/agent-set-provenance.md` (private).
-   - Still open: [DECISION] gate thresholds.
-3. **Day 5:** blind keep/cut review, now on a 40-passage sample from the full corpus to measure Opus precision.
-4. **Then Days 12–13:**
-   - deduplicate;
-   - corpus statistics by source and theme.
+1. **Shailesh first:** three decisions (section 3) and the Day 5 review: mark K or C on the 40 rows of `evals/keep-cut-sample.md`.
+2. Claude scores the review (precision = keeps / 40), turns any cuts into `overrides.json` entries, records the decisions.
+3. **Day 15:** [DECISION] embeddings option (hosted API vs free model); create the Supabase project tables; load the 4,929 shown passages; baseline embeddings. First paid-API step: a key with a hard spend cap.
 
 ## 3. Open decisions
 
-| Day | Decision |
-| --- | --- |
-| 3 | Gate thresholds (proposed bar in `docs/Plan.md` section 5.3) |
-| 27 | Name, look, domain |
+| Day | Decision | Where |
+| --- | --- | --- |
+| 3 | Gate thresholds: option A recommended (hit@3 ≥ 23 of 32; crisis 13 of 13; false crisis ≤ 1 per set; bridge ≥ 90%) | `logs/D12.md` section 4; `docs/Decisions.md` |
+| 5 | Keep/cut review of the 40-passage sample | `evals/keep-cut-sample.md` |
+| 14 | Corpus freeze v1: accept now (recommended) or extend up to 3 days | `logs/Phase-1-Report.md` section 6 |
+| 14 | Display rules widened (underscores, unmatched quotes, first letter): confirm or drop any | `logs/D12.md` section 3 |
+| 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Corpus after dedup (Days 12–13, `corpus/passages/stats.md`):** 5,029 extracted; 4,882 keep, 47 no-distress, 16 cut, 84 dup; 4,929 shown. Median 53 words. Secular 51%. All 37 themes used; "losing a pet" is the one situation with no passage.
 - **Full corpus run (Days 7–11, `logs/D07.md`):**
   - Verbatim check: 5,029 of 5,036 exact (99.86%); 7 rejected and logged.
   - Tag validity: 0 problems across 5,029 passages.
@@ -57,6 +52,8 @@ Ideas raised but out of v1 scope. Add here; don't build.
 - Other SuttaCentral Minor Collection books already on disk (Sutta Nipata, Udana, Itivuttaka, Theragatha, Therigatha, Jataka…), all CC0
 - Test whether a higher effort level changes extraction selectivity
 - Pre-filtered Bible books (Leviticus, Numbers, 1 Chronicles; 73,189 words), not yet read
+- A source for pet loss, breakup and partnership (corpus gap found on Day 13; Phase 2 sources)
+- Re-run of the `<j>`-skipped SuttaCentral chunks and the three early-filtered helper packs (declined 8 Oct; listed in case the freeze is extended)
 
 ## 6. Token budget
 

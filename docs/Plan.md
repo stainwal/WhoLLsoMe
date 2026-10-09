@@ -118,7 +118,7 @@ Exit: accounts live, schema agreed, 70 test statements written.
 - [ ] **D5:** You judge pilot passages keep/cut; extraction rules adjusted. No longer gates the model choice: it now checks the quality of Opus picks and can run alongside the bulk run.
 - [x] **D6:** Pilot tagging with the safety field (Decision 3); the same chunks run through Sonnet and Opus. Model for bulk work: **Opus 5.5** (decided 7 Oct). Rules locked.
 - [x] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you scan that day's cut list (Corpus-Policy section 6). Sources with open questions (Rumi headings, the Zitkala-Ša quoted report, *Way of Perfection*, *Brother Lawrence*) run last.
-- [ ] **D12–13:** Deduplicate, check consistency, corpus statistics by source and theme.
+- [x] **D12–13:** Deduplicate, check consistency, corpus statistics by source and theme.
 - [ ] **D14:** Corpus freeze v1. `logs/Phase-1-Report.md`. [DECISION] Accept, or extend by up to 3 days.
 
 Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.md`.
