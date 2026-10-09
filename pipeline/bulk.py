@@ -33,6 +33,8 @@ MANIFEST, CLAIMS = RUN / "manifest.json", RUN / "claims.json"
 # Shailesh's per-passage calls, applied after the safety field:
 #   {pid: {"status": ..., "reason": ...}} or {pid: {"display_text": ..., "reason": ...}}
 OVERRIDES = RUN / "overrides.json"
+# Written by pipeline/dedup.py: {pid: {"status": "dup", "dup_of": ..., "why": ...} or {"near_group": ...}}
+DUPLICATES = RUN / "duplicates.json"
 PILOT = ROOT / "corpus" / "passages" / "pilot"
 CLAIM_TTL = 90 * 60
 WORDS = 2500
@@ -252,6 +254,30 @@ def tagbatches(n, size):
         print("NO UNTAGGED PASSAGES")
 
 
+def display_text(text):
+    """What the app shows. Removes file apparatus, never a word of the translation:
+    SuttaCentral <j> verse indents; Gutenberg _italics_ underscores; a quotation mark whose
+    partner lies outside the passage; and a lower-case first letter after a cut at a colon."""
+    t = text.replace("<j>", "")
+    if "_" in t:
+        t = t.replace("_", "")
+    o, c = t.count("\u201c"), t.count("\u201d")
+    if o == c + 1 and t.startswith("\u201c"):
+        t = t[1:]
+    elif c == o + 1 and t.endswith("\u201d"):
+        t = t[:-1]
+    if t.count('"') % 2 == 1:
+        if t.startswith('"'):
+            t = t[1:]
+        elif t.endswith('"'):
+            t = t[:-1]
+    if t.startswith("\u2018") and t.count("\u2018") == 1 and t.count("\u2019") == 0:
+        t = t[1:]
+    if t[:1].islower():
+        t = t[0].upper() + t[1:]
+    return t
+
+
 def merge():
     """One file per source in corpus/passages/, plus the cut list for Shailesh to scan."""
     V = vocab()
@@ -265,6 +291,7 @@ def merge():
     problems = Counter()
     per_src = defaultdict(list)
     overrides = jload(OVERRIDES, {})
+    duplicates = jload(DUPLICATES, {})
     for p in checked_passages():
         t = tags.get(p["pid"])
         if t:
@@ -280,9 +307,9 @@ def merge():
                            else "no-distress" if safety == "welcomes-death" else "keep")
         else:
             p["status"] = "untagged"
-        # SuttaCentral layout markup (<j> = verse-line indent) is apparatus, not the translator's words:
-        # `text` stays exactly as matched against the source; the app shows `display_text`.
-        p["display_text"] = p["text"].replace("<j>", "")
+        # `text` stays exactly as matched against the source; the app shows `display_text`, which drops
+        # file apparatus that is not the translator's words (Decision 8 Oct 2026; extended 9 Oct):
+        p["display_text"] = display_text(p["text"])
         if p["pid"] in overrides:
             ov = overrides[p["pid"]]
             if "status" in ov:
@@ -291,6 +318,9 @@ def merge():
             if "display_text" in ov:
                 p["display_text"] = ov["display_text"]
             p["override"] = ov["reason"]
+        d = duplicates.get(p["pid"])
+        if d and p["status"] in ("keep", "no-distress"):   # a dup never resurrects a cut
+            p.update(d)
         per_src[p["source"]].append(p)
     for src, ps in per_src.items():
         with (ROOT / "corpus" / "passages" / f"{src}.jsonl").open("w", encoding="utf-8") as fo:

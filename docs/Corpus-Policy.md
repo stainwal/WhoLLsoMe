@@ -104,6 +104,8 @@ How the corpus becomes searchable. Steps 1–6 run once, offline; step 7 runs ev
 | 6. Safety check | Done inside tagging (step 5); cuts automatic and logged (section 6) | Claude Code | Subscription tokens (negligible) |
 | 7. Embed | Each passage (or its "when this helps" line, whichever wins in evals) turned into a vector and stored in Supabase pgvector | Embeddings API | Cents for the whole corpus |
 
+Between steps 6 and 7, **deduplication** (`../pipeline/dedup.py`, Plan Days 12–13) marks repeated text so it is loaded and searched once: an exact repeat, a passage lying wholly inside another, or a stock formula repeated with only a name changed gets status `dup` pointing at the passage kept; passages that share more than half their wording are kept but put in one `near_group`, and search never shows two from one group. Nothing is deleted. The app shows `display_text`, which is the verbatim `text` minus file apparatus (SuttaCentral `<j>` indents, Gutenberg `_italics_` underscores, a quotation mark whose partner lies outside the passage) and with per-passage display corrections for scan errors recorded in `../corpus/passages/bulk/overrides.json`. Corpus statistics are in `../corpus/passages/stats.md` (`../pipeline/stats.py`).
+
 ### 7.1 Running it
 
 - One output file per source in `../corpus/passages/`, so sources can be rerun independently.
