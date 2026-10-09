@@ -22,6 +22,12 @@ Newest last. One line each; the source is the session log or review.
 | 7 Oct | Sonnet vs Opus on the same text: Sonnet picked 49 passages, Opus 86, at indistinguishable cost | D04 |
 | 7 Oct | First cost estimate ("2–3 weeks of allowance for the corpus") was wrong because it ignored prompt caching; measured calibration put a full extraction pass near half a week | D04 |
 | 7 Oct | Narrowed harm review to a single safety field after seeing that broad filtering would strip the corpus of hard but valuable passages | D02 |
+| 7–8 Oct | Full corpus (4.10M words, 33 sources) extracted and tagged unattended in about an hour of active time, overnight: 5,029 passages, 99.86% verbatim | D07 |
+| 7–8 Oct | Actual cost was 20% of a week's allowance against a predicted 57%: the measured calibration replaced the estimate | D07 |
+| 7–8 Oct | The safety field cut all 12 Seneca "open door" passages, including the test case the reviewer named in advance (Letter 70) | D07, Reviews |
+| 8 Oct | Corpus phase finished about 6 days ahead of plan; the human-written test set became the critical path | Reviews |
+| 9 Oct | Test sets split by author: 32 human statements kept untouched for the headline score; 80 more compiled from 304 statements four models researched from real public posts, after removing duplicates, prompt echoes and out-of-scope legal questions | Agent set |
+| 9 Oct | All four research models reused the prompt's own example phrases, a small lesson in how examples leak into generated data | Agent set |
 
 ## 3. Tracker
 
@@ -30,6 +36,7 @@ Updated at each review.
 | As of | Sessions | Plan days done | Your time (approx.) | Weekly allowance used on the project | Money spent |
 | --- | --- | --- | --- | --- | --- |
 | 7 Oct, after Session 2 | 2 | 1, 2, 4 (6 in part) | ~4 hours incl. planning | ~3 points (pilot) plus planning chats | $0 |
+| 8 Oct, after Session 3 | 3 | 1, 2, 4, 6, 7–11 | ~6 hours incl. planning | ~24 points (pilot + full run) plus planning chats | $0 |
 
 ## 4. Screenshots and media to capture
 
@@ -48,7 +55,7 @@ Clear every item before anything goes public.
 3. **Personal details:** the first commit carries the Mac's local email; logs mention the GitHub account and usage readings. Review before release.
 4. **Secrets scan** across everything published.
 5. **Licences and credits:** choose a code licence (MIT or Apache 2.0); credit Kulp's Pirkei Avot (CC-BY) and the World English Bible per their terms; list every translator.
-6. **Crisis test set:** keep private so the safety check can't be gamed.
+6. **Crisis test sets and source links:** keep the crisis statements private so the safety check can't be gamed. Never publish `evals/agent-set-provenance.md` (links to real people's posts).
 7. **Claims check:** every number in the case study traces to a log, a review or an eval result.
 
 ## 6. Publication plan

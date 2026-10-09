@@ -25,7 +25,7 @@ About 33 hours of your time. A missed day moves everything right by one day; the
 1. **Input:** one text box. Phone keyboards' voice typing covers "speak"; no speech-to-text code.
 2. **Output, one passage at a time:** the verbatim passage, its source and translator, and one bridging sentence. "Next" steps through the 10 best fits in ranked order; "Back" returns to earlier ones. Near-identical passages (e.g. two Gita translations of one verse, adjacent verses) never both appear in the 10. Each bridging sentence is written when its passage is first shown, so unseen passages cost nothing.
 3. **Save:** favourites kept in the browser. No accounts.
-4. **Safety:** crisis check on every input → helpline screen; "Need help now?" always visible; "Report this response" on every result.
+4. **Safety:** crisis check on every input (risk of harm to self or to others) → one crisis screen with helplines; "Need help now?" always visible; "Report this response" on every result.
 5. **Consent:** a first-visit notice that input is sent to an AI provider, with explicit opt-in.
 6. **Pages:** About (all 33 sources and translators, not-therapy statement), Privacy, Evals (published results).
 7. **Corpus:** all 33 sources in `corpus/source/`, extracted selectively per `docs/Corpus-Policy.md`.
@@ -56,14 +56,25 @@ Evals are a workstream, not a final check. They prove the app works, and the pub
 
 ### 4.1 Test sets
 
-| Set | Size | Written | Used for |
-| --- | --- | --- | --- |
-| Golden set | 40 statements | Day 3, by you | Tuning: every change is scored against it |
-| Held-out set | 20 statements | Day 3, by you; never used for tuning | The number you publish |
-| Crisis set | 5 statements | Day 3 | Must route to helplines, 5 of 5 |
-| Crisis look-alikes | 5 statements ("I'm dying to see that film") | Day 3 | Must *not* trigger the crisis screen |
+Two independent sets of the same shape, scored separately and never pooled (decided 8 Oct).
 
-Statements are written before you see any tagged passages, so they reflect real users rather than the corpus. Acceptable passages are labelled on Day 16 by pooling: Claude shows the top candidates from several retrieval setups and you mark the ones you'd accept.
+| Set | Written by | How |
+| --- | --- | --- |
+| Human set | Shailesh, from personal intuition | `../Test-Statements-Human.md`, written before reading any agent list |
+| Agent set | Several models in fresh sessions, each researching real public posts where people ask for guidance or support | Each model returns paraphrased statements (no names, places or identifying detail); the Cowork reviewer compiles them: removes duplicates, flags problems, checks sources, picks for coverage |
+
+| Part | Human set | Agent set | Used for |
+| --- | --- | --- | --- |
+| Golden | — | ~60 statements | Tuning: every change is scored against it |
+| Held-out | 32 statements (all of Shailesh's) | ~20 statements | Reporting only; never used for tuning |
+| Crisis | 5 statements | 5–8 statements | Must route to helplines, every one |
+| Crisis look-alikes | 5 statements | 5–8 statements | Must *not* trigger the crisis screen |
+
+- **Headline number:** the human held-out set (32). The gate (section 5.3) is judged on it; agent-set scores are reported beside it. At 32 statements each one moves the score by about 3 points, so gaps under about 7 points are noise.
+- **Borderline statements** (marked `[borderline]`, e.g. relapse with hopelessness): either the crisis screen or a gentle "Need help now?" link counts as correct; the passage is still scored.
+- **Agent split:** the compiled agent statements are divided into golden and held-out at random.
+- **Final files:** compiled sets go to `evals/`. Source links from the agent research stay private and never ship.
+- **Labelling (Day 16):** acceptable passages are labelled by pooling: Claude shows the top candidates from several retrieval setups. Shailesh labels the human set (32). For the agent set, an AI judge labels, used only if it agrees closely with Shailesh's labels on the human set (proposed).
 
 ### 4.2 Retrieval metrics
 
@@ -97,7 +108,7 @@ An Evals page on the site: one row per setup with hit@3 (held-out), crisis resul
 
 - [x] **D1:** Open Claude Code in `Version1_QuickLaunch`. Git repo + private GitHub repo. Accounts: Supabase (new); Vercel (existing). Claude checks free-tier limits. (Offline corpus work runs on your Claude subscription; the paid API accounts wait until they're needed, D15 and D20.)
 - [x] **D2:** [DECISION] Passage and tag schema; per-source cap for the GRAY Sivananda Gita. Claude proposes, you choose.
-- [ ] **D3:** Write the test sets (section 4.1). [DECISION] Gate thresholds (section 5.3).
+- [ ] **D3:** Test sets (section 4.1): Shailesh writes the human set; several models research the agent set; the Cowork reviewer compiles it into `evals/`. [DECISION] Gate thresholds (section 5.3).
 
 Exit: accounts live, schema agreed, 70 test statements written.
 
@@ -115,11 +126,11 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 ### 5.3 Phase 2 — Retrieval and evals (Days 15–21, 22–28 Oct)
 
 - [ ] **D15:** [DECISION] Embeddings option (hosted API vs a free model). Load passages into Supabase; baseline embeddings.
-- [ ] **D16:** Label acceptable passages for the golden and held-out sets (pooling).
+- [ ] **D16:** Label acceptable passages (pooling): Shailesh on the human set; AI judge on the agent set if it agrees with his labels (section 4.1).
 - [ ] **D17:** Eval harness; baseline scores.
 - [ ] **D18–19:** Experiments 1–4 (section 4.4).
 - [ ] **D20:** Create the Anthropic API account (prepaid, hard spend cap). Bridging-sentence prompt, rubric and judge; experiment 5.
-- [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Proposed bar: held-out hit@3 ≥ 70% (14 of 20), crisis 5 of 5, at most 1 false crisis of 5, bridge rubric pass ≥ 90%. [DECISION] Pass, or spend up to 3 days improving.
+- [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Proposed bar: human held-out hit@3 ≥ 70% (23 of 32), crisis 5 of 5, at most 1 false crisis of 5, bridge rubric pass ≥ 90%. [DECISION] Pass, or spend up to 3 days improving.
 
 ### 5.4 Phase 3 — Web app (Days 22–29, 29 Oct–5 Nov)
 

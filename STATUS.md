@@ -21,11 +21,10 @@
 ## 2. Next session
 
 1. Decided 8 Oct: cuts stay cut; MN 144 and Walden passages hidden from distress; `<j>` stripped for display.
-2. **Day 3:** Shailesh writes the test sets (Plan section 4.1):
-   - 40 golden statements
-   - 20 held-out statements
-   - 5 crisis statements
-   - 5 crisis look-alikes
+2. **Day 3, mostly done 9 Oct** (Plan section 4.1):
+   - Human set written: `../Test-Statements-Human.md` (32 held-out, 5 crisis, 5 look-alikes). Still to do: convert it to `evals/human-set.jsonl` in the same format as the agent set.
+   - Agent set compiled by the Cowork reviewer: `evals/agent-set.md` and `.jsonl` (60 golden, 20 held-out, 8 crisis, 8 look-alikes); sources in `evals/agent-set-provenance.md` (private).
+   - Still open: [DECISION] gate thresholds.
 3. **Day 5:** blind keep/cut review, now on a 40-passage sample from the full corpus to measure Opus precision.
 4. **Then Days 12–13:**
    - deduplicate;
@@ -86,7 +85,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Window 1 paused, 22:49 | 84% | 59% |
   | Window 2 start, 8 Oct 00:51 | 0% | 60% |
   | Full run complete, 8 Oct 01:12 | 39% | 66% |
-- **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Save it for the full corpus run (Plan Days 7–11); use only with Shailesh's say-so.
+- **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits
 
