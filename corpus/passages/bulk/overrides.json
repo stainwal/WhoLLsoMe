@@ -1,4 +1,5 @@
 {
  "mn-123-p02": {"status": "no-distress", "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"},
- "walden-thoreau-044-p03": {"status": "no-distress", "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"}
+ "walden-thoreau-044-p03": {"status": "no-distress", "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"},
+ "japji-macauliffe-002-p02": {"display_text": "I have no strength to speak and no strength to be silent. I have no strength to ask and no strength to give; I have no strength to live and no strength to die; I have no strength to acquire empire or wealth, which produce a commotion in the heart. I have no strength to meditate on Thee or ponder on divine knowledge; I have no strength to find the way to escape from the world. He in whose arm there is strength may see what he can do. Nanak, no one is of superior or inferior strength before God.", "reason": "Source scan has OCR errors ('T have' x3, '2 commotion'); display corrected to the obvious reading, verbatim text unchanged (Shailesh, 9 Oct 2026)"}
 }

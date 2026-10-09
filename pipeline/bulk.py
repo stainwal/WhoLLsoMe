@@ -30,7 +30,8 @@ from compare import vocab, LIMITS  # noqa: E402
 RUN = ROOT / "corpus" / "passages" / "bulk"
 CHUNKS, EXTRACT, TAG_IN, TAGS = RUN / "chunks", RUN / "extract", RUN / "tag-in", RUN / "tags"
 MANIFEST, CLAIMS = RUN / "manifest.json", RUN / "claims.json"
-# Shailesh's per-passage calls, applied after the safety field: {pid: {"status": ..., "reason": ...}}
+# Shailesh's per-passage calls, applied after the safety field:
+#   {pid: {"status": ..., "reason": ...}} or {pid: {"display_text": ..., "reason": ...}}
 OVERRIDES = RUN / "overrides.json"
 PILOT = ROOT / "corpus" / "passages" / "pilot"
 CLAIM_TTL = 90 * 60
@@ -283,8 +284,13 @@ def merge():
         # `text` stays exactly as matched against the source; the app shows `display_text`.
         p["display_text"] = p["text"].replace("<j>", "")
         if p["pid"] in overrides:
-            p["status"] = overrides[p["pid"]]["status"]
-            p["override"] = overrides[p["pid"]]["reason"]
+            ov = overrides[p["pid"]]
+            if "status" in ov:
+                p["status"] = ov["status"]
+            # OCR errors in a scanned source: the shown text is corrected, `text` stays verbatim to the file
+            if "display_text" in ov:
+                p["display_text"] = ov["display_text"]
+            p["override"] = ov["reason"]
         per_src[p["source"]].append(p)
     for src, ps in per_src.items():
         with (ROOT / "corpus" / "passages" / f"{src}.jsonl").open("w", encoding="utf-8") as fo:
