@@ -108,7 +108,7 @@ An Evals page on the site: one row per setup with hit@3 (held-out), crisis resul
 
 - [x] **D1:** Open Claude Code in `Version1_QuickLaunch`. Git repo + private GitHub repo. Accounts: Supabase (new); Vercel (existing). Claude checks free-tier limits. (Offline corpus work runs on your Claude subscription; the paid API accounts wait until they're needed, D15 and D20.)
 - [x] **D2:** [DECISION] Passage and tag schema; per-source cap for the GRAY Sivananda Gita. Claude proposes, you choose.
-- [ ] **D3:** Test sets (section 4.1): Shailesh writes the human set; several models research the agent set; the Cowork reviewer compiles it into `evals/`. [DECISION] Gate thresholds (section 5.3).
+- [x] **D3:** Test sets (section 4.1): Shailesh writes the human set; several models research the agent set; the Cowork reviewer compiles it into `evals/`. [DECISION] Gate thresholds (section 5.3).
 
 Exit: accounts live, schema agreed, 70 test statements written.
 
@@ -119,7 +119,7 @@ Exit: accounts live, schema agreed, 70 test statements written.
 - [x] **D6:** Pilot tagging with the safety field (Decision 3); the same chunks run through Sonnet and Opus. Model for bulk work: **Opus 5.5** (decided 7 Oct). Rules locked.
 - [x] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you scan that day's cut list (Corpus-Policy section 6). Sources with open questions (Rumi headings, the Zitkala-Ša quoted report, *Way of Perfection*, *Brother Lawrence*) run last.
 - [x] **D12–13:** Deduplicate, check consistency, corpus statistics by source and theme.
-- [ ] **D14:** Corpus freeze v1. `logs/Phase-1-Report.md`. [DECISION] Accept, or extend by up to 3 days.
+- [x] **D14:** Corpus freeze v1. `logs/Phase-1-Report.md`. [DECISION] Accept, or extend by up to 3 days.
 
 Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.md`.
 
@@ -130,7 +130,7 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 - [ ] **D17:** Eval harness; baseline scores.
 - [ ] **D18–19:** Experiments 1–4 (section 4.4).
 - [ ] **D20:** Create the Anthropic API account (prepaid, hard spend cap). Bridging-sentence prompt, rubric and judge; experiment 5.
-- [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Proposed bar: human held-out hit@3 ≥ 70% (23 of 32), crisis 5 of 5, at most 1 false crisis of 5, bridge rubric pass ≥ 90%. [DECISION] Pass, or spend up to 3 days improving.
+- [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Bar (decided 9 Oct): human held-out hit@3 ≥ 70% (23 of 32); crisis 13 of 13 across both sets, borderline statements correct either way; false crisis at most 1 of 5 human and 1 of 8 agent; bridge rubric pass ≥ 90%; hit@10, MRR and agent held-out reported with no bar. [DECISION] Pass, or spend up to 3 days improving.
 
 ### 5.4 Phase 3 — Web app (Days 22–29, 29 Oct–5 Nov)
 

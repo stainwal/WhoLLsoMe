@@ -4,7 +4,7 @@
 
 ## 1. Where we are
 
-- **Plan days done:** 1, 2, 4, 6, 7–11, 12–13. Day 3 done except the gate-threshold decision. Day 5 sample drawn, review pending. Day 14 report written (`logs/Phase-1-Report.md`), freeze decision pending. Phase 1 reached 12 days ahead of the plan date.
+- **Plan days done:** 1–4, 6, 7–14. **Phase 1 closed and corpus v1 frozen on 9 Oct** (`logs/Phase-1-Report.md`), 12 days ahead of plan. Day 5 sample drawn, Shailesh's review pending (a measurement now, not a gate).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -17,18 +17,16 @@
 
 ## 2. Next session
 
-1. **Shailesh first:** three decisions (section 3) and the Day 5 review: mark K or C on the 40 rows of `evals/keep-cut-sample.md`.
-2. Claude scores the review (precision = keeps / 40), turns any cuts into `overrides.json` entries, records the decisions.
+1. **Shailesh first:** the Day 5 review: mark K or C on the 40 rows of `evals/keep-cut-sample.md`.
+2. Claude scores the review (precision = keeps / 40) and turns any cuts into `overrides.json` entries. Under 34 keeps reopens the freeze (Decisions, 9 Oct).
 3. **Day 15:** [DECISION] embeddings option (hosted API vs free model); create the Supabase project tables; load the 4,929 shown passages; baseline embeddings. First paid-API step: a key with a hard spend cap.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 3 | Gate thresholds: option A recommended (hit@3 ≥ 23 of 32; crisis 13 of 13; false crisis ≤ 1 per set; bridge ≥ 90%) | `logs/D12.md` section 4; `docs/Decisions.md` |
 | 5 | Keep/cut review of the 40-passage sample | `evals/keep-cut-sample.md` |
-| 14 | Corpus freeze v1: accept now (recommended) or extend up to 3 days | `logs/Phase-1-Report.md` section 6 |
-| 14 | Display rules widened (underscores, unmatched quotes, first letter): confirm or drop any | `logs/D12.md` section 3 |
+| 15 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
