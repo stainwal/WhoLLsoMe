@@ -83,7 +83,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 12. epictetus-discourses-long
 
-113 tagged; 0 cut; 0 kept but hidden from distress.
+113 tagged; 1 cut; 0 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| epictetus-discourses-long-013-p01 | Discourses selection 42 | decided: cut | Day 5 review, S40: too philosophical to apply in a general situation (Shailesh, 11 Oct 2026) | Such as is a dish of water, such is the soul. Such as is… |
 
 ## 13. japji-macauliffe
 
@@ -123,11 +127,12 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 20. emerson-essays
 
-257 tagged; 0 cut; 1 kept but hidden from distress.
+257 tagged; 1 cut; 1 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
 | emerson-essays-019-p05 | Heroism | welcomes-death | Envies the dead as safe from suffering and speaks of awaiting one's own end with complacency. | In the gloom of our ignorance of what shall be, in the hour when… |
+| emerson-essays-045-p01 | Self-Reliance | decided: cut | Day 5 review, S24: too long and convoluted; focus on ideas grasped immediately (Shailesh, 11 Oct 2026) | Man is timid and apologetic; he is no longer upright; he dares not say… |
 
 ## 21. walden-thoreau
 

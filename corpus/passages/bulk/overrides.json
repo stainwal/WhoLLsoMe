@@ -1,6 +1,34 @@
 {
- "mn-123-p02": {"status": "no-distress", "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"},
- "walden-thoreau-044-p03": {"status": "no-distress", "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"},
- "japji-macauliffe-002-p02": {"display_text": "I have no strength to speak and no strength to be silent. I have no strength to ask and no strength to give; I have no strength to live and no strength to die; I have no strength to acquire empire or wealth, which produce a commotion in the heart. I have no strength to meditate on Thee or ponder on divine knowledge; I have no strength to find the way to escape from the world. He in whose arm there is strength may see what he can do. Nanak, no one is of superior or inferior strength before God.", "reason": "Source scan has OCR errors ('T have' x3, '2 commotion'); display corrected to the obvious reading, verbatim text unchanged (Shailesh, 9 Oct 2026)"},
- "upanishads-paramananda-002-p03": {"display_text": "The Self-existent created the senses out-going; for this reason man sees the external, but not the inner Atman (Self). Some wise man, however, desiring immortality, with eyes turned away (from the external) sees the Atman within. Children (the ignorant) pursue external pleasures; (thus) they fall into the wide-spread snare of death. But the wise, knowing the nature of immortality, do not seek the permanent among fleeting things.", "reason": "Source file breaks 'wide-spread' across a line ('wide- spread'); display rejoined, verbatim text unchanged (9 Oct 2026)"}
+ "mn-123-p02": {
+  "status": "no-distress",
+  "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"
+ },
+ "walden-thoreau-044-p03": {
+  "status": "no-distress",
+  "reason": "Argues against suicide but names it; hidden from distress (Shailesh, 8 Oct 2026)"
+ },
+ "japji-macauliffe-002-p02": {
+  "display_text": "I have no strength to speak and no strength to be silent. I have no strength to ask and no strength to give; I have no strength to live and no strength to die; I have no strength to acquire empire or wealth, which produce a commotion in the heart. I have no strength to meditate on Thee or ponder on divine knowledge; I have no strength to find the way to escape from the world. He in whose arm there is strength may see what he can do. Nanak, no one is of superior or inferior strength before God.",
+  "reason": "Source scan has OCR errors ('T have' x3, '2 commotion'); display corrected to the obvious reading, verbatim text unchanged (Shailesh, 9 Oct 2026)"
+ },
+ "upanishads-paramananda-002-p03": {
+  "display_text": "The Self-existent created the senses out-going; for this reason man sees the external, but not the inner Atman (Self). Some wise man, however, desiring immortality, with eyes turned away (from the external) sees the Atman within. Children (the ignorant) pursue external pleasures; (thus) they fall into the wide-spread snare of death. But the wise, knowing the nature of immortality, do not seek the permanent among fleeting things.",
+  "reason": "Source file breaks 'wide-spread' across a line ('wide- spread'); display rejoined, verbatim text unchanged (9 Oct 2026)"
+ },
+ "emerson-essays-045-p01": {
+  "status": "cut",
+  "reason": "Day 5 review, S24: too long and convoluted; focus on ideas grasped immediately (Shailesh, 11 Oct 2026)"
+ },
+ "epictetus-discourses-long-013-p01": {
+  "status": "cut",
+  "reason": "Day 5 review, S40: too philosophical to apply in a general situation (Shailesh, 11 Oct 2026)"
+ },
+ "rumi-masnavi-whinfield-011-p03": {
+  "display_text": "You are footbound like the grass in the ground,\nAnd your head is shaken by the wind uncertainly.\nYour foot stands not firmly till you move it,\n(Nay) till you pluck it not up from the mire.\nWhen you pluck up your foot you escape from the mire,\nThe way to this salvation is very difficult.\nWhen you obtain salvation at God's hands, O wanderer,\nYou are free from the mire, and go your way.",
+  "reason": "Day 5 review, S15: the source file has 'Nay)' with no opening bracket; display shows '(Nay)', verbatim text unchanged (Shailesh, 11 Oct 2026)"
+ },
+ "viv07-004-p03": {
+  "display_text": "There are cases where truth is not comfortable until we reach its climax. Human nature is very conservative. It does something, and having once done that, finds it hard to get out of it. The mind will not receive new thoughts, because they bring discomfort.",
+  "reason": "Day 5 review, S29: full stop missing after 'conservative' in the source; display adds it, verbatim text unchanged (Shailesh, 11 Oct 2026)"
+ }
 }
