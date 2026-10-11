@@ -32,3 +32,14 @@ Reviews of each Claude Code session by the Cowork reviewer: what was checked, wh
   4. **Day 3 (test sets) is now the critical path.** The corpus is about 6 days ahead of the plan; retrieval work on Day 16 can't start without the test statements.
 - **Changed:** `CLAUDE.md` section 4.3 (Claude reads usage itself when it can); `STATUS.md` section 6 (full reset no longer earmarked); `docs/Showcase.md` story points and tracker.
 
+## 4. Session 4 (Days 3, 5 drawn, 12–13, 14) and the 9 Oct decisions — 9 Oct 2026
+
+- **Checked:** `logs/D12.md`, `logs/Phase-1-Report.md`, `docs/Decisions.md` (9 Oct rows), `evals/` (human set, keep/cut sample), commits `41a7aa5` to `7297944`.
+- **Verdict:** clean close of Phase 1, 12 days ahead of plan. Dedup is conservative and reversible (84 marked, nothing deleted); display clean-ups never touch the verbatim text; the Phase 1 report is candid about weaknesses.
+- **Flagged:**
+  1. **The corpus freeze is conditional on the Day 5 review,** which hasn't happened (`evals/keep-cut-sample.md` is unmarked). Under 34 keeps of 40 reopens the freeze. Should be done before Day 17's baseline.
+  2. **Known coverage gaps will show in the scores:** no passage on losing a pet (H07 and AS02 are about a dog dying); love and partnership is thin (1 passage on infidelity); good news has 37 passages. Expect misses there and report them honestly rather than tune around them.
+  3. **Religious weight:** about half the corpus is spiritual or devotional. Added a faith-framing ranking experiment to Plan section 4.4.
+  4. **Deduplication rule is still Proposed** in Decisions; low stakes, reversible.
+- **Changed:** `docs/Plan.md` section 4.4 (experiment 6; noise note updated to the real set sizes); `docs/Showcase.md` story points and tracker.
+

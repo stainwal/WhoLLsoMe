@@ -9,7 +9,7 @@ The ancient text is never the copyright problem; the translation is.
 - **Tier A (default):** US public domain, or a verified open licence (CC0, CC-BY).
 - **Tier B (stopgap):** a modern translation that is freely circulated, has a named translator and carries no stated restriction. Allowed only when no adequate Tier A option exists. Marked **GRAY**, credited in-app, excerpts kept modest, replaced before any real monetisation.
 - **Never:** anonymous or unattributed translations; anything under an NC or ND licence; commercially active famous translations (Mitchell, Barks, Peers, Easwaran, Hays, Blakney). Exception: *Way of Perfection* in the Peers translation, kept on Shailesh's call (7 Oct 2026, `Decisions.md`).
-- **Rejected sources, don't re-propose:** Carl Jung, Zen classics, *Black Elk Speaks*, the "Chief Seattle speech", the "Prayer of St Francis", *Man's Search for Meaning*, *Desiderata*, Bahá'í writings, the nitnemsahib.com Japji.
+- **Rejected sources, don't re-propose:** Alan Watts (his estate licenses his work commercially; rejected 11 Oct), Carl Jung, Zen classics, *Black Elk Speaks*, the "Chief Seattle speech", the "Prayer of St Francis", *Man's Search for Meaning*, *Desiderata*, Bahá'í writings, the nitnemsahib.com Japji.
 
 ## 2. Sources in v1 (33)
 
@@ -57,6 +57,20 @@ All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral 
 - **gita-besant-das:** OCR quality unusable; superseded by Sivananda.
 - **Phase 2 (not yet acquired):** Dark Night of the Soul (David Lewis only), Macauliffe *Sikh Religion* selections, Epicurus (Hicks), Curtis *The Indians' Book*.
 
+### 2.2 Aphoristic additions (11 Oct, pending licence check)
+
+Added because short, immediately graspable passages land best (Day 5 review). Each is checked for US public-domain status (published before 1931) and a clean source text before extraction; any that fails is dropped without discussion.
+
+| Work | Author | First published |
+| --- | --- | --- |
+| *Stray Birds* | Rabindranath Tagore (his own English) | 1916 |
+| *Sādhanā* | Rabindranath Tagore | 1913 |
+| *Gitanjali* | Rabindranath Tagore (his own English) | 1912 |
+| *Sand and Foam* | Kahlil Gibran | 1926 |
+| *The Madman* | Kahlil Gibran | 1918 |
+| *The Forerunner* | Kahlil Gibran | 1920 |
+| *The Art of Worldly Wisdom* | Baltasar Gracián, tr. Joseph Jacobs | 1892 |
+
 ## 3. Credits shown in the app
 
 - Every passage shows its work, location (chapter, verse, letter) and translator.
@@ -76,6 +90,7 @@ A passage earns a place only if it stands alone and speaks to a human situation.
 5. **Location kept:** every passage records its source folder and exact location so it can be traced back.
 6. **Gita translations are independent sources.** Arnold and Sivananda are extracted separately, with no Gita-specific rule. Near-identical results are removed only by the general search-time filter (decided 7 Oct 2026).
 7. **Verbatim check:** a script matches every extracted passage against the normalised source text. Anything that isn't an exact match is rejected and logged, never fixed by hand. This guarantees the model never paraphrases a source.
+8. **Transcription fixes (11 Oct):** obvious errors in the source text itself (a missing bracket or full stop, an OCR slip) are corrected in `display_text` and logged in `overrides.json`, even though the display then differs slightly from the source file. The translator's wording is never changed or modernised.
 
 ## 5. Tagging
 
@@ -92,7 +107,7 @@ Decided 7 Oct 2026: review is limited to the most serious cases. Harshness, blam
 
 ## 7. Pipeline
 
-How the corpus becomes searchable. Steps 1–6 run once, offline; step 7 runs every time someone uses the app.
+How the corpus becomes searchable. Steps 1–8 run once, offline; section 7.2 describes what happens each time someone uses the app.
 
 | Step | What happens | Done by | Cost |
 | --- | --- | --- | --- |
@@ -102,7 +117,8 @@ How the corpus becomes searchable. Steps 1–6 run once, offline; step 7 runs ev
 | 4. Verbatim check | Exact match against the normalised source (section 4, rule 7) | Script | Free |
 | 5. Tag | Themes, situations, tone, "when this helps" line, harm flag (section 5) | Claude Code | Subscription tokens |
 | 6. Safety check | Done inside tagging (step 5); cuts automatic and logged (section 6) | Claude Code | Subscription tokens (negligible) |
-| 7. Embed | Each passage (or its "when this helps" line, whichever wins in evals) turned into a vector and stored in Supabase pgvector | Embeddings API | Cents for the whole corpus |
+| 7. Enrich | For each shown passage: a plain-language version (1–2 sentences, stored, shown first in the app), quotability 1–5 (how quickly it lands), a completeness flag (if the point lies in the next lines, the passage is extended verbatim from the source), text-error flags with a display fix, and the core idea in 10 words or fewer. An AI judge then checks every plain version for faithfulness (Plan section 4.3) | Claude Code | About 2–5% of a week's allowance (estimate) |
+| 8. Embed | Each passage (or its plain version or "when this helps" line, whichever wins in evals) turned into a vector and stored in Supabase pgvector | Embeddings API | Cents for the whole corpus |
 
 Between steps 6 and 7, **deduplication** (`../pipeline/dedup.py`, Plan Days 12–13) marks repeated text so it is loaded and searched once: an exact repeat, a passage lying wholly inside another, or a stock formula repeated with only a name changed gets status `dup` pointing at the passage kept; passages that share more than half their wording are kept but put in one `near_group`, and search never shows two from one group. Nothing is deleted. The app shows `display_text`, which is the verbatim `text` minus file apparatus (SuttaCentral `<j>` indents, Gutenberg `_italics_` underscores, a quotation mark whose partner lies outside the passage) and with per-passage display corrections for scan errors recorded in `../corpus/passages/bulk/overrides.json`. Corpus statistics are in `../corpus/passages/stats.md` (`../pipeline/stats.py`).
 
@@ -117,4 +133,4 @@ Between steps 6 and 7, **deduplication** (`../pipeline/dedup.py`, Plan Days 12�
 
 ### 7.2 At runtime
 
-The model never reads the corpus. The user's words are embedded the same way; the database returns the nearest candidates; near-duplicates are removed and the best 10 are ranked. The user sees them one at a time, and the model writes each passage's bridging sentence when it is first shown. Embeddings serve search; nothing is taught to the model.
+The model never reads the corpus. The user's words are embedded the same way; the database returns the nearest candidates; near-duplicates are removed and the best 10 are ranked. Among close matches, more quotable passages rank higher. The user sees them one at a time, plain version first; the model writes an Explain text only when the user asks for one. Embeddings serve search; nothing is taught to the model.

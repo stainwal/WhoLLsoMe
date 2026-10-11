@@ -17,16 +17,17 @@
 
 ## 2. Next session
 
-1. **Shailesh first:** the Day 5 review: mark K or C on the 40 rows of `evals/keep-cut-sample.md`.
-2. Claude scores the review (precision = keeps / 40) and turns any cuts into `overrides.json` entries. Under 34 keeps reopens the freeze (Decisions, 9 Oct).
-3. **Day 15:** [DECISION] embeddings option (hosted API vs free model); create the Supabase project tables; load the 4,929 shown passages; baseline embeddings. First paid-API step: a key with a hard spend cap.
+1. **Day 5 scored by the Cowork reviewer, 11 Oct:** 38 of 40 kept (95% precision); freeze stands. Cuts: S24 (Emerson, too long and dense), S40 (Epictetus, too abstract). Record them as overrides. Display fixes for S15 (Rumi, missing "(" in the source) and S29 (Vivekananda, missing full stop).
+2. **Plan revised 11 Oct** (`docs/Plan.md`, `docs/Decisions.md`): plain versions, Explain, Surprise me, quotability boost, transcription fixes, seven aphoristic sources, human checks capped at about 10 items.
+3. **Day 15:** licence-check and fetch the seven new works; extract and tag them; then the enrichment pass over every shown passage (Corpus-Policy section 7, step 7) and the AI judge on every plain version. Unattended, under a token budget.
+4. Then Day 16: Shailesh reads the 10 weakest plain versions; embeddings decision; Supabase.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 5 | Keep/cut review of the 40-passage sample | `evals/keep-cut-sample.md` |
-| 15 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
+| 16 | Read the 10 weakest plain versions; fix or hide (~10 min) | Plan section 4.3 |
+| 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results

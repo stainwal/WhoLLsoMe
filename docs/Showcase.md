@@ -28,6 +28,8 @@ Newest last. One line each; the source is the session log or review.
 | 8 Oct | Corpus phase finished about 6 days ahead of plan; the human-written test set became the critical path | Reviews |
 | 9 Oct | Test sets split by author: 32 human statements kept untouched for the headline score; 80 more compiled from 304 statements four models researched from real public posts, after removing duplicates, prompt echoes and out-of-scope legal questions | Agent set |
 | 9 Oct | All four research models reused the prompt's own example phrases, a small lesson in how examples leak into generated data | Agent set |
+| 9 Oct | Phase 1 (corpus) closed 12 days ahead of plan: 4,929 showable passages, deduplicated (83 of 84 duplicates were stock repeats in the Buddhist Nikayas), every display fix reversible | D12, Phase 1 report |
+| 11 Oct | Human review of 40 random passages: 95% kept. The two cuts and the notes all said the same thing: short, graspable wisdom lands; dense passages don't. That one finding reshaped the product: a plain-language version for every passage, an Explain button, Surprise me, and a ranking boost for aphorisms | Day 5 review |
 
 ## 3. Tracker
 
@@ -37,6 +39,7 @@ Updated at each review.
 | --- | --- | --- | --- | --- | --- |
 | 7 Oct, after Session 2 | 2 | 1, 2, 4 (6 in part) | ~4 hours incl. planning | ~3 points (pilot) plus planning chats | $0 |
 | 8 Oct, after Session 3 | 3 | 1, 2, 4, 6, 7–11 | ~6 hours incl. planning | ~24 points (pilot + full run) plus planning chats | $0 |
+| 9 Oct, after Session 4 | 4 | 1–4, 6–14 (5 drawn, not yet reviewed) | ~9 hours incl. test sets | ~24 points plus planning chats | $0 |
 
 ## 4. Screenshots and media to capture
 

@@ -4,10 +4,10 @@ Standing brief for Claude Code. Read this, then `STATUS.md`, then `docs/Plan.md`
 
 ## 1. What we're building
 
-A web app for people who turn to AI for reflection. The user types (or voice-types) a mood or situation. The app answers with **one verbatim passage** from a curated corpus of wisdom literature, its source and translator credit, and **one generated bridging sentence** linking the passage to what the user said. The constraint is the product: it counters the sycophancy and engagement-maximising habits of general chatbots.
+A web app for people who turn to AI for reflection. The user types (or voice-types) a mood or situation. The app answers with **verbatim passages** from a curated corpus of wisdom literature, one at a time. Each is shown with a stored **plain-language version** ("In plain words") first, the original beside it, and its source and translator. An **Explain** button generates, on request, how the passage applies to what the user said. A **Surprise me** button shows a random high-quality passage with no input. The constraint is the product: it counters the sycophancy and engagement-maximising habits of general chatbots.
 
 - **Not therapy.** Never present it as mental-health support. Crisis language → helpline screen, every time.
-- **Verbatim means verbatim.** Passage text is never paraphrased, trimmed mid-sentence or "modernised" by the model. Only the bridging sentence is generated.
+- **Verbatim means verbatim.** Passage text is never paraphrased, trimmed mid-sentence or "modernised". Transcription errors (a missing bracket or full stop, an OCR slip) are corrected in `display_text` and logged; the translator's wording is never changed. The only generated text is the plain version (written offline, stored, checked by an AI judge) and the Explain text (on request), and both are labelled as such.
 
 ## 2. Goal and constraints
 
@@ -17,11 +17,12 @@ A web app for people who turn to AI for reflection. The user types (or voice-typ
 4. **Budget is small.** Prefer free tiers; every API key has a hard monthly spend cap.
 5. **Shailesh** has strong product and conceptual skills and limited hands-on coding. Explain decisions in plain language; never expect him to write or debug code.
 6. **Browser tasks use Brave**, not Chrome.
+7. **Speed to release comes first** (Shailesh, 11 Oct). Run everything that can run automatically. Keep human checks small and targeted: at most about 10 items, chosen as the riskiest by an AI judge, never a large random sample. Polish waits until he has used the live app.
 
 ## 3. Roles
 
 - **Claude leads.** Picks the next task from `docs/Plan.md`, plans it, builds it, tests it, reports results, and keeps `STATUS.md` current.
-- **Shailesh executes and decides.** Runs sessions, creates accounts, pays, reviews flagged passages, writes the golden-set statements, and makes every call marked **[DECISION]**.
+- **Shailesh executes and decides.** Runs sessions, creates accounts, pays, does the small targeted reviews (section 2, item 7), and makes every call marked **[DECISION]**. His time is the scarcest resource on the project.
 - Raise a [DECISION] whenever a choice changes scope, cost, the user experience, safety behaviour or published claims. Offer 2–3 options with a recommendation; don't decide these silently.
 
 ## 4. Session protocol (1 hour)
