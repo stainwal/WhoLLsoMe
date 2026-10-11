@@ -419,10 +419,7 @@
   "dup_of": "viv03-001-p01",
   "why": "exact"
  },
- "sn-087-p01": {
-  "near_group": "ng-001"
- },
- "mn-043-p01": {
+ "sn-081-p01": {
   "near_group": "ng-001"
  },
  "mn-096-p02": {
@@ -431,7 +428,10 @@
  "an-013-p01": {
   "near_group": "ng-001"
  },
- "sn-081-p01": {
+ "sn-087-p01": {
+  "near_group": "ng-001"
+ },
+ "mn-043-p01": {
   "near_group": "ng-001"
  },
  "an-172-p02": {
@@ -458,10 +458,10 @@
  "an-046-p01": {
   "near_group": "ng-004"
  },
- "an-090-p01": {
+ "an-131-p01": {
   "near_group": "ng-005"
  },
- "an-131-p01": {
+ "an-090-p01": {
   "near_group": "ng-005"
  },
  "bib-1kings-004-p01": {
@@ -476,22 +476,22 @@
  "dn-007-p01": {
   "near_group": "ng-007"
  },
- "dn-071-p01": {
-  "near_group": "ng-008"
- },
  "dn-028-p01": {
   "near_group": "ng-008"
  },
- "dn-031-p02": {
-  "near_group": "ng-009"
+ "dn-071-p01": {
+  "near_group": "ng-008"
  },
  "sn-052-p01": {
   "near_group": "ng-009"
  },
- "dn-034-p01": {
-  "near_group": "ng-010"
+ "dn-031-p02": {
+  "near_group": "ng-009"
  },
  "sn-118-p05": {
+  "near_group": "ng-010"
+ },
+ "dn-034-p01": {
   "near_group": "ng-010"
  },
  "dn-035-p01": {
@@ -500,16 +500,16 @@
  "sn-015-p02": {
   "near_group": "ng-011"
  },
- "dn-046-p03": {
-  "near_group": "ng-012"
- },
  "sn-126-p01": {
   "near_group": "ng-012"
  },
- "mn-038-p01": {
-  "near_group": "ng-013"
+ "dn-046-p03": {
+  "near_group": "ng-012"
  },
  "dn-067-p02": {
+  "near_group": "ng-013"
+ },
+ "mn-038-p01": {
   "near_group": "ng-013"
  },
  "sn-010-p01": {
@@ -518,10 +518,10 @@
  "sn-001-p03": {
   "near_group": "ng-014"
  },
- "sn-015-p03": {
+ "sn-023-p01": {
   "near_group": "ng-015"
  },
- "sn-023-p01": {
+ "sn-015-p03": {
   "near_group": "ng-015"
  },
  "sn-004-p02": {
@@ -530,22 +530,22 @@
  "sn-091-p01": {
   "near_group": "ng-016"
  },
- "sn-059-p03": {
-  "near_group": "ng-016"
- },
  "sn-133-p01": {
   "near_group": "ng-016"
  },
- "sn-100-p02": {
-  "near_group": "ng-017"
+ "sn-059-p03": {
+  "near_group": "ng-016"
  },
  "sn-142-p01": {
   "near_group": "ng-017"
  },
- "sn-140-p01": {
-  "near_group": "ng-018"
+ "sn-100-p02": {
+  "near_group": "ng-017"
  },
  "sn-102-p02": {
+  "near_group": "ng-018"
+ },
+ "sn-140-p01": {
   "near_group": "ng-018"
  }
 }

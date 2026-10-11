@@ -1,0 +1,844 @@
+{
+ "judgements": [
+  {
+   "id": "walden-thoreau-002-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition: waive only as much self-care as we honestly give elsewhere."
+  },
+  {
+   "id": "walden-thoreau-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-002-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his describing the lost creatures to many travellers."
+  },
+  {
+   "id": "walden-thoreau-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-003-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'something to do'; compresses the closing contrast."
+  },
+  {
+   "id": "walden-thoreau-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-004-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the poet and saint under a roof and the doves."
+  },
+  {
+   "id": "walden-thoreau-004-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'immediately or in the long run' from the cost of life."
+  },
+  {
+   "id": "walden-thoreau-005-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the tailor and crown analogy and the unaffordable house."
+  },
+  {
+   "id": "walden-thoreau-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-007-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that the end was already too easy to reach."
+  },
+  {
+   "id": "walden-thoreau-008-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Gone up garret' (live as a poor poet now) flattened to 'started at once'."
+  },
+  {
+   "id": "walden-thoreau-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-010-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'neighbor's' from the ways not to follow."
+  },
+  {
+   "id": "walden-thoreau-010-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Within a calculable period' loosened to 'on time'."
+  },
+  {
+   "id": "walden-thoreau-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-011-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing contrast: not an overseer of the poor but one of the worthies."
+  },
+  {
+   "id": "walden-thoreau-011-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-012-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-012-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-012-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'His Genius' rendered as 'rested soul'; slight loss."
+  },
+  {
+   "id": "walden-thoreau-012-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-012-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'How could I have looked him in the face?'"
+  },
+  {
+   "id": "walden-thoreau-013-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Heavy compression; drops the painting-the-atmosphere image; 'critical hour' softened to 'best moments'."
+  },
+  {
+   "id": "walden-thoreau-013-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops 'live deliberately', learning what life teaches, and refusing resignation unless necessary."
+  },
+  {
+   "id": "walden-thoreau-013-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the counting imagery; compressed."
+  },
+  {
+   "id": "walden-thoreau-013-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the stitch-in-time proverb; compressed."
+  },
+  {
+   "id": "walden-thoreau-013-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-013-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-013-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the concession that eternity holds something true and sublime."
+  },
+  {
+   "id": "walden-thoreau-014-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops rising early and fasting; compressed."
+  },
+  {
+   "id": "walden-thoreau-014-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Death-rattle image softened to 'feel it fully'."
+  },
+  {
+   "id": "walden-thoreau-014-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops drinking and seeing the sandy bottom; compressed."
+  },
+  {
+   "id": "walden-thoreau-014-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-015-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the book explaining our miracles and the unutterable found uttered."
+  },
+  {
+   "id": "walden-thoreau-015-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'Read your fate' and the reader/student/seer triad; compressed."
+  },
+  {
+   "id": "walden-thoreau-015-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Heavy compression; drops the scene and 'over and above my usual allowance' nuance."
+  },
+  {
+   "id": "walden-thoreau-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-017-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-017-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-018-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-018-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'nothing can compel a simple and brave man to a vulgar sadness'."
+  },
+  {
+   "id": "walden-thoreau-018-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Heavy compression; drops the slight insanity of the mood and nature as nearest kin."
+  },
+  {
+   "id": "walden-thoreau-018-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-018-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the contrast with the hired workman we love to talk to."
+  },
+  {
+   "id": "walden-thoreau-018-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-019-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops Indra/driftwood image and the theatre example; compressed."
+  },
+  {
+   "id": "walden-thoreau-019-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'a man thinking or working is always alone'."
+  },
+  {
+   "id": "walden-thoreau-019-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the opening claim 'society is commonly too cheap' and the musty-cheese image."
+  },
+  {
+   "id": "walden-thoreau-019-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses nature's mourning imagery; loses some intensity."
+  },
+  {
+   "id": "walden-thoreau-019-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-021-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops fallen pines used for supper; minor loss."
+  },
+  {
+   "id": "walden-thoreau-021-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-022-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his doubt whether the seeds were truly those virtues, worm-eaten or dead."
+  },
+  {
+   "id": "walden-thoreau-022-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Never stand upon ceremony with sincerity' narrowed to sincere people with each other."
+  },
+  {
+   "id": "walden-thoreau-023-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops sacrificing first and last fruits in his mind."
+  },
+  {
+   "id": "walden-thoreau-023-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Heavy compression; drops relearning the compass on waking and infinite extent of relations."
+  },
+  {
+   "id": "walden-thoreau-023-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Direct address to those who govern made general; 'superior man' becomes 'leader'."
+  },
+  {
+   "id": "walden-thoreau-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-025-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-026-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-027-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-028-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-028-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-028-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops shadows reaching farther than daily steps; compressed."
+  },
+  {
+   "id": "walden-thoreau-029-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-029-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-029-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens 'extremes, or even insanity' and bodily weakness; conditional made a command."
+  },
+  {
+   "id": "walden-thoreau-029-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'most astounding facts are never communicated man to man'."
+  },
+  {
+   "id": "walden-thoreau-030-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-030-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-030-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'reptile' and the worm analogy."
+  },
+  {
+   "id": "walden-thoreau-030-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the description of the slothful, unclean person and the student."
+  },
+  {
+   "id": "walden-thoreau-030-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-031-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-033-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-034-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-035-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-036-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Heavy compression; loses the lilac outliving the family as sole survivor."
+  },
+  {
+   "id": "walden-thoreau-037-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the milking-time measure and the waiting-for-a-herd humour."
+  },
+  {
+   "id": "walden-thoreau-037-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-038-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'I awoke to an answered question' and Nature's settled resolution."
+  },
+  {
+   "id": "walden-thoreau-038-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-039-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "'Truth changes with every viewpoint' loses the mountain's one absolute form behind many profiles."
+  },
+  {
+   "id": "walden-thoreau-042-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-042-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-042-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses the grass-as-green-stream imagery."
+  },
+  {
+   "id": "walden-thoreau-042-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-043-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the irony that atoning for past neglect is 'what we call doing our duty'."
+  },
+  {
+   "id": "walden-thoreau-043-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-043-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops needing to see our own limits transgressed and wild life beyond us."
+  },
+  {
+   "id": "walden-thoreau-043-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the town clerk and Tierra del Fuego / infernal fire turn."
+  },
+  {
+   "id": "walden-thoreau-043-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-044-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops others keeping his path open; compressed."
+  },
+  {
+   "id": "walden-thoreau-044-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops simplicity making laws less complex and solitude, poverty, weakness ceasing to be such."
+  },
+  {
+   "id": "walden-thoreau-044-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Shall a man go hang himself' softened to 'rather than despair'."
+  },
+  {
+   "id": "walden-thoreau-044-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the heaven of blue glass and not being shipwrecked on a vain reality."
+  },
+  {
+   "id": "walden-thoreau-044-p05",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops singleness of purpose and elevated piety as the source of his perennial youth."
+  },
+  {
+   "id": "walden-thoreau-044-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops being in two cases at once and regarding only facts in sane moments."
+  },
+  {
+   "id": "walden-thoreau-045-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'it looks poorest when you are richest' and the fault-finder in paradise."
+  },
+  {
+   "id": "walden-thoreau-045-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-045-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the philosopher's army saying and 'do not seek to be developed'."
+  },
+  {
+   "id": "walden-thoreau-045-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-045-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-045-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the Muse and 'you carrying on the work' of the universe."
+  },
+  {
+   "id": "walden-thoreau-045-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-045-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Drown out all our muskrats' interpreted as 'sweeps away all our old ways'."
+  },
+  {
+   "id": "walden-thoreau-045-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-046-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-046-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-046-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-046-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'wash his hands of it' and that the other man may pursue his contemplations too."
+  },
+  {
+   "id": "walden-thoreau-047-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops taking effectual steps to recover the full amount and never be cheated again."
+  },
+  {
+   "id": "walden-thoreau-047-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-047-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-047-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-047-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-047-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops money removing his moral ground and the hard question of how to spend it."
+  },
+  {
+   "id": "walden-thoreau-048-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the hard ending: one may overshadow and destroy the other."
+  },
+  {
+   "id": "walden-thoreau-049-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-049-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "walden-thoreau-049-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

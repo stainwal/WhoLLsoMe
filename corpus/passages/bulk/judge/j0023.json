@@ -1,0 +1,832 @@
+{
+ "judgements": [
+  {
+   "id": "tagore-stray-birds-002-p42",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p43",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p44",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p45",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p46",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p47",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p48",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p49",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p50",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p51",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p52",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p53",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p54",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'simple' from 'the simple meaning of thy whispers'."
+  },
+  {
+   "id": "tagore-stray-birds-002-p55",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p56",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p57",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p58",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p59",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p60",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p61",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p62",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p63",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p64",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p65",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p66",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p67",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p68",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p69",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p70",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p71",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p72",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p73",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p74",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p75",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p76",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p77",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p78",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p79",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p80",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p81",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p82",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p83",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p84",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p85",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tagore-stray-birds-002-p86",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-001-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition of repeatedly feeling the point; says sharpened points simply dull."
+  },
+  {
+   "id": "tao-001-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Renders 'five' hues, notes, flavours as 'too many', an interpretive shift."
+  },
+  {
+   "id": "tao-001-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops honour and calamity as personal conditions, and the definition of disgrace."
+  },
+  {
+   "id": "tao-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-001-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the speaker's desires not yet showing themselves, a key nuance."
+  },
+  {
+   "id": "tao-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that the grudge stays with the one who was wrong."
+  },
+  {
+   "id": "tao-004-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "tao-004-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-001-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition 'soul of the just man'; says any soul is God's paradise."
+  },
+  {
+   "id": "teresa-interior-castle-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops knowing of the soul only vaguely, from hearsay and doctrine."
+  },
+  {
+   "id": "teresa-interior-castle-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-003-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the assurance that perseverance brings great profit."
+  },
+  {
+   "id": "teresa-interior-castle-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the theriac merchant simile."
+  },
+  {
+   "id": "teresa-interior-castle-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-004-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing prayer that the soul may realise its danger."
+  },
+  {
+   "id": "teresa-interior-castle-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-004-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the merits of the Son and the Virgin's habit she wears."
+  },
+  {
+   "id": "teresa-interior-castle-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-005-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'for the love of God' and ignoring nature's weaknesses."
+  },
+  {
+   "id": "teresa-interior-castle-005-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-005-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-006-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Shifts 'let us' to a direct command to the reader."
+  },
+  {
+   "id": "teresa-interior-castle-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-006-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'Catholic' and the error of thinking only of God."
+  },
+  {
+   "id": "teresa-interior-castle-006-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the 'interior world' idea and taking good things for faults."
+  },
+  {
+   "id": "teresa-interior-castle-007-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the eating and sleeping point and longing for where none despise us."
+  },
+  {
+   "id": "teresa-interior-castle-007-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'knowing that God has prepared this rest for us'."
+  },
+  {
+   "id": "teresa-interior-castle-007-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that knowing these hidden secrets would greatly benefit us."
+  },
+  {
+   "id": "teresa-interior-castle-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-008-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-011-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the simile of the worm gnawing Jonas's ivy."
+  },
+  {
+   "id": "teresa-interior-castle-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-011-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses that God repays by increasing our love for Him."
+  },
+  {
+   "id": "teresa-interior-castle-011-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-012-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops motive 'because the Lord asks it', union of wills, and humility vexed by praise."
+  },
+  {
+   "id": "teresa-interior-castle-012-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops promise that God gives more than we know to desire."
+  },
+  {
+   "id": "teresa-interior-castle-012-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops begging the Lord for light to perceive gain or loss."
+  },
+  {
+   "id": "teresa-interior-castle-013-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops preferring quick martyrdom; generalises 'now usually sends' to 'often'."
+  },
+  {
+   "id": "teresa-interior-castle-013-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the soul praising God like a victor after battle."
+  },
+  {
+   "id": "teresa-interior-castle-013-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-015-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops explicit test that favours without humility are not from the Holy Spirit."
+  },
+  {
+   "id": "teresa-interior-castle-016-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the clay and the blind man healed by the Spouse."
+  },
+  {
+   "id": "teresa-interior-castle-016-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-016-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-018-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops heavenly water versus digging, contemplating our vileness, and the devil."
+  },
+  {
+   "id": "teresa-interior-castle-018-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-019-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-020-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-022-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-022-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'only misery and nothingness' to 'nothing good of ourselves'."
+  },
+  {
+   "id": "teresa-interior-castle-022-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-023-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-024-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-025-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-026-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "teresa-interior-castle-026-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that helping companions is better because we are more bound to it."
+  },
+  {
+   "id": "teresa-interior-castle-026-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

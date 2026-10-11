@@ -109,3 +109,23 @@ active = true
 
 [sources.walden-thoreau]
 active = true
+
+# Day 15 aphoristic additions (Corpus-Policy section 2.2; licence-checked 11 Oct 2026)
+
+[sources.tagore-stray-birds]
+active = true
+
+[sources.tagore-gitanjali]
+active = true
+
+[sources.tagore-sadhana]
+active = true
+
+[sources.gibran-madman]
+active = true
+
+[sources.gibran-forerunner]
+active = true
+
+[sources.gibran-sand-and-foam]
+active = true

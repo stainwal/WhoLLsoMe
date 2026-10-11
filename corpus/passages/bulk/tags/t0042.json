@@ -1,0 +1,2656 @@
+{
+ "tags": [
+  {
+   "id": "gibran-sand-and-foam-002-p74",
+   "feelings": [
+    "anger",
+    "resentment"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "humility and pride"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "judging others"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone quick to condemn another person, reminded how little they truly know of anyone."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p75",
+   "feelings": [
+    "frustration",
+    "resentment"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "challenging",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "true freedom"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A person feeling trapped by heavy obligations, finding freedom in how they bear the load."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p76",
+   "feelings": [
+    "despair",
+    "bitterness"
+   ],
+   "themes": [
+    "death and mortality",
+    "impermanence"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "life dancing on a grave"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who feels life is only pain, invited to see that life keeps renewing itself."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p77",
+   "feelings": [
+    "frustration",
+    "anxiety"
+   ],
+   "themes": [
+    "nature",
+    "acceptance and surrender"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "disorder longing for order"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A reader unsettled by conflict or chaos around them, seeing it as a reach toward order."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p78",
+   "feelings": [
+    "loneliness",
+    "sorrow"
+   ],
+   "themes": [
+    "solitude",
+    "character and growth"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "dead branches",
+    "living roots"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone going through a hard stretch alone who wants to see solitude as something that strengthens."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p79",
+   "feelings": [
+    "frustration",
+    "insecurity"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "the brook and the sea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone misunderstood by people on both sides, seeing that each judges from their own size."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p80",
+   "feelings": [
+    "insecurity",
+    "exhaustion"
+   ],
+   "themes": [
+    "beauty",
+    "work and duty"
+   ],
+   "situations": [
+    "overwork or burnout",
+    "unrecognised effort"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "ant and grasshopper"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "An artist or dreamer made to feel idle beside busy people, reminded that song has value too."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p81",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "humility and pride",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A reader proud of their standing, or doubting their worth, reminded that values differ across worlds."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p82",
+   "feelings": [
+    "awe",
+    "restlessness"
+   ],
+   "themes": [
+    "beauty",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "firefly and sun"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who has stopped noticing small wonders, invited to see beyond habitual measures."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p83",
+   "feelings": [
+    "dread",
+    "anxiety"
+   ],
+   "themes": [
+    "death and mortality",
+    "impermanence"
+   ],
+   "situations": [
+    "ageing",
+    "facing one's own death"
+   ],
+   "tone": [
+    "steadying",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "An older person, or someone fearing death, reminded that death and life are equally near to everyone."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p84",
+   "feelings": [
+    "anger",
+    "frustration"
+   ],
+   "themes": [
+    "truth and integrity",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "practical",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "candid beautifully"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone about to speak a harsh truth, urged to speak kindly or keep silent."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p85",
+   "feelings": [
+    "grief"
+   ],
+   "themes": [
+    "death and mortality",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)",
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "wedding feast among angels"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A grieving person wondering whether a death might be a joyful arrival elsewhere."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p86",
+   "feelings": [
+    "loneliness",
+    "insecurity"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "talking to ourselves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who feels unheard, reflecting on how all speech is partly speaking to oneself."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p87",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "the obvious"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A writer or thinker doubting the value of saying something simple that others overlook."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p88",
+   "feelings": [
+    "awe",
+    "insecurity"
+   ],
+   "themes": [
+    "the true self",
+    "nature"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "Milky Way within"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling small, reminded that what they can perceive lives within them."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p89",
+   "feelings": [
+    "discouragement",
+    "sorrow"
+   ],
+   "themes": [
+    "failure and adversity",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "uplifting",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "pearl",
+    "diamond"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone under pressure or pain, invited to see hardship as what forms something precious."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p90",
+   "feelings": [
+    "craving",
+    "pride"
+   ],
+   "themes": [
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "success and its temptations"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "fame as shadow"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A person chasing recognition, invited to see fame as a by-product of real passion."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p91",
+   "feelings": [
+    "insecurity",
+    "craving"
+   ],
+   "themes": [
+    "humility and pride",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "root and flower"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone doing quiet, unseen work that supports others, reassured that hidden roots matter."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p92",
+   "feelings": [
+    "awe"
+   ],
+   "themes": [
+    "beauty",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A reader moved by beauty, wondering what lies beneath both faith and knowledge."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p93",
+   "feelings": [
+    "insecurity",
+    "shame"
+   ],
+   "themes": [
+    "character and growth",
+    "self-worth"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "something small"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ashamed of a small flaw or quirk, reminded that great people have them too."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p94",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "self-mastery"
+   ],
+   "situations": [
+    "workplace conflict"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a power struggle at work or home, reminded that greatness neither dominates nor submits."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p95",
+   "feelings": [
+    "pride",
+    "resentment"
+   ],
+   "themes": [
+    "humility and pride",
+    "love"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "tolerance"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A person who prides themselves on tolerating others, asked whether it hides condescension."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p96",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "friendship"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone dreading or reeling from an argument, invited to see disagreement as a path to understanding."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p97",
+   "feelings": [
+    "restlessness",
+    "overwhelm"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "self-mastery"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "flame and dry brush"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone at war with themselves, recognising the inner conflict that consumes them."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p98",
+   "feelings": [
+    "regret",
+    "lostness"
+   ],
+   "themes": [
+    "the spiritual path",
+    "time and the present"
+   ],
+   "situations": [
+    "feeling directionless"
+   ],
+   "tone": [
+    "practical",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "past as chart"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone stuck repeating the past, encouraged to learn from it without being ruled by it."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p01",
+   "feelings": [
+    "pride",
+    "bitterness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A person who has grown serious or self-important, reminded that wisdom must weep and laugh."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p02",
+   "feelings": [
+    "pride",
+    "restlessness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "humility and pride"
+   ],
+   "situations": [
+    "exams or study pressure"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "room for not knowing"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling they must know everything, reminded that openness needs empty space."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p03",
+   "feelings": [
+    "resentment",
+    "anger"
+   ],
+   "themes": [
+    "character and growth",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "unkind teachers"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone hurt by difficult people, seeing how those people taught them patience and kindness."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p04",
+   "feelings": [
+    "envy",
+    "resentment"
+   ],
+   "themes": [
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone sensing silent envy from others, or noticing it in themselves."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p05",
+   "feelings": [
+    "restlessness",
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "the spiritual path"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "knowing and sensing"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A thinker who has reached the limit of reasoning, invited toward intuition."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p06",
+   "feelings": [
+    "anger",
+    "frustration"
+   ],
+   "themes": [
+    "truth and integrity"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone prone to overstating things in anger, or hurt by another's exaggeration."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p07",
+   "feelings": [
+    "restlessness",
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A reader who trusts only the obvious, invited to perceive more deeply."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p08",
+   "feelings": [
+    "anger",
+    "joy"
+   ],
+   "themes": [
+    "compassion and kindness"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "laughter"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling sharp toward another, reminded that laughter softens unkindness."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p09",
+   "feelings": [
+    "love",
+    "insecurity"
+   ],
+   "themes": [
+    "humility and pride",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "affirming",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who has lost status or money, seeing dignity in those who keep it without power."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p10",
+   "feelings": [
+    "shame",
+    "embarrassment"
+   ],
+   "themes": [
+    "failure and adversity",
+    "humility and pride"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "consoling",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ashamed of a failure, reminded that a modest failure outranks a boastful success."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p11",
+   "feelings": [
+    "discouragement",
+    "hope"
+   ],
+   "themes": [
+    "patience and perseverance",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "uplifting",
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "faith of a peasant"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tired of searching for something worthwhile, encouraged to keep digging with simple trust."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p12",
+   "feelings": [
+    "fear",
+    "anger"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "courage"
+   ],
+   "situations": [
+    "bullying or harassment"
+   ],
+   "tone": [
+    "affirming",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "hunted fox"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ganged up on or persecuted, finding dignity by seeing the meanness of their pursuers."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p13",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling confined by rules or systems, reminded that their spirit remains free."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p14",
+   "feelings": [
+    "restlessness",
+    "joy"
+   ],
+   "themes": [
+    "the true self",
+    "character and growth"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "navigator of the soul"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone curious about their inner life, encouraged that there is always more to discover in themselves."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p15",
+   "feelings": [
+    "grief",
+    "anger"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "death and mortality"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "righteous war"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A reader reflecting on how grief shapes what we believe about causes and wars."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p16",
+   "feelings": [
+    "dread",
+    "anxiety"
+   ],
+   "themes": [
+    "death and mortality",
+    "impermanence"
+   ],
+   "situations": [
+    "existential dread",
+    "facing one's own death"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "Life and Death speaking"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone curious or anxious about death, reminded that it is woven into life itself."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p17",
+   "feelings": [
+    "restlessness",
+    "awe"
+   ],
+   "themes": [
+    "death and mortality",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "existential dread"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "mysteries of life"
+   ],
+   "safety": "welcomes-death",
+   "safety_reason": "Presents longing for death as the natural response once life's mysteries are solved.",
+   "when_helps": "A seeker who has exhausted life's questions and wonders about death as the next mystery."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p18",
+   "feelings": [
+    "fear",
+    "dread"
+   ],
+   "themes": [
+    "courage",
+    "death and mortality"
+   ],
+   "situations": [
+    "pregnancy or a new baby",
+    "facing one's own death"
+   ],
+   "tone": [
+    "uplifting",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bravery"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone facing birth or death, theirs or a loved one's, reminded of the courage both require."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p19",
+   "feelings": [
+    "loneliness",
+    "longing"
+   ],
+   "themes": [
+    "friendship",
+    "love"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "mirror",
+    "listening"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling estranged from friends or themselves, longing for real understanding."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p20",
+   "feelings": [
+    "lostness",
+    "loneliness"
+   ],
+   "themes": [
+    "the true self",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "knowing oneself"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone trying to find themselves, encouraged to look outward toward others too."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p21",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ],
+   "themes": [
+    "the true self",
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone puzzled by their own divided nature, awake in some moments and asleep in others."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p22",
+   "feelings": [
+    "loneliness",
+    "restlessness"
+   ],
+   "themes": [
+    "solitude",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "contemplative",
+    "affirming"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "hermit"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone choosing to withdraw from busy life, seeing solitude as wholeness rather than loss."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p23",
+   "feelings": [
+    "lostness",
+    "insecurity"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "character and growth"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "scholar and poet"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A student or artist wondering how their kind of knowing could grow into wisdom."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p24",
+   "feelings": [
+    "bitterness",
+    "exhaustion"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "work and duty"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "wisdom for sale"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A thinker selling their ideas to get by, reflecting on what is lost when wisdom becomes trade."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p25",
+   "feelings": [
+    "pride",
+    "insecurity"
+   ],
+   "themes": [
+    "humility and pride",
+    "work and duty"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "challenging",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "street sweeper"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose work is looked down on, or who looks down on others' work."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p26",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "truth and integrity",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "listening"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A quiet listener who feels lesser than those who speak, reassured of their worth."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p27",
+   "feelings": [
+    "craving",
+    "guilt"
+   ],
+   "themes": [
+    "simplicity and enough"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "necessities and luxuries"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone torn over what they need versus want, freed from rigid self-judgement."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p28",
+   "feelings": [
+    "pride",
+    "gratitude"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "generosity"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone weighing how much to give or accept, reflecting on generosity and proud self-denial."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p29",
+   "feelings": [
+    "guilt",
+    "resentment"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "work and duty"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "owing all to all"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone keeping score of debts and favours, invited to see a wider belonging."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p30",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "death and mortality",
+    "family"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)",
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "ungracious host"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A grieving person sensing the dead are still present, encouraged to welcome them."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p31",
+   "feelings": [
+    "longing"
+   ],
+   "themes": [
+    "desire and attachment",
+    "purpose and meaning"
+   ],
+   "situations": [],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ashamed of their deep yearning, reminded that longing keeps life alive."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p32",
+   "feelings": [
+    "longing",
+    "restlessness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "desire and attachment"
+   ],
+   "situations": [
+    "facing a decision",
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bird in the bush"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone told to settle for the safe option, encouraged that the seeking itself is life."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p33",
+   "feelings": [
+    "awe",
+    "craving"
+   ],
+   "themes": [
+    "beauty",
+    "freedom and self-reliance"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone captivated by beauty, wondering about a beauty that frees rather than binds."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p34",
+   "feelings": [
+    "longing"
+   ],
+   "themes": [
+    "beauty",
+    "desire and attachment"
+   ],
+   "situations": [],
+   "tone": [
+    "affirming",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone yearning for beauty they lack, reminded that longing makes it shine brighter."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p35",
+   "feelings": [
+    "embarrassment",
+    "shame"
+   ],
+   "themes": [
+    "humility and pride",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "shy before servants"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone uneasy at being served by others, reflecting honestly on that discomfort."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p36",
+   "feelings": [
+    "pride"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "reputation and others' opinions"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A talented person deciding whom to serve, reflecting on how honour shifts with the times."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p37",
+   "feelings": [
+    "resentment",
+    "exhaustion"
+   ],
+   "themes": [
+    "work and duty",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "dreamer's brow"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A creative person whose ideas others profit from, reassured that their unseen labour is known."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p38",
+   "feelings": [
+    "insecurity",
+    "frustration"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "wit as mask"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who hides behind humour, or puzzles over a witty person, seeing what it may conceal."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p39",
+   "feelings": [
+    "loneliness",
+    "shame"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "secrets"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone carrying a private burden, recognising it lets them understand others' hidden pain."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p40",
+   "feelings": [
+    "loneliness",
+    "disappointment"
+   ],
+   "themes": [
+    "friendship",
+    "love"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "fair-weather friend"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone let down by friends who disappear in hard times, or tempted to do so themselves."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p41",
+   "feelings": [
+    "restlessness",
+    "contentment"
+   ],
+   "themes": [
+    "liberation and realisation",
+    "time and the present"
+   ],
+   "situations": [
+    "an ordinary day",
+    "parenting struggles"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "everyday nirvana"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone seeking spiritual fulfilment far away, reminded it lives in daily care and finished work."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p42",
+   "feelings": [
+    "sorrow",
+    "joy"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "acceptance and surrender"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone wondering why joy and sorrow come, invited to see them as chosen long before."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p43",
+   "feelings": [
+    "sorrow",
+    "grief"
+   ],
+   "themes": [
+    "loss and letting go",
+    "impermanence"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "consoling",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "wall between gardens"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in sadness, reminded that it separates but does not end the good on either side."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p44",
+   "feelings": [
+    "sorrow",
+    "joy"
+   ],
+   "themes": [
+    "the mind and thoughts"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone swept up in intense joy or grief, noticing how it narrows their world."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p45",
+   "feelings": [
+    "emptiness",
+    "longing"
+   ],
+   "themes": [
+    "desire and attachment",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "indifference"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling numb and indifferent, reminded that desire is part of being alive."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p46",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "loss and letting go",
+    "impermanence"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)",
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "memory of joy"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose present sorrow is sharpened by remembering happier days."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p47",
+   "feelings": [
+    "joy",
+    "guilt"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "desire and attachment"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "Supreme Poet"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone told they must renounce earthly joys for spiritual peace, affirmed in embracing both."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p48",
+   "feelings": [
+    "restlessness",
+    "lostness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "oasis of faith"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone trying to reason their way to faith, reminded it lives beyond thinking."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p49",
+   "feelings": [
+    "craving",
+    "restlessness"
+   ],
+   "themes": [
+    "desire and attachment",
+    "the spiritual path"
+   ],
+   "situations": [
+    "success and its temptations"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who has achieved much yet still hungers, reflecting on desire that renews itself."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p50",
+   "feelings": [
+    "anger",
+    "guilt"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "practical",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "secrets to the wind"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone angry that a secret spread, reminded where responsibility began."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p51",
+   "feelings": [
+    "frustration",
+    "insecurity"
+   ],
+   "themes": [
+    "patience and perseverance",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "turtles and hares"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling slow beside faster peers, reminded that slow travellers know the road best."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p52",
+   "feelings": [
+    "frustration",
+    "resentment"
+   ],
+   "themes": [
+    "character and growth",
+    "humility and pride"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone puzzled by a harsh, defensive person, seeing that hardness can hide weakness."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p53",
+   "feelings": [
+    "envy",
+    "insecurity"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "affirming",
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "renown and wealth"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone envious of inherited wealth or fame, invited to be grateful for being free of it."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p54",
+   "feelings": [
+    "envy",
+    "resentment"
+   ],
+   "themes": [
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone stung by an envious person's attitude, invited to see it as unwitting praise."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p55",
+   "feelings": [
+    "love",
+    "gratitude"
+   ],
+   "themes": [
+    "family",
+    "love"
+   ],
+   "situations": [
+    "pregnancy or a new baby"
+   ],
+   "tone": [
+    "uplifting",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "mother's dream"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A new parent, or someone thinking of their mother, reflecting on how wished-for they were."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p56",
+   "feelings": [
+    "regret",
+    "guilt"
+   ],
+   "themes": [
+    "family"
+   ],
+   "situations": [
+    "parenting struggles",
+    "family conflict"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A parent with mixed feelings about how their children turned out, honestly admitting it."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p57",
+   "feelings": [
+    "sorrow",
+    "emptiness"
+   ],
+   "themes": [
+    "acceptance and surrender",
+    "truth and integrity"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "companioning",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "I am still dark"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a low mood who feels pressure to pretend otherwise, given permission to be honest."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p58",
+   "feelings": [
+    "insecurity",
+    "sorrow"
+   ],
+   "themes": [
+    "the true self",
+    "self-worth"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "oak in the rain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a passing low state, reminded that it does not change who they are."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p59",
+   "feelings": [
+    "disappointment",
+    "loneliness"
+   ],
+   "themes": [
+    "love",
+    "the true self"
+   ],
+   "situations": [
+    "relationship trouble",
+    "breakup or divorce"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "mirror"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who suspects they were loved only as a reflection of the other person."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p60",
+   "feelings": [
+    "pride",
+    "joy"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "character and growth"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who takes pride in their goodness, reflecting on what makes kindness a virtue."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p61",
+   "feelings": [
+    "disappointment",
+    "longing"
+   ],
+   "themes": [
+    "love",
+    "impermanence"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "springing love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a relationship that feels stale, reminded that love must be renewed to live."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p62",
+   "feelings": [
+    "regret",
+    "longing"
+   ],
+   "themes": [
+    "time and the present",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "ageing"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "youth"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone looking back on their youth, or a young person told to appreciate it, reflecting on the paradox."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p63",
+   "feelings": [
+    "resentment",
+    "shame"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "discrimination or prejudice",
+    "something I did wrong"
+   ],
+   "tone": [
+    "challenging",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "nun and prostitute"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone quick to judge others' worth, or judged harshly themselves, reminded of the divine in all."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p64",
+   "feelings": [
+    "sorrow",
+    "anger"
+   ],
+   "themes": [
+    "courage",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "two hearts"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone hurting but holding back from retaliation, seeing strength in that restraint."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p65",
+   "feelings": [
+    "anger",
+    "frustration"
+   ],
+   "themes": [
+    "truth and integrity",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "harmless lies"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone irritated by a person's harmless fibs, invited to treat them with gentle humour."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p66",
+   "feelings": [
+    "restlessness",
+    "awe"
+   ],
+   "themes": [
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "closed door"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A curious reader reflecting on the hidden lives behind every closed door."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p67",
+   "feelings": [
+    "anxiety",
+    "restlessness"
+   ],
+   "themes": [
+    "time and the present",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "worry about the future"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "waiting"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone stuck waiting for news or change, reflecting on how waiting carries time forward."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p68",
+   "feelings": [
+    "discouragement",
+    "anxiety"
+   ],
+   "themes": [
+    "failure and adversity",
+    "character and growth"
+   ],
+   "situations": [
+    "career setback or feeling stuck",
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "window in the Eastern wall"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone facing trouble, invited to wonder whether it might open a new view."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p69",
+   "feelings": [
+    "loneliness",
+    "sorrow"
+   ],
+   "themes": [
+    "friendship",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "companioning",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "weeping together"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who shared grief with another, or needs to, seeing how deep that bond runs."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p70",
+   "feelings": [
+    "sorrow",
+    "awe"
+   ],
+   "themes": [
+    "nature",
+    "faith and the sacred"
+   ],
+   "situations": [],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "salt",
+    "tears and sea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in tears, finding something sacred in their sorrow."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p71",
+   "feelings": [
+    "insecurity",
+    "emptiness"
+   ],
+   "themes": [
+    "the true self"
+   ],
+   "situations": [
+    "questions of identity",
+    "self-doubt"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "giant self"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling small and driven by needs, reminded of the larger self they belong to."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p72",
+   "feelings": [
+    "resentment",
+    "pride"
+   ],
+   "themes": [
+    "the true self",
+    "humility and pride"
+   ],
+   "situations": [
+    "discrimination or prejudice"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "above race and country"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone caught in tribal or national division, invited to rise above it."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p73",
+   "feelings": [
+    "anxiety",
+    "fear"
+   ],
+   "themes": [
+    "acceptance and surrender",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "worry about the future"
+   ],
+   "tone": [
+    "steadying",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "low tide",
+    "able Captain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone anxious during a downturn, reassured that the ship is sound and their unease will pass."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p74",
+   "feelings": [
+    "longing",
+    "craving"
+   ],
+   "themes": [
+    "desire and attachment"
+   ],
+   "situations": [
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who values what they lack over what they have, reflecting on that pull."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p75",
+   "feelings": [
+    "resentment",
+    "bitterness"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "discrimination or prejudice",
+    "family conflict"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "boundary lines"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone caught up in borders and disputes, invited to see from a height where they vanish."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p76",
+   "feelings": [
+    "anger",
+    "embarrassment"
+   ],
+   "themes": [
+    "truth and integrity",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "bullying or harassment"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "seven doves",
+    "rumour"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone hurt by gossip that grew from a small remark, seeing how rumours distort."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p77",
+   "feelings": [
+    "grief",
+    "sorrow"
+   ],
+   "themes": [
+    "loss and letting go",
+    "character and growth"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "consoling",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "buried sorrows",
+    "garden"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone carrying sorrow, given hope that buried grief can grow into something others value."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p78",
+   "feelings": [
+    "loneliness",
+    "despair"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "full hand"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone with much to give who finds no one to receive it, feeling unseen."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p79",
+   "feelings": [
+    "longing",
+    "regret"
+   ],
+   "themes": [
+    "death and mortality",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "unwritten poems"
+   ],
+   "safety": "welcomes-death",
+   "safety_reason": "Expresses longing for eternity beyond death as the place of fulfilment.",
+   "when_helps": "An artist grieving unfinished work, longing for a place where it might be fulfilled."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p80",
+   "feelings": [
+    "awe"
+   ],
+   "themes": [
+    "beauty",
+    "faith and the sacred"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "art"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "An artist or art lover reflecting on why making art feels like reaching for something infinite."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p81",
+   "feelings": [
+    "restlessness",
+    "discouragement"
+   ],
+   "themes": [
+    "work and duty",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "idle hands"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone drifting in idleness, urged that any work is better than none."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p82",
+   "feelings": [
+    "sorrow",
+    "grief"
+   ],
+   "themes": [
+    "faith and the sacred"
+   ],
+   "situations": [],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "sacred tears"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose deepest grief has no outward tears, reassured it is still real."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p83",
+   "feelings": [
+    "insecurity",
+    "pride"
+   ],
+   "themes": [
+    "humility and pride",
+    "self-worth"
+   ],
+   "situations": [
+    "discrimination or prejudice"
+   ],
+   "tone": [
+    "steadying",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "kings and slaves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ashamed of their origins, or proud of them, reminded that all share the same descent."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p84",
+   "feelings": [
+    "grief",
+    "shame"
+   ],
+   "themes": [
+    "family",
+    "love"
+   ],
+   "situations": [
+    "parenting struggles",
+    "something I did wrong"
+   ],
+   "tone": [
+    "consoling",
+    "challenging"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "Judas' mother"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A parent whose child has done wrong, reminded that their love is no less real."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p85",
+   "feelings": [
+    "awe",
+    "love"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "courage"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "Brother Jesus"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A Christian reader seeking a more human, approachable picture of Jesus."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p86",
+   "feelings": [
+    "sorrow",
+    "love"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "suffering and its causes"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "Golgotha"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A believer who feels Christ's suffering as their own and wonders who sees it."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p87",
+   "feelings": [
+    "pride",
+    "longing"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "liberation and realisation"
+   ],
+   "situations": [
+    "success and its temptations"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "Blessed Mountain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who has reached the top, reminded that the summit's gift is the wish to serve below."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p88",
+   "feelings": [
+    "restlessness",
+    "guilt"
+   ],
+   "themes": [
+    "truth and integrity",
+    "work and duty"
+   ],
+   "situations": [],
+   "tone": [
+    "practical",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "thoughts into deeds"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone full of ideas or words who needs to act on them."
+  }
+ ]
+}

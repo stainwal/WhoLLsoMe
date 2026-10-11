@@ -33,3 +33,17 @@ Usage readings (read by Claude via the app's usage API) and dispatch events. Ses
 - '<j>' markup: 191 SuttaCentral units contain it; an-010..027 helper skipped verses containing it (e.g. 013473, 014031). Follow-up: fix the SuttaCentral parser, re-normalise, re-extract affected chunks.
 - Likely over-cut: rumi-masnavi-whinfield-019-p06 (Sufi 'seek annihilation' = ego-death, not suicide) tagged endorses-suicide by tie-break rule.
 | 8 Oct 01:12 | Run complete: 1,720/1,720 chunks, 5,029 passages, all tagged | see log | see log |
+
+## Day 15 run (11 Oct 2026): new sources, enrichment pass, plain-version judge
+
+| Time (IST) | Event | Session | Weekly |
+| --- | --- | --- | --- |
+| 11 Oct 22:21 | Before run (session start reading) | 15% | 22% |
+| 11 Oct 22:31 | 4 extraction helpers launched on the six Tagore/Gibran sources (32 chunks, 75,448 words) | 18% | 23% |
+| 11 Oct 22:41 | Extraction done: 32 chunks, 613 passages, 613 exact (0 rejected). 5 tag helpers (t0038–t0042, 613 passages) and 5 enrichment helpers (e0001–e0005, 800 passages) launched | 23% | 23% |
+
+**Budget for the Day 15 run (CLAUDE.md section 4.3).** Estimate before the run: new sources about 1% weekly (75k words, extraction and tagging); enrichment about 4–7% (5,500 passages; each helper reads the passage plus about 150 words of following text and writes about 60 words; 35 helpers of 160); judge about 2–4% (5,500 passage-plus-plain pairs, 28 helpers of 200). Total 8–12% of the weekly limit, under the default 15% cap, leaving more than 60% of the week unused. Shailesh asked for the run to go unattended (11 Oct), so the default budget applies: stop if weekly passes 38% (23% + 15%).
+| 11 Oct 23:17 | Tagging of the new sources done (613, 0 validity problems; 10 welcomes-death, 0 cut); corpus merged and deduplicated: 5,540 shown. Enrichment: 13 batches verified (2,080 passages), 8 running; judge batch j0001 done (168 fives, 32 fours) | 13% (new window) | 26% |
+| 12 Oct 00:52 | Run complete: 5,540 passages enriched (35 batches) and judged (28 batches, j0001 re-judged with the same wording as the rest); 28 verbatim extensions, 88 display fixes accepted, 26 rejected | 48% | 32% |
+
+**Estimated vs actual:** estimate 8–12% of the weekly limit; actual **9 points** (23% → 32%) for the six new sources (extraction and tagging, 75k words), the enrichment pass and the judge together. Ninety-nine helpers in all, each about 100–140k tokens, mostly cached prompt overhead. Wall-clock about 2 h 20 min with 10 helpers in parallel.

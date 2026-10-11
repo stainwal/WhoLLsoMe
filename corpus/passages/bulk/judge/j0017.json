@@ -1,0 +1,1204 @@
+{
+"judgements": [
+{
+"id": "seneca-035-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'let the man rejoice in what is truly his own'."
+},
+{
+"id": "seneca-035-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-035-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Bad cultivator 'lets weeds take over' rather than killing the divine seeds."
+},
+{
+"id": "seneca-036-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-036-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-037-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Compressed; drops that losses make one neither happier nor more wretched."
+},
+{
+"id": "seneca-037-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-037-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops explicit conclusion that confined virtue is equally happy."
+},
+{
+"id": "seneca-037-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-037-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-037-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-037-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-038-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-038-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-038-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-038-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that the toil wins all goods at a single stroke."
+},
+{
+"id": "seneca-039-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-039-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-039-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Adds 'during a long illness', context not in the passage."
+},
+{
+"id": "seneca-040-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-040-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-041-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Loses nuance that being hidden is no loss; posterity's praise unfelt."
+},
+{
+"id": "seneca-042-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-042-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-043-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Recasts the give-outright vs assist, save vs set-up contrast loosely."
+},
+{
+"id": "seneca-043-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-043-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-043-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-044-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops judging by nature not reputation, and the public-individual error cycle."
+},
+{
+"id": "seneca-044-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-044-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-044-p04",
+"faithful": 4,
+"advice": false,
+"issue": "'With dignity' loses the point: exile borne as if he were the one sentencing."
+},
+{
+"id": "seneca-044-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-045-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-045-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that God enters our thoughts as one who may at any time depart."
+},
+{
+"id": "seneca-045-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-045-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-045-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-046-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-046-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-046-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-047-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-047-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-047-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-047-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-048-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that we should suffer all things to keep our liberty."
+},
+{
+"id": "seneca-048-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-048-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-049-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-049-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-049-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-050-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-050-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-050-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-051-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-051-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-051-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-051-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-052-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-052-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-052-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-053-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-053-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-053-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-053-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-054-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-054-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-055-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops condemning false opinions and remorseful pleasures; compressed."
+},
+{
+"id": "seneca-055-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-055-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-056-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-057-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-057-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-057-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-057-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-058-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-058-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-058-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-058-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-058-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-059-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-059-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-060-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-060-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-061-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-062-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-062-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-063-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-063-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-063-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-063-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-063-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-064-p07",
+"faithful": 4,
+"advice": false,
+"issue": "Drops resolve to meet nothing with ill humour and never seek to escape."
+},
+{
+"id": "seneca-064-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-065-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-066-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-067-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-068-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-069-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-069-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-069-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-069-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the contrast that old age otherwise permits less care for self-preservation."
+},
+{
+"id": "seneca-070-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-070-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-071-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'My Father' and suffering in sin what could be done in virtue."
+},
+{
+"id": "seneca-072-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "seneca-072-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+}
+]
+}

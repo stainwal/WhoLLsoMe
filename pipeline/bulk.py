@@ -35,6 +35,9 @@ MANIFEST, CLAIMS = RUN / "manifest.json", RUN / "claims.json"
 OVERRIDES = RUN / "overrides.json"
 # Written by pipeline/dedup.py: {pid: {"status": "dup", "dup_of": ..., "why": ...} or {"near_group": ...}}
 DUPLICATES = RUN / "duplicates.json"
+# Written by pipeline/enrich.py verify (Day 15): {pid: {plain, core_idea, quotability, complete,
+#   extension?: {text, end_uid, words}, fix?: {display_text, reason}, judge?: {faithful, advice, issue}}}
+ENRICHMENT = RUN / "enrichment.json"
 PILOT = ROOT / "corpus" / "passages" / "pilot"
 CLAIM_TTL = 90 * 60
 WORDS = 2500
@@ -63,6 +66,9 @@ TIER2 = [(s, None, s) for s in [
     "augustine-confessions-pusey", "aristotle-ethics"]]
 TIER4 = [(s, None, s) for s in ["teresa-way-of-perfection", "brother-lawrence",
                                 "rumi-masnavi-whinfield", "american-indian-stories-zitkala"]]
+# Day 15 aphoristic additions (Corpus-Policy section 2.2), tier 5: extracted after the v1 freeze.
+TIER5 = [(s, None, s) for s in ["tagore-stray-birds", "tagore-gitanjali", "tagore-sadhana",
+                                "gibran-madman", "gibran-forerunner", "gibran-sand-and-foam"]]
 NIKAYAS = [("Long Discourses (Digha Nikaya)", "dn"), ("Middle Discourses (Majjhima Nikaya)", "mn"),
            ("Linked Discourses (Samyutta Nikaya)", "sn"), ("Numbered Discourses (Anguttara Nikaya)", "an")]
 
@@ -98,7 +104,7 @@ def prep():
     for d in (CHUNKS, EXTRACT, TAG_IN, TAGS):
         d.mkdir(parents=True, exist_ok=True)
     plan = [(1, *x) for x in TIER1] + [(2, *x) for x in TIER2] + \
-           [(3, *x) for x in tier3()] + [(4, *x) for x in TIER4]
+           [(3, *x) for x in tier3()] + [(4, *x) for x in TIER4] + [(5, *x) for x in TIER5]
     cache, chunks = {}, []
     for tier, src, flt, prefix in plan:
         if not is_active(src):
@@ -256,9 +262,12 @@ def tagbatches(n, size):
 
 def display_text(text):
     """What the app shows. Removes file apparatus, never a word of the translation:
-    SuttaCentral <j> verse indents; Gutenberg _italics_ underscores; a quotation mark whose
-    partner lies outside the passage; and a lower-case first letter after a cut at a colon."""
+    SuttaCentral <j> verse indents; Gutenberg _italics_ underscores; the WEB apocrypha's ⌃
+    plural marker; a quotation mark whose partner lies outside the passage; and a lower-case
+    first letter after a cut at a colon."""
     t = text.replace("<j>", "")
+    t = t.replace("\u2303", "")        # Brenton apocrypha plural-"you" marker in the WEB files (found Day 15)
+    t = t.replace("<em>", "").replace("</em>", "")   # SuttaCentral emphasis tags (found Day 15)
     if "_" in t:
         t = t.replace("_", "")
     o, c = t.count("\u201c"), t.count("\u201d")
@@ -292,6 +301,7 @@ def merge():
     per_src = defaultdict(list)
     overrides = jload(OVERRIDES, {})
     duplicates = jload(DUPLICATES, {})
+    enrichment = jload(ENRICHMENT, {})
     for p in checked_passages():
         t = tags.get(p["pid"])
         if t:
@@ -310,6 +320,20 @@ def merge():
         # `text` stays exactly as matched against the source; the app shows `display_text`, which drops
         # file apparatus that is not the translator's words (Decision 8 Oct 2026; extended 9 Oct):
         p["display_text"] = display_text(p["text"])
+        # Enrichment (Corpus-Policy section 7, step 7): a verified verbatim extension replaces the text,
+        # an AI display fix is applied (Shailesh's overrides below still win), and the plain version,
+        # core idea, quotability and judge score are stored with the passage.
+        e = enrichment.get(p["pid"])
+        if e:
+            if "extension" in e:
+                p["text"], p["end_uid"], p["words"] = e["extension"]["text"], e["extension"]["end_uid"], e["extension"]["words"]
+                p["display_text"], p["extended"] = display_text(p["text"]), True
+            if "fix" in e:
+                p["display_text"], p["display_fix"] = e["fix"]["display_text"], e["fix"]["reason"]
+            p["plain"], p["core_idea"] = e["plain"], e["core_idea"]
+            p["quotability"], p["complete"] = e["quotability"], e["complete"]
+            if "judge" in e:
+                p["plain_judge"] = {k: e["judge"][k] for k in ("faithful", "advice", "issue")}
         if p["pid"] in overrides:
             ov = overrides[p["pid"]]
             if "status" in ov:
@@ -349,7 +373,7 @@ def merge():
             lines.append("")
     (RUN / "cuts.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"merged {sum(map(len, per_src.values()))} passages over {len(per_src)} sources; "
-          f"{len(tags)} tagged; tag validity problems: {sum(problems.values())}")
+          f"{len(tags)} tagged; tag validity problems: {sum(problems.values())}; enriched: {len(enrichment)}")
     for k, v in problems.most_common(8):
         print(f"   {v:>3} x {k}")
 

@@ -11,9 +11,9 @@ The ancient text is never the copyright problem; the translation is.
 - **Never:** anonymous or unattributed translations; anything under an NC or ND licence; commercially active famous translations (Mitchell, Barks, Peers, Easwaran, Hays, Blakney). Exception: *Way of Perfection* in the Peers translation, kept on Shailesh's call (7 Oct 2026, `Decisions.md`).
 - **Rejected sources, don't re-propose:** Alan Watts (his estate licenses his work commercially; rejected 11 Oct), Carl Jung, Zen classics, *Black Elk Speaks*, the "Chief Seattle speech", the "Prayer of St Francis", *Man's Search for Meaning*, *Desiderata*, Bahá'í writings, the nitnemsahib.com Japji.
 
-## 2. Sources in v1 (33)
+## 2. Sources in v1 (39)
 
-All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral is a JSON tree, so its count includes markup. **Which sources are in use is set in `../pipeline/sources.toml`**: switching one off there removes it from every pipeline step and from the app, without deleting anything.
+All folders in `../corpus/source/`. The first 33 were frozen as corpus v1 on 9 Oct 2026; the six Tagore and Gibran works were added on Day 15 (11 Oct, section 2.2). Word counts from the manifest; SuttaCentral is a JSON tree, so its count includes markup. **Which sources are in use is set in `../pipeline/sources.toml`**: switching one off there removes it from every pipeline step and from the app, without deleting anything.
 
 | Folder | Tradition | Work | Translator | Licence | Words |
 | --- | --- | --- | --- | --- | --- |
@@ -50,6 +50,12 @@ All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral 
 | schopenhauer-wisdom-of-life | Modern West | The Wisdom of Life | T. Bailey Saunders, 1890 | US PD | 41,433 |
 | schopenhauer-counsels-maxims | Modern West | Counsels and Maxims | T. Bailey Saunders, 1890 | US PD | 48,768 |
 | as-a-man-thinketh-allen | Modern West | As a Man Thinketh | James Allen (original English) | US PD | 10,601 |
+| tagore-stray-birds | Modern India | Stray Birds | Rabindranath Tagore (his own English), 1916 | US PD | 8,956 |
+| tagore-gitanjali | Modern India | Gitanjali (Song Offerings) | Rabindranath Tagore (his own English), 1912 | US PD | 17,561 |
+| tagore-sadhana | Modern India | Sādhanā: The Realisation of Life | Rabindranath Tagore (original English), 1913 | US PD | 40,344 |
+| gibran-madman | Sufism-adjacent | The Madman: His Parables and Poems | Kahlil Gibran (original English), 1918 | US PD | 10,123 |
+| gibran-forerunner | Sufism-adjacent | The Forerunner: His Parables and Poems | Kahlil Gibran (original English), 1920 | US PD | 10,321 |
+| gibran-sand-and-foam | Sufism-adjacent | Sand and Foam: A Book of Aphorisms | Kahlil Gibran (original English), 1926 | US PD (published before 1931) | 8,021 |
 
 ### 2.1 Excluded on purpose
 
@@ -57,19 +63,19 @@ All folders in `../corpus/source/`. Word counts from the manifest; SuttaCentral 
 - **gita-besant-das:** OCR quality unusable; superseded by Sivananda.
 - **Phase 2 (not yet acquired):** Dark Night of the Soul (David Lewis only), Macauliffe *Sikh Religion* selections, Epicurus (Hicks), Curtis *The Indians' Book*.
 
-### 2.2 Aphoristic additions (11 Oct, pending licence check)
+### 2.2 Aphoristic additions (11 Oct; licence-checked the same day)
 
-Added because short, immediately graspable passages land best (Day 5 review). Each is checked for US public-domain status (published before 1931) and a clean source text before extraction; any that fails is dropped without discussion.
+Added because short, immediately graspable passages land best (Day 5 review). Each was checked for US public-domain status (published before 1931) and a clean source text before extraction; any that failed was dropped without discussion. Six passed; the Gracián failed on text quality. Provenance is in `../corpus/manifest.md`.
 
-| Work | Author | First published |
-| --- | --- | --- |
-| *Stray Birds* | Rabindranath Tagore (his own English) | 1916 |
-| *Sādhanā* | Rabindranath Tagore | 1913 |
-| *Gitanjali* | Rabindranath Tagore (his own English) | 1912 |
-| *Sand and Foam* | Kahlil Gibran | 1926 |
-| *The Madman* | Kahlil Gibran | 1918 |
-| *The Forerunner* | Kahlil Gibran | 1920 |
-| *The Art of Worldly Wisdom* | Baltasar Gracián, tr. Joseph Jacobs | 1892 |
+| Work | Author | First published | Check (11 Oct 2026) |
+| --- | --- | --- | --- |
+| *Stray Birds* | Rabindranath Tagore (his own English) | 1916 | Passed: Project Gutenberg #6524 |
+| *Sādhanā* | Rabindranath Tagore | 1913 | Passed: Project Gutenberg #6842 |
+| *Gitanjali* | Rabindranath Tagore (his own English) | 1912 | Passed: Project Gutenberg #7164; Yeats's introduction left out |
+| *Sand and Foam* | Kahlil Gibran | 1926 | Passed: Wikisource transcription of the Knopf printing, validated March 2022; public domain in the US since 1 Jan 2022 |
+| *The Madman* | Kahlil Gibran | 1918 | Passed: Project Gutenberg #5616 |
+| *The Forerunner* | Kahlil Gibran | 1920 | Passed: Project Gutenberg #54580 |
+| *The Art of Worldly Wisdom* | Baltasar Gracián, tr. Joseph Jacobs | 1892 | **Dropped.** Public domain, but no clean text exists: only archive.org OCR scans (about 1 word in 80 garbled, 400 broken line-ends). Parked |
 
 ## 3. Credits shown in the app
 
@@ -77,7 +83,7 @@ Added because short, immediately graspable passages land best (Day 5 review). Ea
 - **Pirkei Avot:** "Mishnah Yomit by Dr. Joshua Kulp", with a link to Sefaria (CC-BY requires it).
 - **Gita (Sivananda):** "Translation by Swami Sivananda" (GRAY).
 - **World English Bible:** credit as "World English Bible"; follow ebible.org's naming guidance (the name is a trademark; the text is free).
-- An About page lists all 33 sources with translators.
+- An About page lists all 39 sources with translators.
 
 ## 4. Extraction rules
 

@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "bib-2samuel-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2samuel-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2thessalonians-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2thessalonians-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2timothy-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2timothy-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-2timothy-001-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the purpose that all the Gentiles might hear."
+  },
+  {
+   "id": "bib-3john-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-3john-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-3maccabees-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-3maccabees-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-4maccabees-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-4maccabees-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-4maccabees-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-4maccabees-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-acts-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'with one accord' and steadfast continuance; small loss of nuance."
+  },
+  {
+   "id": "bib-acts-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-acts-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-acts-006-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses heavily: drops 'one blood', appointed seasons, 'move and have our being'."
+  },
+  {
+   "id": "bib-acts-007-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops testifying to the Good News of God's grace; looser on 'bound by the Spirit'."
+  },
+  {
+   "id": "bib-acts-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-amos-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-amos-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-amos-001-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'that never stops', not in this translation."
+  },
+  {
+   "id": "bib-amos-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-baruch-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-baruch-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-baruch-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-baruch-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds Jerusalem-as-mother speaker, which the passage itself does not name."
+  },
+  {
+   "id": "bib-colossians-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-colossians-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops lowliness, the complaint condition and 'called in one body'."
+  },
+  {
+   "id": "bib-colossians-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-colossians-001-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'inheritance' from the reward."
+  },
+  {
+   "id": "bib-colossians-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-daniel-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'knowledge to those who have understanding'."
+  },
+  {
+   "id": "bib-daniel-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'we have no need to answer you' and the conditional 'if it happens'."
+  },
+  {
+   "id": "bib-daniel-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-daniel-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-003-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops testing what was in their heart, whether they would keep commandments."
+  },
+  {
+   "id": "bib-deuteronomy-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-009-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'the sights which your eyes will see'."
+  },
+  {
+   "id": "bib-deuteronomy-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-010-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'length of days' and the promised land sworn to the fathers."
+  },
+  {
+   "id": "bib-deuteronomy-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-deuteronomy-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops several pairs, including the hard 'time to kill, time to heal'."
+  },
+  {
+   "id": "bib-ecc-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p08",
+   "faithful": 2,
+   "advice": false,
+   "issue": "Says he never asks whom he works for; in the passage he does ask."
+  },
+  {
+   "id": "bib-ecc-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-001-p10",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops owner only feasting his eyes, and 'whether he eats little or much'."
+  },
+  {
+   "id": "bib-ecc-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds a causal 'So' linking universal sin to not heeding gossip."
+  },
+  {
+   "id": "bib-ecc-002-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops white garments, oil, 'your portion', and Sheol 'where you are going'."
+  },
+  {
+   "id": "bib-ecc-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ecc-002-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ephesians-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ephesians-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ephesians-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ephesians-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-esther(greek)-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-esther(greek)-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-esther-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops God's claim to make people mute, deaf, seeing or blind."
+  },
+  {
+   "id": "bib-exodus-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-exodus-011-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens visiting fathers' iniquity on children to third and fourth generation into vague 'consequences'."
+  },
+  {
+   "id": "bib-ezekiel-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'abandoned newborn' framing not in the passage; drops the repeated command."
+  },
+  {
+   "id": "bib-ezekiel-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-005-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loosens 'turns from all his sins and keeps all my statutes' to 'does right'."
+  },
+  {
+   "id": "bib-ezekiel-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-010-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Turns shepherds into 'leaders' and drops the rhetorical 'shouldn't shepherds feed the sheep?'."
+  },
+  {
+   "id": "bib-ezekiel-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezekiel-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezra-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezra-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ezra-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-galatians-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-galatians-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-galatians-001-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Turns 'be careful that you don't consume one another' warning into a flat prediction."
+  },
+  {
+   "id": "bib-galatians-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-galatians-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-galatians-001-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops self-deception of thinking oneself something, and boasting in oneself."
+  },
+  {
+   "id": "bib-galatians-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-011-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'His father wept for him'."
+  },
+  {
+   "id": "bib-genesis-012-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-012-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-013-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-014-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-genesis-015-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'dead' father, context the passage itself does not state."
+  },
+  {
+   "id": "bib-genesis-015-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Am I in the place of God?' flattened to 'he was not God'; loses the point about judging."
+  },
+  {
+   "id": "bib-habakkuk-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-habakkuk-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-habakkuk-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-haggai-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-003-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'despising its shame', 'author and perfecter of faith', and Jesus seated at God's right hand."
+  },
+  {
+   "id": "bib-hebrews-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hebrews-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hosea-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the 'two days... third day' revival and 'let us acknowledge Yahweh'."
+  },
+  {
+   "id": "bib-hosea-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-hosea-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-002-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'the people boasted', a framing the passage itself does not state."
+  },
+  {
+   "id": "bib-isaiah-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-003-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Shifts direct address to third person; drops 'who laid the nations low'."
+  },
+  {
+   "id": "bib-isaiah-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-006-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'neither have the inhabitants of the world fallen'."
+  },
+  {
+   "id": "bib-isaiah-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-007-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'A man' generalised to 'each person', loosening who is meant."
+  },
+  {
+   "id": "bib-isaiah-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-007-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-007-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-008-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens 'God will come with vengeance, God's retribution' to 'set things right'."
+  },
+  {
+   "id": "bib-isaiah-008-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds Hezekiah's illness as context; drops shepherd's tent and 'you will make an end of me'."
+  },
+  {
+   "id": "bib-isaiah-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-009-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'his reward is with him, and his recompense before him'."
+  },
+  {
+   "id": "bib-isaiah-009-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'run and not be weary, walk and not faint' and strength to the mightless."
+  },
+  {
+   "id": "bib-isaiah-009-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-009-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'in whom my soul delights' and 'he will faithfully bring justice'."
+  },
+  {
+   "id": "bib-isaiah-009-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-009-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-010-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-isaiah-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

@@ -1,0 +1,605 @@
+{
+ "items": [
+  {
+   "id": "teresa-interior-castle-003-p05",
+   "plain": "You may think you could bear outward troubles if God gave you inner comfort, but God knows what is good for us; it is not our place to advise Him, since we do not know what we ask.",
+   "core_idea": "God knows our good better than we do.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-004-p01",
+   "plain": "If you sometimes fall into sin, do not lose heart or stop trying to move forward, because God can bring good even out of our falls.",
+   "core_idea": "God draws good even from our failures.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-004-p02",
+   "plain": "What trouble is worse than the trouble inside us? If we have no peace within, where else could we expect to find it?",
+   "core_idea": "Peace must be found within, not elsewhere.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-004-p03",
+   "plain": "If you have let go of the habit of inward prayer, the only cure is to start again; otherwise the soul loses it a little more each day.",
+   "core_idea": "A lapsed spiritual habit is cured by restarting.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-004-p04",
+   "plain": "Life in this world is miserable: we are like people with enemies at the door, who can never put down their weapons, even to sleep or eat, always afraid of a breach.",
+   "core_idea": "Life is constant watchfulness against inner enemies.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-004-p05",
+   "plain": "God knows I can rely on nothing but His mercy. Since I cannot undo the past, my only remedy is to run to Him and trust in His Son and the Virgin Mary.",
+   "core_idea": "The past cannot be undone; only mercy remains.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p01",
+   "plain": "Where there is real humility, even if God never gives feelings of comfort in prayer, He gives a peace and acceptance that make the soul happier than those who have such feelings.",
+   "core_idea": "Humility brings peace beyond felt consolation.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p02",
+   "plain": "A rich man with no heirs loses part of his wealth yet still has plenty. If he grieves as though he were reduced to begging, how could God ask him to give up everything?",
+   "core_idea": "Clinging to small losses shows how attached we are.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p03",
+   "plain": "What matters is not whether we wear religious dress but whether we live the virtues and give our will over to God's in everything. Our aim should be to do His will, not ask for ours.",
+   "core_idea": "Virtue and surrender matter, not outward religious signs.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p04",
+   "plain": "Humility is the balm for our wounds. If we have it, God, our doctor, will come and heal us, even if He delays for a while.",
+   "core_idea": "Humility lets God heal our wounds.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p05",
+   "plain": "When caution rules everything we do, everything holds us back; fear stops our progress, as if someone else could make the inner journey for us. So let us push ourselves, leaving our reasoning and fears with God.",
+   "core_idea": "Excessive caution blocks spiritual progress.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p06",
+   "plain": "Those who do not feel comfort in prayer need not be discouraged, because perfection is not about comfort but about greater love; our reward will match that love and the honesty of our actions.",
+   "core_idea": "Perfection lies in love, not in consolation.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-005-p07",
+   "plain": "It does matter whether you seek these graces. But if you are not at fault, God is fair: what He withholds one way He will give another, in His mysterious ways, doing what is best for you.",
+   "core_idea": "What God withholds one way, He gives another.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-006-p01",
+   "plain": "It is encouraging to see others bear gently the trials we thought impossible. Their flight makes us try to fly, like young birds who learn bit by bit by copying their parents.",
+   "core_idea": "Others' endurance teaches us to endure.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-006-p02",
+   "plain": "Look at your own faults, not other people's. Very proper people are often shocked by everything, yet we can learn a great deal from the very people we criticise.",
+   "core_idea": "Mind your own faults; learn from those you judge.",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Let us look at our own faults, and not at other persons'. People who are extremely correct themselves are often shocked at everything they see; however, we might often learn a great deal that is essential from the very persons whom we censure.",
+    "reason": "Stray space before semicolon"
+   }
+  },
+  {
+   "id": "teresa-interior-castle-006-p03",
+   "plain": "To make fast progress toward the inner rooms of the soul, thinking much matters less than loving much, so do whatever most stirs you to love.",
+   "core_idea": "Progress comes from loving much, not thinking much.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-006-p04",
+   "plain": "Love is not sweet feelings in devotion but a firm resolve to please God in everything, avoid offending Him, and pray for His glory and the Church. It is not lost because your thoughts wander.",
+   "core_idea": "Love is determination, not sweet feelings.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-006-p05",
+   "plain": "Many suffer, grow gloomy or even give up prayer because they mistake a wandering imagination for a grave fault. We cannot control our imagination any more than the turning heavens, so its wandering does not mean prayer is wasted.",
+   "core_idea": "A wandering mind does not ruin prayer.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-007-p01",
+   "plain": "Do not be distressed or worried by your thoughts: if they come from the devil, ignoring them makes him leave; if they are human weakness, bear them patiently for God's love, accepting that we are human.",
+   "core_idea": "Bear troubling thoughts patiently; we are human.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-007-p02",
+   "plain": "Any trouble or conflict can be borne while we have peace inside; but when we seek rest from the world's trials and the obstacle is in ourselves, the pain is almost unbearable.",
+   "core_idea": "Outer trials are bearable; inner conflict is not.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-007-p03",
+   "plain": "God, so great and wise, has hidden secrets in everything He made. Even the smallest creature, even a tiny ant, holds more wonders than we can understand.",
+   "core_idea": "Even the smallest creature holds countless wonders.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-007-p04",
+   "plain": "We belong to God; let Him do what He wants with us and lead us wherever He wants.",
+   "core_idea": "We belong to God; let Him lead.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-008-p01",
+   "plain": "Looking for God within ourselves helps far more than looking for Him among created things; Saint Augustine found God in his own soul after long searching elsewhere.",
+   "core_idea": "Seek God within, not outside.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-008-p02",
+   "plain": "We should ask God for things like beggars before a rich and powerful emperor, and then wait humbly with lowered eyes.",
+   "core_idea": "Pray humbly, then wait.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-008-p03",
+   "plain": "We should rather give our souls into God's hands, letting Him do as He chooses with us, forgetting our own interests as far as we can and surrendering fully to His will.",
+   "core_idea": "Surrender yourself completely to God's will.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-008-p04",
+   "plain": "God gave us our mental powers to use, and each will be rewarded. So we should not try to lull them to sleep but let them work until God calls us to something higher.",
+   "core_idea": "Use your God-given faculties; do not suppress them.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-009-p01",
+   "plain": "Wake up, sisters: since some taste of heaven can be had on earth, ask God for the grace not to miss it through our own fault, and for the strength to dig for the treasure hidden in our hearts.",
+   "core_idea": "A hidden treasure lies buried within our hearts.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-010-p01",
+   "plain": "One way or another, we have to carry the cross our whole lives.",
+   "core_idea": "Suffering accompanies us all our lives.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-011-p01",
+   "plain": "People who avoid offending God and enter religious life may think nothing more is needed. But hidden pests like self-love, pride, quick judgment of others and lack of love for neighbours quietly eat away their virtues.",
+   "core_idea": "Hidden self-love and judgment quietly destroy virtue.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-011-p02",
+   "plain": "God asks only two things of us: love for Him and love for our neighbour. If we practise both perfectly, we are doing His will and are united with Him.",
+   "core_idea": "God asks only love of Him and neighbour.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-011-p03",
+   "plain": "We cannot be sure whether we love God, but we can be sure whether we love our neighbour. As you grow in love for others, you grow in love for God, and He repays it many times over.",
+   "core_idea": "Love of neighbour is the sure measure of loving God.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-011-p04",
+   "plain": "It is funny to see people who, at prayer, imagine they would gladly be insulted for God's sake, yet afterward hide their small faults and cry out loudly when someone wrongly accuses them.",
+   "core_idea": "Humility imagined in prayer often fails in practice.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-012-p01",
+   "plain": "Union with God is not guarding pious feelings in prayer; God wants deeds. Help a sick sister, feel her pain as your own, rejoice when others are praised, and grieve over their faults as if they were yours, hiding them.",
+   "core_idea": "Union with God shows in deeds of love.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-012-p02",
+   "plain": "Ask God for perfect love of your neighbour and leave the rest to Him. Push yourself to give way to others' wishes, put their interests before yours however much you resist, and take burdens off them.",
+   "core_idea": "Love your neighbour by putting their needs first.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "Beg our Lord to grant you perfect love for your neighbour, and leave the rest to Him. He will give you more than you know how to desire if you constrain yourselves and strive with all your power to gain it, forcing your will as far as possible to comply in all things with your sisters' wishes although you may sometimes forfeit your own rights by so doing. Forget your self-interests for theirs, however much nature may rebel; when opportunity occurs take some burden upon yourself to ease your neighbour of it.",
+    "reason": "Word split by a space"
+   }
+  },
+  {
+   "id": "teresa-interior-castle-012-p03",
+   "plain": "We must keep asking God to hold us up, since without Him we would fall at once. Then we should watch whether we grow or slip in virtue, especially in love of neighbour, humility and daily duties.",
+   "core_idea": "Rely on God and watch your progress in virtue.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-013-p01",
+   "plain": "God often sends severe illness, perhaps the hardest earthly trial, reaching body and spirit until death seems preferable. But these attacks pass quickly, for God never sends more than we can bear and gives patience first.",
+   "core_idea": "God never sends more than we can bear.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-013-p02",
+   "plain": "In such a storm the only remedy is to wait for God's mercy, which suddenly clears every sorrow and leaves the mind brighter. The soul knows the victory was God's and sees how weak it is alone.",
+   "core_idea": "Wait for God's mercy to end the storm.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-013-p03",
+   "plain": "When such inner suffering lasts for days, prayer brings no comfort, solitude hurts, company torments, and the pain cannot be described. The best way to bear it is outward charity and trust in God's unfailing mercy.",
+   "core_idea": "Bear inner anguish through charity and trust in God.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-014-p01",
+   "plain": "God is like a burning furnace sending a small spark into the soul, which feels its heat without being consumed. The feeling is so delightful that the spirit lingers in the pain it causes.",
+   "core_idea": "God's touch is a delightful, burning pain.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-015-p01",
+   "plain": "If the soul receives signs of God's love, it should check whether it now thinks more of itself. Truly divine favours always make the soul humbler and more aware of its sins.",
+   "core_idea": "True divine favours make the soul humbler.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-016-p01",
+   "plain": "We are so blind. Even small specks of fault, left to spread, can harm us greatly. Let our faults show us how poor we are and clear our sight, so we ask God more earnestly to help us please Him.",
+   "core_idea": "Small faults, seen honestly, can clear our sight.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "Oh, human blindness! When, oh, when shall this dust be taken from our eyes? Although we think it insufficient to blind us, yet I see some little motes or grains of dust which, if left to spread, will suffice to harm us greatly. At least, for the love of God, my sisters, let these faults convince us of our misery, serving to clear our sight as did the clay the eyes of the blind man who was cured by the Spouse. Then, realizing our imperfections, we shall beg Him more fervently to let us benefit by our defects so as to please Him in all things.",
+    "reason": "Scan error: defers for defects"
+   }
+  },
+  {
+   "id": "teresa-interior-castle-016-p02",
+   "plain": "God gives such favours to whom He chooses, yet if we sought Him as He seeks us, He would give them to everyone. He longs for souls to give them to, since giving costs Him nothing.",
+   "core_idea": "God longs to give; we need only seek Him.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-016-p03",
+   "plain": "The Lord once told a troubled person not to be disturbed: people will either praise Him or condemn you, and either way you will gain.",
+   "core_idea": "Praise or blame, you gain either way.",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Our Lord once said to some one who was troubled by such thoughts: 'Do not be disturbed; people will either praise Me or condemn thee; in either case thou wilt be the gainer.'",
+    "reason": "Missing opening quotation mark"
+   }
+  },
+  {
+   "id": "teresa-interior-castle-018-p01",
+   "plain": "Crying a lot is not enough; what matters is working at the virtues and letting tears come when God sends them. Rest in God's presence and let Him give water or drought, since He knows best.",
+   "core_idea": "Practise virtue; leave tears and comfort to God.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-018-p02",
+   "plain": "However much God has favoured a soul, it is dangerous to forget the unhappy state it was once in; remembering may hurt, but it does great good.",
+   "core_idea": "Remembering past misery keeps us humble.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-019-p01",
+   "plain": "Life is long and full of crosses, so to bear our trials well we need to look at how Christ bore His, and learn from His apostles and saints too.",
+   "core_idea": "Look to Christ to learn how to bear trials.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-020-p01",
+   "plain": "Look at the virtues: the one who is most self-denying, humble and wholehearted in serving God is the holiest.",
+   "core_idea": "Holiness is humility and wholehearted service.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-021-p01",
+   "plain": "Let us put ourselves wholly in God's hands so that His will is done in us; if our will stays fixed on this, we can never go wrong.",
+   "core_idea": "A will fixed on God's never goes astray.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-022-p01",
+   "plain": "Bearing injuries patiently is no great achievement; we should bear them gladly and love our enemies, since God has never stopped loving us despite our many sins. That is the main reason to forgive any harm done to us.",
+   "core_idea": "Forgive others because God keeps loving us.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-022-p02",
+   "plain": "God loves humility because He is the supreme Truth and humility is truth: we have nothing good of ourselves. Whoever ignores this lives a lie; those who grasp it most deeply please God most, for they walk in truth.",
+   "core_idea": "Humility is simply living in the truth.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-022-p03",
+   "plain": "Lord, what suffering You bring to those who love You! Yet it is nothing next to the reward You will give. It is right that great riches cost a great deal.",
+   "core_idea": "Great riches are rightly bought at great cost.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-023-p01",
+   "plain": "We each have a soul, but we do not grasp its worth as made in God's image, so we miss the great secrets it holds.",
+   "core_idea": "The soul, made in God's image, holds hidden secrets.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-024-p01",
+   "plain": "If we empty ourselves of everything created, giving it up for love of God, the Lord will surely fill us with Himself.",
+   "core_idea": "Empty yourself, and God fills you.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-024-p02",
+   "plain": "Like a king who stays on his throne while wars rage in his kingdom, the soul in the innermost mansion keeps its peace; it regrets the turmoil outside, but the passions cannot enter or disturb it there.",
+   "core_idea": "The innermost soul keeps peace amid turmoil.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-025-p01",
+   "plain": "Those closest to Christ always carry the heaviest cross; think of what His mother and the apostles endured.",
+   "core_idea": "Those nearest Christ bear the heaviest cross.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-026-p01",
+   "plain": "It does me little good to pray deeply alone, making acts of virtue and promising great things for God, if later, when the chance comes, I do the opposite.",
+   "core_idea": "Good resolutions mean little without matching deeds.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-026-p02",
+   "plain": "The devil often fills our minds with grand plans so we settle for wishing the impossible instead of doing the work we can. Pray, and rather than trying to help the whole world, help those closest to you.",
+   "core_idea": "Help those near you instead of dreaming grandly.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-026-p03",
+   "plain": "Do not build towers without foundations: the Lord cares less about how great our works are than about the love behind them. When we do all we can, He helps us do more each day.",
+   "core_idea": "God values the love in our works, not their size.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p01",
+   "plain": "Everything that exists in the universe should be seen as pervaded by the Lord. Let go of the unreal and enjoy the Real. Do not covet anyone's wealth.",
+   "core_idea": "See the Lord in all; covet nothing.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p02",
+   "plain": "Whoever sees all beings in the Self and the Self in all beings never turns away from it. For one who sees all beings as the Self, seeing this oneness everywhere, how can there be delusion or grief?",
+   "core_idea": "Seeing oneness in all ends delusion and grief.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p03",
+   "plain": "Look at those who lived before and those living now: mortals decay like grain and, like grain, spring up again in rebirth.",
+   "core_idea": "Mortals die and are reborn like grain.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p04",
+   "plain": "Nachiketas tells Death that these pleasures are fleeting and wear out the senses; even the longest life is short. Death can keep his chariots, dancing and music, for wealth never satisfies anyone.",
+   "core_idea": "Wealth and pleasure never satisfy.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p05",
+   "plain": "Yama says the good and the pleasant differ and lead to different ends. All is well for whoever chooses the good; whoever chooses the pleasant misses the true goal. The wise prefer the good; fools choose pleasure.",
+   "core_idea": "Choose the good over the merely pleasant.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p06",
+   "plain": "Fools living in ignorance, yet thinking themselves wise and learned, wander round and round on crooked paths, like the blind led by the blind.",
+   "core_idea": "The ignorant who think themselves wise go astray.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p07",
+   "plain": "The Self is never born and never dies; it came from nothing and nothing came from it. Unborn and eternal, it is not killed when the body is killed. Whoever thinks they kill or are killed does not understand.",
+   "core_idea": "The Self is unborn, undying and cannot be slain.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-001-p08",
+   "plain": "The Self is finer than the finest and greater than the greatest, living in the heart of every being. Whoever is free from desire and grief, with a calm mind and senses, sees the glory of the Atman.",
+   "core_idea": "A calm, desireless mind sees the Self within.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p01",
+   "plain": "The Atman is the chariot's owner, the body the chariot, the intellect the driver, the mind the reins, the senses the horses. Without discernment and a controlled mind the senses run wild; with them, they obey like good horses.",
+   "core_idea": "A disciplined mind steers the senses well.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p02",
+   "plain": "Arise, awake! Seek out the great teachers and gain understanding. The wise say the path is as sharp as a razor's edge, hard to cross and hard to travel.",
+   "core_idea": "Wake up; the path is hard but walk it.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p03",
+   "plain": "The senses face outward, so we see the outer world, not the inner Atman. A wise person seeking immortality turns inward and sees the Self. The ignorant chase pleasures into death's snare; the wise seek nothing lasting in fleeting things.",
+   "core_idea": "Turn inward to find the lasting Self.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "The Self-existent created the senses out-going; for this reason man sees the external, but not the inner Atman (Self). Some wise man, however, desiring immortality, with eyes turned away (from the external) sees the Atman within. Children (the ignorant) pursue external pleasures; (thus) they fall into the widespread snare of death. But the wise, knowing the nature of immortality, do not seek the permanent among fleeting things.",
+    "reason": "Word broken by hyphen and space"
+   }
+  },
+  {
+   "id": "upanishads-paramananda-002-p04",
+   "plain": "Just as the sun, the eye of the world, is not stained by the impurities it lights up, the one inner Self of all beings is not stained by the world's misery, being beyond it.",
+   "core_idea": "The inner Self is untouched by the world's misery.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p05",
+   "plain": "When the five senses and the mind fall still and the intellect stops working, that is the highest state. This steady restraint of the senses is Yoga. Then stay watchful, because Yoga comes and goes.",
+   "core_idea": "Stilling the senses is Yoga; stay watchful.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p06",
+   "plain": "When all the desires in the heart fall away, the mortal becomes immortal and reaches Brahman here and now. When all the heart's knots are cut, the mortal becomes immortal. That is the teaching.",
+   "core_idea": "Freedom from desire is immortality.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "upanishads-paramananda-002-p07",
+   "plain": "Whoever thinks they do not know Brahman knows it; whoever thinks they know it does not. True knowers feel they can never know it, being infinite, while the ignorant think they do.",
+   "core_idea": "Those who know the Infinite admit they cannot know it.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv01-001-p01",
+   "plain": "Just as streams rising in different places all mix their waters in the sea, so, Lord, the different paths people take, crooked or straight, all lead to You.",
+   "core_idea": "All paths lead to God, like streams to the sea.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv01-001-p02",
+   "plain": "When I close my eyes and think of 'I', I picture a body. Am I only matter? The Vedas say no: I am a spirit living in a body. The body will die, but I will go on living.",
+   "core_idea": "I am a spirit, not the body.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv01-002-p01",
+   "plain": "You are children of God, sharers in immortal bliss, holy and perfect; calling people sinners slanders human nature. Rise up, lions, and shake off the delusion that you are sheep; you are free, eternal souls, and matter serves you.",
+   "core_idea": "You are divine, free souls, not sinners.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv01-002-p02",
+   "plain": "Loving God for a reward is good, but loving God for love's sake is better, as in the prayer that asks not for wealth, children or learning, only to love God without hope of reward, even through many births.",
+   "core_idea": "Love God for love's sake, not reward.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv01-002-p03",
+   "plain": "For the Hindu, people move not from error to truth but from lower to higher truth. Every religion is the soul's attempt to grasp the Infinite, and every soul is a young eagle rising toward the Sun.",
+   "core_idea": "We move from lower truth to higher truth.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv01-003-p01",
+   "plain": "Offering religion to starving people is an insult, just as teaching philosophy to a starving man is.",
+   "core_idea": "Feed the hungry before preaching to them.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv01-003-p02",
+   "plain": "Whatever philosophy says, as long as there is death, weakness in the human heart, and a cry rising from that weakness, people will have faith in God.",
+   "core_idea": "Human weakness and death keep faith alive.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv01-003-p03",
+   "plain": "A seed does not become earth, air or water; it absorbs them and grows into a plant by its own law. So with religion: no one need convert, but each should absorb others' spirit while growing in their own way.",
+   "core_idea": "Learn from other faiths while staying true to yours.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv02-001-p01",
+   "plain": "Good and bad both shape character, and misery can teach more than happiness. In most great people, it was suffering, poverty and blows, more than happiness, wealth and praise, that brought out their inner fire.",
+   "core_idea": "Suffering often teaches more than happiness.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv02-001-p02",
+   "plain": "To judge someone's character, do not look at their great deeds; any fool can be a hero once. Watch their most ordinary actions. Great moments rouse anyone, but the truly great person is great always, wherever they are.",
+   "core_idea": "Character shows in ordinary actions, not great deeds.",
+   "quotability": 4,
+   "complete": true
+  }
+ ]
+}

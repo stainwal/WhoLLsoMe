@@ -1,0 +1,3110 @@
+{
+ "tags": [
+  {
+   "id": "tagore-sadhana-007-p02",
+   "feelings": [
+    "sorrow",
+    "discouragement"
+   ],
+   "themes": [
+    "suffering and its causes",
+    "failure and adversity",
+    "character and growth"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "transmuting pain into joy"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone weighed down by pain who wonders whether suffering can be turned into something good."
+  },
+  {
+   "id": "tagore-sadhana-007-p03",
+   "feelings": [
+    "overwhelm",
+    "frustration"
+   ],
+   "themes": [
+    "failure and adversity",
+    "freedom and self-reliance",
+    "family"
+   ],
+   "situations": [
+    "parenting struggles",
+    "caring for a sick or ageing relative"
+   ],
+   "tone": [
+    "challenging",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "right to one's own trouble"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone carrying a hard burden for a loved one who resents being offered an easy way out."
+  },
+  {
+   "id": "tagore-sadhana-007-p04",
+   "feelings": [
+    "disappointment",
+    "emptiness"
+   ],
+   "themes": [
+    "the true self",
+    "desire and attachment",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "clutching the dust of the road",
+    "fire with no dough"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has chased self-centred pleasures and found them empty and disappointing."
+  },
+  {
+   "id": "tagore-sadhana-007-p05",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ],
+   "themes": [
+    "the true self",
+    "freedom and self-reliance",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "questions of identity",
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "artist's freedom"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone stuck imitating others or chasing approval, unsure of their own true nature."
+  },
+  {
+   "id": "tagore-sadhana-007-p06",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ],
+   "themes": [
+    "the true self",
+    "purpose and meaning",
+    "character and growth"
+   ],
+   "situations": [
+    "feeling directionless",
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "seed becoming a tree",
+    "dharma"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels unfulfilled and wonders whether letting go of old bonds could free them to grow."
+  },
+  {
+   "id": "tagore-sadhana-008-p01",
+   "feelings": [
+    "loneliness",
+    "emptiness"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "purpose and meaning",
+    "desire and attachment"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "lamp and its oil"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has kept to themselves and feels cut off, wondering how to find meaning in giving."
+  },
+  {
+   "id": "tagore-sadhana-008-p02",
+   "feelings": [
+    "love",
+    "lostness"
+   ],
+   "themes": [
+    "love",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "a new relationship or marriage"
+   ],
+   "tone": [
+    "contemplative",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "no room for why"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in love, or questioning why they love, who needs no reason beyond love itself."
+  },
+  {
+   "id": "tagore-sadhana-008-p03",
+   "feelings": [
+    "craving",
+    "love"
+   ],
+   "themes": [
+    "desire and attachment",
+    "compassion and kindness",
+    "love"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "ripe fruit surrendered",
+    "second skin"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who finds it painful to let go of possessions and wonders how giving could feel like joy."
+  },
+  {
+   "id": "tagore-sadhana-008-p04",
+   "feelings": [
+    "exhaustion",
+    "frustration"
+   ],
+   "themes": [
+    "work and duty",
+    "love",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "overwork or burnout",
+    "parenting struggles"
+   ],
+   "tone": [
+    "contemplative",
+    "practical"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "freedom in action",
+    "Gita"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone worn down by work done out of need or fear, seeking freedom within their work."
+  },
+  {
+   "id": "tagore-sadhana-008-p05",
+   "feelings": [
+    "loneliness",
+    "insecurity"
+   ],
+   "themes": [
+    "love",
+    "family"
+   ],
+   "situations": [
+    "feeling excluded or rejected",
+    "family conflict"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "father tossing a child"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels pushed away by a loved one and fears it means rejection."
+  },
+  {
+   "id": "tagore-sadhana-008-p06",
+   "feelings": [
+    "exhaustion",
+    "emptiness"
+   ],
+   "themes": [
+    "work and duty",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "overwork or burnout",
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "work as joy"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone doing work only out of necessity who longs for work that comes from joy."
+  },
+  {
+   "id": "tagore-sadhana-008-p07",
+   "feelings": [
+    "fear",
+    "restlessness"
+   ],
+   "themes": [
+    "impermanence",
+    "character and growth",
+    "death and mortality"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "continual death and life"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone resisting change who needs to see that growth means letting old forms of self die."
+  },
+  {
+   "id": "tagore-sadhana-009-p01",
+   "feelings": [
+    "anger",
+    "resentment"
+   ],
+   "themes": [
+    "love",
+    "freedom and self-reliance",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "relationship trouble",
+    "workplace conflict"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "tyrant dependent on slaves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in a controlling relationship, or tempted to control, who needs to see love requires two free wills."
+  },
+  {
+   "id": "tagore-sadhana-009-p02",
+   "feelings": [
+    "exhaustion",
+    "discouragement"
+   ],
+   "themes": [
+    "the true self",
+    "character and growth",
+    "time and the present"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "born anew every moment"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels old, stuck and burdened, needing to hear they can begin afresh."
+  },
+  {
+   "id": "tagore-sadhana-009-p03",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "river striking its banks"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels hemmed in by limits and needs to see constraints as openings."
+  },
+  {
+   "id": "tagore-sadhana-009-p04",
+   "feelings": [
+    "envy",
+    "resentment"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wrongdoing and injustice",
+    "character and growth"
+   ],
+   "situations": [],
+   "tone": [
+    "stern",
+    "steadying"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "cut off at the root"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone watching dishonest people prosper and wondering whether integrity is worth it."
+  },
+  {
+   "id": "tagore-sadhana-009-p05",
+   "feelings": [
+    "insecurity",
+    "loneliness"
+   ],
+   "themes": [
+    "humility and pride",
+    "love"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "child returning to mother"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose pride keeps them from yielding in love."
+  },
+  {
+   "id": "tagore-sadhana-010-p01",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "beauty",
+    "freedom and self-reliance",
+    "self-mastery"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "laws are its wings"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone chafing against rules or discipline who needs to see structure as the ground of freedom."
+  },
+  {
+   "id": "tagore-sadhana-010-p02",
+   "feelings": [
+    "joy",
+    "restlessness"
+   ],
+   "themes": [
+    "beauty",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "creating from joy"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a creative person wondering where their urge to make things comes from."
+  },
+  {
+   "id": "tagore-sadhana-010-p03",
+   "feelings": [
+    "despair",
+    "sorrow"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "suffering and its causes",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "separated from fullness of love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone overwhelmed by suffering and evil who needs to hear the soul can transform them."
+  },
+  {
+   "id": "tagore-sadhana-010-p04",
+   "feelings": [
+    "restlessness",
+    "lostness"
+   ],
+   "themes": [
+    "the spiritual path",
+    "self-mastery",
+    "liberation and realisation"
+   ],
+   "situations": [
+    "starting or deepening a practice"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "from law to love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a spiritual seeker who finds discipline confining and wonders what lies beyond it."
+  },
+  {
+   "id": "tagore-sadhana-010-p05",
+   "feelings": [
+    "loneliness",
+    "bitterness"
+   ],
+   "themes": [
+    "love",
+    "wisdom and understanding",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "love as perfection of consciousness"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has grown callous or cut off and needs to see love as a way of understanding."
+  },
+  {
+   "id": "tagore-sadhana-010-p06",
+   "feelings": [
+    "love",
+    "emptiness"
+   ],
+   "themes": [
+    "love",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "token of love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who values gifts only for their use and misses the love behind them."
+  },
+  {
+   "id": "tagore-sadhana-011-p01",
+   "feelings": [
+    "craving",
+    "restlessness"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "desire and attachment",
+    "nature"
+   ],
+   "situations": [
+    "overwork or burnout",
+    "success and its temptations"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "greedy child tearing a book"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone caught up in competition and acquisition who senses they are missing the world's real value."
+  },
+  {
+   "id": "tagore-sadhana-011-p02",
+   "feelings": [
+    "bitterness",
+    "guilt"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wrongdoing and injustice",
+    "the true self"
+   ],
+   "situations": [
+    "workplace conflict"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "man as spirit, not machine"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who treats people as useful tools, or is treated that way, and senses something is wrong."
+  },
+  {
+   "id": "tagore-sadhana-011-p03",
+   "feelings": [
+    "restlessness",
+    "craving"
+   ],
+   "themes": [
+    "desire and attachment",
+    "faith and the sacred",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "stern",
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "sin as an attitude"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone driven by desire who feels separate from others and from God."
+  },
+  {
+   "id": "tagore-sadhana-011-p04",
+   "feelings": [
+    "frustration",
+    "bitterness"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wrongdoing and injustice"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "civilisation judged by love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone troubled by a society that values power over people."
+  },
+  {
+   "id": "tagore-sadhana-011-p05",
+   "feelings": [
+    "craving",
+    "awe"
+   ],
+   "themes": [
+    "nature",
+    "love",
+    "desire and attachment"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "threads from earth to the stars"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who sees the world only as a resource and is ready to feel its deeper bond."
+  },
+  {
+   "id": "tagore-sadhana-011-p06",
+   "feelings": [
+    "loneliness",
+    "fear"
+   ],
+   "themes": [
+    "the true self",
+    "liberation and realisation",
+    "death and mortality"
+   ],
+   "situations": [
+    "existential dread"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "separateness is doomed to die"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone fearing death or isolation who seeks a sense of belonging to the whole."
+  },
+  {
+   "id": "tagore-sadhana-011-p07",
+   "feelings": [
+    "restlessness",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "inner peace and stillness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "motion and rest in one"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose heart cannot settle and who is searching for love as rest."
+  },
+  {
+   "id": "tagore-sadhana-011-p08",
+   "feelings": [
+    "love",
+    "regret"
+   ],
+   "themes": [
+    "love",
+    "loss and letting go",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "love's balance-sheet"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels they gave much in love and wonders whether it was loss."
+  },
+  {
+   "id": "tagore-sadhana-011-p09",
+   "feelings": [
+    "craving",
+    "frustration"
+   ],
+   "themes": [
+    "self-mastery",
+    "character and growth"
+   ],
+   "situations": [
+    "a habit or addiction I can't break"
+   ],
+   "tone": [
+    "challenging",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "hunger is not the last word"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone ruled by bodily cravings who needs to hear the human spirit can resist them."
+  },
+  {
+   "id": "tagore-sadhana-011-p10",
+   "feelings": [
+    "joy",
+    "emptiness"
+   ],
+   "themes": [
+    "beauty",
+    "nature",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "joy is everywhere"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has lost sight of joy and needs reminding it is present everywhere."
+  },
+  {
+   "id": "tagore-sadhana-012-p01",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "self-mastery",
+    "liberation and realisation"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "bonds as freedom incarnate"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone chafing against obligations who wonders how they could become a source of joy."
+  },
+  {
+   "id": "tagore-sadhana-012-p02",
+   "feelings": [
+    "guilt",
+    "restlessness"
+   ],
+   "themes": [
+    "self-mastery",
+    "faith and the sacred",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "a habit or addiction I can't break",
+    "something I did wrong"
+   ],
+   "tone": [
+    "steadying",
+    "stern"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "bind me in thy law"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has fallen into temptation and longs for discipline to hold them."
+  },
+  {
+   "id": "tagore-sadhana-012-p03",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "the true self",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "feeling directionless"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "seed struggling to sprout"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone stuck in vagueness who needs to see that action helps the soul know itself."
+  },
+  {
+   "id": "tagore-sadhana-012-p04",
+   "feelings": [
+    "discouragement",
+    "frustration"
+   ],
+   "themes": [
+    "character and growth",
+    "beauty",
+    "work and duty"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "garden from jungle"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone wondering whether their efforts to improve their world are worth it."
+  },
+  {
+   "id": "tagore-sadhana-012-p05",
+   "feelings": [
+    "discouragement",
+    "sorrow"
+   ],
+   "themes": [
+    "courage",
+    "patience and perseverance",
+    "work and duty"
+   ],
+   "situations": [
+    "facing a hard task",
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "never let go till the fruit is ripe"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone weighed down by sorrow who needs courage to hold on to life and work."
+  },
+  {
+   "id": "tagore-sadhana-012-p06",
+   "feelings": [
+    "exhaustion",
+    "restlessness"
+   ],
+   "themes": [
+    "work and duty",
+    "purpose and meaning",
+    "failure and adversity"
+   ],
+   "situations": [
+    "overwork or burnout",
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "greater than his present"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone tired of constant struggle who wonders why humans take on so much."
+  },
+  {
+   "id": "tagore-sadhana-012-p07",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "self-mastery",
+    "truth and integrity",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "harp string tuned"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone resenting discipline who needs to see that being bound to truth makes freedom possible."
+  },
+  {
+   "id": "tagore-sadhana-013-p01",
+   "feelings": [
+    "fear",
+    "restlessness"
+   ],
+   "themes": [
+    "courage",
+    "faith and the sacred",
+    "time and the present"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "God here and now"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a seeker tempted to escape the world for God, who needs courage to find the sacred where they are."
+  },
+  {
+   "id": "tagore-sadhana-013-p02",
+   "feelings": [
+    "exhaustion",
+    "frustration"
+   ],
+   "themes": [
+    "work and duty",
+    "time and the present"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "holiday in work"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose work feels like a burden, waiting for holidays to feel joy."
+  },
+  {
+   "id": "tagore-sadhana-013-p03",
+   "feelings": [
+    "discouragement",
+    "fear"
+   ],
+   "themes": [
+    "courage",
+    "acceptance and surrender",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting",
+    "affirming"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "bravely take and bravely give"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who wants the strength to embrace life fully through gains and losses."
+  },
+  {
+   "id": "tagore-sadhana-013-p04",
+   "feelings": [
+    "emptiness",
+    "exhaustion"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "desire and attachment"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "a thing of joy"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose life feels full of burdens and useful things but little joy."
+  },
+  {
+   "id": "tagore-sadhana-013-p05",
+   "feelings": [
+    "joy",
+    "awe"
+   ],
+   "themes": [
+    "beauty",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "beauty is omnipresent"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone ready to notice that beauty and truth surround them everywhere."
+  },
+  {
+   "id": "tagore-sadhana-014-p01",
+   "feelings": [
+    "restlessness",
+    "frustration"
+   ],
+   "themes": [
+    "self-mastery",
+    "beauty",
+    "freedom and self-reliance"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "law in moral nature"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone seeking self-control who wonders how mastering oneself brings freedom."
+  },
+  {
+   "id": "tagore-sadhana-014-p02",
+   "feelings": [
+    "awe",
+    "peace"
+   ],
+   "themes": [
+    "nature",
+    "faith and the sacred",
+    "beauty"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "dance of life in sleep"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone lying awake in the quiet of night, feeling small, who might find kinship with the stars."
+  },
+  {
+   "id": "tagore-sadhana-014-p03",
+   "feelings": [
+    "craving",
+    "exhaustion"
+   ],
+   "themes": [
+    "desire and attachment",
+    "faith and the sacred",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "endless gathering"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone weary of accumulating more who senses their deeper longing is for something else."
+  },
+  {
+   "id": "tagore-sadhana-014-p04",
+   "feelings": [
+    "craving",
+    "envy"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "faith and the sacred",
+    "desire and attachment"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "enveloped by God"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone tempted by greed for others' wealth who needs to enjoy what is given."
+  },
+  {
+   "id": "tagore-sadhana-014-p05",
+   "feelings": [
+    "longing",
+    "restlessness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "acceptance and surrender"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "steadying",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "morning light"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a seeker straining to find the divine who needs to hear it is simply present."
+  },
+  {
+   "id": "tagore-sadhana-014-p06",
+   "feelings": [
+    "restlessness",
+    "longing"
+   ],
+   "themes": [
+    "spiritual practice",
+    "faith and the sacred",
+    "liberation and realisation"
+   ],
+   "situations": [
+    "starting or deepening a practice"
+   ],
+   "tone": [
+    "uplifting",
+    "practical"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "arrow penetrating its target",
+    "Brahma"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a spiritual practitioner seeking to carry awareness of the infinite through every act."
+  },
+  {
+   "id": "tagore-sadhana-014-p07",
+   "feelings": [
+    "longing",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "desire and attachment"
+   ],
+   "situations": [
+    "a new relationship or marriage"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "eyes hungry still"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone deeply in love whose longing never feels satisfied, even in closeness."
+  },
+  {
+   "id": "tagore-sadhana-014-p08",
+   "feelings": [
+    "craving",
+    "restlessness"
+   ],
+   "themes": [
+    "desire and attachment",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "money worries or debt",
+    "success and its temptations"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "ladder of the finite"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone always wanting more money who senses no amount will be enough."
+  },
+  {
+   "id": "tagore-sadhana-014-p09",
+   "feelings": [
+    "craving",
+    "restlessness"
+   ],
+   "themes": [
+    "desire and attachment",
+    "simplicity and enough",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "girl outgrows her doll"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone feeling trapped by possessions who needs to see renouncing them as growth."
+  },
+  {
+   "id": "tagore-sadhana-015-p01",
+   "feelings": [
+    "restlessness",
+    "emptiness"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "purpose and meaning",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bird in the cage"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose life meets their needs but feels caged and joyless."
+  },
+  {
+   "id": "tagore-sadhana-015-p02",
+   "feelings": [
+    "emptiness",
+    "lostness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "compassion and kindness",
+    "liberation and realisation"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "giving oneself to a great idea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose life feels small and selfish, looking for a cause larger than themselves."
+  },
+  {
+   "id": "tagore-sadhana-015-p03",
+   "feelings": [
+    "insecurity",
+    "restlessness"
+   ],
+   "themes": [
+    "character and growth",
+    "the true self",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "is and to be"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone feeling small and incomplete who needs to hear they are still becoming."
+  },
+  {
+   "id": "tagore-sadhana-015-p04",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "humility and pride",
+    "liberation and realisation"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "river becoming the sea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone wondering where their life is flowing and whether it has a final destination."
+  },
+  {
+   "id": "tagore-sadhana-015-p05",
+   "feelings": [
+    "emptiness",
+    "lostness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "the spiritual path"
+   ],
+   "situations": [
+    "searching for meaning",
+    "feeling directionless"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "life as a poem"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose life feels like aimless motion and who seeks a whole that gives it meaning."
+  },
+  {
+   "id": "tagore-sadhana-015-p06",
+   "feelings": [
+    "fear",
+    "anxiety"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "liberation and realisation"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "Brahma",
+    "joy frees from fear"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone gripped by fear who seeks a deeper joy that dissolves it."
+  },
+  {
+   "id": "tagore-sadhana-015-p07",
+   "feelings": [
+    "loneliness",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "knowing by fusion"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who over-thinks and feels apart, seeking the knowing that comes from love."
+  },
+  {
+   "id": "tagore-sadhana-016-p01",
+   "feelings": [
+    "restlessness",
+    "disappointment"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "desire and attachment",
+    "the spiritual path"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "not this, not this",
+    "the further shore"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has striven hard yet feels unfulfilled, sensing there must be something more."
+  },
+  {
+   "id": "tagore-sadhana-016-p02",
+   "feelings": [
+    "exhaustion",
+    "restlessness"
+   ],
+   "themes": [
+    "work and duty",
+    "acceptance and surrender",
+    "faith and the sacred"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "ferryman, lead me across"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone toiling endlessly for their own gain who longs to offer their work to something greater."
+  },
+  {
+   "id": "tagore-sadhana-016-p03",
+   "feelings": [
+    "longing",
+    "restlessness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "work and duty"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "thou dwellest in me"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For a believer tempted to leave home and work behind to find God."
+  },
+  {
+   "id": "gibran-madman-001-p01",
+   "feelings": [
+    "loneliness"
+   ],
+   "themes": [
+    "solitude",
+    "freedom and self-reliance",
+    "humility and pride"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "safety from being understood"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels misunderstood and has made a refuge of being apart."
+  },
+  {
+   "id": "gibran-madman-001-p02",
+   "feelings": [
+    "longing",
+    "loneliness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "the spiritual path",
+    "love"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "God made no answer"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose prayers seem unanswered, who might find God through love rather than servitude."
+  },
+  {
+   "id": "gibran-madman-001-p03",
+   "feelings": [
+    "loneliness",
+    "insecurity"
+   ],
+   "themes": [
+    "the true self",
+    "solitude"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "seeming is a garment"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels others see only their surface, never their real self."
+  },
+  {
+   "id": "gibran-madman-001-p04",
+   "feelings": [
+    "loneliness"
+   ],
+   "themes": [
+    "friendship",
+    "solitude"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "my path is not thy path"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels distant from a friend even while walking beside them."
+  },
+  {
+   "id": "gibran-madman-001-p05",
+   "feelings": [
+    "insecurity",
+    "embarrassment"
+   ],
+   "themes": [
+    "humility and pride",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "scarecrow",
+    "crows nesting"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone unsure whether a remark was praise or insult, ready for a wry look at pride."
+  },
+  {
+   "id": "gibran-madman-001-p06",
+   "feelings": [
+    "resentment",
+    "anger"
+   ],
+   "themes": [
+    "family",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "family conflict"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "sleepwalking mother and daughter"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in a strained parent-child relationship, where hidden resentments lie beneath polite words."
+  },
+  {
+   "id": "gibran-madman-001-p07",
+   "feelings": [
+    "frustration",
+    "bitterness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "wisdom and understanding",
+    "humility and pride"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "raining mice"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone sceptical of how people shape faith around their own wants."
+  },
+  {
+   "id": "gibran-madman-001-p08",
+   "feelings": [
+    "frustration",
+    "bitterness"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "discourse instead of a needle"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone frustrated by people who lecture about generosity instead of helping."
+  },
+  {
+   "id": "gibran-madman-001-p09",
+   "feelings": [
+    "disappointment"
+   ],
+   "themes": [
+    "desire and attachment",
+    "humility and pride"
+   ],
+   "situations": [
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "fox and his shadow"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose big plans have shrunk through the day, ready to laugh at inflated hopes."
+  },
+  {
+   "id": "gibran-madman-001-p10",
+   "feelings": [
+    "loneliness",
+    "frustration"
+   ],
+   "themes": [
+    "reputation and others' opinions",
+    "truth and integrity"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "the mad king",
+    "poisoned well"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone pressured to conform, wondering whether being judged \"mad\" by everyone is worth keeping their reason."
+  },
+  {
+   "id": "gibran-madman-002-p01",
+   "feelings": [
+    "guilt",
+    "anxiety"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "angel and devil fight"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone torn over whether a new pleasure is sinful or good."
+  },
+  {
+   "id": "gibran-madman-002-p02",
+   "feelings": [
+    "loneliness",
+    "frustration"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "solitude"
+   ],
+   "situations": [],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "brother prisoner"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels trapped and finds a strange kinship with others also caged."
+  },
+  {
+   "id": "gibran-madman-002-p03",
+   "feelings": [
+    "frustration"
+   ],
+   "themes": [
+    "humility and pride",
+    "faith and the sacred",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "the Supreme Ant"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone certain of their view of the universe, ready for a humbling reminder of how little we see."
+  },
+  {
+   "id": "gibran-madman-002-p04",
+   "feelings": [
+    "grief",
+    "regret"
+   ],
+   "themes": [
+    "loss and letting go",
+    "character and growth",
+    "impermanence"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "burying my dead selves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone letting go of an old version of themselves who could meet it with lightness."
+  },
+  {
+   "id": "gibran-madman-002-p05",
+   "feelings": [
+    "frustration",
+    "bitterness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "faith and the sacred"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "Good God and Evil God"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone frustrated that people confuse good and evil, ready for a wry parable."
+  },
+  {
+   "id": "gibran-madman-002-p06",
+   "feelings": [
+    "disappointment",
+    "discouragement"
+   ],
+   "themes": [
+    "failure and adversity",
+    "solitude",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "career setback or feeling stuck",
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "my Defeat",
+    "withering laurels"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone smarting from a defeat who might find in it freedom and self-knowledge."
+  },
+  {
+   "id": "gibran-madman-002-p07",
+   "feelings": [
+    "discouragement",
+    "disappointment"
+   ],
+   "themes": [
+    "failure and adversity",
+    "courage"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "uplifting",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "laugh with the storm"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has failed and needs courage to rise defiant from it."
+  },
+  {
+   "id": "gibran-madman-002-p08",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "beauty",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "face with a thousand countenances"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone wary of appearances who wants to see the real person beneath."
+  },
+  {
+   "id": "gibran-madman-003-p01",
+   "feelings": [
+    "insecurity",
+    "awe"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "blind astronomer"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels limited by what they lack, reminded that inner vision can be vast."
+  },
+  {
+   "id": "gibran-madman-003-p02",
+   "feelings": [
+    "loneliness",
+    "love"
+   ],
+   "themes": [
+    "solitude",
+    "nature",
+    "love"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "brother mountain, sister sea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels alone and could find kinship with the natural world."
+  },
+  {
+   "id": "gibran-madman-003-p03",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "impermanence",
+    "humility and pride"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "autumn leaf and grass"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone irritated by another, reminded they may one day be in that person's place."
+  },
+  {
+   "id": "gibran-madman-003-p04",
+   "feelings": [
+    "loneliness",
+    "insecurity"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "the Eye's delusion"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who sees what others cannot and is dismissed as strange for it."
+  },
+  {
+   "id": "gibran-madman-003-p05",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "wisdom and understanding",
+    "humility and pride"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "believer and unbeliever swap"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone locked in argument over belief, reminded how certainty can flip."
+  },
+  {
+   "id": "gibran-madman-003-p06",
+   "feelings": [
+    "loneliness",
+    "emptiness"
+   ],
+   "themes": [
+    "loss and letting go",
+    "solitude"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "my Sorrow died"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels unseen and flat after a long sorrow has faded."
+  },
+  {
+   "id": "gibran-madman-003-p07",
+   "feelings": [
+    "loneliness",
+    "longing"
+   ],
+   "themes": [
+    "loss and letting go",
+    "solitude",
+    "impermanence"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "Joy died of isolation",
+    "memory an autumn leaf"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose joys went unshared and who now feels alone with memories."
+  },
+  {
+   "id": "gibran-madman-003-p08",
+   "feelings": [
+    "insecurity",
+    "loneliness"
+   ],
+   "themes": [
+    "self-worth",
+    "solitude"
+   ],
+   "situations": [
+    "feeling excluded or rejected",
+    "self-doubt"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "a human chaos"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels messy and imperfect among people who seem to have it all together."
+  },
+  {
+   "id": "gibran-madman-003-p09",
+   "feelings": [
+    "lostness",
+    "loneliness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "faith and the sacred",
+    "self-worth"
+   ],
+   "situations": [
+    "searching for meaning",
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "God of lost souls"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels out of place in the world and asks why they are here."
+  },
+  {
+   "id": "gibran-forerunner-001-p01",
+   "feelings": [
+    "insecurity",
+    "discouragement"
+   ],
+   "themes": [
+    "character and growth",
+    "the true self"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "your own forerunner"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone unsure of their progress who needs to hear their efforts are foundations for a greater self."
+  },
+  {
+   "id": "gibran-forerunner-001-p02",
+   "feelings": [
+    "discouragement",
+    "insecurity"
+   ],
+   "themes": [
+    "character and growth",
+    "purpose and meaning"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "seeds for fields unploughed"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone wondering whether what they gather in life will bear fruit."
+  },
+  {
+   "id": "gibran-forerunner-001-p03",
+   "feelings": [
+    "craving",
+    "love"
+   ],
+   "themes": [
+    "self-mastery",
+    "love",
+    "desire and attachment"
+   ],
+   "situations": [
+    "a habit or addiction I can't break"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "a cup you did not fill"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone resisting temptation who wants their desires governed by love."
+  },
+  {
+   "id": "gibran-forerunner-001-p04",
+   "feelings": [
+    "loneliness",
+    "insecurity"
+   ],
+   "themes": [
+    "solitude",
+    "compassion and kindness",
+    "humility and pride"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "eagles living with moles"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who has chosen solitude, or has stepped down to stay close to others."
+  },
+  {
+   "id": "gibran-forerunner-002-p01",
+   "feelings": [
+    "anxiety",
+    "craving"
+   ],
+   "themes": [
+    "desire and attachment",
+    "simplicity and enough"
+   ],
+   "situations": [
+    "money worries or debt"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "monster that never stops eating"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who keeps acquiring out of fear of future lack, even when satisfied."
+  },
+  {
+   "id": "gibran-forerunner-002-p02",
+   "feelings": [
+    "frustration",
+    "fear"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "lamb prays for the eagles"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone watching powerful people fight over them, wondering how to respond."
+  },
+  {
+   "id": "gibran-forerunner-002-p03",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "legal trouble"
+   ],
+   "tone": [
+    "companioning",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "horse is stolen"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone wronged who finds others blaming them rather than the wrongdoer."
+  },
+  {
+   "id": "gibran-forerunner-002-p04",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "acceptance and surrender",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "weather-cock and wind"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone irritated that life will not bend to their wishes."
+  },
+  {
+   "id": "gibran-forerunner-002-p05",
+   "feelings": [
+    "joy",
+    "awe"
+   ],
+   "themes": [
+    "the true self",
+    "love"
+   ],
+   "situations": [
+    "good news or a celebration"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "bird from the heart"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose heart feels expansive and wants to sense how far it reaches."
+  },
+  {
+   "id": "gibran-forerunner-002-p06",
+   "feelings": [
+    "longing",
+    "frustration"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "acceptance and surrender",
+    "the true self"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "prisoner within the temple"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose faith outruns their limits, who can be content to hold it in their heart."
+  },
+  {
+   "id": "gibran-forerunner-002-p07",
+   "feelings": [
+    "insecurity",
+    "loneliness"
+   ],
+   "themes": [
+    "humility and pride",
+    "truth and integrity",
+    "solitude"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "pure and empty paper"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone keeping themselves so guarded and pure that their life stays empty."
+  },
+  {
+   "id": "gibran-forerunner-003-p01",
+   "feelings": [
+    "contentment"
+   ],
+   "themes": [
+    "beauty",
+    "simplicity and enough",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "statue and money"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone weighing money against beauty, reminded that value depends on the eye."
+  },
+  {
+   "id": "gibran-forerunner-003-p02",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "faith and the sacred",
+    "death and mortality"
+   ],
+   "situations": [
+    "existential dread"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "another sea above"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone sceptical of anything beyond the known, or wondering about life beyond death."
+  },
+  {
+   "id": "gibran-forerunner-003-p03",
+   "feelings": [
+    "guilt",
+    "regret"
+   ],
+   "themes": [
+    "truth and integrity",
+    "character and growth"
+   ],
+   "situations": [
+    "something I did wrong"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "unripe melon"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose conscience stirs late about a wrong, perhaps for the wrong reason."
+  },
+  {
+   "id": "gibran-forerunner-003-p04",
+   "feelings": [
+    "despair",
+    "exhaustion"
+   ],
+   "themes": [
+    "courage",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "steadying",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "will to live"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone whose will to live feels faint, reminded that even a feeble will can hold."
+  },
+  {
+   "id": "gibran-forerunner-003-p05",
+   "feelings": [
+    "longing",
+    "grief"
+   ],
+   "themes": [
+    "loss and letting go",
+    "time and the present",
+    "love"
+   ],
+   "situations": [
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "procession of distant days"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone haunted by memories of a person or time now gone."
+  },
+  {
+   "id": "gibran-forerunner-003-p06",
+   "feelings": [
+    "restlessness",
+    "loneliness"
+   ],
+   "themes": [
+    "solitude",
+    "the spiritual path"
+   ],
+   "situations": [
+    "starting or deepening a practice"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "above-solitude"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone drawn toward deeper solitude yet still held by the world's voices."
+  },
+  {
+   "id": "gibran-forerunner-003-p07",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "the true self",
+    "freedom and self-reliance",
+    "character and growth"
+   ],
+   "situations": [
+    "parenting struggles",
+    "a big life change"
+   ],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "freer self",
+    "eagle in me"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who longs for a freer self but feels bound by burdens and responsibilities."
+  },
+  {
+   "id": "gibran-forerunner-003-p08",
+   "feelings": [
+    "fear",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "courage"
+   ],
+   "situations": [
+    "a new relationship or marriage"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "love from a surging river"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who wants love but shrinks from its full force."
+  },
+  {
+   "id": "gibran-forerunner-003-p09",
+   "feelings": [
+    "sorrow",
+    "hope"
+   ],
+   "themes": [
+    "love",
+    "impermanence",
+    "death and mortality"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "out of our ashes"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone at the end of a dark chapter, needing hope that a greater love will rise."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p01",
+   "feelings": [
+    "sorrow",
+    "peace"
+   ],
+   "themes": [
+    "impermanence",
+    "time and the present",
+    "nature"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "footprints erased by the tide"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone feeling their traces are fleeting, steadied by what endures."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p02",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ],
+   "themes": [
+    "the true self",
+    "self-worth"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "I am the sphere"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone who feels like a meaningless fragment and needs to sense their wholeness."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p03",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "the true self",
+    "self-worth"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "I am the infinite sea"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone made to feel insignificant who needs to sense the vastness within."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p04",
+   "feelings": [
+    "lostness"
+   ],
+   "themes": [
+    "the true self"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "who are you"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone stumped by the question of who they really are."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p05",
+   "feelings": [
+    "sorrow",
+    "longing"
+   ],
+   "themes": [
+    "suffering and its causes",
+    "beauty"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "contemplative",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "pearl built by pain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in pain who wonders whether something beautiful could grow from it."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p06",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ],
+   "themes": [
+    "inner peace and stillness",
+    "the true self"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "pebble in the lake"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone churning on the surface who needs to sense the stillness in their depths."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p07",
+   "feelings": [
+    "fear",
+    "anxiety"
+   ],
+   "themes": [
+    "inner peace and stillness",
+    "courage",
+    "solitude"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "outdare the night"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone facing a frightening night who draws strength from silence."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p08",
+   "feelings": [
+    "shame",
+    "joy"
+   ],
+   "themes": [
+    "the true self",
+    "self-worth"
+   ],
+   "situations": [
+    "starting or deepening a practice"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "soul and body married"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone at odds with their body, or newly at peace with it."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p09",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "loss and letting go",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "bereavement (friend or other relative)",
+    "breakup or divorce"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "remembrance as meeting"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone torn between holding on to a memory and letting it go."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p10",
+   "feelings": [
+    "sorrow"
+   ],
+   "themes": [
+    "suffering and its causes",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "contemplative",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "spirits envy man his pain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in pain who might see suffering as part of being fully human."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p11",
+   "feelings": [
+    "frustration",
+    "anger"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "humility and pride",
+    "the spiritual path"
+   ],
+   "situations": [
+    "struggling with faith or practice"
+   ],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "misleading pilgrim"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone misled by a guide who then blamed them for it."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p12",
+   "feelings": [
+    "guilt",
+    "anger"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wrongdoing and injustice",
+    "self-mastery"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "prey of the lion"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone tempted to prey on the weak, who would rather suffer than harm."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p13",
+   "feelings": [
+    "despair",
+    "discouragement"
+   ],
+   "themes": [
+    "failure and adversity",
+    "patience and perseverance",
+    "suffering and its causes"
+   ],
+   "situations": [
+    "living with anxiety or depression",
+    "illness or injury"
+   ],
+   "tone": [
+    "steadying",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "path of the night"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone in a dark stretch who needs to hear the dawn comes through it."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p14",
+   "feelings": [
+    "restlessness",
+    "longing"
+   ],
+   "themes": [
+    "time and the present",
+    "impermanence",
+    "love"
+   ],
+   "situations": [
+    "facing a decision",
+    "moving home"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "house and road"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "For someone torn between staying and leaving, caught between past and future."
+  }
+ ]
+}

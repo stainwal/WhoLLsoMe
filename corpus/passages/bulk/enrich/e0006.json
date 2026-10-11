@@ -1,0 +1,1138 @@
+{
+ "items": [
+  {
+   "id": "bib-luke-007-p05",
+   "plain": "Watch yourself. If your brother wrongs you, tell him so; if he is sorry, forgive him. Even if he wrongs you seven times in one day and comes back each time saying sorry, forgive him.",
+   "core_idea": "Forgive a brother who repents, however often he returns.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-007-p06",
+   "plain": "Asked by the Pharisees when God's Kingdom would arrive, Jesus said it is not something you can watch for or point to here or there, because God's Kingdom is within you.",
+   "core_idea": "God's Kingdom is within you, not out there.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-008-p01",
+   "plain": "Whoever tries to hold on to their life loses it, and whoever lets go of their life keeps it.",
+   "core_idea": "Clinging to life loses it; letting go keeps it.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-008-p02",
+   "plain": "Jesus told a story to show that people should keep praying and never give up: a widow kept pleading with a judge who cared for neither God nor people, until he helped her just to stop her pestering.",
+   "core_idea": "Keep praying persistently and do not give up.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-008-p03",
+   "plain": "A proud Pharisee thanked God he was better than others; a tax collector stood far off begging mercy as a sinner. The humble man went home right with God, for the proud will be humbled and the humble raised.",
+   "core_idea": "The humble are lifted up; the self-exalting are humbled.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-008-p04",
+   "plain": "Jesus said that what people cannot do, God can.",
+   "core_idea": "What is impossible for people is possible for God.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-009-p01",
+   "plain": "Jesus watched the rich give to the temple treasury and a poor widow drop in two small coins. She gave more than all of them, he said: they gave from surplus, she gave all she had.",
+   "core_idea": "A poor person's whole gift outweighs the rich's surplus.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-009-p02",
+   "plain": "Jesus told his followers that rulers lord it over people, but among them the greatest should act like the youngest and the leader like a servant, just as he lives among them as one who serves.",
+   "core_idea": "True greatness means serving others, as Jesus served.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-009-p03",
+   "plain": "Jesus went a little apart, knelt, and prayed: Father, if you are willing, take this suffering away from me; yet let your will be done, not mine.",
+   "core_idea": "Surrender your own will to God's, even in anguish.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-luke-010-p01",
+   "plain": "Jesus prayed, Father, forgive them, because they do not know what they are doing.",
+   "core_idea": "Forgive those who harm you without understanding.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-malachi-001-p01",
+   "plain": "Don't we all share one father, made by the one God? So why do we betray one another and dishonour the covenant our ancestors made?",
+   "core_idea": "One God made us all, so why betray each other?",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-malachi-001-p02",
+   "plain": "You complain that serving God is pointless, since the proud seem happy and the wicked prosper unpunished. Then Yahweh heard those who revered him, had their names recorded, and promised to keep and spare them as his own.",
+   "core_idea": "When the wicked prosper, God still remembers the faithful.",
+   "quotability": 2,
+   "complete": false,
+   "extended_text": "You have said, ‘It is vain to serve God;’ and ‘What profit is it that we have followed his instructions, and that we have walked mournfully before Yahweh of Armies? Now we call the proud happy; yes, those who work wickedness are built up; yes, they tempt God, and escape.’ Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him, for those who feared Yahweh, and who honored his name. They shall be mine,” says Yahweh of Armies, “my own possession in the day that I make, and I will spare them, as a man spares his own son who serves him."
+  },
+  {
+   "id": "bib-mark-001-p01",
+   "plain": "Healthy people don't need a doctor; sick people do. Jesus said he came to call not the righteous but sinners to turn back.",
+   "core_idea": "Jesus came for sinners, as doctors come for the sick.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-001-p02",
+   "plain": "Nobody patches an old garment with new cloth, or it shrinks and tears a worse hole. Nobody pours new wine into old wineskins, or they burst and both are lost; new wine goes into new skins.",
+   "core_idea": "The new cannot be forced into old forms.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-001-p03",
+   "plain": "The Sabbath was made to serve people, not people to serve the Sabbath.",
+   "core_idea": "Rules exist for people, not people for rules.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-001-p04",
+   "plain": "A kingdom split against itself cannot last, and neither can a household split against itself.",
+   "core_idea": "A divided kingdom or house cannot stand.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-002-p01",
+   "plain": "God's Kingdom is like a man who scatters seed and goes on sleeping and waking while it sprouts and grows without his knowing how. The earth produces the crop by itself, step by step, from shoot to full grain.",
+   "core_idea": "God's Kingdom grows quietly, beyond our understanding or control.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-002-p02",
+   "plain": "God's Kingdom is like a mustard seed: the smallest of seeds when planted, it grows into the largest of plants, with branches big enough for birds to shelter in its shade.",
+   "core_idea": "God's Kingdom starts tiny and grows great.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-002-p03",
+   "plain": "Jesus said a prophet is honoured everywhere except in his hometown, among his relatives, and in his own home.",
+   "core_idea": "Prophets go unhonoured among their own people.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-002-p04",
+   "plain": "Jesus told his followers to come away with him to a quiet place and rest for a while, because so many people were coming and going that they had no time even to eat.",
+   "core_idea": "Step away from the crowd and rest awhile.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-003-p01",
+   "plain": "Nothing that enters a person from outside can make them unclean; what makes a person unclean is what comes out of them.",
+   "core_idea": "What comes out of you defiles, not what goes in.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-003-p02",
+   "plain": "What good is it to win the whole world and lose your own life? What could anyone give in exchange for their life?",
+   "core_idea": "Gaining the world is worthless if you lose your life.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-003-p03",
+   "plain": "Jesus told a father that everything is possible for someone who believes. At once the father cried out in tears, I do believe; help me with my unbelief!",
+   "core_idea": "Faith can be honest about its own doubt.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-003-p04",
+   "plain": "Whoever wants to be first must be last of all and the servant of everyone.",
+   "core_idea": "To be first, be last and serve all.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-004-p01",
+   "plain": "Jesus said that anyone who does not receive God's Kingdom the way a little child does will never enter it.",
+   "core_idea": "Receive God's Kingdom like a little child.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-004-p02",
+   "plain": "It is easier for a camel to pass through the eye of a needle than for a rich man to enter God's Kingdom.",
+   "core_idea": "Wealth makes entering God's Kingdom very hard.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-004-p03",
+   "plain": "When you stand to pray and hold something against anyone, forgive them, so that your Father in heaven will also forgive your wrongs.",
+   "core_idea": "Forgive others when you pray, so God forgives you.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-005-p01",
+   "plain": "The greatest commandment is that the Lord our God is one, and you must love God with all your heart, soul, mind and strength. The second is to love your neighbour as yourself. No commandment is greater than these.",
+   "core_idea": "Love God wholly and your neighbour as yourself.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-005-p02",
+   "plain": "Jesus watched the rich put large sums into the temple treasury and a poor widow put in two tiny coins. She gave more than all of them, he said: they gave from surplus, she gave everything she had.",
+   "core_idea": "A poor person's whole gift outweighs the rich's surplus.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-mark-005-p03",
+   "plain": "When you hear of wars and rumours of wars, don't be alarmed. These things must happen, but they are not yet the end.",
+   "core_idea": "Don't be alarmed by wars; the end is not yet.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-001-p01",
+   "plain": "A cry was heard in Ramah, weeping and deep mourning: Rachel crying for her children, refusing to be comforted, because they are gone.",
+   "core_idea": "A mother's grief for lost children refuses comfort.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-001-p02",
+   "plain": "People do not live on bread alone, but on every word that comes from God's mouth.",
+   "core_idea": "People live by God's word, not bread alone.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-001-p03",
+   "plain": "Blessed are the humble in spirit, the grieving, the gentle, those who long for what is right, the merciful, the pure in heart, the peacemakers and the persecuted: God's Kingdom, comfort and mercy will be theirs.",
+   "core_idea": "God blesses the humble, grieving, merciful and peacemaking.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-001-p04",
+   "plain": "You are the light of the world, like a city on a hill that cannot be hidden. No one hides a lamp; so let your light shine, that people see your good deeds and praise your Father in heaven.",
+   "core_idea": "Let your light shine so others see good.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p01",
+   "plain": "You were taught an eye for an eye, but Jesus says don't fight back against someone who wrongs you. Struck on one cheek, offer the other; sued for your coat, give your cloak; forced one mile, go two.",
+   "core_idea": "Do not retaliate; answer wrong with more generosity.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p02",
+   "plain": "You were taught to love your neighbour and hate your enemy, but Jesus says love your enemies and pray for those who persecute you, to be children of your Father, who sends sun and rain on good and bad alike.",
+   "core_idea": "Love your enemies, as God gives to all alike.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p03",
+   "plain": "When you pray, don't be like hypocrites who pray in public to be seen; that attention is all the reward they get. Instead pray privately behind a closed door, and your Father, who sees in secret, will reward you.",
+   "core_idea": "Pray in private, not to be seen by others.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p04",
+   "plain": "If you forgive others the wrongs they do, your heavenly Father will forgive you too; but if you don't forgive them, your Father will not forgive your wrongs.",
+   "core_idea": "God forgives you as you forgive others.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p05",
+   "plain": "Don't store up treasures on earth, where they decay or get stolen; store up treasures in heaven, where they are safe. Your heart will be wherever your treasure is.",
+   "core_idea": "Your heart follows what you treasure.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p06",
+   "plain": "Don't worry about what you will eat, drink or wear; life is more than food and clothes. The birds don't farm, yet your heavenly Father feeds them, and you are worth more. Worrying cannot add a moment to your life.",
+   "core_idea": "Don't worry; God cares for you, and worry adds nothing.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p07",
+   "plain": "So don't worry about tomorrow; tomorrow will bring its own worries. Each day has enough trouble of its own.",
+   "core_idea": "Don't worry about tomorrow; today has enough trouble.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p08",
+   "plain": "Don't judge, or you will be judged by the standard you use. Why notice the speck in your brother's eye and ignore the plank in your own? Remove your own plank first; then you can help him.",
+   "core_idea": "Fix your own faults before judging others'.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p09",
+   "plain": "Ask and you will be given; seek and you will find; knock and the door will be opened. Everyone who asks receives, whoever seeks finds, and whoever knocks has the door opened.",
+   "core_idea": "Ask, seek and knock, and you will receive.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p10",
+   "plain": "So treat other people the way you want them to treat you; this sums up the law and the prophets.",
+   "core_idea": "Treat others as you want to be treated.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-002-p11",
+   "plain": "Go in through the narrow gate. The gate and road to destruction are wide and easy, and many take them; but the gate and road to life are narrow and hard, and few find them.",
+   "core_idea": "The road to life is narrow and few find it.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-003-p01",
+   "plain": "Healthy people don't need a doctor; sick people do.",
+   "core_idea": "Help is for those who need it.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-003-p02",
+   "plain": "You were given freely, so give freely.",
+   "core_idea": "Give freely, as you freely received.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-003-p03",
+   "plain": "Two sparrows sell for a small coin, yet not one falls to the ground without your Father's will, and every hair on your head is counted. So don't be afraid; you are worth more than many sparrows.",
+   "core_idea": "God cares for you, so do not fear.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-003-p04",
+   "plain": "Jesus invites everyone who is worn out and weighed down to come to him for rest. Take on his yoke and learn from him, for he is gentle and humble; his yoke is easy and his load is light.",
+   "core_idea": "Come to Jesus when weary and find rest.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-004-p01",
+   "plain": "Any kingdom split against itself is ruined, and any city or household split against itself will not last.",
+   "core_idea": "Division brings any kingdom or house to ruin.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-004-p02",
+   "plain": "The mouth speaks from what fills the heart. A good person brings good things out of the good stored inside, and an evil person brings evil things out of the evil stored inside.",
+   "core_idea": "Words reveal what fills the heart.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-004-p03",
+   "plain": "A farmer sowed seed. Some fell on the path and birds ate it; some on rocky ground, sprang up fast and withered without roots; some among thorns and was choked; and some on good soil, yielding a rich harvest.",
+   "core_idea": "The same seed thrives only in good soil.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-004-p04",
+   "plain": "The Kingdom of Heaven is like a mustard seed a man planted: the smallest of all seeds, it grows into a tree big enough for birds to nest in its branches.",
+   "core_idea": "The Kingdom of Heaven starts tiny and grows great.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-004-p05",
+   "plain": "A prophet is honoured everywhere except in his hometown and his own home.",
+   "core_idea": "Prophets go unhonoured among their own people.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-005-p01",
+   "plain": "What goes into a person's mouth does not make them unclean; what comes out of their mouth does.",
+   "core_idea": "What you say defiles you, not what you eat.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-005-p02",
+   "plain": "If a blind person leads a blind person, both will fall into a ditch.",
+   "core_idea": "The blind cannot lead the blind.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-005-p03",
+   "plain": "What good is it to win the whole world and lose your own life? What could anyone give in exchange for their life?",
+   "core_idea": "Gaining the world is worthless if you lose your life.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-005-p04",
+   "plain": "Jesus said that with faith as small as a mustard seed you could tell a mountain to move and it would move; nothing would be impossible for you.",
+   "core_idea": "Even tiny faith can move mountains.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p01",
+   "plain": "Jesus said that unless you change and become like little children, you will never enter the Kingdom of Heaven.",
+   "core_idea": "Become like a child to enter the Kingdom.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p02",
+   "plain": "If a man with a hundred sheep loses one, won't he leave the ninety-nine and search the hills for the lost one? And if he finds it, he is happier over that one than over the ninety-nine that never strayed.",
+   "core_idea": "The one who strays is sought and rejoiced over.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p03",
+   "plain": "If your brother wrongs you, go and point it out to him privately. If he listens, you have won your brother back.",
+   "core_idea": "Settle a wrong privately and win your brother back.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p04",
+   "plain": "Peter asked how many times he should forgive a brother who keeps wronging him, as many as seven? Jesus said not seven times, but seventy times seven.",
+   "core_idea": "Forgive again and again, without counting.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p05",
+   "plain": "For people this is impossible, but for God everything is possible.",
+   "core_idea": "All things are possible with God.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-006-p06",
+   "plain": "Rulers lord it over their people, but not so among you: whoever wants to be great must serve, and whoever wants to be first must be a slave, as the Son of Man came to serve and give his life.",
+   "core_idea": "Greatness means serving, as the Son of Man served.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-007-p01",
+   "plain": "A father asked two sons to work in his vineyard. The first refused but later changed his mind and went; the second said he would go but never did. Which one did what his father wanted?",
+   "core_idea": "Doing what is asked matters more than promising.",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’ He answered, ‘I will not,’ but afterward he changed his mind, and went. He came to the second, and said the same thing. He answered, ‘I’m going, sir,’ but he didn’t go. Which of the two did the will of his father?",
+    "reason": "Remove stray space inside I’m"
+   }
+  },
+  {
+   "id": "bib-matthew-007-p02",
+   "plain": "The stone the builders threw away has become the cornerstone.",
+   "core_idea": "What was rejected becomes the foundation.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-007-p03",
+   "plain": "Love the Lord your God with all your heart, soul and mind; this is the first and greatest commandment. The second is like it: love your neighbour as yourself. All the law and the prophets rest on these two.",
+   "core_idea": "Love God fully and your neighbour as yourself.",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’ This is the first and great commandment. A second likewise is this, ‘You shall love your neighbor as yourself.’ The whole law and the prophets depend on these two commandments.",
+    "reason": "Restore missing opening quotation mark"
+   }
+  },
+  {
+   "id": "bib-matthew-007-p04",
+   "plain": "Whoever lifts themselves up will be brought low, and whoever lowers themselves will be lifted up.",
+   "core_idea": "The proud are humbled and the humble raised.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-008-p01",
+   "plain": "Jesus grieves over Jerusalem, the city that kills the prophets sent to it: how often he longed to gather its children as a hen gathers chicks under her wings, but they would not let him.",
+   "core_idea": "Love that longs to shelter is refused.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-008-p02",
+   "plain": "You will hear of wars and rumours of wars. Don't be alarmed; these things must happen, but the end is not yet.",
+   "core_idea": "Don't be alarmed by wars; the end is not yet.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-008-p03",
+   "plain": "As wrongdoing spreads, most people's love will grow cold. But whoever holds out to the end will be saved.",
+   "core_idea": "Endure to the end though love grows cold.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-008-p04",
+   "plain": "Well done, good and faithful servant. You were trustworthy with a little, so I will put you in charge of much. Come and share your master's joy.",
+   "core_idea": "Faithfulness in small things leads to greater trust.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-008-p05",
+   "plain": "The King welcomes those who fed, clothed, sheltered and visited him when he was hungry, a stranger, sick or in prison. When they ask when, he says: whatever you did for the least of my brothers, you did for me.",
+   "core_idea": "Serving the least of people is serving the King.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-009-p01",
+   "plain": "Jesus went a little farther, fell face down, and prayed: My Father, if it is possible, take this suffering away from me; yet let it be as you want, not as I want.",
+   "core_idea": "Surrender your own will to God's, even in anguish.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-009-p02",
+   "plain": "Stay alert and pray so you don't give in to temptation. The spirit is willing, but the body is weak.",
+   "core_idea": "The spirit is willing but the flesh is weak.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-009-p03",
+   "plain": "Jesus told his follower to put his sword away, because everyone who lives by the sword will die by the sword.",
+   "core_idea": "Those who take up the sword die by it.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-009-p04",
+   "plain": "Around three in the afternoon Jesus cried out loudly, My God, my God, why have you abandoned me?",
+   "core_idea": "Even Jesus cried out, feeling abandoned by God.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-matthew-009-p05",
+   "plain": "Jesus promises that he is with you always, to the very end of the age.",
+   "core_idea": "Jesus is with you always.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-micah-001-p01",
+   "plain": "People will hammer their swords into ploughs and their spears into pruning tools. Nations will no longer fight or train for war; everyone will sit under their own vine and fig tree, unafraid, for Yahweh of Armies has said so.",
+   "core_idea": "Yahweh promises a peace where war is unlearned.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-micah-001-p02",
+   "plain": "How should I approach Yahweh: with burnt offerings, thousands of rams, rivers of oil, even my firstborn child? No. He has shown you what is good: to act justly, love mercy and walk humbly with your God.",
+   "core_idea": "God asks for justice, mercy and humility, not sacrifices.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-micah-001-p03",
+   "plain": "I will look to Yahweh and wait for the God who saves me; he will hear me. Don't gloat, my enemy: when I fall I will get up, and in darkness Yahweh will be my light.",
+   "core_idea": "When I fall, I rise; God is my light.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-micah-001-p04",
+   "plain": "Who is a God like you, forgiving wrongdoing and overlooking his people's rebellion? He doesn't stay angry forever, because he loves kindness. He will have mercy on us again and throw our sins into the deep sea.",
+   "core_idea": "God delights in mercy and buries our sins.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-nahum-001-p01",
+   "plain": "Yahweh is good, a safe stronghold when trouble comes, and he knows those who take shelter in him.",
+   "core_idea": "Yahweh is a refuge in times of trouble.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-001-p01",
+   "plain": "The king asked why I looked sad when I wasn't ill; it must be grief. Terrified, I answered: how could I not be sad when the city of my ancestors' graves lies ruined, its gates burned?",
+   "core_idea": "Grief for a ruined home shows on the face.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-001-p02",
+   "plain": "The people of Judah said the workers carrying loads were worn out and there was so much rubble that they could not build the wall.",
+   "core_idea": "Exhaustion and rubble can make the work seem impossible.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-002-p01",
+   "plain": "My God, remember me kindly for all I have done for this people.",
+   "core_idea": "Asking God to remember the good one has done.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-002-p02",
+   "plain": "I am doing important work and cannot come down. Why should the work stop while I leave it to come to you?",
+   "core_idea": "Don't abandon important work for distractions.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-002-p03",
+   "plain": "None of the things you claim have happened; you are making them up in your own mind.",
+   "core_idea": "Rejecting false accusations as inventions.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-003-p01",
+   "plain": "Go and enjoy rich food and sweet drinks, and share with those who have nothing, because today is holy to our Lord. Don't be sad, for the joy of Yahweh is your strength.",
+   "core_idea": "The joy of Yahweh is your strength.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-nehemiah-003-p02",
+   "plain": "But you are a God who is ready to forgive, gracious and merciful, slow to anger and full of loving kindness, and you did not abandon them.",
+   "core_idea": "God is ready to forgive and does not abandon.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-obadiah-001-p01",
+   "plain": "Yahweh says your proud heart has fooled you, living high among the rocks and thinking no one can bring you down. Even if you soar like an eagle and nest among the stars, he will bring you down.",
+   "core_idea": "Pride deceives; God brings the lofty down.",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "“The pride of your heart has deceived you, you who dwell in the clefts of the rock, whose habitation is high, who says in his heart, ‘Who will bring me down to the ground?’ Though you mount on high as the eagle, and though your nest is set among the stars, I will bring you down from there,” says Yahweh.",
+    "reason": "Restore missing opening quotation mark"
+   }
+  },
+  {
+   "id": "bib-obadiah-001-p02",
+   "plain": "Don't look down on your brother on the day of his disaster, don't gloat over Judah's people on the day of their ruin, and don't boast when they are in distress.",
+   "core_idea": "Don't gloat over others in their disaster.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-philippians-001-p01",
+   "plain": "Paul says he has not yet arrived, but he does one thing: forgetting what lies behind and reaching for what lies ahead, he presses on toward the goal, the prize of God's heavenly call in Christ Jesus.",
+   "core_idea": "Forget what is behind and press on ahead.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-philippians-001-p02",
+   "plain": "Always rejoice in the Lord, and let everyone see your gentleness; the Lord is near. Don't worry about anything, but pray about everything with thanks, and God's peace, beyond understanding, will guard your hearts and minds in Christ Jesus.",
+   "core_idea": "Pray instead of worrying, and God's peace guards you.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-philippians-001-p03",
+   "plain": "Finally, fill your mind with whatever is true, honourable, just, pure, lovely and well spoken of, whatever is excellent and worthy of praise.",
+   "core_idea": "Think about what is true, good and lovely.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-philippians-001-p04",
+   "plain": "Paul says he knows how to live with little and with plenty; he has learned the secret of being content whether full or hungry, rich or in need. He can do all things through Christ, who gives him strength.",
+   "core_idea": "Contentment in plenty or want, through Christ's strength.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-prayerofmanasseh-001-p01",
+   "plain": "Lord, in your great goodness you have promised repentance and forgiveness to those who have sinned against you, and in your endless mercy you have given sinners the way of repentance so they may be saved.",
+   "core_idea": "God's mercy offers sinners repentance and forgiveness.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-prayerofmanasseh-001-p02",
+   "plain": "I have sinned, Lord, and I admit my wrongs. I humbly beg you to forgive me and not stay angry forever. You are the God of those who repent, and in your mercy you will save unworthy me.",
+   "core_idea": "A sinner begs for God's mercy and forgiveness.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p01",
+   "plain": "Never let kindness and truth leave you; tie them around your neck and write them on your heart. Then you will win favour and a good name with God and people.",
+   "core_idea": "Hold fast to kindness and truth.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p02",
+   "plain": "Trust Yahweh with all your heart and don't rely on your own understanding. Acknowledge him in everything you do, and he will make your paths straight.",
+   "core_idea": "Trust God fully, not your own understanding.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p03",
+   "plain": "My son, don't reject Yahweh's discipline or resent his correction, because Yahweh corrects those he loves, as a father corrects the son he delights in.",
+   "core_idea": "God corrects those he loves.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p04",
+   "plain": "Happy is the one who finds wisdom. She is worth more than silver, gold or rubies, more than anything you could want. She brings long life, riches, honour and peace, a tree of life to those who hold her.",
+   "core_idea": "Wisdom is worth more than any riches.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p05",
+   "plain": "Don't be afraid of sudden terror or of the ruin that comes on the wicked, because Yahweh will be your confidence and keep your foot from being caught.",
+   "core_idea": "Don't fear sudden terror; God keeps you safe.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p06",
+   "plain": "Don't hold back good from those who deserve it when you are able to give it. Don't tell your neighbour to come back tomorrow when you have it with you now.",
+   "core_idea": "Do good now when you are able.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p07",
+   "plain": "Don't quarrel with someone for no reason when they have done you no harm. Don't envy a violent person or copy any of their ways.",
+   "core_idea": "Avoid needless quarrels and don't envy the violent.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p08",
+   "plain": "The path of the righteous is like the first light of dawn, growing brighter until full day. The way of the wicked is like darkness; they don't even know what trips them up.",
+   "core_idea": "The righteous path grows brighter; the wicked stumble.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p09",
+   "plain": "Guard your heart above all, because your whole life flows from it. Keep crooked and corrupt talk far from you. Keep your eyes looking straight ahead and fix your gaze on what is before you.",
+   "core_idea": "Guard your heart; life flows from it.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p10",
+   "plain": "Lazy one, go watch the ant and learn: with no boss, she stores food in summer and harvest. How long will you sleep? A little more sleep and rest, and poverty will come on you like a robber.",
+   "core_idea": "Learn diligence from the ant, or poverty comes.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-001-p11",
+   "plain": "Can a man carry fire in his lap without burning his clothes, or walk on hot coals without scorching his feet? So it is with the man who sleeps with his neighbour's wife: he will not go unpunished.",
+   "core_idea": "Adultery, like playing with fire, brings harm.",
+   "quotability": 3,
+   "complete": false,
+   "extended_text": "Can a man scoop fire into his lap, and his clothes not be burned? Or can one walk on hot coals, and his feet not be scorched? So is he who goes in to his neighbor’s wife. Whoever touches her will not be unpunished."
+  },
+  {
+   "id": "bib-pro-002-p01",
+   "plain": "Correcting a mocker or a wicked person only gets you insults and abuse, and the scoffer will hate you. Correct a wise person and they will love you; teach the wise and righteous and they will grow wiser still.",
+   "core_idea": "The wise welcome correction; mockers resent it.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p02",
+   "plain": "Whoever lives with integrity walks securely, but whoever takes crooked paths will be found out.",
+   "core_idea": "Integrity is secure; crookedness gets exposed.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p03",
+   "plain": "Hatred stirs up fights, but love covers over every wrong.",
+   "core_idea": "Love covers all wrongs; hatred stirs strife.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p04",
+   "plain": "Where there are many words, wrongdoing is never far away, but whoever holds their tongue is wise.",
+   "core_idea": "Too many words lead to wrong; restraint is wise.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p05",
+   "plain": "Pride is followed by shame, but humility brings wisdom.",
+   "core_idea": "Pride brings shame; humility brings wisdom.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p06",
+   "plain": "Whoever looks down on their neighbour lacks sense, but a person of understanding stays quiet. A gossip betrays secrets, but a trustworthy person keeps them.",
+   "core_idea": "The wise stay quiet and keep confidences.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p07",
+   "plain": "Without wise guidance a nation falls, but with many advisers comes victory.",
+   "core_idea": "Many good advisers bring success.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p08",
+   "plain": "A merciful person does good to their own soul, but a cruel person brings trouble on their own body.",
+   "core_idea": "Mercy benefits yourself; cruelty harms yourself.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-002-p09",
+   "plain": "Some give freely and grow richer; others hold back more than they should and end up poor. A generous person will prosper, and whoever refreshes others will be refreshed.",
+   "core_idea": "Generosity enriches; stinginess impoverishes.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p01",
+   "plain": "A fool shows their irritation at once, but a sensible person ignores an insult.",
+   "core_idea": "The prudent overlook insults.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p02",
+   "plain": "Careless words can cut like a sword, but the words of the wise bring healing.",
+   "core_idea": "Rash words wound; wise words heal.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p03",
+   "plain": "Worry weighs a person's heart down, but a kind word lifts it up.",
+   "core_idea": "A kind word lifts an anxious heart.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p04",
+   "plain": "Hope that keeps being put off makes the heart sick, but a longing that comes true is like a tree of life.",
+   "core_idea": "Delayed hope sickens; fulfilled longing gives life.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p05",
+   "plain": "Spend time with wise people and you become wise; keep company with fools and you get hurt.",
+   "core_idea": "You become like the company you keep.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p06",
+   "plain": "Only your own heart knows its bitterness and its joy; no stranger can share them.",
+   "core_idea": "Each heart knows its own sorrow and joy.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p07",
+   "plain": "Even while laughing, the heart can be sad, and joy can end in grief.",
+   "core_idea": "Laughter can hide a sorrowful heart.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p08",
+   "plain": "A peaceful heart gives life to the body, but envy rots the bones.",
+   "core_idea": "A peaceful heart gives life; envy rots.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p09",
+   "plain": "A gentle answer calms anger, but a harsh word stirs it up.",
+   "core_idea": "Gentle answers calm anger; harsh words inflame it.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p10",
+   "plain": "Better to have little and revere Yahweh than great wealth with trouble. Better a simple meal of vegetables where there is love than a feast of fattened beef with hatred.",
+   "core_idea": "Little with love beats plenty with strife.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p11",
+   "plain": "A person plans their route in their heart, but Yahweh guides their steps.",
+   "core_idea": "We make plans, but God directs our steps.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p12",
+   "plain": "Pride comes before ruin, and an arrogant spirit before a fall.",
+   "core_idea": "Pride comes before a fall.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p13",
+   "plain": "Kind words are like honey: sweet to the soul and healing to the body.",
+   "core_idea": "Kind words are sweet and healing.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p14",
+   "plain": "Grey hair is a crown of honour, earned by living rightly.",
+   "core_idea": "Grey hair honours a righteous life.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p15",
+   "plain": "Someone slow to anger is better than a warrior, and someone who controls their temper is better than one who captures a city.",
+   "core_idea": "Self-control is greater than conquest.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-003-p16",
+   "plain": "Whoever lets an offence go builds love, but whoever keeps bringing it up drives close friends apart.",
+   "core_idea": "Forgiving offences builds love; repeating them divides.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p01",
+   "plain": "Starting a quarrel is like breaking open a dam, so stop the argument before it bursts out.",
+   "core_idea": "Stop a quarrel before it breaks loose.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p02",
+   "plain": "A friend loves at all times, and a brother is born to help in hard times.",
+   "core_idea": "True friends and family stand by you in trouble.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p03",
+   "plain": "A cheerful heart is good medicine, but a broken spirit dries up the bones.",
+   "core_idea": "A cheerful heart is good medicine.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p04",
+   "plain": "Someone who holds back their words has knowledge, and someone calm has understanding. Even a fool who keeps quiet is taken for wise, and seems sensible when they keep their mouth shut.",
+   "core_idea": "Restraint in speech shows wisdom.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p05",
+   "plain": "Answering before you have listened is foolish and shameful.",
+   "core_idea": "Listen before you answer.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p06",
+   "plain": "A person's spirit can carry them through illness, but who can bear a crushed spirit?",
+   "core_idea": "A strong spirit sustains; a crushed one is unbearable.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p07",
+   "plain": "The first to state their case seems right, until someone else comes and questions them.",
+   "core_idea": "Hear both sides before judging.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p08",
+   "plain": "The tongue holds the power of life and death, and those who love to talk will live with the results.",
+   "core_idea": "Words hold the power of life and death.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p09",
+   "plain": "Someone with many companions may come to ruin, but there is a friend who stays closer than a brother.",
+   "core_idea": "One true friend outweighs many companions.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p10",
+   "plain": "Eagerness without knowledge is not good, and rushing ahead makes you lose your way.",
+   "core_idea": "Zeal without knowledge leads astray.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p11",
+   "plain": "All the relatives of a poor man avoid him, and his friends keep even further away. He chases after them pleading, but they are gone.",
+   "core_idea": "The poor are abandoned by family and friends.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p12",
+   "plain": "Good sense makes a person slow to anger, and it is to their credit to overlook an offence.",
+   "core_idea": "It is noble to overlook an offence.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p13",
+   "plain": "The purposes in a person's heart are like deep water, but someone with understanding can draw them out.",
+   "core_idea": "The wise draw out what lies deep in hearts.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p14",
+   "plain": "Who can claim to have made their heart pure and to be clean and free of sin?",
+   "core_idea": "No one can claim to be free of sin.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p15",
+   "plain": "Don't say you will get even for a wrong. Wait for Yahweh, and he will rescue you.",
+   "core_idea": "Don't take revenge; wait for God.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p16",
+   "plain": "The pride of young men is their strength, and the honour of old men is their grey hair.",
+   "core_idea": "Youth has strength; age has honour.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p17",
+   "plain": "A good name is worth more than great wealth, and being well regarded is better than silver or gold.",
+   "core_idea": "A good name is worth more than riches.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-004-p18",
+   "plain": "Don't make friends with a hot-tempered or angry person, or you may pick up their ways and trap yourself.",
+   "core_idea": "Avoid angry people, or you'll become like them.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p01",
+   "plain": "Don't wear yourself out trying to get rich; be wise enough to hold back. Why fix your eyes on wealth that is gone in a moment? It sprouts wings and flies off like an eagle.",
+   "core_idea": "Riches fly away; don't exhaust yourself chasing them.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p02",
+   "plain": "Don't envy sinners in your heart; keep revering Yahweh all day long. There truly is a future, and your hope will not be cut off.",
+   "core_idea": "Don't envy sinners; your hope has a future.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p03",
+   "plain": "Who has misery, sorrow, quarrels, complaints, needless bruises and bloodshot eyes? Those who linger over wine. Don't be drawn by how it sparkles and goes down smoothly; in the end it bites like a snake.",
+   "core_idea": "Heavy drinking brings misery and bites like a snake.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p04",
+   "plain": "Wicked man, don't lie in wait to attack the home of the righteous, because a righteous person falls seven times and gets up again, but the wicked are brought down by disaster.",
+   "core_idea": "The righteous fall seven times and rise again.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p05",
+   "plain": "Don't celebrate when your enemy falls or be glad when he is brought down, or Yahweh may see it, be displeased, and turn his anger away from him.",
+   "core_idea": "Don't rejoice when your enemy falls.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p06",
+   "plain": "A word spoken at the right moment is like golden apples set in silver.",
+   "core_idea": "A well-timed word is precious.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p07",
+   "plain": "Singing cheerful songs to someone with a heavy heart is like taking away their coat on a cold day, or pouring vinegar on soda.",
+   "core_idea": "Cheerfulness forced on the grieving hurts them.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "bib-pro-005-p08",
+   "plain": "If your enemy is hungry, feed him; if he is thirsty, give him water. In doing so you heap burning coals on his head, and Yahweh will reward you.",
+   "core_idea": "Answer your enemy's need with kindness.",
+   "quotability": 4,
+   "complete": true
+  }
+ ]
+}

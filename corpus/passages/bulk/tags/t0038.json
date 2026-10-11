@@ -1,0 +1,2897 @@
+{
+ "tags": [
+  {
+   "id": "tagore-stray-birds-001-p01",
+   "feelings": [
+    "sorrow"
+   ],
+   "themes": [
+    "suffering and its causes",
+    "nature"
+   ],
+   "situations": [],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "tears of the earth"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a sad stretch who needs to see that sorrow can feed later joy."
+  },
+  {
+   "id": "tagore-stray-birds-001-p02",
+   "feelings": [
+    "grief",
+    "regret"
+   ],
+   "themes": [
+    "loss and letting go",
+    "time and the present"
+   ],
+   "situations": [
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "challenging",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "missing the stars"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone so absorbed in mourning what is gone that they are missing what is still here."
+  },
+  {
+   "id": "tagore-stray-birds-001-p03",
+   "feelings": [
+    "loneliness",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "the true self"
+   ],
+   "situations": [
+    "relationship trouble",
+    "estrangement"
+   ],
+   "tone": [
+    "uplifting",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "waking from a dream"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling estranged from others who needs reminding that closeness can be rediscovered."
+  },
+  {
+   "id": "tagore-stray-birds-001-p04",
+   "feelings": [
+    "sorrow",
+    "peace"
+   ],
+   "themes": [
+    "inner peace and stillness",
+    "nature"
+   ],
+   "situations": [],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "evening among silent trees"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose sadness is starting to settle and who wants company in that quiet."
+  },
+  {
+   "id": "tagore-stray-birds-001-p05",
+   "feelings": [
+    "longing",
+    "craving"
+   ],
+   "themes": [
+    "love",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "a new relationship or marriage",
+    "unrequited love"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "precipice"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone drawn to love someone mainly for status or height, before they commit."
+  },
+  {
+   "id": "tagore-stray-birds-001-p06",
+   "feelings": [
+    "insecurity",
+    "lostness"
+   ],
+   "themes": [
+    "the true self",
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "questions of identity",
+    "self-doubt"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "shadow"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone confused about who they really are, judging themselves by surface appearances."
+  },
+  {
+   "id": "tagore-stray-birds-001-p07",
+   "feelings": [
+    "anxiety",
+    "insecurity"
+   ],
+   "themes": [
+    "acceptance and surrender",
+    "humility and pride"
+   ],
+   "situations": [
+    "facing a decision"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone paralysed by the pressure to choose the perfect option."
+  },
+  {
+   "id": "tagore-stray-birds-001-p08",
+   "feelings": [
+    "frustration",
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "feeling directionless"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "lantern on their back"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose own way of looking keeps darkening the road ahead of them."
+  },
+  {
+   "id": "tagore-stray-birds-001-p09",
+   "feelings": [
+    "awe",
+    "emptiness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "beauty"
+   ],
+   "situations": [
+    "searching for meaning",
+    "an ordinary day"
+   ],
+   "tone": [
+    "uplifting",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "perpetual surprise"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling flat or jaded who could use wonder at simply being alive."
+  },
+  {
+   "id": "tagore-stray-birds-001-p10",
+   "feelings": [
+    "exhaustion",
+    "overwhelm"
+   ],
+   "themes": [
+    "work and duty",
+    "inner peace and stillness"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "practical",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "eyelids"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone overworked who feels guilty about resting and needs permission to stop."
+  },
+  {
+   "id": "tagore-stray-birds-001-p11",
+   "feelings": [
+    "discouragement",
+    "insecurity"
+   ],
+   "themes": [
+    "character and growth"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "power of growth"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling small or behind who needs reminding that growth is their real strength."
+  },
+  {
+   "id": "tagore-stray-birds-001-p12",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "self-worth",
+    "beauty",
+    "love"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "mirror"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone seeking worth in flattery or appearance rather than in loving and being loved."
+  },
+  {
+   "id": "tagore-stray-birds-001-p13",
+   "feelings": [
+    "lostness",
+    "craving"
+   ],
+   "themes": [
+    "love",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone chasing worldly success who wonders what actually gives their life worth."
+  },
+  {
+   "id": "tagore-stray-birds-001-p14",
+   "feelings": [
+    "resentment",
+    "bitterness"
+   ],
+   "themes": [
+    "reputation and others' opinions",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "unrecognised effort",
+    "retirement"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "dry river-bed"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose past contributions are forgotten now that they have less to give."
+  },
+  {
+   "id": "tagore-stray-birds-001-p15",
+   "feelings": [
+    "envy",
+    "restlessness"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "self-worth"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bird and cloud"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone wishing they were someone else, unaware others envy them too."
+  },
+  {
+   "id": "tagore-stray-birds-001-p16",
+   "feelings": [
+    "restlessness",
+    "longing"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "waterfall's song"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling hemmed in who senses their voice will only come with freedom."
+  },
+  {
+   "id": "tagore-stray-birds-001-p17",
+   "feelings": [
+    "frustration",
+    "emptiness"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone blaming circumstances for a dullness that actually starts within them."
+  },
+  {
+   "id": "tagore-stray-birds-001-p18",
+   "feelings": [
+    "love",
+    "joy"
+   ],
+   "themes": [
+    "love",
+    "friendship"
+   ],
+   "situations": [
+    "a new relationship or marriage"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "talk of nothing"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone savouring simple, easy closeness with a person they love."
+  },
+  {
+   "id": "tagore-stray-birds-001-p19",
+   "feelings": [
+    "anger",
+    "craving"
+   ],
+   "themes": [
+    "wrongdoing and injustice",
+    "humility and pride"
+   ],
+   "situations": [
+    "workplace conflict"
+   ],
+   "tone": [
+    "stern",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "weapons as gods"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tempted to win at any cost, who needs to see what force does to the winner."
+  },
+  {
+   "id": "tagore-stray-birds-001-p20",
+   "feelings": [
+    "insecurity",
+    "fear"
+   ],
+   "themes": [
+    "courage",
+    "humility and pride"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "fireflies"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone afraid of looking small who needs courage to show up anyway."
+  },
+  {
+   "id": "tagore-stray-birds-001-p21",
+   "feelings": [
+    "frustration",
+    "restlessness"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone stuck overanalysing details who needs a broader view to move forward."
+  },
+  {
+   "id": "tagore-stray-birds-001-p22",
+   "feelings": [
+    "discouragement",
+    "shame"
+   ],
+   "themes": [
+    "character and growth",
+    "failure and adversity"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone defined by their past who needs to see they are still climbing through it."
+  },
+  {
+   "id": "tagore-stray-birds-001-p23",
+   "feelings": [
+    "sorrow",
+    "longing"
+   ],
+   "themes": [
+    "impermanence",
+    "friendship"
+   ],
+   "situations": [
+    "a big life change",
+    "moving home"
+   ],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "seagulls and waves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone parting from people they met briefly, accepting that meetings pass."
+  },
+  {
+   "id": "tagore-stray-birds-001-p24",
+   "feelings": [
+    "peace",
+    "exhaustion"
+   ],
+   "themes": [
+    "death and mortality",
+    "time and the present"
+   ],
+   "situations": [
+    "retirement",
+    "ageing"
+   ],
+   "tone": [
+    "contemplative",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "boat drawn on the beach"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone at the end of a long working life, resting and listening to what remains."
+  },
+  {
+   "id": "tagore-stray-birds-001-p25",
+   "feelings": [
+    "emptiness",
+    "lostness"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone looking for meaning who might find it in giving themselves to others."
+  },
+  {
+   "id": "tagore-stray-birds-001-p26",
+   "feelings": [
+    "pride",
+    "insecurity"
+   ],
+   "themes": [
+    "humility and pride"
+   ],
+   "situations": [
+    "success and its temptations"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone admiring greatness who wants to grow towards it through humility."
+  },
+  {
+   "id": "tagore-stray-birds-001-p27",
+   "feelings": [
+    "envy",
+    "contentment"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "peacock's tail"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone envying showy success who might see the weight it carries."
+  },
+  {
+   "id": "tagore-stray-birds-001-p28",
+   "feelings": [
+    "fear",
+    "anxiety"
+   ],
+   "themes": [
+    "courage",
+    "time and the present"
+   ],
+   "situations": [
+    "worry about the future"
+   ],
+   "tone": [
+    "steadying",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "voice of the everlasting"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone gripped by fear of the moment ahead who needs steadying."
+  },
+  {
+   "id": "tagore-stray-birds-001-p29",
+   "feelings": [
+    "insecurity",
+    "frustration"
+   ],
+   "themes": [
+    "freedom and self-reliance",
+    "self-worth"
+   ],
+   "situations": [
+    "questions of identity"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "wine in my own cup"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone pressured to fit others' moulds who wants to stay true to themselves."
+  },
+  {
+   "id": "tagore-stray-birds-001-p30",
+   "feelings": [
+    "gratitude"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "practical",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "lampholder in the shade"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose quiet, steady support goes unnoticed, or someone wanting to thank such people."
+  },
+  {
+   "id": "tagore-stray-birds-001-p31",
+   "feelings": [
+    "insecurity",
+    "discouragement"
+   ],
+   "themes": [
+    "self-worth",
+    "nature"
+   ],
+   "situations": [
+    "self-doubt"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "tiny grass"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling small and slow who needs to see their quiet strength."
+  },
+  {
+   "id": "tagore-stray-birds-001-p32",
+   "feelings": [
+    "discouragement",
+    "frustration"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "discrimination or prejudice"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who lost while doing right, needing to see that losing does not undo integrity."
+  },
+  {
+   "id": "tagore-stray-birds-001-p33",
+   "feelings": [
+    "joy",
+    "gratitude"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "simplicity and enough"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "waterfall"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone with plenty to give who wants to give generously and gladly."
+  },
+  {
+   "id": "tagore-stray-birds-001-p34",
+   "feelings": [
+    "resentment",
+    "bitterness"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wrongdoing and injustice"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "woodcutter's axe"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose generosity has been turned against them, or who reflects on giving to those who harm."
+  },
+  {
+   "id": "tagore-stray-birds-001-p35",
+   "feelings": [
+    "bitterness",
+    "resentment"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling betrayed by the world who might question their own reading of it."
+  },
+  {
+   "id": "tagore-stray-birds-001-p36",
+   "feelings": [
+    "loneliness",
+    "restlessness"
+   ],
+   "themes": [
+    "solitude",
+    "the true self"
+   ],
+   "situations": [
+    "living alone or isolated",
+    "questions of identity"
+   ],
+   "tone": [
+    "affirming",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "grass and tree"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who craves solitude while others seek company, wondering if that is all right."
+  },
+  {
+   "id": "tagore-stray-birds-001-p37",
+   "feelings": [
+    "peace",
+    "dread"
+   ],
+   "themes": [
+    "death and mortality",
+    "beauty",
+    "impermanence"
+   ],
+   "situations": [
+    "facing one's own death",
+    "ageing"
+   ],
+   "tone": [
+    "contemplative",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "autumn leaves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone thinking about death who wants to imagine life and its end both lived beautifully."
+  },
+  {
+   "id": "tagore-stray-birds-001-p38",
+   "feelings": [
+    "frustration",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "gate open"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone trying hard to do good who feels shut out, needing to lead with love."
+  },
+  {
+   "id": "tagore-stray-birds-001-p39",
+   "feelings": [
+    "insecurity",
+    "contentment"
+   ],
+   "themes": [
+    "humility and pride",
+    "work and duty"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "scabbard and sword"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a dull supporting role who wants to value the protection they provide."
+  },
+  {
+   "id": "tagore-stray-birds-001-p40",
+   "feelings": [
+    "love",
+    "frustration"
+   ],
+   "themes": [
+    "love",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "power and love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone trying to control others, or feeling controlled, who needs to see love gives freedom."
+  },
+  {
+   "id": "tagore-stray-birds-001-p41",
+   "feelings": [
+    "peace",
+    "dread"
+   ],
+   "themes": [
+    "death and mortality",
+    "impermanence"
+   ],
+   "situations": [
+    "facing one's own death",
+    "existential dread"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "freedom of passing away"
+   ],
+   "safety": "welcomes-death",
+   "safety_reason": "Presents passing away and being forgotten as a felt freedom.",
+   "when_helps": "A reflective reader at ease contemplating how all lives pass and are forgotten; not for someone in distress."
+  },
+  {
+   "id": "tagore-stray-birds-001-p42",
+   "feelings": [
+    "dread",
+    "emptiness"
+   ],
+   "themes": [
+    "death and mortality",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "existential dread",
+    "searching for meaning"
+   ],
+   "tone": [
+    "contemplative",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "death's stamp"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone troubled by mortality who might see death as what makes life precious."
+  },
+  {
+   "id": "tagore-stray-birds-001-p43",
+   "feelings": [
+    "insecurity",
+    "pride"
+   ],
+   "themes": [
+    "humility and pride"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "cloud crowned by morning"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone staying modest and unnoticed who needs to trust that humility is honoured."
+  },
+  {
+   "id": "tagore-stray-birds-001-p44",
+   "feelings": [
+    "resentment",
+    "anger"
+   ],
+   "themes": [
+    "forgiveness",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "bullying or harassment",
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "dust offers flowers"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who has been insulted and is deciding how to answer."
+  },
+  {
+   "id": "tagore-stray-birds-001-p45",
+   "feelings": [
+    "craving",
+    "longing"
+   ],
+   "themes": [
+    "desire and attachment",
+    "time and the present"
+   ],
+   "situations": [],
+   "tone": [
+    "practical",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "gathering flowers"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone clinging to good moments, afraid to let them pass and move on."
+  },
+  {
+   "id": "tagore-stray-birds-001-p46",
+   "feelings": [
+    "love"
+   ],
+   "themes": [
+    "friendship",
+    "truth and integrity"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tempted to flatter or inflate a friend rather than see them truly."
+  },
+  {
+   "id": "tagore-stray-birds-001-p47",
+   "feelings": [
+    "frustration",
+    "lostness"
+   ],
+   "themes": [
+    "the true self",
+    "spiritual practice"
+   ],
+   "situations": [
+    "feeling directionless"
+   ],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "unlit lamp"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone getting in their own way who senses an inner light not yet awakened."
+  },
+  {
+   "id": "tagore-stray-birds-001-p48",
+   "feelings": [
+    "restlessness",
+    "loneliness"
+   ],
+   "themes": [
+    "solitude",
+    "the mind and thoughts"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "clamour of silence"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone using noise and crowds to avoid their own inner silence."
+  },
+  {
+   "id": "tagore-stray-birds-001-p49",
+   "feelings": [
+    "loneliness"
+   ],
+   "themes": [
+    "love",
+    "solitude"
+   ],
+   "situations": [
+    "feeling excluded or rejected",
+    "living alone or isolated"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "lonely road"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone lonely in a crowd, surrounded by people yet unloved."
+  },
+  {
+   "id": "tagore-stray-birds-001-p50",
+   "feelings": [
+    "discouragement",
+    "sorrow"
+   ],
+   "themes": [
+    "failure and adversity",
+    "impermanence"
+   ],
+   "situations": [
+    "career setback or feeling stuck"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone carrying past failures who might see them as part of what now flourishes."
+  },
+  {
+   "id": "tagore-stray-birds-001-p51",
+   "feelings": [
+    "frustration",
+    "insecurity"
+   ],
+   "themes": [
+    "character and growth",
+    "patience and perseverance"
+   ],
+   "situations": [
+    "parenting struggles"
+   ],
+   "tone": [
+    "practical",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "water and pebbles"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone pushing hard to shape themselves or another, who needs gentleness instead."
+  },
+  {
+   "id": "tagore-stray-birds-001-p52",
+   "feelings": [
+    "pride",
+    "gratitude"
+   ],
+   "themes": [
+    "humility and pride",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bees and butterfly"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone taking without thanks, or noticing entitlement in themselves."
+  },
+  {
+   "id": "tagore-stray-birds-001-p53",
+   "feelings": [
+    "frustration"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wisdom and understanding"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone proud of bluntness who should ask whether they are telling the whole truth."
+  },
+  {
+   "id": "tagore-stray-birds-001-p54",
+   "feelings": [
+    "fear",
+    "shame"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone so afraid of mistakes that they close themselves to learning."
+  },
+  {
+   "id": "tagore-stray-birds-001-p55",
+   "feelings": [
+    "contentment"
+   ],
+   "themes": [
+    "humility and pride",
+    "work and duty"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "roots below the earth"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone doing hidden, unrewarded work that makes others' success possible."
+  },
+  {
+   "id": "tagore-stray-birds-001-p56",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ],
+   "themes": [
+    "time and the present",
+    "impermanence"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "clock's parody"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone watching the clock who wants time to feel rich rather than merely passing."
+  },
+  {
+   "id": "tagore-stray-birds-001-p57",
+   "feelings": [
+    "restlessness",
+    "joy"
+   ],
+   "themes": [
+    "the spiritual path",
+    "love"
+   ],
+   "situations": [
+    "a big life change"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "O Road"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tired of aimless wandering who finds love once the path leads somewhere whole."
+  },
+  {
+   "id": "tagore-stray-birds-001-p58",
+   "feelings": [
+    "lostness",
+    "fear",
+    "hope"
+   ],
+   "themes": [
+    "faith and the sacred"
+   ],
+   "situations": [
+    "worry about the future",
+    "feeling directionless"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "guiding star"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone facing a dark, unknown future who wants to trust in some guidance."
+  },
+  {
+   "id": "tagore-stray-birds-001-p59",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "love",
+    "loss and letting go"
+   ],
+   "situations": [
+    "breakup or divorce",
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "ruins of the years"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone haunted at night by a love that is gone."
+  },
+  {
+   "id": "tagore-stray-birds-001-p60",
+   "feelings": [
+    "emptiness",
+    "longing"
+   ],
+   "themes": [
+    "the true self",
+    "spiritual practice"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "little lamp unlit"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone with grand ideals who feels something missing closer to home."
+  },
+  {
+   "id": "tagore-stray-birds-001-p61",
+   "feelings": [
+    "restlessness",
+    "exhaustion"
+   ],
+   "themes": [
+    "spiritual practice",
+    "inner peace and stillness"
+   ],
+   "situations": [],
+   "tone": [
+    "practical",
+    "steadying"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "wash thy soul"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone worn out by too many words and arguments who needs silence."
+  },
+  {
+   "id": "tagore-stray-birds-001-p62",
+   "feelings": [
+    "grief",
+    "sorrow"
+   ],
+   "themes": [
+    "death and mortality",
+    "loss and letting go"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "sad music of death"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling the gaps a death has left in their life."
+  },
+  {
+   "id": "tagore-stray-birds-001-p63",
+   "feelings": [
+    "joy",
+    "hope"
+   ],
+   "themes": [
+    "love",
+    "nature"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "heart of light"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone waking to a new morning who wants to meet the day openly."
+  },
+  {
+   "id": "tagore-stray-birds-002-p01",
+   "feelings": [
+    "anger",
+    "fear"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "inner peace and stillness"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "gentle breeze"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who equates strength with force, or who is shaken by life's storms."
+  },
+  {
+   "id": "tagore-stray-birds-002-p02",
+   "feelings": [
+    "overwhelm",
+    "insecurity"
+   ],
+   "themes": [
+    "work and duty",
+    "humility and pride"
+   ],
+   "situations": [
+    "facing a hard task"
+   ],
+   "tone": [
+    "affirming",
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "earthen lamp"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone daunted by a task too big for them who can still do what they can."
+  },
+  {
+   "id": "tagore-stray-birds-002-p03",
+   "feelings": [
+    "craving"
+   ],
+   "themes": [
+    "beauty",
+    "desire and attachment"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "plucking petals"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone trying to possess what they admire, damaging it in the process."
+  },
+  {
+   "id": "tagore-stray-birds-002-p04",
+   "feelings": [
+    "insecurity",
+    "pride"
+   ],
+   "themes": [
+    "humility and pride"
+   ],
+   "situations": [
+    "feeling excluded or rejected"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone keeping a status distance from others, or hurt by those who do."
+  },
+  {
+   "id": "tagore-stray-birds-002-p05",
+   "feelings": [
+    "contentment",
+    "joy"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "compassion and kindness"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling full and ready to give generously from that abundance."
+  },
+  {
+   "id": "tagore-stray-birds-002-p06",
+   "feelings": [
+    "sorrow",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "suffering and its causes"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "lamp of pain"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose love has brought pain, seeking meaning in it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p07",
+   "feelings": [
+    "sorrow"
+   ],
+   "themes": [
+    "suffering and its causes",
+    "beauty"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting",
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "pain into song"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in pain who might turn it into something creative."
+  },
+  {
+   "id": "tagore-stray-birds-002-p08",
+   "feelings": [
+    "restlessness"
+   ],
+   "themes": [
+    "work and duty",
+    "self-mastery"
+   ],
+   "situations": [],
+   "tone": [
+    "practical",
+    "stern"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone idle and restless, tempted to make trouble for want of real work."
+  },
+  {
+   "id": "tagore-stray-birds-002-p09",
+   "feelings": [
+    "lostness",
+    "restlessness"
+   ],
+   "themes": [
+    "the true self",
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "facing a decision"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling driven by fate who might see their own self pushing them."
+  },
+  {
+   "id": "tagore-stray-birds-002-p10",
+   "feelings": [
+    "regret",
+    "exhaustion"
+   ],
+   "themes": [
+    "work and duty",
+    "family"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "spilled water jar"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who gives so much on the way that little is left for home."
+  },
+  {
+   "id": "tagore-stray-birds-002-p11",
+   "feelings": [
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "truth and integrity"
+   ],
+   "situations": [
+    "searching for meaning"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "great silence"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone seeking answers who must accept that the deepest truths resist words."
+  },
+  {
+   "id": "tagore-stray-birds-002-p12",
+   "feelings": [
+    "love"
+   ],
+   "themes": [
+    "family",
+    "love"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone thinking about what they truly leave behind for the people they love."
+  },
+  {
+   "id": "tagore-stray-birds-002-p13",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "loss and letting go",
+    "time and the present"
+   ],
+   "situations": [
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "fruit of memory"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose ordinary days have passed unnoticed and are now treasured as memory."
+  },
+  {
+   "id": "tagore-stray-birds-002-p14",
+   "feelings": [
+    "exhaustion",
+    "restlessness"
+   ],
+   "themes": [
+    "character and growth",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone so busy with good causes that they neglect being good."
+  },
+  {
+   "id": "tagore-stray-birds-002-p15",
+   "feelings": [
+    "emptiness",
+    "exhaustion"
+   ],
+   "themes": [
+    "purpose and meaning",
+    "work and duty"
+   ],
+   "situations": [
+    "retirement",
+    "ageing"
+   ],
+   "tone": [
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "autumn cloud"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling used up who needs to see their worth in what they have nourished."
+  },
+  {
+   "id": "tagore-stray-birds-002-p16",
+   "feelings": [
+    "despair",
+    "hope"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "the spiritual path"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a dark season who needs to see the difference between darkness and blindness."
+  },
+  {
+   "id": "tagore-stray-birds-002-p17",
+   "feelings": [
+    "restlessness",
+    "anxiety"
+   ],
+   "themes": [
+    "inner peace and stillness",
+    "acceptance and surrender"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "raise your dust"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone agitated and striving who needs to sit still and let life come to them."
+  },
+  {
+   "id": "tagore-stray-birds-002-p18",
+   "feelings": [
+    "love",
+    "grief"
+   ],
+   "themes": [
+    "family",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "children leaving home"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "bow and arrow"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "A parent letting a child go who finds their own freedom in the child's flight."
+  },
+  {
+   "id": "tagore-stray-birds-002-p19",
+   "feelings": [
+    "frustration"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "wisdom and understanding"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "knife all blade"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone relying on logic alone who keeps hurting themselves and others."
+  },
+  {
+   "id": "tagore-stray-birds-002-p20",
+   "feelings": [
+    "craving",
+    "jealousy"
+   ],
+   "themes": [
+    "love",
+    "desire and attachment"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone gripping what they love too tightly, at risk of crushing it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p21",
+   "feelings": [
+    "envy",
+    "resentment"
+   ],
+   "themes": [
+    "humility and pride"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "wasp and bees"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone criticising others' work who is invited to do better themselves."
+  },
+  {
+   "id": "tagore-stray-birds-002-p22",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "loss and letting go",
+    "love"
+   ],
+   "situations": [
+    "breakup or divorce",
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "footprints in my heart"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who cannot keep a loved one but wants to hold their memory."
+  },
+  {
+   "id": "tagore-stray-birds-002-p23",
+   "feelings": [
+    "frustration",
+    "guilt"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "humility and pride"
+   ],
+   "situations": [
+    "conflict with a friend or colleague"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who feels the world is against them and wonders if their own stance causes it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p24",
+   "feelings": [
+    "shame",
+    "embarrassment"
+   ],
+   "themes": [
+    "reputation and others' opinions",
+    "humility and pride"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative",
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone uneasy at praise because they know how much they want it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p25",
+   "feelings": [
+    "restlessness",
+    "guilt"
+   ],
+   "themes": [
+    "inner peace and stillness",
+    "time and the present"
+   ],
+   "situations": [
+    "retirement"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "silent seashore"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who feels guilty or uneasy when they have nothing to do."
+  },
+  {
+   "id": "tagore-stray-birds-002-p26",
+   "feelings": [
+    "craving",
+    "longing"
+   ],
+   "themes": [
+    "desire and attachment",
+    "the mind and thoughts"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "rainbow in the mist"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone noticing how wanting colours and inflates what they chase."
+  },
+  {
+   "id": "tagore-stray-birds-002-p27",
+   "feelings": [
+    "sorrow"
+   ],
+   "themes": [
+    "the mind and thoughts"
+   ],
+   "situations": [
+    "living with anxiety or depression"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone with sad thoughts they cannot quite name."
+  },
+  {
+   "id": "tagore-stray-birds-002-p28",
+   "feelings": [
+    "insecurity"
+   ],
+   "themes": [
+    "work and duty",
+    "humility and pride"
+   ],
+   "situations": [
+    "unrecognised effort"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "service of the leaves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone content to serve quietly in the background, seeking meaning in humble work."
+  },
+  {
+   "id": "tagore-stray-birds-002-p29",
+   "feelings": [
+    "bitterness",
+    "anger"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "wrongdoing and injustice"
+   ],
+   "situations": [],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone hurt by cruel people who needs to keep faith in humanity."
+  },
+  {
+   "id": "tagore-stray-birds-002-p30",
+   "feelings": [
+    "grief",
+    "dread"
+   ],
+   "themes": [
+    "death and mortality"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "steadying",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who feels death has broken the world and needs to see it still holds."
+  },
+  {
+   "id": "tagore-stray-birds-002-p31",
+   "feelings": [
+    "grief",
+    "regret"
+   ],
+   "themes": [
+    "loss and letting go",
+    "love"
+   ],
+   "situations": [
+    "breakup or divorce",
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone mourning a lost love who might see how it enriched their life."
+  },
+  {
+   "id": "tagore-stray-birds-002-p32",
+   "feelings": [
+    "anger",
+    "frustration"
+   ],
+   "themes": [
+    "self-mastery",
+    "wrongdoing and injustice"
+   ],
+   "situations": [],
+   "tone": [
+    "practical"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tempted to lash out who needs to see force yields nothing."
+  },
+  {
+   "id": "tagore-stray-birds-002-p33",
+   "feelings": [
+    "dread",
+    "emptiness"
+   ],
+   "themes": [
+    "impermanence",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "existential dread"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "light on sea waves"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone anxious about legacy and fame, facing how names fade."
+  },
+  {
+   "id": "tagore-stray-birds-002-p34",
+   "feelings": [
+    "bitterness",
+    "frustration"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "beauty"
+   ],
+   "situations": [],
+   "tone": [
+    "challenging"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "thorns and rose"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone fixed on flaws, or criticising, who needs to see the good first."
+  },
+  {
+   "id": "tagore-stray-birds-002-p35",
+   "feelings": [
+    "craving"
+   ],
+   "themes": [
+    "simplicity and enough",
+    "freedom and self-reliance"
+   ],
+   "situations": [
+    "success and its temptations",
+    "money worries or debt"
+   ],
+   "tone": [
+    "stern"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "golden wings"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone tempted by wealth or comfort that could cost them their freedom."
+  },
+  {
+   "id": "tagore-stray-birds-002-p36",
+   "feelings": [
+    "longing",
+    "loneliness"
+   ],
+   "themes": [
+    "love"
+   ],
+   "situations": [
+    "relationship trouble"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone separated from a loved one, feeling the distance keenly."
+  },
+  {
+   "id": "tagore-stray-birds-002-p37",
+   "feelings": [
+    "shame",
+    "love"
+   ],
+   "themes": [
+    "compassion and kindness",
+    "self-worth"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "moon's dark spots"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone keeping their private darkness to themselves while still giving light."
+  },
+  {
+   "id": "tagore-stray-birds-002-p38",
+   "feelings": [
+    "emptiness",
+    "restlessness"
+   ],
+   "themes": [
+    "time and the present",
+    "beauty"
+   ],
+   "situations": [
+    "an ordinary day"
+   ],
+   "tone": [
+    "practical",
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "new-born morning"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone jaded by routine who wants to see the day freshly."
+  },
+  {
+   "id": "tagore-stray-birds-002-p39",
+   "feelings": [
+    "grief",
+    "longing"
+   ],
+   "themes": [
+    "impermanence",
+    "loss and letting go"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "raindrop and jasmine"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone wishing to be remembered forever, facing that all things fall."
+  },
+  {
+   "id": "tagore-stray-birds-002-p40",
+   "feelings": [
+    "anxiety",
+    "insecurity"
+   ],
+   "themes": [
+    "the mind and thoughts",
+    "beauty"
+   ],
+   "situations": [],
+   "tone": [
+    "affirming",
+    "consoling"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "timid thoughts"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone with shy, fragile thoughts who needs to treat them gently."
+  },
+  {
+   "id": "tagore-stray-birds-002-p41",
+   "feelings": [
+    "loneliness",
+    "lostness"
+   ],
+   "themes": [
+    "solitude",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "living alone or isolated",
+    "searching for meaning"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "evening's loneliness"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone alone after a busy day, waiting quietly for meaning to come."
+  },
+  {
+   "id": "tagore-stray-birds-002-p42",
+   "feelings": [
+    "grief",
+    "loneliness"
+   ],
+   "themes": [
+    "death and mortality",
+    "love"
+   ],
+   "situations": [
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "companioning",
+    "contemplative"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "narrow ship"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone parted by death who reflects on the shared journey before the shore."
+  },
+  {
+   "id": "tagore-stray-birds-002-p43",
+   "feelings": [
+    "shame",
+    "guilt"
+   ],
+   "themes": [
+    "truth and integrity",
+    "failure and adversity"
+   ],
+   "situations": [
+    "something I did wrong"
+   ],
+   "tone": [
+    "consoling",
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "channels of mistakes"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone ashamed of mistakes who needs to see truth emerges through them."
+  },
+  {
+   "id": "tagore-stray-birds-002-p44",
+   "feelings": [
+    "longing"
+   ],
+   "themes": [
+    "time and the present",
+    "loss and letting go"
+   ],
+   "situations": [
+    "moving country or culture"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "homesick"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone homesick for a sweet moment in the past."
+  },
+  {
+   "id": "tagore-stray-birds-002-p45",
+   "feelings": [
+    "pride",
+    "anger"
+   ],
+   "themes": [
+    "humility and pride",
+    "compassion and kindness"
+   ],
+   "situations": [
+    "workplace conflict"
+   ],
+   "tone": [
+    "stern"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in a sharp role tempted to mock those who quietly support them."
+  },
+  {
+   "id": "tagore-stray-birds-002-p46",
+   "feelings": [
+    "lostness"
+   ],
+   "themes": [
+    "wisdom and understanding",
+    "truth and integrity"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose picture of reality has been distorted by misreading what matters."
+  },
+  {
+   "id": "tagore-stray-birds-002-p47",
+   "feelings": [
+    "insecurity",
+    "restlessness"
+   ],
+   "themes": [
+    "beauty",
+    "acceptance and surrender"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "boat with wind and water"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone seeking their beauty who might find it by moving with life."
+  },
+  {
+   "id": "tagore-stray-birds-002-p48",
+   "feelings": [
+    "fear",
+    "longing"
+   ],
+   "themes": [
+    "acceptance and surrender",
+    "faith and the sacred"
+   ],
+   "situations": [],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "little world"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone clinging to a small, safe life who longs for the courage to let go."
+  },
+  {
+   "id": "tagore-stray-birds-002-p49",
+   "feelings": [
+    "anger",
+    "bitterness"
+   ],
+   "themes": [
+    "truth and integrity",
+    "wrongdoing and injustice"
+   ],
+   "situations": [
+    "discrimination or prejudice"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone watching falsehood gain power who needs to trust it cannot become truth."
+  },
+  {
+   "id": "tagore-stray-birds-002-p50",
+   "feelings": [
+    "regret",
+    "disappointment"
+   ],
+   "themes": [
+    "humility and pride",
+    "failure and adversity"
+   ],
+   "situations": [
+    "loss of a dream or plan"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "flower in the dust"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone who reached beyond their nature and fell, reflecting on what went wrong."
+  },
+  {
+   "id": "tagore-stray-birds-002-p51",
+   "feelings": [
+    "fear",
+    "hope"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "courage"
+   ],
+   "situations": [
+    "ageing"
+   ],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "lamp through stormy path"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone facing a hard later stretch of life who wants to carry faith into it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p52",
+   "feelings": [
+    "loneliness",
+    "longing"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "love"
+   ],
+   "situations": [
+    "living alone or isolated"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "infinite loneliness"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in deep loneliness who seeks the divine as a companion."
+  },
+  {
+   "id": "tagore-stray-birds-002-p53",
+   "feelings": [
+    "dread",
+    "grief"
+   ],
+   "themes": [
+    "death and mortality",
+    "acceptance and surrender"
+   ],
+   "situations": [
+    "facing one's own death",
+    "bereavement (partner, parent or child)"
+   ],
+   "tone": [
+    "steadying"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "raising of the foot"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone frightened by death who needs to see it as a natural part of life."
+  },
+  {
+   "id": "tagore-stray-birds-002-p54",
+   "feelings": [
+    "sorrow",
+    "fear"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "suffering and its causes"
+   ],
+   "situations": [
+    "illness or injury",
+    "facing one's own death"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "devotional",
+   "keywords": [
+    "whispers in flowers"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone whose faith came easily in good times, now seeking it in pain."
+  },
+  {
+   "id": "tagore-stray-birds-002-p55",
+   "feelings": [
+    "sorrow",
+    "loneliness"
+   ],
+   "themes": [
+    "faith and the sacred",
+    "suffering and its causes"
+   ],
+   "situations": [],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "Eternal Mother"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone in deep sadness who wants to feel a tender presence beneath it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p56",
+   "feelings": [
+    "gratitude",
+    "peace"
+   ],
+   "themes": [
+    "death and mortality",
+    "nature"
+   ],
+   "situations": [
+    "facing one's own death",
+    "moving country or culture"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "stranger, guest, friend"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone near the end of a stay, or of life, grateful for how the place became home."
+  },
+  {
+   "id": "tagore-stray-birds-002-p57",
+   "feelings": [
+    "love",
+    "dread"
+   ],
+   "themes": [
+    "death and mortality",
+    "love"
+   ],
+   "situations": [
+    "facing one's own death"
+   ],
+   "tone": [
+    "consoling",
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "afterglow of sunset"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone thinking about how they want to be remembered after they die."
+  },
+  {
+   "id": "tagore-stray-birds-002-p58",
+   "feelings": [
+    "exhaustion"
+   ],
+   "themes": [
+    "family",
+    "inner peace and stillness"
+   ],
+   "situations": [
+    "overwork or burnout"
+   ],
+   "tone": [
+    "consoling"
+   ],
+   "faith": "spiritual",
+   "keywords": [
+    "hide my face"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone worn out at the end of a hard day who longs to be held and rest."
+  },
+  {
+   "id": "tagore-stray-birds-002-p59",
+   "feelings": [
+    "grief",
+    "sorrow"
+   ],
+   "themes": [
+    "loss and letting go",
+    "impermanence"
+   ],
+   "situations": [
+    "breakup or divorce",
+    "bereavement (friend or other relative)"
+   ],
+   "tone": [
+    "companioning"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "lamp of meeting"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone stunned by how suddenly a long bond ended."
+  },
+  {
+   "id": "tagore-stray-birds-002-p60",
+   "feelings": [
+    "love",
+    "dread"
+   ],
+   "themes": [
+    "love",
+    "death and mortality",
+    "purpose and meaning"
+   ],
+   "situations": [
+    "facing one's own death"
+   ],
+   "tone": [
+    "contemplative",
+    "affirming"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "I have loved"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone reflecting on what matters at the end: that they loved."
+  },
+  {
+   "id": "tagore-stray-birds-002-p61",
+   "feelings": [
+    "emptiness",
+    "bitterness"
+   ],
+   "themes": [
+    "love",
+    "purpose and meaning"
+   ],
+   "situations": [],
+   "tone": [
+    "uplifting"
+   ],
+   "faith": "secular",
+   "keywords": [],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone feeling disconnected from life who might return through loving it."
+  },
+  {
+   "id": "tagore-stray-birds-002-p62",
+   "feelings": [
+    "dread",
+    "love"
+   ],
+   "themes": [
+    "love",
+    "death and mortality",
+    "reputation and others' opinions"
+   ],
+   "situations": [
+    "facing one's own death"
+   ],
+   "tone": [
+    "contemplative"
+   ],
+   "faith": "secular",
+   "keywords": [
+    "immortality of love"
+   ],
+   "safety": "none",
+   "safety_reason": "",
+   "when_helps": "Someone worried about legacy who might value love over fame."
+  }
+ ]
+}

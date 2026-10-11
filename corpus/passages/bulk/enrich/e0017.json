@@ -1,0 +1,1141 @@
+{
+ "items": [
+  {
+   "id": "meditations-011-p08",
+   "plain": "It is absurd to try to escape other people's wrongdoing, which you cannot do, instead of escaping your own, which you can.",
+   "core_idea": "Flee your own faults, not other people's",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-011-p09",
+   "plain": "Once you have done a good deed and someone has benefited, why want anything more, like a reputation for goodness or something in return? Only fools do that.",
+   "core_idea": "A good deed needs no reward or recognition",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-011-p10",
+   "plain": "Before each action, ask whether you will regret it. Soon you will be dead and everything gone; if you are acting as a thinking, social being under God's law, what more could you want?",
+   "core_idea": "Act well now; death makes regret pointless",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-011-p11",
+   "plain": "You may not have time to read, but you do have time to curb arrogance, rise above pleasure, pain and fame, and not be annoyed by foolish, ungrateful people, even to care for them.",
+   "core_idea": "There is always time to improve your character",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-011-p12",
+   "plain": "When you don't want to get up, remember that you are made to do useful work with others; animals sleep too. What fits your own nature is more truly yours and more pleasant.",
+   "core_idea": "Get up: you were made for work, not sleep",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-011-p13",
+   "plain": "Changing your mind when someone corrects you is just as free as sticking to your mistake, because the choice still comes from your own judgement and understanding.",
+   "core_idea": "Accepting correction is an act of freedom",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p01",
+   "plain": "If something is up to you, why do it badly? If it is up to others, blaming chance or the gods is foolish. Blame nobody: fix the cause or the thing if you can; otherwise complaining is pointless.",
+   "core_idea": "Blame no one; fix what you can",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p02",
+   "plain": "You deserve what you are suffering, because you would rather become good tomorrow than be good today.",
+   "core_idea": "Putting off goodness brings its own suffering",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p03",
+   "plain": "Accept wealth and success without arrogance, and be ready to give them up.",
+   "core_idea": "Hold good fortune lightly",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p04",
+   "plain": "Someone who resents what happens or cuts himself off from others is like a severed limb. Yet God has given people alone the power to rejoin the whole after breaking away, and to take their place again.",
+   "core_idea": "You can always rejoin the whole you broke from",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p05",
+   "plain": "Don't trouble yourself by picturing your whole life's troubles at once. Ask what in this moment is truly unbearable. Only the present can hurt you, and taken alone it is small enough to bear.",
+   "core_idea": "Face only the present moment's trouble",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p06",
+   "plain": "I should not cause myself pain, since I have never deliberately caused pain even to anyone else.",
+   "core_idea": "Don't hurt yourself more than you'd hurt others",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p07",
+   "plain": "When something outside you causes you pain, it is not the thing that disturbs you but your judgement of it, and you can erase that judgement right now.",
+   "core_idea": "Your judgement, not events, causes your distress",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-012-p08",
+   "plain": "The mind that keeps its own counsel cannot be conquered. A mind free of passions is a fortress, the safest refuge a person has. Not seeing this is ignorance; seeing it and not using it is misery.",
+   "core_idea": "A calm mind is an unconquerable fortress",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "Remember that the ruling faculty is invincible, when self-collected it is satisfied with itself, if it does nothing which it does not choose to do, even if it resist from mere obstinacy. What then will it be when it forms a judgement about anything aided by reason and deliberately? Therefore the mind which is free from passions is a citadel, for man has nothing more secure to which he can fly for refuge and for the future be inexpugnable. He then who has not seen this is an ignorant man; but he who has seen it and does not fly to this refuge is unhappy.",
+    "reason": "Stray comma in 'fly for, refuge'"
+   }
+  },
+  {
+   "id": "meditations-012-p09",
+   "plain": "Tell yourself only what you actually observe. If someone speaks ill of you, that is the fact; that you were harmed is not. Add nothing from inside, and nothing has happened to you.",
+   "core_idea": "Stick to the facts; add no story",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p01",
+   "plain": "If a cucumber is bitter, throw it away. If there are thorns on the path, step around them. That is enough; don't ask why such things exist in the world.",
+   "core_idea": "Deal with annoyances; don't ask why they exist",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p02",
+   "plain": "Don't be sluggish in what you do, muddled in what you say, or scattered in what you think; don't let your soul be torn inside or spill outward, and don't be too busy for leisure.",
+   "core_idea": "Live with focus, order and calm",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p03",
+   "plain": "Even if people kill or curse you, they cannot stop your mind being pure and just, as a spring stays clean when cursed or dirtied. Become such a fountain by daily practising freedom, contentment, simplicity and modesty.",
+   "core_idea": "No one can pollute a mind that renews itself",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p04",
+   "plain": "Why would you want praise from someone who curses himself constantly, or to please someone who isn't pleased with himself and regrets almost everything he does?",
+   "core_idea": "Don't seek approval from the self-dissatisfied",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p05",
+   "plain": "My neighbour's will matters as little to my own will as his body does. We exist for one another, but each mind has its own work; God did not let my happiness depend on someone else's wickedness.",
+   "core_idea": "Another's wrongdoing cannot harm your mind",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p06",
+   "plain": "Fearing death means fearing either no sensation or a different kind. If you feel nothing, nothing can hurt you; if you feel something different, you become another kind of living being and keep living.",
+   "core_idea": "Death, either way, is nothing to fear",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p07",
+   "plain": "People exist for each other, so either teach them or put up with them.",
+   "core_idea": "Teach others or bear with them",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p08",
+   "plain": "Whoever does wrong wrongs himself, because by acting unjustly he makes himself a worse person.",
+   "core_idea": "Wrongdoing harms the wrongdoer most",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p09",
+   "plain": "Right now, a judgement based on understanding, actions aimed at the common good, and contentment with whatever happens: that is enough.",
+   "core_idea": "Good judgement, good acts, contentment suffice",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-013-p10",
+   "plain": "If you can, teach those who do wrong; if you can't, remember you were given patience for this. Even the gods are kind to such people and help them. You can be kind too; who stops you?",
+   "core_idea": "Correct wrongdoers or be patient with them",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p01",
+   "plain": "Don't work like someone miserable, or like someone wanting pity or admiration. Aim at one thing only: to act or hold back as reason and the common good require.",
+   "core_idea": "Work for the common good, not for show",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p02",
+   "plain": "Today I escaped all my troubles, or rather threw them out, because they were never outside me; they were in my own opinions.",
+   "core_idea": "Troubles live in our opinions",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p03",
+   "plain": "Look closely at what drives the people whose judgement you fear, and you will see what sort of judges they are, even of themselves.",
+   "core_idea": "Those you fear judging you judge poorly",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p04",
+   "plain": "Your job is to leave someone else's wrongdoing where it belongs, with them.",
+   "core_idea": "Leave others' wrongs with them",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p05",
+   "plain": "Endings are not evil. Childhood, youth and adulthood each ended like a small death, as did each stage of family life, and none was to be feared. So the end of your whole life is nothing to fear either.",
+   "core_idea": "Life is full of endings; death is one more",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p06",
+   "plain": "When people blame, hate or slander you, look into their souls; their opinion of you is not worth worrying about. Still, be kind to them: by nature they are your friends, and the gods help them too.",
+   "core_idea": "Understand critics, ignore their opinion, stay kind",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p07",
+   "plain": "Act if you can, without looking around to see who notices, and don't expect a perfect society. Be content when even the smallest thing goes well, and count that as no small thing.",
+   "core_idea": "Do good quietly; value small progress",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p08",
+   "plain": "Many things that trouble you exist only in your opinion, so you can clear them away. Then you gain room by picturing the whole universe, endless time, and how brief each life is between two eternities.",
+   "core_idea": "See the vastness of time to shrink worries",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p09",
+   "plain": "Loss is simply change. Nature delights in change, and through it everything is done well, as it always has been and always will be.",
+   "core_idea": "Loss is only change, and change is natural",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p10",
+   "plain": "If someone has done wrong, the harm is theirs. And maybe they haven't done wrong at all.",
+   "core_idea": "Wrongdoing harms the doer, if wrong was done",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-014-p11",
+   "plain": "If the gods have power, why pray for events to happen or not, instead of praying to be free of fear, desire and pain about them? Better to use what is in your power freely than crave what isn't.",
+   "core_idea": "Pray for inner freedom, not outcomes",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p01",
+   "plain": "When someone's shameless behaviour offends you, ask whether a world without shameless people is possible. It isn't, so don't demand the impossible. Remembering this makes you kinder to each person.",
+   "core_idea": "Wrongdoers must exist; don't demand otherwise",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p02",
+   "plain": "When you call someone faithless or ungrateful, look at yourself: you trusted them, or gave expecting return. Isn't doing good, as your nature calls for, enough? The eye asks no payment for seeing.",
+   "core_idea": "Kindness should not expect repayment",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p03",
+   "plain": "My soul, will you never be good, simple and whole, content and loving, full and wanting nothing more: no more pleasure, time, places, climate or company?",
+   "core_idea": "Longing for a soul content and wanting nothing",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p04",
+   "plain": "Whatever happens, either you are built to bear it, so bear it without complaint, or you are not, and it will end once it has consumed you. But you can bear anything your opinion can make tolerable.",
+   "core_idea": "You can bear what your judgement makes bearable",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p05",
+   "plain": "If someone is wrong, kindly teach them and show them the mistake. If you can't, blame yourself, or not even yourself.",
+   "core_idea": "Correct mistakes kindly, without blame",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-015-p06",
+   "plain": "Learn to see how everything turns into everything else; nothing builds greatness of mind more. Such a person, knowing he must soon leave all behind, simply acts justly, accepts what nature gives, ignores others' opinions, and follows God.",
+   "core_idea": "Seeing constant change frees you to act justly",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p01",
+   "plain": "Why worry anxiously when you can work out what to do? If the way is clear, take it calmly; if not, pause and seek good advice. If you fail, fail trying to do right. Reason brings calm and energy.",
+   "core_idea": "Reason brings calm, clear and steady action",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p02",
+   "plain": "A wise and humble person says to nature, which gives and takes away everything: give what you want, take back what you want. He says it not proudly, but willingly and gladly.",
+   "core_idea": "Let nature give and take, gladly",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p03",
+   "plain": "Stop talking about what a good person should be like, and be one.",
+   "core_idea": "Stop discussing goodness; be good",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p04",
+   "plain": "When someone's fault offends you, think how you go wrong yourself, for instance by prizing money, pleasure or reputation. That quickly cools anger, especially if you remember he is compelled; or, if you can, free him from it.",
+   "core_idea": "Recall your own faults to ease anger at others",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p05",
+   "plain": "A healthy eye sees everything, not only green things; a healthy stomach takes all food. So a healthy mind is ready for anything. Demanding that your children live and everyone praise you is a sick eye wanting green.",
+   "core_idea": "A healthy mind accepts whatever happens",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-016-p06",
+   "plain": "Whenever someone does something, get used to asking yourself what their aim is. But start with yourself: examine yourself first.",
+   "core_idea": "Question motives, starting with your own",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-017-p01",
+   "plain": "If I have done something for the common good, I already have my reward. Keep this in mind always, and never stop doing such good.",
+   "core_idea": "Doing good is its own reward",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-017-p02",
+   "plain": "A branch cut from its neighbour is cut from the whole tree. Whoever hates and turns from another cuts himself off from all society, by his own act. Yet Zeus lets us grow back and rejoin the whole.",
+   "core_idea": "Hating others cuts you off from everyone",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-017-p03",
+   "plain": "Just as obstructive people shouldn't turn you from right action, don't let them turn you from goodwill toward them either. Being angry at them is as weak as giving way through fear; both desert their post.",
+   "core_idea": "Stay firm and stay kind toward opponents",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "meditations-017-p04",
+   "plain": "If someone despises me, that's their concern; mine is to do nothing contemptible. If someone hates me, that's their concern; I will be gentle and kind to all, and honestly show even them their mistake, without reproach or show.",
+   "core_idea": "Others' contempt is theirs; your conduct is yours",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p01",
+   "plain": "In anger, remember that being swept away by passion is not strong. Gentleness is more human and more courageous. The nearer the mind is to freedom from passion, the stronger it is; anger, like pain, is weakness and defeat.",
+   "core_idea": "Gentleness is strength; anger is weakness",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p02",
+   "plain": "Without one constant aim, you can't be the same person throughout life. And that aim should be the common good, since only on such things do people agree. Whoever directs everything to it will act consistently and stay himself.",
+   "core_idea": "One aim, the common good, makes a steady life",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p03",
+   "plain": "You can't set rules for others in writing or reading until you have learned to follow rules yourself. This is even truer in life.",
+   "core_idea": "Learn to obey before you lead",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p04",
+   "plain": "Everything you are trying to reach by a long route you can have now, if you stop denying it to yourself: let go of the past, trust the future to providence, and guide the present with piety and justice.",
+   "core_idea": "Drop the past, trust the future, live rightly now",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p05",
+   "plain": "Strangely, each of us loves ourselves most, yet values others' opinion of us more than our own. No one could bear, even for a day, to have every thought exposed; we care more what neighbours think than what we think.",
+   "core_idea": "We value others' opinion over our own",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-018-p06",
+   "plain": "Practise even the things you despair of ever doing. The left hand is clumsy at most tasks for lack of practice, yet it holds the reins more firmly than the right, because it has practised that.",
+   "core_idea": "Practice builds skill even where you despair",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p01",
+   "plain": "Either fate rules everything, or a kind Providence, or only chaos. If fate, why resist? If Providence, make yourself worthy of help. If chaos, be glad you have a guiding mind; no storm can carry that away.",
+   "core_idea": "Whatever rules the world, your mind stays yours",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p02",
+   "plain": "If it isn't right, don't do it; if it isn't true, don't say it.",
+   "core_idea": "Do only what's right; say only what's true",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p03",
+   "plain": "Realise at last that you have something within you better and more divine than the feelings that pull you about like a puppet. What is in my mind now: fear, suspicion, desire?",
+   "core_idea": "You are more than the feelings that pull you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p04",
+   "plain": "Everything is opinion, and your opinion is in your power. Drop it when you choose, and like a sailor who has rounded the headland, you will find calm, stillness and a waveless bay.",
+   "core_idea": "Let go of opinion and find calm",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p05",
+   "plain": "When troubled, you've forgotten that all happens by nature; that others' wrongs are nothing to you; that all people are kin; that each mind is divine; that nothing is yours; that all is opinion; that you lose only now.",
+   "core_idea": "Trouble comes from forgetting basic truths",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p06",
+   "plain": "Security in life lies in seeing each thing fully for what it is, and with your whole soul doing justice and speaking truth. What remains but to enjoy life, linking one good act to the next without gaps?",
+   "core_idea": "See clearly, act justly, link good to good",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "meditations-019-p07",
+   "plain": "How tiny your share of endless time, of all matter, of the universal soul, of the earth you crawl on! Seeing this, count nothing great except acting as your nature leads and bearing what nature brings.",
+   "core_idea": "In a vast universe, only right action is great",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p01",
+   "plain": "Antigonus of Socho, who received the tradition from Shimon the Righteous, taught: don't serve the master for a reward, like hired servants; serve without expecting reward, and let the fear of Heaven be upon you.",
+   "core_idea": "Serve God without expecting reward",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p02",
+   "plain": "Joshua ben Perahiah taught: find yourself a teacher, get yourself a companion, and give everyone the benefit of the doubt.",
+   "core_idea": "Find a teacher and friend; judge others generously",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p03",
+   "plain": "If I don't stand up for myself, who will? But if I care only for myself, what am I? And if not now, when?",
+   "core_idea": "Care for yourself and others, and act now",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p04",
+   "plain": "Shimon, son of Gamaliel, said that growing up among sages he found nothing better than silence. Action matters more than study, and too much talk leads to sin.",
+   "core_idea": "Silence and deeds outweigh words",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p05",
+   "plain": "Hillel taught: don't cut yourself off from the community; don't trust yourself until you die; don't judge others until you stand in their place; speak clearly; and don't put off study for spare time, which may never come.",
+   "core_idea": "Stay humble, connected, and don't delay",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p06",
+   "plain": "Where no one is acting with decency and courage, be the one who does.",
+   "core_idea": "Be decent when no one else is",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p07",
+   "plain": "Rabbi Eliezer taught: value your friend's honour as your own, don't be quick to anger, and repent one day before you die.",
+   "core_idea": "Honour friends, avoid anger, repent daily",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-001-p08",
+   "plain": "Rabbi Tarfon said the day is short, the work great, the workers lazy, the reward great and the Master insistent. You needn't finish the work, but you aren't free to abandon it; much Torah study brings much reward.",
+   "core_idea": "You needn't finish the work, but must not quit",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p01",
+   "plain": "Someone whose wisdom outweighs their deeds is like a tree with many branches and few roots, which wind uproots. Someone whose deeds outweigh their wisdom is like a tree with deep roots, which no wind can move, as Jeremiah says.",
+   "core_idea": "Deeds root you more firmly than knowledge",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p02",
+   "plain": "Ben Zoma taught, citing scripture: the wise learn from everyone; the strong master their own impulses; the rich are happy with what they have; and the honoured are those who honour others.",
+   "core_idea": "Wisdom, strength, wealth and honour redefined",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p03",
+   "plain": "Don't look down on anyone or dismiss anything, because every person has their moment and every thing has its place.",
+   "core_idea": "Everyone has their hour, everything its place",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p04",
+   "plain": "Rabbi Yannai said we cannot explain why the wicked are at ease or why the righteous suffer.",
+   "core_idea": "Why the good suffer is beyond us",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p05",
+   "plain": "Rabbi Mathia ben Harash taught: greet people first, and better to follow among lions than to lead among foxes.",
+   "core_idea": "Greet first; keep noble company",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p06",
+   "plain": "Rabbi Shimon ben Elazar taught: don't try to calm your friend while he is angry, comfort him while his dead lies before him, question him as he makes a vow, or try to see him in his disgrace.",
+   "core_idea": "Know when to leave a friend be",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p07",
+   "plain": "Shmuel Hakatan quoted Proverbs: don't rejoice when your enemy falls or stumbles, or the Lord may see it, be displeased, and turn his anger away from him.",
+   "core_idea": "Don't gloat when your enemy falls",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p08",
+   "plain": "Rabbi taught: look not at the jug but at what is in it. A new jug can hold old wine, and an old jug may not even hold new wine.",
+   "core_idea": "Judge what's inside, not the outside",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-002-p09",
+   "plain": "Rabbi Elazar Ha-kappar said that envy, lust and the craving for honour drive a person out of the world.",
+   "core_idea": "Envy, lust and vanity destroy a person",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "avot-003-p01",
+   "plain": "A wise person defers to those wiser, doesn't interrupt, doesn't answer hastily, asks and answers to the point, takes things in order, admits what he hasn't heard, and accepts the truth. A fool does the opposite.",
+   "core_idea": "Seven habits separate the wise from fools",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "avot-003-p02",
+   "plain": "Four temperaments: quick to anger, quick to calm, the loss cancels the gain; slow to anger, slow to calm, the gain cancels the loss; slow to anger, quick to calm is pious; quick to anger, slow to calm is wicked.",
+   "core_idea": "Be slow to anger and quick to forgive",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "avot-003-p03",
+   "plain": "Love that depends on something ends when that thing ends; love that depends on nothing never ends. Amnon's love for Tamar was the first kind; David and Jonathan's love was the second.",
+   "core_idea": "Unconditional love never ends",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-003-p04",
+   "plain": "A dispute for the sake of Heaven will endure in the end; one that isn't will not. Hillel and Shammai's debates were for Heaven's sake; Korah's rebellion was not.",
+   "core_idea": "Only disputes for a higher purpose endure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "avot-003-p05",
+   "plain": "Ben He He said that the reward matches the effort.",
+   "core_idea": "Reward follows effort",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "avot-004-p01",
+   "plain": "Don't seek greatness or crave honour. Do more than you learn. Don't long for the tables of kings, for your table and crown are greater, and your Employer can be trusted to reward your work.",
+   "core_idea": "Seek deeds, not honour; your reward is sure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-001-p01",
+   "plain": "Socrates questioned a politician thought wise and found he was not; when told so, the man and others came to hate him. Socrates concluded he was slightly wiser: neither knew anything truly good, but he alone didn't think he knew.",
+   "core_idea": "Wisdom begins with knowing you don't know",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-003-p01",
+   "plain": "Asked whether he is ashamed of a life that may get him killed, Socrates says no: a worthwhile person doesn't weigh the odds of living or dying, only whether he is acting rightly or wrongly.",
+   "core_idea": "Ask only whether you act rightly",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-003-p02",
+   "plain": "Fearing death is pretending to know what we don't. No one knows whether death, which people dread as the worst evil, might be the greatest good. Thinking you know what you don't is shameful ignorance.",
+   "core_idea": "Fearing death claims knowledge we lack",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-003-p03",
+   "plain": "Socrates says all he does is urge young and old to care first not for their bodies or wealth but for improving their souls. Virtue doesn't come from money; money and every other good come from virtue.",
+   "core_idea": "Care for your soul before body or wealth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-004-p01",
+   "plain": "Asked why he can't simply keep quiet in exile, Socrates says that would disobey the god. Daily discussion of virtue and self-examination is the greatest human good, and the unexamined life is not worth living.",
+   "core_idea": "The unexamined life is not worth living",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-005-p01",
+   "plain": "The hard thing, friends, is not escaping death but escaping wrongdoing, because wrongdoing runs faster than death.",
+   "core_idea": "Avoiding wrongdoing is harder than avoiding death",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-005-p02",
+   "plain": "If you think killing people will stop others criticising your bad lives, you are wrong; that escape is neither possible nor honourable. The easiest and noblest way is not to silence others but to improve yourselves.",
+   "core_idea": "Improve yourself rather than silence critics",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-005-p03",
+   "plain": "If death is no consciousness at all, like a dreamless sleep, it is a wonderful gain. Few days or nights, even for a great king, are better than such a night, and then all eternity is only one night.",
+   "core_idea": "If death is dreamless sleep, it is gain",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-005-p04",
+   "plain": "So, judges, be hopeful about death, and know for certain that no evil can happen to a good person, in life or after death.",
+   "core_idea": "No evil can befall a good person",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "plato-apology-jowett-005-p05",
+   "plain": "It is time to leave: I go to die, and you to live. Which is better, only God knows.",
+   "core_idea": "Only God knows if death or life is better",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-001-p01",
+   "plain": "Pleasure is strange, and oddly tied to pain, its apparent opposite. They never come at the same moment, yet whoever chases one usually gets the other, like two bodies joined at one head.",
+   "core_idea": "Pleasure and pain are bound together",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-002-p01",
+   "plain": "Socrates says he would grieve at death if he did not believe he was going to wise, good gods, and perhaps better people. He hopes something remains for the dead, far better for the good than the evil.",
+   "core_idea": "Hope in an afterlife eases grief at death",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-002-p02",
+   "plain": "The body causes endless trouble: it needs food, falls ill, and hinders our search for true being. It fills us with loves, lusts, fears, fantasies and foolishness, and takes away our very power to think.",
+   "core_idea": "Bodily needs distract the mind from truth",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-003-p01",
+   "plain": "Isn't wisdom the one true currency for which everything should be exchanged? Only with wisdom is anything truly gained, whether courage, self-control or justice.",
+   "core_idea": "Wisdom is the only true currency",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-003-p02",
+   "plain": "When lovers see a lyre, a garment or anything their beloved used, don't they picture the beloved in their mind? That, Socrates says, is recollection.",
+   "core_idea": "Objects call up the people we love",
+   "quotability": 3,
+   "complete": false,
+   "extended_text": "And yet what is the feeling of lovers when they recognize a lyre, or a garment, or anything else which the beloved has been in the habit of using? Do not they, from knowing the lyre, form in the mind's eye an image of the youth to whom the lyre belongs? And this is recollection."
+  },
+  {
+   "id": "plato-phaedo-jowett-004-p01",
+   "plain": "Talk us out of our fears, Socrates, or rather the child inside us who sees death as a bogeyman and is afraid alone in the dark. Socrates replied: sing charms to him daily until the fear is charmed away.",
+   "core_idea": "Soothe the inner child's fear of death daily",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-004-p02",
+   "plain": "Asked who will calm their fears once he is gone, Socrates says to search far and wide among Greeks and foreigners, sparing no effort or money, for nothing is better spent. And search among yourselves too.",
+   "core_idea": "Seek wise guides everywhere, including yourselves",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-005-p01",
+   "plain": "A philosopher's soul doesn't ask to be freed only to give itself back to pleasures and pains, undoing its own work like Penelope's weaving. It calms passion, follows reason, and feeds on contemplating what is true and divine.",
+   "core_idea": "Freed by reason, don't return to passion",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-006-p01",
+   "plain": "Certainty here may be impossible in this life, yet it is cowardly not to examine these questions fully. Find the truth, or else take the best human theory as your raft through life, unless God's word carries you more safely.",
+   "core_idea": "Without certainty, sail on the best reasoning",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-006-p02",
+   "plain": "Having been so convinced before, seeing our belief shaken threw confusion over that argument and any future one: either we can't judge, or there is no basis for belief at all.",
+   "core_idea": "Shaken faith makes all belief seem doubtful",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-006-p03",
+   "plain": "Hatred of people comes from trusting too readily without experience. You trust someone completely, they prove false, then another, especially close friends, until finally you hate everyone and believe no one has any good in them.",
+   "core_idea": "Naive trust, betrayed, turns into misanthropy",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-007-p01",
+   "plain": "Let us not believe that no argument is ever sound. Rather, say that we ourselves are not yet sound, and must strive bravely for health of mind: you for the rest of your lives, and I as I face death.",
+   "core_idea": "The fault lies in our thinking, not reason",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-007-p02",
+   "plain": "Quoting Homer: he struck his chest and scolded his heart, telling it to endure, for it had endured far worse before.",
+   "core_idea": "Endure: you have survived worse",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-010-p01",
+   "plain": "If the soul is immortal, it needs care for eternity, not just this life. If death ended all, the wicked would escape their evil. As it is, only virtue and wisdom save us; the soul takes only its upbringing along.",
+   "core_idea": "An immortal soul needs care for eternity",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-011-p01",
+   "plain": "A person can be hopeful about his soul if he has put aside bodily pleasures and adornments, sought the pleasures of knowledge, and dressed his soul in its own jewels: self-control, justice, courage, nobility and truth.",
+   "core_idea": "Adorn the soul with virtue, not finery",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "plato-phaedo-jowett-011-p02",
+   "plain": "Asked for final wishes, Socrates tells Crito only what he always said: take care of yourselves, and that serves him and everyone. Without that, and without living by his teaching, promises made now are worthless.",
+   "core_idea": "The best service is caring for yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p01",
+   "plain": "How can I leave in peace, without sorrow? I cannot leave this city unwounded. I spent long days of pain and long lonely nights here, and who can leave his pain and loneliness behind without regret?",
+   "core_idea": "Even places of pain are hard to leave",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p02",
+   "plain": "Love never knows how deep it is until the moment of parting.",
+   "core_idea": "Parting reveals the depth of love",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p03",
+   "plain": "When love calls, follow, even though its path is hard and it may wound you and shatter your dreams. Love crowns you and also crucifies you; it helps you grow and also cuts you back.",
+   "core_idea": "Follow love, though it both crowns and wounds",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p04",
+   "plain": "Love gives only itself and takes only from itself; it neither owns nor is owned. Don't say God is in your heart; say you are in God's heart. You can't steer love; if you are worthy, it steers you.",
+   "core_idea": "Love is complete in itself and guides you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p05",
+   "plain": "Love each other without binding each other. Share, rejoice and give your hearts, but let each of you stay separate, like lute strings sounding one song, or temple pillars and trees that stand apart.",
+   "core_idea": "Togetherness needs space between you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p06",
+   "plain": "Your children are not yours; they come from Life's longing for itself, through you but not from you. Give them love but not your thoughts; house their bodies, not their souls, which live in a tomorrow you can't visit.",
+   "core_idea": "Children belong to life, not to their parents",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-001-p07",
+   "plain": "Giving possessions is giving little; giving yourself is true giving. Possessions are things hoarded for fear of tomorrow, yet fear of need is itself need, like dreading thirst beside a full well.",
+   "core_idea": "True giving is giving yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-002-p01",
+   "plain": "You have heard, and wearily repeat, that life is darkness. It is, unless there is drive; drive is blind without knowledge, knowledge useless without work, work empty without love. Working with love binds you to yourself, others and God.",
+   "core_idea": "Work done with love gives life meaning",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "You have been told also that life is darkness, and in your weariness you echo what was said by the weary. And I say that life is indeed darkness save when there is urge, And all urge is blind save when there is knowledge, And all knowledge is vain save when there is work, And all work is empty save when there is love; And when you work with love you bind yourself to yourself, and to one another, and to God.",
+    "reason": "Unmatched opening quotation mark removed"
+   }
+  },
+  {
+   "id": "prophet-002-p02",
+   "plain": "Work is love made visible. If you can only work with distaste, better to stop and beg from those who work joyfully, for bread baked without care is bitter and only half satisfies hunger.",
+   "core_idea": "Work is love made visible",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-002-p03",
+   "plain": "Joy is sorrow unmasked; the well that holds your laughter was filled with your tears. The deeper sorrow carves into you, the more joy you can hold. Look deep in joy or sorrow: both spring from the same thing.",
+   "core_idea": "Sorrow carves the space that joy fills",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-002-p04",
+   "plain": "You speak of wrongdoers as strangers, not one of you. But just as the holiest cannot rise above the highest in each of you, the wicked cannot fall below the lowest that is also in you.",
+   "core_idea": "The wrongdoer's darkness is in us all",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p01",
+   "plain": "How can you punish people whose remorse already outweighs their wrongs? Remorse is itself justice. You can't impose it on the innocent or remove it from the guilty; it comes unasked at night, making people face themselves.",
+   "core_idea": "Remorse is justice working from within",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p02",
+   "plain": "You will be truly free not when your days are carefree and your nights without need or grief, but when these surround your life and you still rise above them, unbound.",
+   "core_idea": "Freedom is rising above cares, not escaping them",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p03",
+   "plain": "If you want to get rid of a fear, know that it lives in your own heart, not in the hand of what you fear.",
+   "core_idea": "Fear lives in your heart",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p04",
+   "plain": "Your soul is often a battlefield of reason against passion. You must make peace, even love, between them. Reason and passion are your soul's rudder and sails; reason alone confines, and passion alone burns itself out.",
+   "core_idea": "Reason and passion must work together",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p05",
+   "plain": "Pain breaks the shell around your understanding, as a fruit's stone must break for its heart to reach the sun. If you marvelled at life's daily miracles, pain would seem as wondrous as joy, and you'd calmly accept grief's winters.",
+   "core_idea": "Pain opens the way to understanding",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p06",
+   "plain": "Don't say you have found the truth or the soul's path; say you have found a truth, and met the soul on your path. The soul walks every path, and unfolds like a lotus with countless petals.",
+   "core_idea": "No one owns the whole truth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p07",
+   "plain": "A friend is your needs answered: a field you sow with love and reap with thanks, a table and a hearth. With a friend you speak freely, and even in silence your hearts listen and share everything with quiet joy.",
+   "core_idea": "A true friend meets your deepest needs",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p08",
+   "plain": "When you part from a friend, don't grieve, for what you love most in them may be clearer when they're gone, as a mountain is clearer to the climber from the plain.",
+   "core_idea": "Absence clarifies what we love in a friend",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-003-p09",
+   "plain": "You talk when you are no longer at peace with your thoughts or alone with your heart; then talk becomes a pastime that half kills thinking. Some seek talkers because silence and solitude show them their naked selves.",
+   "core_idea": "Much talk is an escape from oneself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p01",
+   "plain": "You try to measure time, which can't be measured, and let hours and seasons rule you. Yet the timeless part of you knows life is timeless, that yesterday is only today's memory and tomorrow today's dream.",
+   "core_idea": "Yesterday is memory, tomorrow a dream",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p02",
+   "plain": "You are good when you are at one with yourself. But when you are divided, you are not evil: a divided house is not a den of thieves, only a divided house.",
+   "core_idea": "Being divided inside does not make you evil",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p03",
+   "plain": "You are good when you walk boldly toward your goal. But you are not evil when you limp there; even those who limp are not going backwards.",
+   "core_idea": "Slow progress is still progress",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p04",
+   "plain": "Some elders remember past pleasures with regret, like wrongs done while drunk. But regret clouds the mind rather than correcting it; they should remember their pleasures with gratitude, like a summer harvest.",
+   "core_idea": "Remember past pleasures with gratitude, not regret",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p05",
+   "plain": "Your everyday life is your temple and your religion. Whenever you enter it, bring all of yourself.",
+   "core_idea": "Everyday life is your temple",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "prophet-004-p06",
+   "plain": "To know death's secret, look into the heart of life; an owl blind by day can't reveal light. Life and death are one, like river and sea. Your hopes quietly know the beyond, as seeds under snow dream of spring.",
+   "core_idea": "Life and death are one",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p01",
+   "plain": "Dying is standing naked in the wind and melting into the sun; ceasing to breathe frees the breath to rise and seek God. Only after drinking silence will you sing, after the summit begin to climb, after burial truly dance.",
+   "core_idea": "Death is a release into fuller life",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p02",
+   "plain": "You've heard you are only as strong as your weakest link. That's half true; you are also as strong as your strongest. Judging you by your smallest deed or your failures is like judging the ocean by its foam.",
+   "core_idea": "You are also your strongest link",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p03",
+   "plain": "You are like the ocean, which cannot rush its tides even for waiting ships. And you are like the seasons: even when your winter denies your spring, spring rests inside you, smiling and unoffended.",
+   "core_idea": "Your spring waits patiently within your winter",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p04",
+   "plain": "You give a great deal without knowing you give. Kindness that admires itself in a mirror turns to stone, and a good deed that praises itself gives birth to a curse.",
+   "core_idea": "Self-admiring kindness spoils itself",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p05",
+   "plain": "You are not confined to your body, house or fields. What you truly are lives above the mountains and roams with the wind, not crawling for warmth or hiding for safety, but a free spirit that surrounds the earth.",
+   "core_idea": "Your true self is a free spirit",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p06",
+   "plain": "The part of you that seems weakest and most confused is in fact the strongest and most determined.",
+   "core_idea": "Your seeming weakness is your strength",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "prophet-005-p07",
+   "plain": "The hands that made the veil over your eyes and the clay in your ears will remove them, and you will see and hear. You won't regret your blindness, knowing all things' hidden purpose, and will bless darkness like light.",
+   "core_idea": "One day you'll bless darkness as well as light",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p01",
+   "plain": "Listen to the reed flute grieve its exile: since it was cut from the reed bed, its sad notes have made people weep as it pours out its longing. Whoever lives far from home always longs to return.",
+   "core_idea": "The soul longs for the home it came from",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p02",
+   "plain": "My days are toil and sorrow, walking hand in hand with anguish. But it doesn't matter if my days vanish so, as long as you remain, O incomparable Pure One.",
+   "core_idea": "Sorrow matters little if God remains",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "Through grief my days are as labor and sorrow,\nMy days move on, hand in hand with anguish. Yet, though my days vanish thus, 'tis no matter,\nDo thou abide, O Incomparable Pure One!",
+    "reason": "Doubled comma removed"
+   }
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p03",
+   "plain": "Rise up, break your chains and be free; how long will money enslave you? A pitcher holds only a day's worth, even of an ocean. Greed never fills; only one torn open by love is free of greed and sin.",
+   "core_idea": "Love frees us from endless greed",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p04",
+   "plain": "Do you know why your mirror shows nothing? Its face hasn't been scrubbed of rust. Cleaned of all rust and dirt, it would reflect the shining Sun of God.",
+   "core_idea": "A purified heart reflects God's light",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p05",
+   "plain": "A true lover is proven by heartache; no sickness is like the sickness of the heart.",
+   "core_idea": "Heartache proves true love",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p06",
+   "plain": "However much we describe and explain love, once we are in love our words embarrass us. Speech makes most things clear, but love is clearer left unexplained.",
+   "core_idea": "Love is clearest unexplained",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p07",
+   "plain": "O God, there are countless traps and baits, and we are like greedy, foolish birds, caught in a new trap every moment, even the mightiest of us. You free us each moment, and we fly straight back in.",
+   "core_idea": "God keeps freeing us from our own traps",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p08",
+   "plain": "Each night, spirits are freed from the body's cage, neither ruling nor ruled. Asleep, prisoners forget their prison and kings their power; there is no worry about loss or gain, or about anyone at all.",
+   "core_idea": "Sleep frees every spirit from its cage",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-001-p09",
+   "plain": "Being awake chains our spirits to whims, worries over loss and gain, and fear of misery, so they lose their purity, dignity and longing for heaven. The one truly asleep is the one who chases every whim and fancy.",
+   "core_idea": "Chasing every whim is the real sleep",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-002-p01",
+   "plain": "Many run from one danger into a worse one, fleeing a snake to meet a dragon. People scheme and trap themselves; what they think will save them turns out to destroy them.",
+   "core_idea": "Our schemes to escape can trap us",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Many there are who flee from one danger to a worse;\nMany flee from a snake and meet a dragon. Man plans a stratagem, and thereby snares himself;\nWhat he takes for life turns out to be destruction.",
+    "reason": "Stray comma removed"
+   }
+  },
+  {
+   "id": "rumi-masnavi-whinfield-002-p02",
+   "plain": "We must climb to the roof step by step; fatalism has no place here. You have feet, so why pretend to be lame? You have hands, so why hide your claws?",
+   "core_idea": "Use the abilities you have; don't play helpless",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-002-p03",
+   "plain": "Effort is how we thank God for His blessings; fatalism gives no such thanks. Thanks for blessings brings more blessings, while fatalism snatches them out of your hands.",
+   "core_idea": "Effort is thanks for God's blessings",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "rumi-masnavi-whinfield-002-p04",
+   "plain": "Until the heart sees the Giver of the secret, it thinks its horse is lost while riding it. It runs door to door asking who stole its horse; people tell it to look at itself: the horse is beneath it.",
+   "core_idea": "What you seek is already carrying you",
+   "quotability": 2,
+   "complete": true
+  }
+ ]
+}

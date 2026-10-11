@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "bib-psa-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-003-p09",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Seemed to turn away' hedges 'hid your face'; direct address to God lost."
+  },
+  {
+   "id": "bib-psa-003-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-003-p11",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops that the speaker's strength fails because of his own iniquity."
+  },
+  {
+   "id": "bib-psa-003-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-003-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Recasts God's first-person promise as reported speech; drops 'or they will not come near you'."
+  },
+  {
+   "id": "bib-psa-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Omits the unanswered prayer and that the attack came unawares."
+  },
+  {
+   "id": "bib-psa-004-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'dwell in the land, enjoy safe pasture' and justice shining like noon."
+  },
+  {
+   "id": "bib-psa-004-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-004-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Before I am gone' softens 'before I go away and exist no more'."
+  },
+  {
+   "id": "bib-psa-005-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'many shall see it, and fear'."
+  },
+  {
+   "id": "bib-psa-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'When shall I come and appear before God?'"
+  },
+  {
+   "id": "bib-psa-005-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-005-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-006-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-007-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-008-p06",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops 'afterward receive me to glory' and 'no one on earth I desire besides you'."
+  },
+  {
+   "id": "bib-psa-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-010-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'to him' to pilgrimage; drops autumn-rain blessing; direct address to God lost."
+  },
+  {
+   "id": "bib-psa-010-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Renders 'righteousness' as 'justice', narrowing its meaning."
+  },
+  {
+   "id": "bib-psa-010-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-010-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Made them turn from me' softens 'made me an abomination to them'."
+  },
+  {
+   "id": "bib-psa-010-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-010-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Specific dangers (snare, pestilence, arrow) collapsed into generic night-and-day dangers."
+  },
+  {
+   "id": "bib-psa-011-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-011-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-012-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops closing promise that the servants' children will continue before God."
+  },
+  {
+   "id": "bib-psa-012-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-012-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition 'toward those who fear him'; makes God's love unconditional."
+  },
+  {
+   "id": "bib-psa-012-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-012-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-013-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops that God himself commands and raises the storm."
+  },
+  {
+   "id": "bib-psa-013-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-013-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-013-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-013-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops God's gracious, righteous character and that he preserves the simple."
+  },
+  {
+   "id": "bib-psa-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-014-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'therefore you are feared': forgiveness leading to reverence."
+  },
+  {
+   "id": "bib-psa-015-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-015-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'anxious' to 'my thoughts', which the passage does not say."
+  },
+  {
+   "id": "bib-psa-016-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops fear of going down to the pit and 'I lift up my soul to you'."
+  },
+  {
+   "id": "bib-psa-016-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psa-016-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-psalm151-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'the Lord did not take pleasure in them'; the choice is only implied."
+  },
+  {
+   "id": "bib-revelation-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-revelation-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Ten days' generalised to 'for a time'."
+  },
+  {
+   "id": "bib-revelation-001-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses gold refined by fire and the shame of nakedness; counsel to buy flattened."
+  },
+  {
+   "id": "bib-revelation-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-revelation-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops standing before the throne and the Lamb shepherding them to springs."
+  },
+  {
+   "id": "bib-revelation-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-revelation-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-003-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens 'give place to God's wrath' and drops 'heap coals of fire on his head'."
+  },
+  {
+   "id": "bib-romans-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-romans-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-ruth-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops dying and burial where Naomi dies, and the oath invoking God."
+  },
+  {
+   "id": "bib-ruth-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'the Almighty has dealt very bitterly with me'; drops 'testified against me'."
+  },
+  {
+   "id": "bib-sirach-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'order your ways aright' and the promise of increase at the end."
+  },
+  {
+   "id": "bib-sirach-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that relieving a father counts 'instead of sins'."
+  },
+  {
+   "id": "bib-sirach-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p08",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Recasts 'not ashamed concerning your soul' as standing up for yourself; shifted frame."
+  },
+  {
+   "id": "bib-sirach-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-001-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-002-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p09",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'the covenant of the grave is not shown to you' and giving by ability."
+  },
+  {
+   "id": "bib-sirach-003-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-003-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'when he ceases, he will be in perplexity' and the pebble image."
+  },
+  {
+   "id": "bib-sirach-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Reprove' softened to 'ask'; adds a hearsay framing not in the passage."
+  },
+  {
+   "id": "bib-sirach-004-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-004-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-005-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Assigns the speaker a female gender, which the passage does not state."
+  },
+  {
+   "id": "bib-sirach-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops remembering the commandments and covenant; 'ignorance' broadened to 'faults'."
+  },
+  {
+   "id": "bib-sirach-006-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-006-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'love your own soul' and 'sorrow has destroyed many'."
+  },
+  {
+   "id": "bib-sirach-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "bib-sirach-007-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

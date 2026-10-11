@@ -1,0 +1,1204 @@
+{
+"judgements": [
+{
+"id": "tagore-gitanjali-005-p10",
+"faithful": 4,
+"advice": false,
+"issue": "Softens 'sob out in music' to 'sing'."
+},
+{
+"id": "tagore-gitanjali-005-p11",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'what there is to do will be instantly done' and God's coming at his pleasure."
+},
+{
+"id": "tagore-gitanjali-005-p12",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'sea of silence' and 'eternal home' images."
+},
+{
+"id": "tagore-sadhana-001-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-001-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-001-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'either a dance or a fall'."
+},
+{
+"id": "tagore-sadhana-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-002-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops love as perfect comprehension and Spirit as breath of the soul."
+},
+{
+"id": "tagore-sadhana-002-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-002-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Loses framing of discipline preparing for social duties."
+},
+{
+"id": "tagore-sadhana-003-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-003-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-003-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-003-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Compresses chick-and-shell image; loses shell never being part of its life."
+},
+{
+"id": "tagore-sadhana-003-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-004-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-004-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops petty details revealing infinite purpose and inner harmony."
+},
+{
+"id": "tagore-sadhana-004-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'self-revealing spirit has not been manifest within us'."
+},
+{
+"id": "tagore-sadhana-004-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-004-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-004-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops sky-and-bird-wing image; death not blackening existence compressed."
+},
+{
+"id": "tagore-sadhana-005-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-005-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-006-p01",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the hard saying: pain courted, death welcomed, martyrs' patience under persecution."
+},
+{
+"id": "tagore-sadhana-006-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-006-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-007-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that our individual spirit refuses the offered happiness."
+},
+{
+"id": "tagore-sadhana-007-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-007-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-007-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Compresses; loses the thread-in-the-loom image of self passing on."
+},
+{
+"id": "tagore-sadhana-007-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-007-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-008-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-009-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-009-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-009-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-009-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-009-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-010-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that utility becomes a burden once the want is met."
+},
+{
+"id": "tagore-sadhana-011-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops receiving the world in the heart among deathless things."
+},
+{
+"id": "tagore-sadhana-011-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that exploiting others gains money at the cost of truth."
+},
+{
+"id": "tagore-sadhana-011-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-011-p10",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'dying for gains we never can share'."
+},
+{
+"id": "tagore-sadhana-012-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-012-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Compresses the soul's prayer; loses plea for protection from sin's laxity."
+},
+{
+"id": "tagore-sadhana-012-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-012-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-012-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-012-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops mightiest battles and 'made death glorious'."
+},
+{
+"id": "tagore-sadhana-012-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-013-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-013-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-013-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-013-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-013-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that none could live without the all-pervading joy filling the sky."
+},
+{
+"id": "tagore-sadhana-014-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-014-p09",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that possession itself shows we are greater than things."
+},
+{
+"id": "tagore-sadhana-015-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-015-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops parting with all 'not excepting his life'; prophets' alms-bowl."
+},
+{
+"id": "tagore-sadhana-015-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Loses that becoming hungers for what can never be lost."
+},
+{
+"id": "tagore-sadhana-015-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-015-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-015-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-015-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-016-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-sadhana-016-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the ferryman cry and image of crossing within old walls."
+},
+{
+"id": "tagore-sadhana-016-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p14",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p15",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p16",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p17",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p18",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p19",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p20",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p21",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p22",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p23",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p24",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p25",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p26",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p27",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p28",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p29",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p30",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p31",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p32",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p33",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p34",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p35",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p36",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p37",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p38",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p39",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p40",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p41",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p42",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p43",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p44",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p45",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p46",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p47",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p48",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p49",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p50",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p51",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p52",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p53",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p54",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p55",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p56",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p57",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p58",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p59",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p60",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p61",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p62",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-001-p63",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the lamp addressing the sun as 'my Master'."
+},
+{
+"id": "tagore-stray-birds-002-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p14",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p15",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p16",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p17",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p18",
+"faithful": 4,
+"advice": false,
+"issue": "'Belongs to the bow' narrows 'your freedom is mine' to ownership."
+},
+{
+"id": "tagore-stray-birds-002-p19",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p20",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p21",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p22",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p23",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p24",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p25",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p26",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p27",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p28",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p29",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p30",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p31",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p32",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p33",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p34",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p35",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p36",
+"faithful": 4,
+"advice": false,
+"issue": "Adds 'than it is', a slight claim beyond 'looms large'."
+},
+{
+"id": "tagore-stray-birds-002-p37",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p38",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p39",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p40",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-stray-birds-002-p41",
+"faithful": 5,
+"advice": false,
+"issue": ""
+}
+]
+}

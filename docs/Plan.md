@@ -122,7 +122,7 @@ Exit: accounts live, schema agreed, 70 test statements written.
 ### 5.2 Phase 1 — Corpus (Days 4–14, 11–21 Oct)
 
 - [x] **D4:** Normalise all 33 sources (Corpus-Policy section 7, step 1). Pilot extraction and verbatim check on one short, structured source (Dhammapada) and one dense one (a Vivekananda lecture). First heavy run: Claude walks you through the `/usage` readings and records the token calibration (CLAUDE.md section 4.3).
-- [ ] **D5:** You judge pilot passages keep/cut; extraction rules adjusted. No longer gates the model choice: it now checks the quality of Opus picks and can run alongside the bulk run.
+- [x] **D5:** You judge pilot passages keep/cut; extraction rules adjusted. No longer gates the model choice: it now checks the quality of Opus picks and can run alongside the bulk run.
 - [x] **D6:** Pilot tagging with the safety field (Decision 3); the same chunks run through Sonnet and Opus. Model for bulk work: **Opus 5.5** (decided 7 Oct). Rules locked.
 - [x] **D7–11:** Full run across all 33 sources, parallel and unattended, highest-yield sources first (Gita, Dhammapada, Psalms/Proverbs/Ecclesiastes, Meditations, Enchiridion, Tao Te Ching, The Prophet, Pirkei Avot, Rumi), bulk sources last (rest of the Bible, Nikayas, Vivekananda, Seneca). Each session: Claude proposes that day's batch and token budget; you scan that day's cut list (Corpus-Policy section 6). Sources with open questions (Rumi headings, the Zitkala-Ša quoted report, *Way of Perfection*, *Brother Lawrence*) run last.
 - [x] **D12–13:** Deduplicate, check consistency, corpus statistics by source and theme.
@@ -132,7 +132,7 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 
 ### 5.3 Phase 2 — Enrichment, retrieval and evals (Days 15–21, 22–28 Oct)
 
-- [ ] **D15:** Enrichment pass, unattended under a token budget (Corpus-Policy section 7, step 7): plain version, quotability 1–5, completeness flag with verbatim extension, text-error fixes for display, core idea in 10 words or fewer. New sources: licence check, then extract, tag and enrich the aphoristic additions (Corpus-Policy section 2.2). The AI judge checks every plain version.
+- [x] **D15:** Enrichment pass, unattended under a token budget (Corpus-Policy section 7, step 7): plain version, quotability 1–5, completeness flag with verbatim extension, text-error fixes for display, core idea in 10 words or fewer. New sources: licence check, then extract, tag and enrich the aphoristic additions (Corpus-Policy section 2.2). The AI judge checks every plain version.
 - [ ] **D16:** You (~10 min): read the 10 plain versions the judge rated least faithful; fix or hide. [DECISION] Embeddings option (hosted API vs a free model). Create the Supabase project; load passages; baseline embeddings.
 - [ ] **D17:** Eval harness. AI judge labels acceptable passages for both test sets; you spot-check it on 8 human statements (~10 min). Baseline scores.
 - [ ] **D18–19:** Experiments 1–4, 6 and 7 (section 4.4).

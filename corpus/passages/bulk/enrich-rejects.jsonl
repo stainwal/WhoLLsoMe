@@ -1,0 +1,26 @@
+{"file": "e0002.json", "id": "bib-1maccabees-010-p01", "field": "fix", "reason": "fix changes nothing"}
+{"file": "e0003.json", "id": "bib-2esdras-001-p01", "field": "fix", "reason": "fix changes nothing"}
+{"file": "e0003.json", "id": "bib-2esdras-009-p02", "field": "fix", "reason": "fix changes nothing"}
+{"file": "e0003.json", "id": "bib-2maccabees-003-p02", "field": "fix", "reason": "fix changes nothing"}
+{"file": "e0004.json", "id": "bib-isaiah-001-p02", "field": "fix", "reason": "fix leaves an unmatched quotation mark"}
+{"file": "e0004.json", "id": "bib-isaiah-012-p08", "field": "fix", "reason": "fix leaves an unmatched quotation mark"}
+{"file": "e0006.json", "id": "bib-obadiah-001-p01", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-020-p01", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-020-p02", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-020-p05", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-020-p09", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-021-p01", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-022-p02", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-023-p03", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-024-p02", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-027-p03", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-027-p07", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-029-p04", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-031-p03", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0009.json", "id": "chuang-tzu-giles-031-p04", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0016.json", "id": "japji-macauliffe-002-p02", "field": "fix", "reason": "fix changes letters (distance > 2)"}
+{"file": "e0021.json", "id": "seneca-038-p02", "field": "fix", "reason": "fix changes letters (distance > 2)"}
+{"file": "e0027.json", "id": "tagore-sadhana-012-p02", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0027.json", "id": "tagore-sadhana-014-p07", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0028.json", "id": "tagore-stray-birds-001-p40", "field": "fix", "reason": "fix adds a quotation mark the source does not have"}
+{"file": "e0034.json", "id": "viv13-019-p03", "field": "fix", "reason": "fix changes letters (distance > 2)"}

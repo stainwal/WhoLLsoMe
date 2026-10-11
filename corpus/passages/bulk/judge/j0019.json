@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "an-077-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-077-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-078-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-079-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-079-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-080-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Names Sāriputta as speaker, which the passage does not; condenses the range of accusations."
+  },
+  {
+   "id": "an-082-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the qualifier 'so long as strength is found'."
+  },
+  {
+   "id": "an-084-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-085-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-086-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-088-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-089-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-090-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-091-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-092-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-093-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-093-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-094-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-095-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-096-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-096-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'focus on energy and serenity' and 'learn the character of this situation'."
+  },
+  {
+   "id": "an-096-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-098-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-099-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-100-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-100-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-100-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-100-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-101-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-101-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-102-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-102-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-102-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-103-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'unloved' heirs and 'invincible among gods and humans'."
+  },
+  {
+   "id": "an-105-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-105-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-108-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-110-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-110-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-110-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-110-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-110-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-111-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-111-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-111-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-111-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-112-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-114-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-114-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-115-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-116-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-116-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-116-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-116-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-120-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-120-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-122-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-123-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-124-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-125-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-127-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-127-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-127-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-129-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-130-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-131-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-132-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-133-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-134-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the step that perceiving impermanence stabilises perception of not-self."
+  },
+  {
+   "id": "an-135-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-136-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Names Sāriputta as speaker, which the passage does not."
+  },
+  {
+   "id": "an-139-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-140-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-141-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds Ānanda as speaker; drops that the Buddha is the one who declared the fruit."
+  },
+  {
+   "id": "an-142-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-142-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-149-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-149-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-150-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-152-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Generalises 'bodily behavior' to conduct in general."
+  },
+  {
+   "id": "an-153-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-154-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-154-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-155-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-155-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-157-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-158-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Lists only some of the ten pairs; beauty, health, learning and others omitted."
+  },
+  {
+   "id": "an-159-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-162-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-163-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-164-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-166-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-170-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-171-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-172-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-172-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-172-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-173-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-175-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-176-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "an-176-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops immunity to fire, poison and blade and the condition 'if you don't penetrate higher'."
+  },
+  {
+   "id": "dhp-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p10",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Loses that the disciple, from among the despised, outshines 'blind ordinary folk'."
+  },
+  {
+   "id": "dhp-001-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p16",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-001-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p20",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-002-p21",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Passage is about people you like or dislike; plain shifts it to things."
+  },
+  {
+   "id": "dhp-002-p22",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p16",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p20",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p21",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-003-p22",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dhp-004-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-015-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-019-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-020-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-021-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-025-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-026-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-026-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-027-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-028-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the 'evaluation' and 'desire and lust' links from the chain."
+  },
+  {
+   "id": "dn-029-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-031-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-031-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-032-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-033-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-034-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-035-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-037-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "dn-038-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

@@ -1,0 +1,1129 @@
+{
+ "items": [
+  {
+   "id": "an-153-p03",
+   "plain": "I own my actions and inherit their results; they are where I come from, my family and my shelter, good or bad. As each day and night passes, what kind of person am I turning into?",
+   "core_idea": "You inherit your deeds; ask who you are becoming",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-154-p01",
+   "plain": "Just as a young person checks their face in a mirror to remove any dirt, and is glad when there is none, a mendicant should check their own mind; this checking helps their good qualities.",
+   "core_idea": "Check your mind as you check a mirror",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-154-p02",
+   "plain": "The Buddha says he does not praise standing still in good qualities, let alone slipping back; he praises growing in them.",
+   "core_idea": "Praise growth in goodness, not standing still",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "an-155-p01",
+   "plain": "Giving up means a mendicant does not put up with sensual, hostile or cruel thoughts, or any other unwholesome quality, once it arises, but lets it go and gets rid of it entirely.",
+   "core_idea": "Do not tolerate harmful thoughts; let them go",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-155-p02",
+   "plain": "Fading away is when a mendicant, alone in the wilderness or an empty hut, reflects that the stilling of all activity, letting go of attachments and ending craving is peaceful and sublime.",
+   "core_idea": "Letting go of all craving is peaceful",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "an-157-p01",
+   "plain": "In this teaching, being dissatisfied is suffering and being satisfied is happiness. When you are dissatisfied you find no ease anywhere, whatever you do; when satisfied, you find happiness wherever you are.",
+   "core_idea": "Dissatisfaction is suffering; contentment brings happiness everywhere",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "an-158-p01",
+   "plain": "Ten rare, desirable things each have a cause: effort brings wealth, good friends support ethics, honesty wins friends, eager listening and questioning bring wisdom, right practice leads to heaven, and so on.",
+   "core_idea": "Each good thing in life is fed by something",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-159-p01",
+   "plain": "The Buddha gives ten ways to let go of resentment: whenever someone has harmed, is harming or will harm you or those you love, or helps those you dislike, think: what can I possibly do? And don't get angry needlessly.",
+   "core_idea": "Drop resentment: think, what can I possibly do?",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "“Mendicants, there are these ten ways to get rid of resentment. What ten? Thinking: ‘They harmed me, but what can I possibly do?’ you get rid of resentment. Thinking: ‘They are harming me …’ … ‘They will harm me …’ … ‘They harmed someone I love …’ … ‘They are harming someone I love …’ ‘They will harm someone I love …’ … ‘They helped someone I dislike …’ … ‘They are helping someone I dislike …’ … Thinking: ‘They will help someone I dislike, but what can I possibly do?’ you get rid of resentment. And you don’t get angry for no reason. These are the ten ways of getting rid of resentment.”",
+    "reason": "missing opening quotation mark"
+   }
+  },
+  {
+   "id": "an-162-p01",
+   "plain": "The Buddha says not to make efforts that make bad qualities grow and good ones shrink, but to make efforts that shrink the bad and grow the good.",
+   "core_idea": "Pursue efforts that grow good qualities, not bad",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-163-p01",
+   "plain": "The Buddha tells Uttiya he teaches from his own insight to purify beings, help them get past sorrow and grief, end pain and the cycle of suffering, and reach extinguishment.",
+   "core_idea": "The Buddha teaches to end suffering and sorrow",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-164-p01",
+   "plain": "A good person stops lying and stays truthful and trustworthy. They stop gossip that divides people; instead they bring together those who are split and support those who are united, loving harmony and speaking for it.",
+   "core_idea": "Speak truthfully and use words to create harmony",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-166-p01",
+   "plain": "Few people cross to the far shore; most just run up and down this side. But those who practise a well-explained teaching will cross the realm of death, so hard to get beyond.",
+   "core_idea": "Few cross over; those who practise the teaching will",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-170-p01",
+   "plain": "They have a kind heart and wish all beings well: may they be free of hatred and ill will, untroubled and happy.",
+   "core_idea": "Wish all beings freedom from hatred, and happiness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "an-171-p01",
+   "plain": "All beings own their actions and inherit what comes of them. Their deeds are their origin, their family and their refuge, and they will receive the results of whatever they do, good or bad.",
+   "core_idea": "Beings inherit the results of their own deeds",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-172-p01",
+   "plain": "A good person avoids gossip that divides people and works for harmony. They avoid harsh words and speak gently and kindly. They avoid idle chatter, saying only what is true, timely, sensible, brief and useful.",
+   "core_idea": "Speak kindly, truthfully, timely, and for harmony",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "an-172-p02",
+   "plain": "They meditate spreading love in every direction until it fills the whole world, boundless and free of hatred. They see their mind has grown from narrow to limitless, and their limited past deeds no longer hold there.",
+   "core_idea": "Boundless love makes the mind limitless",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "an-172-p03",
+   "plain": "Neither women nor men can take this body with them when they die. What lies inside mortal beings is the mind.",
+   "core_idea": "We leave the body behind; the mind is within",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "an-173-p01",
+   "plain": "A person living ethically need not wish to be free of regret; it comes naturally. With no regret, joy arises by itself, and from joy comes rapture, without any need to wish for it.",
+   "core_idea": "Ethical living naturally leads to joy, without wishing",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "an-175-p01",
+   "plain": "Those with faith, energy, mindfulness, meditative immersion and wisdom succeed; those lacking them do not.",
+   "core_idea": "Faith, energy, mindfulness, immersion and wisdom bring success",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "an-176-p01",
+   "plain": "Remember your good friends and think how very fortunate you are to have friends who advise and guide you out of kindness and care.",
+   "core_idea": "Be grateful for friends who guide you kindly",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "an-176-p02",
+   "plain": "Developing love fully brings eleven benefits: you sleep and wake easily, have no nightmares, are loved by humans and others, protected by gods, settle quickly in meditation, look bright, die unconfused, and may be reborn divinely.",
+   "core_idea": "Cultivating love brings many blessings, in life and death",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p01",
+   "plain": "Intention leads everything we do. If you speak or act with a corrupt mind, suffering follows you like a cart wheel behind the ox; act with a pure mind, and happiness follows like your own shadow.",
+   "core_idea": "Suffering or happiness follows the intention behind actions",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p02",
+   "plain": "Those who keep repeating how others abused, struck, beat or robbed them never put their hatred to rest; those who do not hold on to such grudges let it rest.",
+   "core_idea": "Holding grudges keeps hatred alive",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p04",
+   "plain": "Through hard work, care, restraint and self-control, a wise person builds an island for themselves that no flood can wash over.",
+   "core_idea": "Self-discipline builds an island floods cannot reach",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p05",
+   "plain": "The mind trembles and shakes and is hard to guard and control, but the wise straighten it, like an arrow-maker straightening an arrow.",
+   "core_idea": "The wise straighten the restless mind",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p06",
+   "plain": "The mind is hard to restrain, flighty, landing wherever it wants. It is good to tame it, because a tamed mind brings bliss.",
+   "core_idea": "A tamed mind leads to bliss",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p07",
+   "plain": "Very soon this body will lie on the ground, lifeless and unconscious, thrown aside like a useless log.",
+   "core_idea": "The body will soon lie lifeless",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p08",
+   "plain": "A mind aimed the wrong way will do you more harm than any enemy or hater could do.",
+   "core_idea": "Your own misdirected mind harms you most",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p09",
+   "plain": "Don't look for faults in others, in what they have or haven't done. Watch only yourself, and what you have or haven't done.",
+   "core_idea": "Examine your own conduct, not others' faults",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p10",
+   "plain": "A fragrant, lovely lotus can bloom from a pile of rubbish thrown by the roadside. In the same way, a disciple of the Buddha shines with wisdom among people looked down on as worthless.",
+   "core_idea": "Beauty and wisdom can rise from what is despised",
+   "quotability": 4,
+   "complete": false,
+   "extended_text": "From a heap of trash\ndiscarded on the highway,\na lotus might blossom,\nfragrant and delightful.\nSo too, among those thought of as trash,\na disciple of the perfect Buddha\noutshines with their wisdom\nthe blind ordinary folk."
+  },
+  {
+   "id": "dhp-001-p11",
+   "plain": "If on your travels you find no companion equal to or better than you, go on firmly alone; there is no companionship with fools.",
+   "core_idea": "Better alone than in the company of fools",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p12",
+   "plain": "A fool who knows they are a fool is at least that much wise. The real fool is the one who thinks they are wise.",
+   "core_idea": "The true fool thinks they are wise",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p14",
+   "plain": "Treat someone who points out your faults as a guide to buried treasure. Keep close to such a wise person who corrects you when needed; with them, life improves.",
+   "core_idea": "Value those who point out your faults",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p15",
+   "plain": "Just as wind cannot move solid rock, blame and praise do not shake the wise.",
+   "core_idea": "Blame and praise do not move the wise",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p16",
+   "plain": "Good people let go of everything and do not beg for what they want. Whether touched by sorrow or happiness, the wise are neither cast down nor carried away.",
+   "core_idea": "The wise stay steady through joy and sorrow",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p17",
+   "plain": "Never wish to succeed by unfair means, for yourself or anyone else, whether for children, money or country; instead be good, wise and fair.",
+   "core_idea": "Never seek success by unjust means",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p18",
+   "plain": "One meaningful saying that brings you peace is worth more than a thousand empty ones.",
+   "core_idea": "One meaningful word outweighs a thousand empty ones",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-001-p19",
+   "plain": "The greatest victor is not someone who defeats a million men in battle, but someone who conquers just one: himself.",
+   "core_idea": "Conquering yourself is the greatest victory",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p01",
+   "plain": "It is better to live one day full of energy and strength than a hundred years lazy and listless.",
+   "core_idea": "One energetic day beats a hundred idle years",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p02",
+   "plain": "If you do something wrong, don't keep repeating it or set your heart on it, because building up wrongdoing brings suffering.",
+   "core_idea": "Don't repeat wrongdoing; piling it up brings suffering",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p03",
+   "plain": "Don't think of wrongdoing as minor, as though it won't come back to you. A pot fills drop by drop, and a fool fills with wickedness bit by bit.",
+   "core_idea": "Small wrongs add up, drop by drop",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p04",
+   "plain": "Don't speak harshly, or people may answer harshly. Aggressive words cause pain, and the stick may strike back at you.",
+   "core_idea": "Harsh words come back at you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p05",
+   "plain": "If you make yourself as still as a broken gong that no longer rings, you reach extinguishment and are free of conflict.",
+   "core_idea": "Stillness brings peace and ends conflict",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p06",
+   "plain": "How can there be joy or laughter when the world is always burning? Wrapped in darkness, wouldn't you look for a light?",
+   "core_idea": "In a burning world, seek the light",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p07",
+   "plain": "Even the splendid chariots of kings wear out, and this body grows old too. But the teaching of the good never ages, as the good tell one another.",
+   "core_idea": "Bodies age, but the truth of the good does not",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p08",
+   "plain": "Someone who learns little grows old like an ox: their body gets bigger, but their wisdom does not.",
+   "core_idea": "Ageing without learning grows the body, not wisdom",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p09",
+   "plain": "Those who rejected the spiritual life when young and earned no wealth either now lie like used-up arrows, mourning the past.",
+   "core_idea": "Neglecting youth leaves you lamenting in old age",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p10",
+   "plain": "If you treated yourself the way you teach others, you would be well tamed and able to tame; for the self, it seems, is hard to tame.",
+   "core_idea": "Practise on yourself what you teach others",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p11",
+   "plain": "You are your own master; who else could be? With a well-trained self, you gain a master that is truly rare.",
+   "core_idea": "You are your own master",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p12",
+   "plain": "Doing bad things that harm yourself is easy, but doing good, helpful things is the hardest of all.",
+   "core_idea": "Harm is easy; doing good is hardest",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p13",
+   "plain": "You do wrong by yourself and are corrupted by yourself; you avoid wrong by yourself and are purified by yourself. Purity is personal; no one can purify someone else.",
+   "core_idea": "No one can purify another; it's up to you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p14",
+   "plain": "Never neglect your own true good for the sake of someone else's, however important. Knowing what is truly good for you, stay devoted to your heart's goal.",
+   "core_idea": "Stay devoted to your own true goal",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p15",
+   "plain": "Get up, don't be careless; live by principle and act well. Someone who acts well sleeps easily, in this world and the next.",
+   "core_idea": "Live well and you sleep at ease",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p17",
+   "plain": "Even if it rained money, sensual pleasures would never satisfy you. A wise person knows they give little satisfaction and much suffering.",
+   "core_idea": "Sensual pleasures never satisfy and bring suffering",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p18",
+   "plain": "Let us live very happily, loving among those who are hostile; among hostile people, let us live with love.",
+   "core_idea": "Live happily, with love among the hostile",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p19",
+   "plain": "Winning breeds hatred, and the defeated sleep badly. The peaceful sleep easily, having left both winning and losing behind.",
+   "core_idea": "Peace lies beyond victory and defeat",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p20",
+   "plain": "Health is the greatest blessing, contentment the greatest wealth, trust the best family, and extinguishment the highest happiness.",
+   "core_idea": "Health, contentment, trust and nirvana are life's best",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p21",
+   "plain": "Don't get too attached to what you like or dislike, because missing what you like is painful, and so is facing what you dislike.",
+   "core_idea": "Attachment to likes and dislikes brings pain",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-002-p22",
+   "plain": "Sorrow and fear both come from what we hold dear. Someone who holds nothing dear has no sorrow, let alone fear.",
+   "core_idea": "Sorrow and fear come from holding things dear",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p01",
+   "plain": "Sorrow and fear both come from desire. Someone free of desire has no sorrow, let alone fear.",
+   "core_idea": "Freedom from desire means freedom from sorrow",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p02",
+   "plain": "When anger lurches forward like a runaway chariot, hold it back. That person is a true charioteer; everyone else is just holding the reins.",
+   "core_idea": "Truly controlling anger is real mastery",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p03",
+   "plain": "Overcome anger with kindness, wickedness with goodness, stinginess with generosity and lies with truth.",
+   "core_idea": "Meet anger with kindness, lies with truth",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p04",
+   "plain": "It has always been this way, Atula: people blame you when you are silent, when you talk a lot, even when you speak just right. No one has ever been, or will be, wholly praised or wholly blamed.",
+   "core_idea": "No one escapes blame; no one is wholly praised",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p05",
+   "plain": "A wise person clears away their own impurities gradually, little by little, moment by moment, the way a smith refines silver.",
+   "core_idea": "Purify yourself gradually, bit by bit",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p06",
+   "plain": "Life is easy for the shameless, who are bold as crows, pushy, rude and corrupt. Life is hard for those with a conscience, who seek purity, do not cling, are humble, honest in their living and discerning.",
+   "core_idea": "Life is easy for the shameless, hard for the conscientious",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p07",
+   "plain": "No fire burns like greed, no crime is like hatred, no net traps like delusion, and no river sweeps away like craving.",
+   "core_idea": "Greed, hate, delusion and craving are the worst traps",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p08",
+   "plain": "Others' faults are easy to see, your own hard. You toss others' faults up high like hay, while hiding your own as a cheat hides a bad hand of cards.",
+   "core_idea": "We see others' faults, but hide our own",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p09",
+   "plain": "If you keep searching for other people's flaws, your own impurities only grow, and you are far from ending them.",
+   "core_idea": "Fault-finding in others makes your own flaws grow",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p10",
+   "plain": "Making quick judgments does not make you just. A wise person weighs both what matters and what does not.",
+   "core_idea": "Justice needs careful judgment, not haste",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p11",
+   "plain": "Talking a lot does not make you wise. The one who is secure, free of hostility and fear, is called wise.",
+   "core_idea": "Wisdom is security and fearlessness, not much talk",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p12",
+   "plain": "Grey hair does not make you an elder. Someone who has matured only in years has grown old for nothing.",
+   "core_idea": "Age alone does not make you wise",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p13",
+   "plain": "You have to do the work yourselves; the Buddhas only point out the way.",
+   "core_idea": "You must do the work yourself",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p14",
+   "plain": "Everything conditioned is impermanent. When you see this with wisdom, you grow weary of suffering, and that is the path to purity.",
+   "core_idea": "Seeing impermanence clearly is the path to purity",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p15",
+   "plain": "Some don't act when it is time to begin; though young and strong, they are lazy. Their minds sunk in gloomy thoughts, idle and sluggish, they cannot see the path.",
+   "core_idea": "Laziness keeps you from finding the path",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p16",
+   "plain": "Wisdom grows from meditation and fades without it. Knowing these two roads, of growth and decline, live in a way that lets wisdom grow.",
+   "core_idea": "Meditation makes wisdom grow",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p17",
+   "plain": "If giving up small, worldly pleasures lets you see a far greater happiness, the wise will give them up for that greater happiness.",
+   "core_idea": "Give up small pleasures for greater happiness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p18",
+   "plain": "Those who seek their own happiness by causing others to suffer stay entangled in hatred and never get free of it.",
+   "core_idea": "Happiness bought with others' pain breeds enmity",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p19",
+   "plain": "Good people shine from far away like the Himalayan peaks, but the wicked go unseen, like arrows shot into the night.",
+   "core_idea": "The good shine far; the wicked go unseen",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p20",
+   "plain": "Sitting alone, sleeping alone, wandering tirelessly alone, someone who trains themselves alone will find delight in the forest.",
+   "core_idea": "Solitude and self-training bring delight",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p21",
+   "plain": "It is better not to do a bad deed, because it will torment you later. It is better to do a good deed, which brings no torment.",
+   "core_idea": "Bad deeds haunt you; good deeds do not",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-003-p22",
+   "plain": "Like a war elephant hit by arrows in battle, I will put up with abuse, because so many people behave badly.",
+   "core_idea": "Endure abuse patiently, like an elephant in battle",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p01",
+   "plain": "My mind used to wander wherever it wanted, however it pleased. Now I will guide it carefully, as a trainer with a hook guides an elephant in heat.",
+   "core_idea": "Train the wandering mind with care",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p02",
+   "plain": "Take joy in being diligent and guard your mind well. Pull yourself out of this pit, like an elephant stuck in mud.",
+   "core_idea": "Pull yourself out of the mire with diligence",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p04",
+   "plain": "It is a blessing to have a friend when you need one, to be content with whatever you have, to have done good by the end of life, and to let go of all suffering.",
+   "core_idea": "Friendship, contentment, good deeds and freedom are blessings",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p05",
+   "plain": "Whoever is overcome by craving and attachment to the world sees their sorrows grow like grass in the rain. Whoever overcomes it finds their sorrows fall away like water off a lotus leaf.",
+   "core_idea": "Overcoming craving makes sorrow slide away",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p06",
+   "plain": "A tree cut down grows back while its roots are strong; in the same way, suffering keeps returning as long as the tendency to crave has not been uprooted.",
+   "core_idea": "Suffering returns until craving is uprooted",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p07",
+   "plain": "Let go of the past, the future and the present, and go beyond rebirth. With your heart free in every way, you won't return to birth and old age.",
+   "core_idea": "Let go of past, present and future",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p08",
+   "plain": "Wealth ruins a fool, but not someone seeking the far shore. Craving money, the fool destroys themselves and others.",
+   "core_idea": "Craving wealth ruins fools and those around them",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p09",
+   "plain": "Spend time with spiritual friends who are tireless and earn their living honestly. Share what you have, act skilfully, and when you are full of joy you will end suffering.",
+   "core_idea": "Good friends, sharing and joy end suffering",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p10",
+   "plain": "Encourage and examine yourself; a mendicant who is self-controlled and mindful always lives happily. You are your own master and your own home, so restrain yourself as a merchant manages a fine horse.",
+   "core_idea": "You are your own master; restrain yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p11",
+   "plain": "For a brahmin nothing is better than holding the mind back from attachment. Wherever the wish to harm falls away, suffering subsides right there.",
+   "core_idea": "Where the wish to harm stops, suffering eases",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p12",
+   "plain": "Why the matted hair and deerskin, you fool? The tangle is inside you, yet you only clean up your outside.",
+   "core_idea": "Outer show cannot fix an inner tangle",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p13",
+   "plain": "Someone who bears abuse, violence and imprisonment without anger, whose strength is patience, is who the Buddha calls a true brahmin.",
+   "core_idea": "Patience is the strongest army",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dhp-004-p14",
+   "plain": "Someone who does not fight among fighters, stays calm among the armed and does not grasp among the grasping is who the Buddha calls a true brahmin.",
+   "core_idea": "Stay peaceful among the hostile and grasping",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-002-p01",
+   "plain": "The Buddha tells the mendicants not to become resentful or angry when others criticise him, his teaching or the Sangha. Anger only harms you, and it stops you judging whether the criticism is fair.",
+   "core_idea": "Anger at criticism blinds you and harms you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-007-p01",
+   "plain": "A content mendicant needs only robes for the body and alms food for the stomach, and carries nothing else wherever they go, like a bird whose only load is its wings.",
+   "core_idea": "Contentment travels light, like a bird",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-009-p01",
+   "plain": "The Buddha tells the king that killing his just father for power was a foolish wrong. But because he sees it as wrong and confesses it, the Buddha accepts it; recognising, admitting and restraining future wrongs is growth.",
+   "core_idea": "Owning a wrong and resolving to change is growth",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-010-p01",
+   "plain": "Among those who value family lineage, the noble class is highest. But someone accomplished in knowledge and conduct is highest among gods and humans.",
+   "core_idea": "Knowledge and good conduct outrank birth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-011-p01",
+   "plain": "Anyone tied to concerns of ancestry, clan, pride or arranging marriages is far from supreme knowledge and conduct. You realise it only once you give such things up.",
+   "core_idea": "Pride in lineage blocks true knowledge",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-013-p01",
+   "plain": "Ethics and wisdom always go together and are the best things in the world. As one hand washes the other, ethics purifies wisdom and wisdom purifies ethics.",
+   "core_idea": "Ethics and wisdom purify each other",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-015-p01",
+   "plain": "Whatever can come into being can also come to an end.",
+   "core_idea": "Everything that arises will pass away",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dn-016-p01",
+   "plain": "Let us set aside the things we disagree on; there are some things we agree on.",
+   "core_idea": "Start from common ground, not disagreement",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dn-019-p01",
+   "plain": "Harmful qualities will be given up and purifying ones will grow. You will realise abundant wisdom for yourself in this life, with only joy, happiness, calm, mindfulness and awareness. Such a life is blissful.",
+   "core_idea": "Giving up corruption leads to a joyful life",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-020-p01",
+   "plain": "Home life is cramped and dusty, while the life of one who has gone forth is wide open. Living at home, it is hard to lead the spiritual life fully and purely, polished like a shell.",
+   "core_idea": "Leaving home life opens the way to purity",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-021-p02",
+   "plain": "Someone gravely ill loses appetite and strength, but in time recovers both, and thinking of this they are filled with joy and happiness.",
+   "core_idea": "Recovering from illness brings deep joy",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-024-p01",
+   "plain": "They meditate spreading boundless love in every direction to the whole world. Like a strong horn blower heard in all four directions, love developed this way leaves no room for their limited past deeds.",
+   "core_idea": "Boundless love outweighs limited past deeds",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-025-p01",
+   "plain": "For me now, life is short, brief and passing; a long life is a hundred years or a little more.",
+   "core_idea": "Human life is short and fleeting",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-026-p01",
+   "plain": "Everyone must die, Your Majesty, you too; no one is spared. Your family will see you no more, and you will never see them again.",
+   "core_idea": "Everyone dies, and leaves their loved ones",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-026-p02",
+   "plain": "This world is in trouble: it is born, ages, dies and is reborn, yet does not know how to escape this suffering of old age and death. When will a way out be found?",
+   "core_idea": "The world seeks escape from ageing and death",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-027-p01",
+   "plain": "Patience is the highest discipline and extinguishment the highest goal, say the Buddhas. A true renunciate never harms others. Do no evil, do what is good and purify your mind: this is the Buddhas' teaching.",
+   "core_idea": "Avoid evil, do good, purify your mind",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-028-p01",
+   "plain": "The Buddha explains to Ananda a chain: feeling leads to craving, craving to seeking and gaining, then desire, attachment, ownership, stinginess and guarding possessions, and from guarding come violence, quarrels, slander and lies.",
+   "core_idea": "Craving leads step by step to conflict and lies",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "dn-029-p01",
+   "plain": "Pleasant, painful and neutral feelings are all impermanent and conditioned, arising from causes, and bound to end, fade and cease.",
+   "core_idea": "All feelings are impermanent and pass away",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-031-p01",
+   "plain": "The Buddha says he is now old, eighty, at the last stage of life. Like a worn-out cart held together by a rope, his body is kept going as if by a rope.",
+   "core_idea": "Even the Buddha's body grows old and frail",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-031-p02",
+   "plain": "Ananda, be your own island and your own refuge, with no other. Let the teaching be your island and refuge, with no other.",
+   "core_idea": "Be your own refuge, with the teaching",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-032-p02",
+   "plain": "The Buddha says he is very old with little life left; he will depart, having made himself a refuge. He urges the mendicants to be diligent, mindful and virtuous, and to guard their minds well.",
+   "core_idea": "Be diligent, mindful and guard your mind",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-033-p01",
+   "plain": "The merit of a giver grows, and hatred does not build up in someone with self-control.",
+   "core_idea": "Giving grows merit; self-control prevents hatred",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-034-p01",
+   "plain": "Enough, Ananda, don't grieve or lament. I taught that we must be parted from all we love. How could anything born and conditioned not wear away, even the Buddha's body?",
+   "core_idea": "All that is born must pass, so don't grieve",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-035-p01",
+   "plain": "Conditions are impermanent; it is their nature to rise and fall. Having arisen, they cease, and their stilling is bliss.",
+   "core_idea": "Everything rises and falls; stillness is bliss",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-037-p01",
+   "plain": "Conditions are so impermanent, so unstable, so unreliable; that alone is reason enough to become disenchanted with them, let go of desire and be free.",
+   "core_idea": "Impermanence is reason enough to let go",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-038-p01",
+   "plain": "Someone caught up in sensual pleasures and bad qualities hears the noble ones' teaching, reflects on it and practises. Living apart from those pleasures, they find pleasure, then happiness greater still, like joy born of gladness.",
+   "core_idea": "Leaving sensual pleasures brings deeper happiness",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-041-p01",
+   "plain": "Who knows what will happen to the living? We are heading towards future lives. We must be wise and wake up, do good and live the spiritual life, because no one born escapes death.",
+   "core_idea": "Wake up and do good; death is certain",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-044-p01",
+   "plain": "The Buddha tells the lord of gods that jealousy and stinginess come from liking and disliking. Where there is liking and disliking, they exist; where there is none, they do not.",
+   "core_idea": "Jealousy and stinginess grow from likes and dislikes",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-044-p02",
+   "plain": "If a kind of sadness makes bad qualities grow and good ones decline, don't cultivate it. If a kind of sadness makes bad qualities decline and good ones grow, cultivate it.",
+   "core_idea": "Some sadness helps you grow; cultivate only that",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-044-p03",
+   "plain": "The world contains many different elements, and whatever one beings fix on, they cling to it stubbornly, insisting that it alone is true and everything else is worthless.",
+   "core_idea": "People cling stubbornly to their own truth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-045-p02",
+   "plain": "A meditator knows when restlessness and remorse are present in them and when they are not. They understand how these arise, how they are given up once arisen, and how they are kept from arising again.",
+   "core_idea": "Notice restlessness and remorse, and how they end",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-046-p02",
+   "plain": "The noble truth of suffering's origin is craving, which leads to rebirth and seeks pleasure wherever it lands: craving for sensual pleasure, for existence and for non-existence. It arises wherever something in the world seems pleasant.",
+   "core_idea": "Craving for the pleasant is the origin of suffering",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-046-p03",
+   "plain": "Right effort means a mendicant works with enthusiasm and determination to prevent bad qualities arising, to give up those that have arisen, to bring good qualities into being, and to keep and fully develop those that have arisen.",
+   "core_idea": "Right effort: prevent and drop bad, grow good",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-048-p01",
+   "plain": "Good ascetics and brahmins don't force what is unripe to ripen; they wait for it to ripen.",
+   "core_idea": "Don't force what is unripe; wait",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dn-054-p01",
+   "plain": "They meditate giving up covetousness, ill will, dullness and drowsiness, restlessness and remorse, and doubt, cleansing the mind of each, so it becomes kind to all beings, alert, settled and sure about what is good.",
+   "core_idea": "Meditation cleanses the mind of the five hindrances",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "dn-054-p02",
+   "plain": "The Buddha tells Nigrodha his words were a foolish mistake. But because he recognises and confesses it, the Buddha accepts it; seeing a mistake for what it is, admitting it and resolving to restrain yourself is growth.",
+   "core_idea": "Admitting a mistake and changing is growth",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-061-p01",
+   "plain": "The Buddha does not answer questions about the past that are false and pointless, or true but pointless. When a question is true, correct and beneficial, he knows the right time to answer.",
+   "core_idea": "Answer only what is true and useful, when timely",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p01",
+   "plain": "You don't get your work done because you think it's too cold, too hot, too late, too early, you're too hungry or too full. Dwelling on excuses, you earn nothing more and lose what you have.",
+   "core_idea": "Excuses for not working cost you everything",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p02",
+   "plain": "Some are just drinking companions, and some call you their dearest friend, but a true friend is one who stands by you when you need them.",
+   "core_idea": "A friend in need is a true friend",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p03",
+   "plain": "When the young neglect work saying it is too cold, too hot, too late, wealth slips past them. But one who treats heat and cold like blades of grass does his duties, and his happiness lasts.",
+   "core_idea": "Ignore discomfort and do your work",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p04",
+   "plain": "You can spot a flattering fake friend by four signs: they back you equally in doing bad and good, and praise you to your face while running you down behind your back.",
+   "core_idea": "Flatterers praise you to your face, then betray you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p05",
+   "plain": "A good friend who stays the same in good times and bad shows four signs: they share their secrets, keep yours, don't abandon you in trouble, and would even give their life for you.",
+   "core_idea": "A true friend stays loyal in good times and bad",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p06",
+   "plain": "A sympathetic true friend shows four signs: they are not glad at your misfortune, they rejoice in your good fortune, they stop others criticising you and they encourage others to praise you.",
+   "core_idea": "A true friend rejoices in your good fortune",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-065-p07",
+   "plain": "A friend who helps, one who stays the same in pleasure and pain, one who gives good advice and one who cares: a wise person recognises these four and looks after them like a mother her nursing child.",
+   "core_idea": "Cherish true friends as a mother cherishes her child",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-066-p01",
+   "plain": "Those who win glory are wise, virtuous, gentle, well spoken, calm and agreeable; diligent, steady in trouble, consistent and intelligent; inclusive, friendly, generous, free of stinginess, and able to lead, teach and persuade.",
+   "core_idea": "Virtue, diligence and generosity win honour",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-067-p02",
+   "plain": "Some ways of practice are painful now and painful later; some painful now but pleasant later; some pleasant now but painful later; and some pleasant now and pleasant later.",
+   "core_idea": "Practices differ in present and future pain or pleasure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-068-p01",
+   "plain": "I will speak at the right time, truthfully, gently, helpfully and with love, not at the wrong time, falsely, harshly, harmfully or out of hidden hatred.",
+   "core_idea": "Speak timely, truthful, gentle, helpful and loving words",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-068-p02",
+   "plain": "Inspiration brings joy, and joy brings rapture. When the mind is full of rapture, the body calms; a calm body feels bliss, and a blissful mind becomes deeply absorbed in meditation.",
+   "core_idea": "Joy leads step by step to deep meditation",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-069-p01",
+   "plain": "When someone has wronged you, you can let go of resentment by thinking: what can I possibly do?",
+   "core_idea": "Let go of resentment: what can I do?",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "dn-069-p02",
+   "plain": "People give gifts for many reasons: after insulting the recipient, out of fear, to repay or expect a gift, because giving is good, out of fairness, for reputation, or to adorn and equip the mind.",
+   "core_idea": "People give for many different motives",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "dn-071-p01",
+   "plain": "Craving leads to seeking, seeking to gaining things, then judging, desire, attachment, ownership, stinginess and guarding possessions. From guarding come violence, quarrels, disputes, accusations, slander and lies.",
+   "core_idea": "Craving leads step by step to violence and lies",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "dn-071-p02",
+   "plain": "Reflecting wisely brings joy, then rapture, a calm body, bliss and deep meditation. A settled mind truly sees; seeing truly, you become disenchanted, desire fades, and you are freed.",
+   "core_idea": "Wise reflection leads step by step to freedom",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-002-p01",
+   "plain": "Paying attention unwisely makes defilements arise and grow. Paying attention wisely keeps them from arising and gets rid of those already there.",
+   "core_idea": "Wise attention prevents and removes mental defilements",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-002-p02",
+   "plain": "A mendicant who reflects wisely does not put up with sensual, hostile or cruel thoughts, or any bad quality, once it arises, but drops it and gets rid of it completely.",
+   "core_idea": "Don't tolerate harmful thoughts; drive them out",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-003-p01",
+   "plain": "The Buddha recalls staying alone in eerie shrines on special nights to face fear. When a deer passed or leaves rustled, he wondered if fear was coming, then resolved to deal with fear as it came, staying as he was.",
+   "core_idea": "Face fear as it comes, just as you are",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "mn-004-p01",
+   "plain": "Someone who understands they have a flaw will make an effort to remove it, and die with a pure mind, free of greed, hate and delusion, just as a dirty bronze cup grows brighter when it is used and cleaned.",
+   "core_idea": "Knowing your flaws lets you remove them",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "mn-005-p01",
+   "plain": "A dirty cloth looks badly dyed whatever colour is used, while a clean cloth takes dye well. In the same way, a corrupted mind can expect a bad destiny, and an uncorrupted mind a good one.",
+   "core_idea": "A pure mind, like clean cloth, leads to good",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-005-p03",
+   "plain": "For the pure in heart every day is holy, and their vows are fulfilled. Bathe here, brahmin, by sheltering all beings: if you don't lie, harm, steal or hoard, why go to holy Gaya? Any well will do.",
+   "core_idea": "Purity of heart, not holy rivers, cleanses you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-006-p01",
+   "plain": "Others may cling tightly to their views and refuse to let go, but we will not cling to our views; we will let them go easily.",
+   "core_idea": "Hold your views lightly and let them go",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "mn-006-p02",
+   "plain": "The Buddha tells Cunda that even having the thought of good qualities is very helpful, let alone acting on them in body and speech.",
+   "core_idea": "Even thinking of goodness helps",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "mn-006-p03",
+   "plain": "If you are stuck in mud yourself, you cannot pull out someone else who is stuck. Only if you are tamed, trained and at peace yourself can you help others become so.",
+   "core_idea": "You can't rescue others while you're sinking",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-006-p04",
+   "plain": "Here are the roots of trees and empty huts. Meditate, Cunda! Don't be careless, or you will regret it later.",
+   "core_idea": "Meditate now, so you won't regret it later",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "mn-011-p01",
+   "plain": "The Buddha recalls sleeping in a burial ground with bones for a pillow while village louts spat, urinated and threw mud on him, yet he never had a bad thought about them. That was his equanimity.",
+   "core_idea": "Equanimity holds no ill will even under abuse",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-012-p01",
+   "plain": "Sensual pleasures bring little satisfaction and much suffering. Even someone who sees this clearly can return to them until they find the rapture and bliss beyond sensual pleasure, or greater peace; then they do not return.",
+   "core_idea": "Only a deeper joy frees you from sensual pleasures",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "mn-013-p01",
+   "plain": "Suppose a mendicant asks others to correct them, but they are impatient and don't accept instruction respectfully. Then their companions think them not worth advising, and they lose their trust.",
+   "core_idea": "Those who resist correction lose others' trust",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "mn-013-p02",
+   "plain": "As a young person checks their face in a mirror and cleans away any dirt, a mendicant should check themselves. If bad qualities remain, they should work to drop them; if not, they should train joyfully day and night.",
+   "core_idea": "Check yourself honestly, then keep improving",
+   "quotability": 2,
+   "complete": true
+  }
+ ]
+}

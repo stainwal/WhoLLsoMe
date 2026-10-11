@@ -1,0 +1,1204 @@
+{
+"judgements": [
+{
+"id": "sn-021-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Frames whole answer as about suffering; drops the separate question of purification."
+},
+{
+"id": "sn-021-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-021-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-022-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-022-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-023-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-023-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-023-p03",
+"faithful": 4,
+"advice": false,
+"issue": "\"The wise do both\" is vague; loses the explicit pairing of the two astute people."
+},
+{
+"id": "sn-023-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-026-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Adds \"effort\" to \"the best is reached by the best\"."
+},
+{
+"id": "sn-030-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-032-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-033-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-035-p01",
+"faithful": 2,
+"advice": false,
+"issue": "Drops the point: ascetics saw pleasant things as dangerous and gave up craving."
+},
+{
+"id": "sn-038-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-038-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-039-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"cut off by being aloof\" and the secluded who practise absorption."
+},
+{
+"id": "sn-040-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-041-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-042-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-044-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-044-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops abiding in the immeasurables; \"subtle view and discernment\" loosened."
+},
+{
+"id": "sn-045-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the mule-and-pregnancy image."
+},
+{
+"id": "sn-046-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-047-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-048-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-048-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-048-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-048-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-048-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-049-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-050-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-051-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-052-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-053-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-054-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-055-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-055-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"manifesting divinity\"; imperturbability softened to calm."
+},
+{
+"id": "sn-056-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-059-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-059-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-059-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-060-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-060-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-060-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-061-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-061-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-062-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-065-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-072-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-073-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-074-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-076-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-076-p02",
+"faithful": 4,
+"advice": false,
+"issue": "\"No ... any life\" overstates; passage says no this life, next, or between."
+},
+{
+"id": "sn-076-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-077-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-077-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-078-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-078-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-080-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-081-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-082-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-082-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-083-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-083-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-083-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-085-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-085-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-086-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-087-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-088-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-089-p01",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the application: true persons answered according to their focus."
+},
+{
+"id": "sn-090-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-090-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-090-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-090-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-091-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-091-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-091-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-092-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-094-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-098-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-099-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-100-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-100-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-102-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-105-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-106-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-107-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-107-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-109-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-109-p02",
+"faithful": 2,
+"advice": false,
+"issue": "Drops the point: the path inclines the mendicant toward extinguishment."
+},
+{
+"id": "sn-110-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-110-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-111-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-112-p01",
+"faithful": 2,
+"advice": false,
+"issue": "Drops the Buddha's answer about the seven awakening factors; only the complaint remains."
+},
+{
+"id": "sn-113-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-114-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-114-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-115-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-115-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-116-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-117-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-118-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-118-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Adds that Ananda grieves; the passage only praises Sariputta as adviser."
+},
+{
+"id": "sn-118-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-119-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Renders 'fully quenched' as 'passed away', losing the spiritual sense."
+},
+{
+"id": "sn-119-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that mindfulness meditation is cultivated for both self and others."
+},
+{
+"id": "sn-120-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-123-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-124-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-124-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-125-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-126-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-129-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-131-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Adds 'gravely ill', which the passage does not state."
+},
+{
+"id": "sn-132-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-133-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-133-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-135-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-136-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-137-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-138-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-140-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-140-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-141-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-141-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-142-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-142-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-143-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "sn-144-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops 'such is thy pleasure' and 'still there is room to fill'."
+},
+{
+"id": "tagore-gitanjali-001-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p05",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the plea to honour it 'with a touch of pain'; adds 'of his life'."
+},
+{
+"id": "tagore-gitanjali-001-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p11",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the final stanza: the cry 'Oh, where?' becoming the assurance 'I am!'"
+},
+{
+"id": "tagore-gitanjali-001-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p13",
+"faithful": 4,
+"advice": false,
+"issue": "Drops God hiding cruelly and the perils of overmuch and uncertain desire."
+},
+{
+"id": "tagore-gitanjali-001-p14",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p15",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p16",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p17",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p18",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p19",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p20",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-001-p21",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the shroud hated yet hugged, and the heavy debts, failures and secret shame."
+},
+{
+"id": "tagore-gitanjali-002-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p07",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the plea that enough remain 'whereby I may never hide thee'."
+},
+{
+"id": "tagore-gitanjali-002-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p12",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the stanza asking the king to break open the crouching beggarly heart."
+},
+{
+"id": "tagore-gitanjali-002-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p14",
+"faithful": 4,
+"advice": false,
+"issue": "Drops finding the marked moments scattered in the dust of forgotten days."
+},
+{
+"id": "tagore-gitanjali-002-p15",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p16",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-002-p17",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the speaker's salute to the 'heroic host of the interminable path'."
+},
+{
+"id": "tagore-gitanjali-003-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-003-p09",
+"faithful": 4,
+"advice": false,
+"issue": "Adds the explicit conclusion 'it is all a giving of love'."
+},
+{
+"id": "tagore-gitanjali-003-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the closing prayer never to lose the touch of the one in the many."
+},
+{
+"id": "tagore-gitanjali-004-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that sharing with his brothers would be sharing his all with God."
+},
+{
+"id": "tagore-gitanjali-004-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p10",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that God's altar is left empty of offerings."
+},
+{
+"id": "tagore-gitanjali-004-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-004-p12",
+"faithful": 4,
+"advice": false,
+"issue": "Drops that this sorrow flows in songs through the poet's heart."
+},
+{
+"id": "tagore-gitanjali-005-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "tagore-gitanjali-005-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+}
+]
+}

@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "epictetus-discourses-long-024-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the argument that dishonour cannot come through another's fault."
+  },
+  {
+   "id": "epictetus-discourses-long-024-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p10",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the framing of learning nature's will and extending it to greater things."
+  },
+  {
+   "id": "epictetus-discourses-long-024-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing weighing of the victory gained by not being conquered."
+  },
+  {
+   "id": "epictetus-discourses-long-025-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-025-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-026-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "\"His reasons\" loosens \"determined his opinion\" (judgement behind the act)."
+  },
+  {
+   "id": "epictetus-discourses-long-026-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-026-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses list of signs; drops blaming himself when hindered and moving carefully."
+  },
+  {
+   "id": "epictetus-discourses-long-026-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops making what seems best an unbreakable law."
+  },
+  {
+   "id": "epictetus-discourses-long-026-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops freedom of what is ours and the full list of consequences."
+  },
+  {
+   "id": "enchiridion-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the middle stage of reproaching oneself; \"wise\" for perfectly instructed."
+  },
+  {
+   "id": "enchiridion-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the promise of becoming worthy to feast with the gods."
+  },
+  {
+   "id": "enchiridion-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-001-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the argument that discredit cannot come through another."
+  },
+  {
+   "id": "enchiridion-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-003-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing weighing of the victory gained over the pleasure."
+  },
+  {
+   "id": "enchiridion-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-003-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Omits the conclusion that this handle lets you bear it."
+  },
+  {
+   "id": "enchiridion-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "enchiridion-003-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the rhetorical \"what master do you wait for\" and judgments of reason."
+  },
+  {
+   "id": "enchiridion-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-002-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the sea-to-mist and fruit-heart images of the self's limits."
+  },
+  {
+   "id": "gibran-forerunner-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Flattens \"a face that bids my eyelids not to sleep\" to \"a face\"."
+  },
+  {
+   "id": "gibran-forerunner-003-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "\"The world's voices\" interprets \"yonder valley\" rather than rendering it."
+  },
+  {
+   "id": "gibran-forerunner-003-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses roots, leaves and eagle images into a list; drops their logic."
+  },
+  {
+   "id": "gibran-forerunner-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-forerunner-003-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the final address (\"my aim and my fulfillment\") and God's whispered words."
+  },
+  {
+   "id": "gibran-madman-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the scarecrow having \"turned philosopher\", which sets up the ending."
+  },
+  {
+   "id": "gibran-madman-001-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens the mutual death wishes to \"blamed the other\"."
+  },
+  {
+   "id": "gibran-madman-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-001-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops defeat as sword and shield and the ripe-fruit warning about being grasped."
+  },
+  {
+   "id": "gibran-madman-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-madman-003-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p16",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p20",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p21",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p22",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p23",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p24",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p25",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p26",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p27",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p28",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p29",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p30",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p31",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p32",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p33",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p34",
+   "faithful": 4,
+   "advice": false,
+   "issue": "\"Cannot truly reach\" softens the flat \"cannot reach\"."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p35",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p36",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p37",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p38",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p39",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p40",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p41",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p42",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p43",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p44",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p45",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p46",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p47",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p48",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p49",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p50",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p51",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p52",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p53",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p54",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p55",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p56",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds \"eventually\", a timing the passage does not state."
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p57",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p58",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p59",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p60",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p61",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p62",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p63",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p64",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p65",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-001-p66",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p11",
+   "faithful": 4,
+   "advice": false,
+   "issue": "\"Dance freely and openly\" softens \"dance naked\", losing the full exposure."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p14",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops \"because you love him\", the reason for the bondage."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p16",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p20",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p21",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p22",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p23",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p24",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds the explicit \"this life\" reading of the prison."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p25",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p26",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p27",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p28",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p29",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p30",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p31",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p32",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p33",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p34",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p35",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p36",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p37",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p38",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p39",
+   "faithful": 4,
+   "advice": false,
+   "issue": "\"Was seen\" drops the narrator's own strange meeting with him."
+  }
+ ]
+}

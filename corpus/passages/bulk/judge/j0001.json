@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "american-indian-stories-zitkala-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'as a separate person', not in the passage."
+  },
+  {
+   "id": "american-indian-stories-zitkala-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-003-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'the first step' framing and the sense of regret's finality."
+  },
+  {
+   "id": "american-indian-stories-zitkala-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Generalises aunt and mother to 'no one who loved me'."
+  },
+  {
+   "id": "american-indian-stories-zitkala-004-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that no one reasoned quietly with her as her mother did."
+  },
+  {
+   "id": "american-indian-stories-zitkala-005-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the Indian-nature wind and seashell imagery that frames the voice."
+  },
+  {
+   "id": "american-indian-stories-zitkala-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-007-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops loathing of the race and the mother's simple view versus her own lack."
+  },
+  {
+   "id": "american-indian-stories-zitkala-007-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the hedge that her growth was less clearly manifest than the grass."
+  },
+  {
+   "id": "american-indian-stories-zitkala-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-008-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'hoodooed aborigine' to 'native believer'; drops the child-in-wonder image."
+  },
+  {
+   "id": "american-indian-stories-zitkala-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "american-indian-stories-zitkala-013-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Renders 'day of salvation' as 'rescue', slightly flattening it."
+  },
+  {
+   "id": "aristotle-ethics-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that men admire grand talk because conscious of their own ignorance."
+  },
+  {
+   "id": "aristotle-ethics-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-003-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that great good fortune adds to blessedness."
+  },
+  {
+   "id": "aristotle-ethics-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-007-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that praise or blame depends on whether people were compelled."
+  },
+  {
+   "id": "aristotle-ethics-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-009-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Underplays the main point: once unjust, he can no longer be otherwise."
+  },
+  {
+   "id": "aristotle-ethics-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-009-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-009-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-010-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that he chooses honour in war over keeping life's goods."
+  },
+  {
+   "id": "aristotle-ethics-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-011-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-011-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-012-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-013-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that he also stands aloof from external goods."
+  },
+  {
+   "id": "aristotle-ethics-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-014-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-015-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-015-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-017-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-018-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the point that people think knowing what is just takes no wisdom."
+  },
+  {
+   "id": "aristotle-ethics-019-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-020-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-025-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-025-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-026-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops why the prosperous need friends: to do kindnesses and keep prosperity."
+  },
+  {
+   "id": "aristotle-ethics-026-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-027-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-027-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-027-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-027-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-027-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-028-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-028-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-028-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-029-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-029-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-030-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-030-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-031-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-031-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-031-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Wants them to live' drops 'for that friend's own sake'."
+  },
+  {
+   "id": "aristotle-ethics-031-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-032-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-032-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-032-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that mothers know more certainly the children are theirs."
+  },
+  {
+   "id": "aristotle-ethics-033-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-033-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-034-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that useful friends are wanted in adversity, good ones in prosperity."
+  },
+  {
+   "id": "aristotle-ethics-034-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-034-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-035-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-035-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-036-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-036-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'make ourselves like immortals', flattening the aspiration to the divine."
+  },
+  {
+   "id": "aristotle-ethics-037-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "aristotle-ethics-037-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-001-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'self-crucifixion' to 'sacrificing himself'."
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'the very portals of heaven' and patiently learning to find good."
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-002-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "as-a-man-thinketh-allen-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Fill' softens 'inebriate', losing the intoxication image."
+  },
+  {
+   "id": "augustine-confessions-pusey-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-003-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the loving Father, more loving when the son returned empty."
+  },
+  {
+   "id": "augustine-confessions-pusey-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the bitterness of remembrance and being torn piecemeal."
+  },
+  {
+   "id": "augustine-confessions-pusey-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-005-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops grief; adds explicit 'imitates You badly' framing."
+  },
+  {
+   "id": "augustine-confessions-pusey-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-005-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops entering 'the joy of his Lord'."
+  },
+  {
+   "id": "augustine-confessions-pusey-005-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops hating 'a way without snares'."
+  },
+  {
+   "id": "augustine-confessions-pusey-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-007-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-008-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his fear of dying lest his friend die wholly."
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-009-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-010-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that our good is God Himself and our home is His eternity."
+  },
+  {
+   "id": "augustine-confessions-pusey-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-011-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition: only if he glorifies God, is thankful and not vain."
+  },
+  {
+   "id": "augustine-confessions-pusey-011-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'Of Thyself I learned' becomes 'God taught me'."
+  },
+  {
+   "id": "augustine-confessions-pusey-012-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address from God to third person; drops the mother's daily tears and Cyprian's oratory."
+  },
+  {
+   "id": "augustine-confessions-pusey-012-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the climax: preferring God overcome in him to his destruction over salvation."
+  },
+  {
+   "id": "augustine-confessions-pusey-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-014-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'the worse killed' to 'hurt me even more'."
+  },
+  {
+   "id": "augustine-confessions-pusey-014-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops God preparing the medicines of faith for the whole world."
+  },
+  {
+   "id": "augustine-confessions-pusey-014-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-015-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'thou deridedst me' becomes 'God laughed at me'."
+  },
+  {
+   "id": "augustine-confessions-pusey-015-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-016-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-016-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address from God; drops 'not a lover of marriage but slave to lust'."
+  },
+  {
+   "id": "augustine-confessions-pusey-017-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops what fear held him back from: a deeper gulf of carnal pleasures."
+  },
+  {
+   "id": "augustine-confessions-pusey-017-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address to third person; adds 'home' to God's 'I will carry you'."
+  },
+  {
+   "id": "augustine-confessions-pusey-018-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-018-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-018-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-019-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'Thou being my Guide' becomes 'with God as my guide'."
+  },
+  {
+   "id": "augustine-confessions-pusey-019-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-019-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-019-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'Thou hadst soothed', 'awoke in Thee' rendered in third person."
+  },
+  {
+   "id": "augustine-confessions-pusey-020-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'I now loved Thee' becomes 'I now loved God'."
+  },
+  {
+   "id": "augustine-confessions-pusey-020-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the lion and dragon and deserters shunning the guarded way."
+  },
+  {
+   "id": "augustine-confessions-pusey-020-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'Thy eternal life', 'steadfast in Thee' rendered as third person."
+  },
+  {
+   "id": "augustine-confessions-pusey-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-021-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-021-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-021-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address to third person and drops 'Woe is me!'."
+  },
+  {
+   "id": "augustine-confessions-pusey-021-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that 'the enemy' held his will and forged the chain."
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'Thy charity' becomes 'God's love'."
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address to third person; drops the law of the members warring against the mind."
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address from 'Thou, O Lord' to 'God'; drops 'that I might hate it'."
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p05",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'begged chastity of Thee' becomes 'begged God'."
+  },
+  {
+   "id": "augustine-confessions-pusey-022-p06",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts address: 'striving to go after Thee' becomes 'follow God'."
+  },
+  {
+   "id": "augustine-confessions-pusey-023-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-023-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-023-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "augustine-confessions-pusey-024-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

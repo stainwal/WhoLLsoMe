@@ -1,0 +1,1144 @@
+{
+ "items": [
+  {
+   "id": "viv12-003-p01",
+   "plain": "We keep grabbing at things that slip away and reaching for the next, until at last we see clearly and come to God, the only one who truly loves; his love never changes and always welcomes us.",
+   "core_idea": "Everything slips away except God's unchanging love",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-003-p02",
+   "plain": "We are slaves to the world and our senses, but we should wake up: we are the infinite, all-knowing Spirit that can break every bond, and we reach that power through love.",
+   "core_idea": "We are infinite Spirit, not slaves to the senses",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-003-p03",
+   "plain": "When misery strikes, when the person we love most dies or what we gave everything for vanishes, a voice in the soul may ask what comes after this.",
+   "core_idea": "Loss can make the soul ask what comes next",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-003-p04",
+   "plain": "No amount of reading, talking, intellect or science brings this love; whoever longs for God receives love, and God gives himself to that person.",
+   "core_idea": "Longing for God, not learning, brings divine love",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-003-p05",
+   "plain": "Every soul will one day become perfect. What we are now comes from what we did and thought before, and what we become will come from what we do and think now.",
+   "core_idea": "Our present thoughts and acts shape who we become",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-004-p01",
+   "plain": "Books help the mind grow but do almost nothing for the spirit. Reading can fool us into thinking we are spiritually helped, which is why we talk beautifully about spiritual things yet fail when it is time to act.",
+   "core_idea": "Books feed the intellect, not the spirit",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-004-p02",
+   "plain": "When someone we love dies, we feel the world slipping away and resolve to seek something higher; but within days that feeling fades and we are back where we were.",
+   "core_idea": "Grief-born resolve to seek the higher soon fades",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-004-p03",
+   "plain": "Truly wanting religion is hard. Religion is not listening to talks or reading books but a constant struggle with your own nature until you win, which may take hundreds of lifetimes, and you must be ready for that.",
+   "core_idea": "Religion is a lifelong struggle with your own nature",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-004-p04",
+   "plain": "An open heart can learn from brooks and stones; a closed heart sees only brooks and stones.",
+   "core_idea": "An open heart learns from everything around it",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-005-p01",
+   "plain": "Religion means direct experience, and talking about it is very different from that. Realisation is what you actually perceive in your own soul.",
+   "core_idea": "Religion is direct inner experience, not talk",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-005-p02",
+   "plain": "It is a mistake to think you can leap straight to the highest state, like a baby expecting to be old overnight. Books, reasoning, doctrines and ceremonies only help; religion itself is direct realisation.",
+   "core_idea": "Spiritual growth is gradual; religion is realisation",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-006-p01",
+   "plain": "Everyone knows not to steal or hurt others, but that knowledge means little. Only those who have actually lived by it truly know it and have built their character on it.",
+   "core_idea": "Knowing a rule means living it, not reciting it",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-006-p02",
+   "plain": "My religion cannot be yours, nor yours mine. The goal is the same, but each person must take a different road suited to their mind, and all these roads are true because they lead to the same goal.",
+   "core_idea": "Different paths, suited to each mind, reach one goal",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-006-p03",
+   "plain": "The body will die anyway, so why keep praying for health and wealth? No one can have everything, and it does not matter. Welcome good things when they come and let them go when they leave; both are blessed.",
+   "core_idea": "Welcome good things and let them go freely",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-006-p04",
+   "plain": "Always guarding a fragile body, we live in constant fear, worse off than a frightened deer. The deer rests once fed, but we keep multiplying our wants until nothing natural satisfies us.",
+   "core_idea": "Endless wants and fear leave us no rest",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-006-p05",
+   "plain": "A poor man wants money; once he has it he wants company, then something else. He is never at rest.",
+   "core_idea": "Desire never rests once it is satisfied",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv12-007-p01",
+   "plain": "Being born into a church or sect is good, because its training brings out our best; but dying there is bad, since most of us never grow beyond that small group.",
+   "core_idea": "Begin in a tradition, but outgrow its limits",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-007-p02",
+   "plain": "Think for yourself. Honour the holy teachers, but treat religion as your own independent search; you must find your own light as they found theirs, because their light will not satisfy you.",
+   "core_idea": "Find your own light; others' cannot satisfy you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-008-p01",
+   "plain": "We all want to escape misery and become free in body, mind and spirit. The goal is the same for everyone, but there are many ways to reach it, shaped by each person's nature.",
+   "core_idea": "One goal of freedom, many paths by nature",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "All of us want to get rid of misery; we are struggling to attain to liberty — physical, mental, spiritual. This is the whole idea upon which the world is working. Though the goal is one and the same, there may be many ways to reach it, and these ways are determined by the peculiarities of our nature.",
+    "reason": "Scan error: 'Through' for 'Though'"
+   }
+  },
+  {
+   "id": "viv12-009-p01",
+   "plain": "A teaching may seem perfect to you and terrible to your friend. He is not wrong and there is no point arguing; the teaching was fine, it just did not fit him.",
+   "core_idea": "A good teaching may not fit everyone",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-009-p02",
+   "plain": "There is one sun, yet everyone sees it differently from where they stand. Likewise truth looks different from different viewpoints, though Absolute Truth is one, so we need not fight when others see religion differently; both may be true.",
+   "core_idea": "One truth appears differently from different standpoints",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "The sun is one; but when you and I and a hundred other people stand at different places and look at it, each one of us sees a different sun. We cannot help it. A very little change of place will change a man’s whole vision of the sun. A slight change in the atmosphere will make again a different vision. So, in relative perception, truth always appears various. But the Absolute Truth is only one. Therefore we need not fight with others when we find they are telling something about religion which is not exactly according to our view of it. We ought to remember that both of us may be true, though apparently contradictors.",
+    "reason": "Stray semicolon after 'they'"
+   }
+  },
+  {
+   "id": "viv12-009-p03",
+   "plain": "You cannot force a plant to grow, and a child teaches itself. All you can do is remove obstacles, loosen the soil and protect it; the knowledge comes from within, and there your work ends.",
+   "core_idea": "Growth comes from within; we only remove obstacles",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-009-p04",
+   "plain": "I have no right to force an ideal on you. My job is to show you all the ideals I know so you can see which suits your nature best; then take that one up and stick with it.",
+   "core_idea": "Choose the ideal that suits you and persevere",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-009-p05",
+   "plain": "Be strong, stand up and seek the God of Love; that is the highest strength. No power is greater than purity, and love and purity rule the world.",
+   "core_idea": "Love and purity are the highest power",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-002-p01",
+   "plain": "The Buddha said that hurting someone back does not heal the first hurt; it only adds one more wrong to the world.",
+   "core_idea": "Revenge only adds another wrong to the world",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv13-005-p01",
+   "plain": "Every moment we see people around us dying, yet those still living think they will never die. Strangest of all, facing death everywhere, no one believes it will come to them.",
+   "core_idea": "Surrounded by death, no one believes they'll die",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-005-p02",
+   "plain": "Argument settles nothing; doctrines and scriptures are many and contradict each other, and no two sages agree. The secret of religion lies hidden deep, so follow the path the great ones have walked.",
+   "core_idea": "When arguments fail, follow the path of the great",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-005-p03",
+   "plain": "Whoever finds peace amid great activity, and activity amid great calm, knows life's secret. Krishna teaches non-attachment: you are the free soul, the Witness; work, earn, love your family, but do not get attached, for attachment brings misery.",
+   "core_idea": "Work fully, but stay unattached; attachment brings misery",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-007-p01",
+   "plain": "The only real sin is fear. Any work that brings out your hidden strength is virtue, and whatever weakens your body and mind is sin. Shake off this weakness and faintheartedness.",
+   "core_idea": "Fear and weakness are the only sin",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-007-p02",
+   "plain": "Do not hate even the worst sinner or judge his outside; look within, where the Supreme Self lives. Tell the world: you have no sin or misery, you hold limitless power; rise and show the divine within.",
+   "core_idea": "Every person holds the divine within",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-007-p03",
+   "plain": "Our duty is to believe only what is true. Superstition, blind faith in tradition, binds people so tightly that even Jesus, Mohammed and other great men could not shake some off. Keep your eye on truth and reject all superstition.",
+   "core_idea": "Believe only the truth; reject blind tradition",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-008-p01",
+   "plain": "A prayer to God: may I love you with the same intensity that the ignorant feel for worldly things, but only for the sake of love itself.",
+   "core_idea": "Love God as intensely as others love things",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-008-p02",
+   "plain": "Hindus see the universe moving in waves: rising, peaking, falling, resting low, then rising again. What holds for the whole holds for every part, and human affairs move the same way.",
+   "core_idea": "Everything, including human life, rises and falls in waves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-009-p01",
+   "plain": "We arrive like orphans who are lost without knowing it. We do not know what our lives mean; we do one thing today and another tomorrow, tossed about like straws on water or feathers in a storm.",
+   "core_idea": "Without purpose we drift like straws on water",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-009-p02",
+   "plain": "How can someone who cannot believe in himself believe in anything else? One moment I feel immortal and moral, the next terrified or knocked flat, because I have lost faith in myself and my moral backbone is broken.",
+   "core_idea": "Without faith in yourself, everything else collapses",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-009-p03",
+   "plain": "It does not matter what language you use, or whether your grammar and style are fine. What matters is whether you have something to give. That is the first question; if you have, give it.",
+   "core_idea": "What matters is having something real to give",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-009-p04",
+   "plain": "Some fools drink salty water even with sweet water nearby, simply because their father dug the salty well.",
+   "core_idea": "Clinging to inherited ways even when better exists",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-009-p05",
+   "plain": "Religion is not talk, theory or agreement of the mind. It is realisation deep in the heart: touching God, feeling that I am a spirit connected with the Universal Spirit and all its forms.",
+   "core_idea": "Religion is felt union with the Universal Spirit",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p01",
+   "plain": "Let us think something new, even if it turns out wrong; that is better. Why not try to hit the mark? We grow wiser through failure, and there is endless time.",
+   "core_idea": "Try new things; failure makes us wiser",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p02",
+   "plain": "If someone fed me daily, I would lose the use of my hands. Following others like sheep kills the spirit; inaction is death. Be active; activity brings difference, the beauty and sign of life, so why fear it?",
+   "core_idea": "Activity and difference are the signs of life",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p03",
+   "plain": "Do not give your heart to anything that changes, because that brings misery. A loved one may die, a friend may turn enemy, a husband may quarrel, a wife may die; that is how the world goes.",
+   "core_idea": "Giving your heart to changing things brings misery",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p04",
+   "plain": "How could God be angry with us? You are not angry with your mischievous baby. God knows we will all become perfect sooner or later, and he has infinite patience.",
+   "core_idea": "God is infinitely patient, never angry with us",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p05",
+   "plain": "Whoever lives and works in the world and gives all the results of their work to the Lord is never stained by the world's evils, just as a lotus grows under water yet blooms above it.",
+   "core_idea": "Offer your work to God, untouched like the lotus",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p06",
+   "plain": "The Gita says work day and night. Asked where peace lies in endless toil, Krishna says you will find it, but never by fleeing work; even on a mountaintop the mind keeps whirling.",
+   "core_idea": "Peace is not found by fleeing from work",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p07",
+   "plain": "Go ahead without worrying about what kind of work it is; just ask if you are unselfish. If so, nothing can stop you; plunge into the duty at hand. In time you find peace within activity and activity within peace.",
+   "core_idea": "Unselfish work leads to peace within activity",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p08",
+   "plain": "No duty in the world can rightly be called lowly; everyone's work is as good as an emperor's on his throne.",
+   "core_idea": "No work is lowly; all duty is equal",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p09",
+   "plain": "Do not fear that your work contains some evil, because all work does. Leave it to the Lord and do not look for results.",
+   "core_idea": "All work has flaws; leave results to God",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-010-p10",
+   "plain": "Only the good lasts, because only the good is strong. Even in this life, the impure live shorter lives than the pure, for purity and goodness are strength.",
+   "core_idea": "Goodness and purity are strength, and they endure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-011-p01",
+   "plain": "As he was dying the Buddha said that no one can help you; you must help yourself and work out your own salvation. He said Buddha means infinite knowledge, which he had reached and which everyone can reach by striving.",
+   "core_idea": "Work out your own salvation; anyone can awaken",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-011-p02",
+   "plain": "Perfection does not come from belief or faith, and talk counts for nothing; parrots can talk. Perfection comes from doing your work without self-interest.",
+   "core_idea": "Perfection comes from selfless action, not belief",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-011-p03",
+   "plain": "Like ocean waves, events rise and fall again and again. We notice the rises and forget the falls, but both are necessary and great. The same rhythm runs through our thoughts, society and spiritual life.",
+   "core_idea": "Rises and falls are both necessary and great",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-012-p01",
+   "plain": "The ideal may be far beyond us, but hold on to it anyway. Admit that it is our ideal even though we cannot reach it yet.",
+   "core_idea": "Keep your ideal even when it seems unreachable",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-012-p02",
+   "plain": "Do not think of yourselves as trampled slaves, because within you is something that can never be oppressed, troubled or killed. You are all Sons of God, immortal spirit.",
+   "core_idea": "Within you is an immortal spirit no one can crush",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-012-p03",
+   "plain": "Humanity does not move from error to truth, but from truth to truth, or from lower truth to higher truth.",
+   "core_idea": "We move from lower truth to higher truth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-013-p01",
+   "plain": "Jesus said the pure in heart will see God and the Kingdom of Heaven is within you. Why search elsewhere? Purify your spirit and it is there, already yours; you are heirs of immortality, children of the Eternal Father.",
+   "core_idea": "God's kingdom is already within a pure heart",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-013-p02",
+   "plain": "Everyone quietly bears a burden; the Prophets carried the world, we carry small crosses at home. Yet however low we fall, a small circle of light in the heart always stays in touch with the divine.",
+   "core_idea": "Everyone carries a burden and a light divine",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-014-p01",
+   "plain": "What good is power over the whole world and every atom in it? It will not make you happy unless you have the power of happiness within you and have conquered yourself.",
+   "core_idea": "Happiness needs self-mastery, not power over the world",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-014-p02",
+   "plain": "Check your motive. Are you free of greed, fame and power? Can you hold to your ideals if the whole world tries to crush you, do your duty at the cost of your life, and persist to your last heartbeat?",
+   "core_idea": "Test whether your motives and resolve are pure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-014-p03",
+   "plain": "Krishna says you have a right to your work but not to its results. Why cling to outcomes? Our part is the duty; let the results take care of themselves.",
+   "core_idea": "Do your duty; let results take care of themselves",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-015-p01",
+   "plain": "Life is brief whether you are wise or ignorant, poor or rich, oppressed or an emperor, healthy or ill, gentle and poetic or cruel.",
+   "core_idea": "Life is brief for everyone, whatever their lot",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-015-p02",
+   "plain": "Facts must be perceived, and so must religion. We have to sense God to be sure God exists; no amount of reasoning, only our own direct perception, can make these things real and our belief rock-solid.",
+   "core_idea": "Only direct experience makes faith in God firm",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-016-p01",
+   "plain": "At times, tired of dead logic and useless books, the heart cries to God: if you exist, show me the light, speak to me yourself, tell me whom to follow. Such thoughts come in deep depression, then we forget.",
+   "core_idea": "In despair we cry for God, then forget",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-016-p02",
+   "plain": "People call a man mad when he throws away worldly vanities, but such people are the salt of the earth. That kind of madness produced the forces that moved the world, and only it will move the world in future.",
+   "core_idea": "Those called mad for renouncing vanity move the world",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-016-p03",
+   "plain": "The whole world is mad: for money, pleasure, fame, a spouse, trifles, power over others, for every foolish thing except God. And people can only understand their own kind of madness.",
+   "core_idea": "Everyone is mad for something except God",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-016-p04",
+   "plain": "The smaller a person's little ego, the more of God there is in them.",
+   "core_idea": "Less ego means more God within",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv13-017-p01",
+   "plain": "Few grasp the power of thought. One great thought, thought alone in a sealed cave, will spread through space until it reaches all humanity. So do not rush to share your thoughts; first have something worth giving.",
+   "core_idea": "Thought is powerful; have something worth giving first",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-017-p02",
+   "plain": "We hear brilliant speeches and forget them all by the time we get home, while at other times a few simple words enter our lives, become part of us and change us for good.",
+   "core_idea": "Simple words can change us more than grand speeches",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-017-p03",
+   "plain": "Religion is not temples, churches, public worship, books, lectures or organisations; it is realisation. Nothing satisfies us until we know the truth for ourselves, and that experience is possible for every one of us if we try.",
+   "core_idea": "Only knowing truth for yourself truly satisfies",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-018-p01",
+   "plain": "Do not shake anyone's faith. If you can, give them something better, or meet them where they are and help them upward, but do not destroy what they have.",
+   "core_idea": "Never destroy someone's faith; help them upward",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-018-p02",
+   "plain": "Doctrines, sects and temples matter little next to the spirituality in each person, which makes them powerful for good. Develop that, criticise no one, for every creed has some good, and show by your life that religion is realisation.",
+   "core_idea": "Live spirituality; don't fight over doctrines",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-019-p01",
+   "plain": "Death is only a change of condition; we stay in the same universe under the same laws. Those who have gone ahead and grown in beauty and wisdom are just the front line of a universal army following behind them.",
+   "core_idea": "Death is a change of state, not an end",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-019-p02",
+   "plain": "We should cultivate optimism and try to see the good in everything. Lamenting the flaws of our bodies and minds gets us nowhere; it is the heroic effort to overcome hard circumstances that lifts the spirit.",
+   "core_idea": "Heroic effort, not lament, lifts the spirit",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-019-p03",
+   "plain": "Teach your children that true religion is positive: not just avoiding evil but steadily doing noble deeds. It does not come from people's teachings or from books; it is the awakening of the spirit within that follows pure, heroic action.",
+   "core_idea": "True religion is doing good, not just avoiding evil",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "Impress upon your children that true religion is positive and not negative, that it does not consist in merely refraining from evil, but in a persistent performance of noble deeds. True religion comes not from the teaching of men or the reading of books; it is the awakening of the spirit within us, consequent upon pure and heroic action.",
+    "reason": "Scan errors: 'decals' for 'deeds', 'front' for 'from'"
+   }
+  },
+  {
+   "id": "viv13-019-p04",
+   "plain": "Love God for love's sake, do your duty for duty's sake and honour beauty for beauty's sake, never for reward. With hearts made pure this way, we will see God.",
+   "core_idea": "Love, duty and beauty for their own sake",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-019-p05",
+   "plain": "What use is calling God the Father of all in prayer if we do not treat everyone as a brother? Books only point to a higher life; nothing comes of it unless we walk the path unflinchingly.",
+   "core_idea": "Live what you pray; walk the path, don't just read",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-019-p06",
+   "plain": "Each person is like a glass globe holding the same pure divine light; the glass varies in colour and thickness, so the light looks different. The flame is equally beautiful in all, and the glass clears as we rise.",
+   "core_idea": "The same divine light shines in every person",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-020-p01",
+   "plain": "A nation can master the seas and the elements and solve every practical problem, yet miss that the highest civilisation in a person belongs to one who has learned to conquer himself.",
+   "core_idea": "Highest civilisation is conquering the self",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-020-p02",
+   "plain": "As children we thrilled at sunrise, and we gaze at sunsets trying to see beyond. The universe works like that: rising out of the unknown and returning to it, a child from darkness, an old man back into it.",
+   "core_idea": "Life rises from and returns to the unknown",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-021-p01",
+   "plain": "It is unreasonable to expect happiness without misery. Adding more comforts only increases wants, and endless wants are a thirst never quenched; while that thirst remains, misery is certain. Life by nature brings happiness and misery in turn.",
+   "core_idea": "Happiness and misery come in turns",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-021-p02",
+   "plain": "Pessimism and optimism are both wrong because both are extremes. A man with plenty to eat and wear becomes a great optimist, and the same man, losing everything, becomes a great pessimist.",
+   "core_idea": "Optimism and pessimism depend on circumstance",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-021-p03",
+   "plain": "The world is neither good nor evil; it is the Lord's world, beyond both, perfect, his will playing out without beginning or end. It is a great gymnasium where countless souls exercise and grow strong and perfect.",
+   "core_idea": "The world is a gymnasium for souls to grow strong",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-021-p04",
+   "plain": "Kitchen fire is neither good nor bad: we bless it when it cooks and curse it when it burns. The universe is the same; we call it good when it helps us and evil when it hurts us.",
+   "core_idea": "The world is neutral; our stance makes it good",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-022-p01",
+   "plain": "Many of us get, or think we get, inner messages. If one concerns only yourself, do as you please; but if it concerns how you treat others, think a hundred times before acting on it, and you will be safe.",
+   "core_idea": "Think hard before acting on 'messages' affecting others",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-022-p02",
+   "plain": "Have you seen God or the soul? If not, are you striving for it? It is here and now; the future is only the endless present, all time one second repeated. Religion belongs to this present life.",
+   "core_idea": "Religion is here and now, not in the future",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-023-p01",
+   "plain": "The Buddha said not to believe something just because you heard it, it is traditional or popular, a sage said it, or habit or elders taught it. Examine it; if it fits reason and helps all, live by it.",
+   "core_idea": "Accept only what reason shows is good for all",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-023-p02",
+   "plain": "All great people show tremendous power of concentration. We call them geniuses, but Yoga says we can all be geniuses if we try hard; some start better equipped and move faster, but the same power is in everyone.",
+   "core_idea": "Everyone has the power of concentration genius needs",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-023-p03",
+   "plain": "It is not our business to look at others' faults; it does no good, and we should not even think of them. Our concern is with the good. Our business is to be good.",
+   "core_idea": "Don't dwell on others' faults; be good yourself",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "We have no business to look at the faults of others: it does no good. We must not even think of them. Our business is with the good. We are not here to deal with faults. Our business is to be good.",
+    "reason": "Missing full stop after 'good'"
+   }
+  },
+  {
+   "id": "viv13-024-p01",
+   "plain": "Whenever I feel pain or pleasure, I have identified myself with the body. In the high state, pleasure and pain are both met with the same bliss.",
+   "core_idea": "The high state meets pain and pleasure alike",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-024-p02",
+   "plain": "We have taken on the colour of the body and forgotten what we are. All our fears, worries, troubles, mistakes, weakness and evil come from one great blunder: believing that we are bodies.",
+   "core_idea": "Our troubles come from thinking we are bodies",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "We have taken the colour of the body and have forgotten what we are. All the difficulties that follow come from that one dead body. All our fears, all worries, anxieties, troubles, mistakes, weakness, evil, are from that one great blunder — that we are bodies.",
+    "reason": "Scan error: 'front' for 'from'"
+   }
+  },
+  {
+   "id": "viv13-024-p03",
+   "plain": "In English people greet with 'How do you do?'; the Indian greeting asks 'Are you upon yourself?' The moment you rest on something else, you risk misery. Meditation is the soul trying to stand on itself.",
+   "core_idea": "Meditation is the soul standing on itself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-025-p01",
+   "plain": "You cannot convince a young man that life has difficulties, nor an old man that life is smooth, because he has lived through a great deal. That is the difference.",
+   "core_idea": "Experience teaches what youth cannot believe",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-025-p02",
+   "plain": "We all struggle. Even if we cannot reach the Absolute, we will get somewhere better than where we are now.",
+   "core_idea": "Striving always takes us somewhere better",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-025-p03",
+   "plain": "Work at it harder and meditation comes; you no longer feel the body. Afterwards you have had the deepest rest of your life, deeper than any sleep, because even in the deepest sleep the mind keeps jumping.",
+   "core_idea": "Meditation gives deeper rest than sleep",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-025-p04",
+   "plain": "Looking at a tree stump, a thief sees a policeman, a child sees a ghost, and a young man waiting for his sweetheart sees her. Yet the stump never changed.",
+   "core_idea": "We see what our minds bring to things",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-025-p05",
+   "plain": "What is the goal of life? Is it just this world and nothing more? Are we only to stay as we are, smooth-running machines? Are today's sufferings all there is, and do we want nothing more?",
+   "core_idea": "Life must have a goal beyond this world",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p01",
+   "plain": "Poverty deceives us, then wealth deceives us; ignorance deceives us, then knowledge does. No one is ever satisfied. That is the cause of misery, but also the source of every blessing.",
+   "core_idea": "Never being satisfied brings both misery and blessing",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p02",
+   "plain": "A century ago people walked or bought horses. Now they are happy to ride trains but unhappy because they must work and earn more. Every labour-saving machine puts more strain on labour.",
+   "core_idea": "Every convenience creates new burdens",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p03",
+   "plain": "Whoever is on top of the wave thinks all is good; whoever is at the bottom thinks all is evil. Whoever stands aside sees the divine play: some weep, some laugh, and in turn they trade places.",
+   "core_idea": "Joy and sorrow take turns in the divine play",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p04",
+   "plain": "You always give up a lesser joy for a greater one. That is practical religion: freedom through renunciation. Give up the lower so that you may gain the higher.",
+   "core_idea": "Give up the lower to gain the higher",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p05",
+   "plain": "The great, the weak, even gods have died; the world is a graveyard of the past, yet we cling to life. There is meaning in that, but the mistake is clinging to the body when only the spirit is immortal.",
+   "core_idea": "Cling to the immortal spirit, not the body",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-026-p06",
+   "plain": "My Master said a parrot can repeat 'Lord, Lord', but forgets when the cat grabs its neck. You may pray, read every scripture, worship every god, yet without realising the soul there is no freedom. Realisation is practical religion.",
+   "core_idea": "Without realising the soul, worship brings no freedom",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p01",
+   "plain": "Serve the poor, the miserable and the weak as worship of the Lord himself in them. Once that is done, the result does not matter; work like this, done without thought of gain, benefits the soul.",
+   "core_idea": "Serving the weak is worshipping God in them",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p02",
+   "plain": "Is it practical to spend life getting things that death takes away? A great conqueror, dying, had his treasures laid out, pressed his biggest diamond to his chest, wept, and died just as a dog dies.",
+   "core_idea": "All our possessions are left behind at death",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p03",
+   "plain": "The mind is like a lake: every stone dropped in makes waves that hide what we are, as ripples blur the moon's reflection. Let it grow calm and still; then nature lets go, and we know what we are.",
+   "core_idea": "A calm mind reveals our true self",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p04",
+   "plain": "We must train ourselves slowly. It is serious work that may take days, years or even lifetimes, but never mind; keep pulling, knowingly and willingly, and inch by inch we will gain ground.",
+   "core_idea": "Keep pulling; inch by inch we gain ground",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p05",
+   "plain": "How foolish to depend on other people for happiness; every separation is misery. Wealth rises and falls. Depending on health, or anything but the unchanging spirit, must bring misery sooner or later.",
+   "core_idea": "Only the unchanging spirit is a safe foundation",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv13-027-p06",
+   "plain": "Everything except the infinite spirit keeps changing. Permanence is found only within yourself, where there is infinite, unchanging joy, and meditation is the gate that opens it.",
+   "core_idea": "Lasting joy lies within; meditation opens it",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p01",
+   "plain": "A farewell to a departed soul: go freely on your starry path beyond time and space, your service complete, your bonds broken, one with what comes as death and life; keep helping this troubled world with love.",
+   "core_idea": "Blessing a freed soul to keep helping with love",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p02",
+   "plain": "If clouds hide the sun and the sky looks only gloomy, hold on a little longer, brave heart; victory will come. Summer always follows winter, every trough rises into a wave, so stay steady and brave.",
+   "core_idea": "Hold on; summer always follows winter",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p03",
+   "plain": "Life's duties are painful, its pleasures brief and empty, the goal dim; yet keep going through the dark with all your strength, brave heart. No work or struggle is wasted, even when hopes die; no good is ever undone.",
+   "core_idea": "No good work or struggle is ever wasted",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p04",
+   "plain": "Neither this world nor the next can give you freedom, and searching books and temples is useless. Your own hand holds the rope that drags you on, so stop lamenting and let go, bold renouncer, saying 'Om Tat Sat, Om!'",
+   "core_idea": "You hold the rope that binds you; let go",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p05",
+   "plain": "Few know the truth; the rest will hate and mock you, but ignore them. Go freely from place to place helping people out of the darkness of illusion, fearing no pain and seeking no pleasure, beyond both, bold renouncer.",
+   "core_idea": "Help others freely, ignoring mockery, beyond pain and pleasure",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv14-001-p06",
+   "plain": "Peace is neither joy nor sorrow but what lies between, neither night nor morning but what joins them: the rest in music, the pause in sacred art, the silence between words and passions, the calm of the heart.",
+   "core_idea": "Peace is the calm between opposites",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p01",
+   "plain": "I have met so many immortal souls nearly crushed under their load, creeping through life pushing a huge barn with stables never cleaned and a hundred acres of farmland ahead of them.",
+   "core_idea": "Possessions can crush the soul that owns them",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p02",
+   "plain": "Our finest qualities, like the bloom on fruit, survive only with the gentlest handling, yet we do not treat ourselves or each other that tenderly.",
+   "core_idea": "Our best qualities need tender handling",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p03",
+   "plain": "Public opinion is a weak tyrant next to our own opinion of ourselves. What a person thinks of himself determines, or at least shows, his fate.",
+   "core_idea": "Your opinion of yourself shapes your fate",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p04",
+   "plain": "Most people live lives of quiet desperation, and what they call resignation is confirmed despair. Even their games and amusements hide an unconscious despair, with no real play in them. But it is wise not to do desperate things.",
+   "core_idea": "Most people live in quiet desperation",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p05",
+   "plain": "It is never too late to drop our prejudices. No old way of thinking should be trusted without proof; what everyone accepts today may be false tomorrow. Try what the old say you cannot do; you may find you can.",
+   "core_idea": "Never too late to test and drop old beliefs",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-001-p06",
+   "plain": "Boredom that claims life has nothing new is as old as Adam. But human abilities have never been measured, and little has been tried. Whatever your failures, do not despair: no one can say what you have left to do.",
+   "core_idea": "Past failures don't measure what you can still do",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p01",
+   "plain": "Nature and life are as varied as people are. Who can say what life looks like to someone else? What greater miracle could there be than to see through each other's eyes for a moment?",
+   "core_idea": "Seeing through another's eyes would be a miracle",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p02",
+   "plain": "We could safely trust far more than we do, and worry about ourselves less. Nature suits our weakness as well as our strength; the constant anxiety and strain some people live with is an almost incurable disease.",
+   "core_idea": "Trust more; constant anxiety is a disease",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p03",
+   "plain": "We say ours is the only way, but there are as many ways as lines drawn from a centre. Every change is a miracle to think about, and it is happening every moment.",
+   "core_idea": "Many ways exist; change is a constant miracle",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p04",
+   "plain": "Being a philosopher is not just having clever thoughts or founding a school, but loving wisdom enough to live by it: simply, independently, generously and trustingly, solving some of life's problems in practice, not only in theory.",
+   "core_idea": "Philosophy means living wisely, not just thinking",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p05",
+   "plain": "In all weather and at all hours I have tried to make the most of the moment and mark it, to stand where past and future meet, which is exactly the present, and keep to that line.",
+   "core_idea": "Live fully at the meeting point of now",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-002-p06",
+   "plain": "Long ago I lost a hound, a bay horse and a turtle dove, and I am still searching. A few travellers had heard or glimpsed them, and seemed as eager to find them as if they were their own.",
+   "core_idea": "We all seek something precious we have lost",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-003-p01",
+   "plain": "The life people praise as successful is only one kind of life. Why should we exalt one kind above all the others?",
+   "core_idea": "Conventional success is just one kind of life",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-003-p02",
+   "plain": "I have never thought less of anyone for a patch on their clothes, yet people usually worry more about having fashionable, clean, unpatched clothes than about having a clear conscience.",
+   "core_idea": "We care more about appearance than conscience",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-003-p03",
+   "plain": "Beware of ventures that need new clothes rather than a new person wearing them; without a new person, how will new clothes fit? Try any venture in your old clothes. People want not something to use but something to be.",
+   "core_idea": "Change yourself, not your outward trappings",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-003-p04",
+   "plain": "Like birds moulting, our times of renewal must be crises. The loon goes off to lonely ponds for it; the snake sheds its skin and the caterpillar its coat by growth from within, for clothes are just our outermost skin.",
+   "core_idea": "Real renewal comes from growth within",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-003-p05",
+   "plain": "It is good to dress so simply you can find yourself in the dark, and to live so compactly that if an enemy took the town, you could walk out empty-handed without worry, like the old philosopher.",
+   "core_idea": "Live so simply you can leave without worry",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-004-p01",
+   "plain": "In the long run people hit only what they aim at, so even if they fail at first, they had better aim high.",
+   "core_idea": "Aim high; we only hit what we aim at",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-004-p02",
+   "plain": "We have forgotten how to live outdoors; our lives are more housebound than we think. It might be good to spend more days and nights with nothing between us and the stars. Birds do not sing in caves.",
+   "core_idea": "We need open sky, not just shelter",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-004-p03",
+   "plain": "If civilisation is real progress, and I think it is though only the wise use it well, it must give better homes without costing more; and a thing's cost is how much of your life you trade for it.",
+   "core_idea": "The real cost of a thing is life traded",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-005-p01",
+   "plain": "Most people never consider what a house is for, and stay needlessly poor all their lives because they think they need one like their neighbours'. Should we always strive to get more, and never learn to be content with less?",
+   "core_idea": "Keeping up with neighbours keeps us poor",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-005-p02",
+   "plain": "I had three pieces of limestone on my desk, but was horrified to find they needed dusting every day while the furniture of my mind was still undusted, so I threw them out the window in disgust.",
+   "core_idea": "Possessions demand care better spent on the mind",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-005-p03",
+   "plain": "People have become tools of their tools. The one who picked fruit when hungry became a farmer; the one sheltering under a tree, a housekeeper. We no longer camp for a night, but have settled on earth and forgotten heaven.",
+   "core_idea": "We've become tools of our tools",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-006-p01",
+   "plain": "It is hard to start without borrowing, but perhaps that is the most generous way, since it lets others share an interest in what you are doing.",
+   "core_idea": "Borrowing lets others share in your venture",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-006-p02",
+   "plain": "Those were pleasant spring days, when people's winter of discontent thawed along with the earth, and life that had been dormant began to stretch.",
+   "core_idea": "Spring thaws our discontent along with the earth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-006-p03",
+   "plain": "People claim to know many things, but their arts, sciences and countless devices have flown away; the blowing wind is all anyone really knows.",
+   "core_idea": "Human knowledge is fleeting; little is truly known",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-007-p01",
+   "plain": "Someone else may think for me, but that does not mean they should do it so that I stop thinking for myself.",
+   "core_idea": "Don't let others' thinking replace your own",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-007-p02",
+   "plain": "A student who wins leisure by dodging all necessary work gets only a shameful, empty leisure, cheating himself of the experience that alone makes leisure fruitful.",
+   "core_idea": "Leisure without real work is empty",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-007-p03",
+   "plain": "How could young people learn to live better than by trying the experiment of living right away?",
+   "core_idea": "Learn to live by living",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-007-p04",
+   "plain": "Our inventions are usually pretty toys that distract us from serious things, better means to an unimproved end. We rush to build a telegraph from Maine to Texas, but they may have nothing important to say.",
+   "core_idea": "Better tools don't give us better purposes",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-008-p01",
+   "plain": "Spending the best part of life earning money to enjoy a doubtful freedom in its worst part is like the Englishman who made a fortune in India so he could later be a poet. He should have started at once.",
+   "core_idea": "Don't postpone the life you want",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-008-p02",
+   "plain": "Nations are crazily ambitious to be remembered by the stone they leave behind. What if they worked as hard on refining their manners? One piece of good sense would be more memorable than a monument as high as the moon.",
+   "core_idea": "Good sense outlasts monuments",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-009-p01",
+   "plain": "More than any other animal, humans can adapt to every climate and circumstance.",
+   "core_idea": "Humans can adapt to anything",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-009-p02",
+   "plain": "When I met an immigrant staggering under a bundle holding everything he owned, I pitied him, not because that was all he had, but because he had all that to carry.",
+   "core_idea": "Possessions are burdens to carry",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-010-p01",
+   "plain": "Faith and experience convince me that supporting yourself is not a hardship but a pastime, if you live simply and wisely. No one need earn a living by the sweat of his brow, unless he sweats more easily than I.",
+   "core_idea": "Living simply makes earning a living easy",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-010-p02",
+   "plain": "I would not want anyone to copy my way of life; I may have found another by then, and I want many different people in the world. Each should carefully find and follow his own way, not his parents'.",
+   "core_idea": "Find and follow your own way",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-010-p03",
+   "plain": "Our wisdom is only a single point, like the pole star a sailor or escaping slave steers by, but that is enough guidance for life. We may not reach port on time, but we can keep the true course.",
+   "core_idea": "Keep your guiding star and true course",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-010-p04",
+   "plain": "People say, in effect: start where and as you are, without trying mainly to become better, and set out kindly to do good. If I preached at all, I would say instead: set about being good.",
+   "core_idea": "Be good, rather than just doing good",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-011-p01",
+   "plain": "For every one striking at the root of evil, a thousand hack at its branches. Whoever gives most to the needy may, by the way he lives, be doing most to cause the misery he vainly tries to relieve.",
+   "core_idea": "Strike at the root of evil, not branches",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-011-p02",
+   "plain": "We should pass on our courage, not our despair, our health and ease, not our sickness, and be careful that the sickness does not spread.",
+   "core_idea": "Share courage and health, not despair",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-011-p03",
+   "plain": "All health and success does me good, however distant; all sickness and failure makes me sad and harms me. To truly help humanity, first be simple and well like Nature, clear your own gloom, and become a person of worth.",
+   "core_idea": "Heal yourself first to truly help others",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-011-p04",
+   "plain": "Do not fix your heart on what passes; the Tigris will flow through Baghdad after the caliphs are gone. If you have plenty, give freely like the date tree; if you have nothing to give, be free like the cypress.",
+   "core_idea": "Don't cling to the passing; give freely or stay free",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-012-p01",
+   "plain": "I would tell everyone, once and for all: stay free and uncommitted for as long as you can. It makes little difference whether you are tied to a farm or to the county jail.",
+   "core_idea": "Stay free and uncommitted as long as possible",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-012-p02",
+   "plain": "The morning wind always blows and the poem of creation never stops, but few ears hear it.",
+   "core_idea": "Creation's poem goes on; few listen",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-012-p03",
+   "plain": "Whoever does not believe each day holds an earlier, holier dawn hour than he has yet spoiled has given up on life and is heading into darkness. Each day the rested soul tries again to make a noble life.",
+   "core_idea": "Each day offers a fresh, sacred start",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-012-p04",
+   "plain": "For someone whose lively thought keeps pace with the sun, every day is morning, whatever the clocks say. Morning is when I am awake and there is a dawn in me. Moral reform is the effort to shake off sleep.",
+   "core_idea": "Morning is when you are awake inside",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "walden-thoreau-012-p05",
+   "plain": "Millions are awake enough for physical work, one in a million for real intellectual effort, one in a hundred million for a poetic or divine life. To be awake is to be alive. I have never met anyone fully awake.",
+   "core_idea": "To be truly awake is to be alive",
+   "quotability": 3,
+   "complete": true
+  }
+ ]
+}

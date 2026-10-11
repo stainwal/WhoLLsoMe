@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "emerson-essays-035-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'build a heaven we had not dreamed' and powers from the spirit's recesses."
+  },
+  {
+   "id": "emerson-essays-035-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'we desire to be made great'; fire image flattened."
+  },
+  {
+   "id": "emerson-essays-036-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses that lack of skill elsewhere increases fitness for one's own work."
+  },
+  {
+   "id": "emerson-essays-036-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-036-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-036-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops wise-versus-unwise contrast detail and 'quit other leadings'; question made assertion."
+  },
+  {
+   "id": "emerson-essays-037-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops point that laboured feats seem pointless before bursting into universal power."
+  },
+  {
+   "id": "emerson-essays-037-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the arc of early modesty turning to self-flattery."
+  },
+  {
+   "id": "emerson-essays-038-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-038-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the infinite in genius sporting with the critic's limitations."
+  },
+  {
+   "id": "emerson-essays-038-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-038-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-038-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Compresses the prophets-recanting image heavily; core kept."
+  },
+  {
+   "id": "emerson-essays-038-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-039-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-040-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-040-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-040-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-040-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-041-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-041-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-041-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-041-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-042-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-042-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'suicide in the liar'; drops frankness making business a friendship."
+  },
+  {
+   "id": "emerson-essays-042-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-042-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops peace kept because one is afraid and the other dares not."
+  },
+  {
+   "id": "emerson-essays-043-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops friends dying off and being too old for new patronage."
+  },
+  {
+   "id": "emerson-essays-043-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops holding impressions with good-humoured inflexibility against the crowd, and the shame."
+  },
+  {
+   "id": "emerson-essays-043-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the idea trusted if faithfully imparted, and genius deserting the half-hearted."
+  },
+  {
+   "id": "emerson-essays-043-p07",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops 'obeying the Almighty effort' and the call to be guides, redeemers, benefactors."
+  },
+  {
+   "id": "emerson-essays-043-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-043-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-044-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops refusing to judge the man by actions and paying for an intrinsic right."
+  },
+  {
+   "id": "emerson-essays-044-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops greatness/meanness distinction and the easy-in-world, easy-in-solitude contrast."
+  },
+  {
+   "id": "emerson-essays-044-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-044-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-044-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition: frowns rooted in real contempt would justify sadness."
+  },
+  {
+   "id": "emerson-essays-044-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops bringing the past to judgment in the present rather than trusting memory."
+  },
+  {
+   "id": "emerson-essays-044-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'To be great is to be misunderstood' loosened; drops named misunderstood figures."
+  },
+  {
+   "id": "emerson-essays-044-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-044-p09",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Act singly' rendered 'act sincerely', losing the sense of acting alone and independently."
+  },
+  {
+   "id": "emerson-essays-044-p10",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'always scorn appearances and you always may'."
+  },
+  {
+   "id": "emerson-essays-044-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-044-p12",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Keep things under his feet' softened to 'keep things in their place'."
+  },
+  {
+   "id": "emerson-essays-044-p13",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'did they wear out virtue?', the challenge to hero-worship."
+  },
+  {
+   "id": "emerson-essays-045-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-045-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-045-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-045-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-045-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'no man can come near me but through my act'."
+  },
+  {
+   "id": "emerson-essays-045-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-046-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-046-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the disheartened graduate and living without shame at lacking a profession."
+  },
+  {
+   "id": "emerson-essays-046-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-046-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-046-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'first journeys discover the indifference of places' and feigned enchantment."
+  },
+  {
+   "id": "emerson-essays-046-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-047-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-048-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-048-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-048-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops scattering fortune's goods as signs of one's infinite productiveness."
+  },
+  {
+   "id": "emerson-essays-048-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-048-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-049-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-049-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'native of the same celestial latitude'; spiritual kinship flattened."
+  },
+  {
+   "id": "emerson-essays-049-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing contrast of sneaking versus work one with the stars."
+  },
+  {
+   "id": "emerson-essays-049-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-049-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'when the need is' condition and loving this hour's world over his."
+  },
+  {
+   "id": "emerson-essays-050-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-050-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-051-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-051-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-051-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the intellect redeeming us from time and Plato/Shakespeare bringing longevity."
+  },
+  {
+   "id": "emerson-essays-051-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-051-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops renouncing my will; 'reveres and loves' reduced to 'loves'."
+  },
+  {
+   "id": "emerson-essays-052-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Dread omniscience' softened to 'sees through us'; drops 'act entirely'."
+  },
+  {
+   "id": "emerson-essays-052-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-052-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens 'confession of sin' to 'fault'; drops cause-and-effect veil and not God's decree."
+  },
+  {
+   "id": "emerson-essays-052-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-053-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-054-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-055-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-056-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-056-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-056-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-056-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "emerson-essays-057-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops man as conductor of the whole river of electricity; power 'transcending privacy' lost."
+  },
+  {
+   "id": "emerson-essays-057-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the Socrates comparison: not inferior to him is enough."
+  },
+  {
+   "id": "epictetus-discourses-long-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Generalises 'no man had a more profitable difficulty than you' to all difficulties."
+  },
+  {
+   "id": "epictetus-discourses-long-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-006-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops knowing what is produced must perish, being mortal and part of the whole."
+  },
+  {
+   "id": "epictetus-discourses-long-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-009-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-010-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-010-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Make a sacrifice to God' softened to 'give thanks to God'."
+  },
+  {
+   "id": "epictetus-discourses-long-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-011-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Kingship' rendered 'self-mastery'; Dioscuri invocation generalised to praying."
+  },
+  {
+   "id": "epictetus-discourses-long-011-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-012-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-012-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-013-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-014-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-014-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-014-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-015-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-016-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-016-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-017-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-017-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops change as a 'fixed economy and administration'; leaving home as small change."
+  },
+  {
+   "id": "epictetus-discourses-long-017-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-017-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-018-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-018-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-019-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-019-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-019-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-020-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Making sacrifices' rendered as celebration; drops no longer being moved as before."
+  },
+  {
+   "id": "epictetus-discourses-long-020-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-020-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-021-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops acting the poor man's part well and taking power with its trouble."
+  },
+  {
+   "id": "epictetus-discourses-long-021-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition: possessing nothing in place of riches makes you miserable."
+  },
+  {
+   "id": "epictetus-discourses-long-021-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-022-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-022-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-022-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-022-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops listed consequences: lamenting, blaming gods and men, having no enemy."
+  },
+  {
+   "id": "epictetus-discourses-long-023-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p04",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Conflates the three stages: blame others, blame yourself, blame neither."
+  },
+  {
+   "id": "epictetus-discourses-long-023-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p10",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'wish to be considered to know nothing'."
+  },
+  {
+   "id": "epictetus-discourses-long-023-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-023-p12",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the promise of becoming a worthy partner at the gods' banquets."
+  },
+  {
+   "id": "epictetus-discourses-long-024-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "epictetus-discourses-long-024-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  }
+ ]
+}

@@ -17199,6 +17199,326 @@
    "last_uid": "american-indian-stories-zitkala:000554",
    "units": 26,
    "words": 1321
+  },
+  {
+   "id": "tagore-stray-birds-001",
+   "tier": 5,
+   "source": "tagore-stray-birds",
+   "work": null,
+   "first_uid": "tagore-stray-birds:000001",
+   "last_uid": "tagore-stray-birds:000150",
+   "units": 150,
+   "words": 2494
+  },
+  {
+   "id": "tagore-stray-birds-002",
+   "tier": 5,
+   "source": "tagore-stray-birds",
+   "work": null,
+   "first_uid": "tagore-stray-birds:000151",
+   "last_uid": "tagore-stray-birds:000326",
+   "units": 176,
+   "words": 3056
+  },
+  {
+   "id": "tagore-gitanjali-001",
+   "tier": 5,
+   "source": "tagore-gitanjali",
+   "work": null,
+   "first_uid": "tagore-gitanjali:000001",
+   "last_uid": "tagore-gitanjali:000098",
+   "units": 98,
+   "words": 2483
+  },
+  {
+   "id": "tagore-gitanjali-002",
+   "tier": 5,
+   "source": "tagore-gitanjali",
+   "work": null,
+   "first_uid": "tagore-gitanjali:000099",
+   "last_uid": "tagore-gitanjali:000188",
+   "units": 90,
+   "words": 2466
+  },
+  {
+   "id": "tagore-gitanjali-003",
+   "tier": 5,
+   "source": "tagore-gitanjali",
+   "work": null,
+   "first_uid": "tagore-gitanjali:000189",
+   "last_uid": "tagore-gitanjali:000247",
+   "units": 59,
+   "words": 2490
+  },
+  {
+   "id": "tagore-gitanjali-004",
+   "tier": 5,
+   "source": "tagore-gitanjali",
+   "work": null,
+   "first_uid": "tagore-gitanjali:000248",
+   "last_uid": "tagore-gitanjali:000332",
+   "units": 85,
+   "words": 2477
+  },
+  {
+   "id": "tagore-gitanjali-005",
+   "tier": 5,
+   "source": "tagore-gitanjali",
+   "work": null,
+   "first_uid": "tagore-gitanjali:000333",
+   "last_uid": "tagore-gitanjali:000410",
+   "units": 78,
+   "words": 2118
+  },
+  {
+   "id": "tagore-sadhana-001",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000001",
+   "last_uid": "tagore-sadhana:000023",
+   "units": 23,
+   "words": 2384
+  },
+  {
+   "id": "tagore-sadhana-002",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000024",
+   "last_uid": "tagore-sadhana:000046",
+   "units": 23,
+   "words": 2369
+  },
+  {
+   "id": "tagore-sadhana-003",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000047",
+   "last_uid": "tagore-sadhana:000063",
+   "units": 17,
+   "words": 2383
+  },
+  {
+   "id": "tagore-sadhana-004",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000064",
+   "last_uid": "tagore-sadhana:000079",
+   "units": 16,
+   "words": 2487
+  },
+  {
+   "id": "tagore-sadhana-005",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000080",
+   "last_uid": "tagore-sadhana:000092",
+   "units": 13,
+   "words": 2212
+  },
+  {
+   "id": "tagore-sadhana-006",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000093",
+   "last_uid": "tagore-sadhana:000106",
+   "units": 14,
+   "words": 2384
+  },
+  {
+   "id": "tagore-sadhana-007",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000107",
+   "last_uid": "tagore-sadhana:000127",
+   "units": 21,
+   "words": 2435
+  },
+  {
+   "id": "tagore-sadhana-008",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000128",
+   "last_uid": "tagore-sadhana:000150",
+   "units": 23,
+   "words": 2452
+  },
+  {
+   "id": "tagore-sadhana-009",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000151",
+   "last_uid": "tagore-sadhana:000174",
+   "units": 24,
+   "words": 2459
+  },
+  {
+   "id": "tagore-sadhana-010",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000175",
+   "last_uid": "tagore-sadhana:000199",
+   "units": 25,
+   "words": 2497
+  },
+  {
+   "id": "tagore-sadhana-011",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000200",
+   "last_uid": "tagore-sadhana:000214",
+   "units": 15,
+   "words": 2434
+  },
+  {
+   "id": "tagore-sadhana-012",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000215",
+   "last_uid": "tagore-sadhana:000233",
+   "units": 19,
+   "words": 2371
+  },
+  {
+   "id": "tagore-sadhana-013",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000234",
+   "last_uid": "tagore-sadhana:000250",
+   "units": 17,
+   "words": 2298
+  },
+  {
+   "id": "tagore-sadhana-014",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000251",
+   "last_uid": "tagore-sadhana:000278",
+   "units": 28,
+   "words": 2476
+  },
+  {
+   "id": "tagore-sadhana-015",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000279",
+   "last_uid": "tagore-sadhana:000306",
+   "units": 28,
+   "words": 2168
+  },
+  {
+   "id": "tagore-sadhana-016",
+   "tier": 5,
+   "source": "tagore-sadhana",
+   "work": null,
+   "first_uid": "tagore-sadhana:000307",
+   "last_uid": "tagore-sadhana:000316",
+   "units": 10,
+   "words": 914
+  },
+  {
+   "id": "gibran-madman-001",
+   "tier": 5,
+   "source": "gibran-madman",
+   "work": null,
+   "first_uid": "gibran-madman:000001",
+   "last_uid": "gibran-madman:000089",
+   "units": 89,
+   "words": 2489
+  },
+  {
+   "id": "gibran-madman-002",
+   "tier": 5,
+   "source": "gibran-madman",
+   "work": null,
+   "first_uid": "gibran-madman:000090",
+   "last_uid": "gibran-madman:000195",
+   "units": 106,
+   "words": 2489
+  },
+  {
+   "id": "gibran-madman-003",
+   "tier": 5,
+   "source": "gibran-madman",
+   "work": null,
+   "first_uid": "gibran-madman:000196",
+   "last_uid": "gibran-madman:000287",
+   "units": 92,
+   "words": 1982
+  },
+  {
+   "id": "gibran-forerunner-001",
+   "tier": 5,
+   "source": "gibran-forerunner",
+   "work": null,
+   "first_uid": "gibran-forerunner:000001",
+   "last_uid": "gibran-forerunner:000080",
+   "units": 80,
+   "words": 2484
+  },
+  {
+   "id": "gibran-forerunner-002",
+   "tier": 5,
+   "source": "gibran-forerunner",
+   "work": null,
+   "first_uid": "gibran-forerunner:000081",
+   "last_uid": "gibran-forerunner:000186",
+   "units": 106,
+   "words": 2464
+  },
+  {
+   "id": "gibran-forerunner-003",
+   "tier": 5,
+   "source": "gibran-forerunner",
+   "work": null,
+   "first_uid": "gibran-forerunner:000187",
+   "last_uid": "gibran-forerunner:000243",
+   "units": 57,
+   "words": 1861
+  },
+  {
+   "id": "gibran-sand-and-foam-001",
+   "tier": 5,
+   "source": "gibran-sand-and-foam",
+   "work": null,
+   "first_uid": "gibran-sand-and-foam:000001",
+   "last_uid": "gibran-sand-and-foam:000157",
+   "units": 157,
+   "words": 2484
+  },
+  {
+   "id": "gibran-sand-and-foam-002",
+   "tier": 5,
+   "source": "gibran-sand-and-foam",
+   "work": null,
+   "first_uid": "gibran-sand-and-foam:000158",
+   "last_uid": "gibran-sand-and-foam:000311",
+   "units": 154,
+   "words": 2482
+  },
+  {
+   "id": "gibran-sand-and-foam-003",
+   "tier": 5,
+   "source": "gibran-sand-and-foam",
+   "work": null,
+   "first_uid": "gibran-sand-and-foam:000312",
+   "last_uid": "gibran-sand-and-foam:000454",
+   "units": 143,
+   "words": 2406
   }
  ]
 }

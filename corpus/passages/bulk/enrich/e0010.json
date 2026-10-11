@@ -1,0 +1,1129 @@
+{
+ "items": [
+  {
+   "id": "eckhart-sermons-field-002-p05",
+   "plain": "To hear the Father's wisdom you must live deep within, at home and at one with yourself. Bodily appetite, distraction and the illusion of time block the eternal Word; free of them, you would hear it.",
+   "core_idea": "Inner unity frees us to hear God's eternal Word",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-002-p06",
+   "plain": "If you truly love yourself, you love everyone as yourself; loving anyone less means you don't really love yourself. Loving only friends who are kind to you is a half-filled sail.",
+   "core_idea": "True self-love means loving everyone equally",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-003-p01",
+   "plain": "To see colour the eye must have none itself. The eye that sees God is the same eye through which God sees me; God's sight and mine are one.",
+   "core_idea": "God's seeing and mine are one sight",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-003-p02",
+   "plain": "Someone who gave up the self for twenty years but took it back for a moment would have given up nothing. Only one who never looks back at what was renounced has truly renounced the self.",
+   "core_idea": "True renunciation never looks back",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-004-p01",
+   "plain": "Real holiness means the spirit stays unmoved by love or hate, joy or sorrow, honour or shame, like a mountain in a light breeze. This stillness brings a person as close to God's likeness as possible.",
+   "core_idea": "Unshaken stillness of spirit makes us most like God",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-004-p02",
+   "plain": "When God seems angry or kind, it is we who change, not God, just as the same sunshine hurts weak eyes and helps strong ones.",
+   "core_idea": "God stays the same; our state changes",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-004-p03",
+   "plain": "A heart ready for the highest must be empty of everything else, like a blank tablet. If God is to write on your heart, all else must be cleared out first.",
+   "core_idea": "God can write only on an emptied heart",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "If the heart is to be ready for the highest, it must be vacant of all other things. If I wish to write on a white tablet, whatever else is written on the tablet, however noble its purport, is a hindrance to me. If I am to write, I must wipe the tablet clean of everything, and the tablet is most suitable for my purpose when it is blank. Similarly, if God is to write on my heart, everything else must come out of it till it is really sanctified. Only so can God work His highest will, and so the sanctified heart has no outward object at all.",
+    "reason": "Scan error: 'he' for 'be'"
+   }
+  },
+  {
+   "id": "eckhart-sermons-field-004-p04",
+   "plain": "Suffering is the fastest way to perfection, and those who share Christ's sharpest pain enjoy the greatest blessedness. Humility is its foundation, for love brings suffering and suffering brings love.",
+   "core_idea": "Suffering and humility lead to perfection through love",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-005-p01",
+   "plain": "As wind makes fire grow, so the Holy Spirit makes the fire of love grow brighter in the soul, not all at once but gradually as the soul grows.",
+   "core_idea": "The Holy Spirit gradually brightens the soul's love",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-005-p02",
+   "plain": "No saint was ever so great as to be completely unmoved. I can never reach a point where discord pleases me as much as harmony.",
+   "core_idea": "Even saints are not wholly unmoved",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-005-p03",
+   "plain": "What makes an act moral is its inner source: the strength of will behind it and the nobility of its aim. Doing good frees a person and brings them nearer to their divine origin.",
+   "core_idea": "Morality lies in inner will and noble aim",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-005-p04",
+   "plain": "All grief except grief for sin comes from loving the world. God holds no sorrow, so abide in God alone to be free of it; while we love created things, pain continues.",
+   "core_idea": "Grief comes from attachment to the world",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "eckhart-sermons-field-005-p05",
+   "plain": "Suffering endured only for yourself is grievous and hard to bear. Suffering endured for God alone is not heavy, because God carries the load.",
+   "core_idea": "Suffering borne for God is lightened by God",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-001-p01",
+   "plain": "Beauty surrounds us, yet we do not see it clearly.",
+   "core_idea": "We are surrounded by beauty we fail to see",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-001-p02",
+   "plain": "You may travel the whole world looking for beauty, but unless you carry it within you, you will not find it.",
+   "core_idea": "Beauty must be carried within to be found",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-002-p01",
+   "plain": "Plain common sense and honest dealing astonish people more than anything. Every great action, and every great picture, is simple.",
+   "core_idea": "Greatness is simple",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-002-p02",
+   "plain": "The sweetest music is not in grand choral works but in a human voice speaking from the living moment with tenderness, truth or courage.",
+   "core_idea": "A sincere living voice is the sweetest music",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-002-p03",
+   "plain": "When the sun set, his hope did not; his faith rose before the stars. His gaze seemed deep and ancient, and his patient endurance matched the silence of time.",
+   "core_idea": "Steadfast hope and patient endurance outlast darkness",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-003-p01",
+   "plain": "No change in your situation can make up for a flaw in your character.",
+   "core_idea": "Circumstances cannot fix flawed character",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-003-p02",
+   "plain": "If I am afraid, what I fear hardly matters; a fearful person will always find something to fear. The greed or malice I blame on society is really my own. I am always surrounded by myself.",
+   "core_idea": "Our faults travel with us; we meet ourselves everywhere",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p01",
+   "plain": "Seeing the evils and their cure with the mind is not enough. We keep putting off really living while only a thought, not a spirit, moves us.",
+   "core_idea": "Living requires spirit, not just understanding",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p02",
+   "plain": "The only apology a noble person can bear to give or take for past actions is new action. If a friend displeases you, don't brood on it; he has already forgotten and is ready to do you good.",
+   "core_idea": "New deeds are the best apology; don't brood",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p03",
+   "plain": "People who live for the future will always look selfish to people who live for the present.",
+   "core_idea": "Future-minded people seem selfish to the present-minded",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p04",
+   "plain": "Where I thought I was poor, I found I was richest.",
+   "core_idea": "Our apparent poverty can be our greatest wealth",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p05",
+   "plain": "Nothing in life satisfies like the deep understanding between two good people who have helped each other long and trust both themselves and each other. It outranks every other pleasure and makes politics, trade and churches seem cheap.",
+   "core_idea": "Deep friendship between good people is life's greatest satisfaction",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-004-p06",
+   "plain": "Could we honour a friend with truth, silence and patience instead of eagerly chasing him? If we truly belong together, we will meet.",
+   "core_idea": "Real friends need not be chased; they will meet",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p01",
+   "plain": "Life rushes on; we chase plans or flee fears. But meeting a friend makes us stop, and our hurry looks foolish; then we need presence and a full heart. In noble relationships, the moment is everything.",
+   "core_idea": "In true relationships the present moment is everything",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p02",
+   "plain": "Life teaches us that around every circle a larger one can be drawn: nature has no end, every end is a beginning, and beneath every depth lies a deeper one.",
+   "core_idea": "Every end is a new beginning",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p03",
+   "plain": "Nothing in nature is fixed. The universe is fluid and ever-changing, and permanence is only a matter of degree.",
+   "core_idea": "Nothing in nature is permanent",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p04",
+   "plain": "Nothing in people is fixed either. Everyone feels not fully understood, sensing an unknown inner room never opened; that is, everyone believes they hold a greater possibility.",
+   "core_idea": "Everyone holds an unexplored greater possibility",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p05",
+   "plain": "Our moods don't trust each other. Today I write freely; yesterday I saw only emptiness, and next month I'll wonder who wrote this. Such shaky faith: I am God in nature; I am a weed by the wall.",
+   "core_idea": "Our moods swing between greatness and smallness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-005-p06",
+   "plain": "You can see a person's growth in each new circle of friends. For every friend lost by standing for truth, he gains a better one.",
+   "core_idea": "Growth shows in better friendships gained through truth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-006-p01",
+   "plain": "Courage is the power to recover yourself, so that wherever you are placed, you stand. It comes from preferring truth to your old idea of truth and being ready to let your beliefs be replaced.",
+   "core_idea": "Courage is self-recovery through openness to new truth",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-006-p02",
+   "plain": "Talk is good, but silence is better and puts talk to shame. The longer the talk, the further apart speaker and listener are; perfect understanding needs no words.",
+   "core_idea": "Silence surpasses speech; understanding needs few words",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-006-p03",
+   "plain": "In daily work I tend to repeat my old steps and doubt that change is possible. Then a bold poet's work jolts me out of my habits, and I see my own possibilities and can choose a straight path again.",
+   "core_idea": "Inspired art breaks our habits and reveals our possibilities",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-006-p04",
+   "plain": "What is justice, beauty or wisdom to one person is injustice, ugliness or folly to another, as seen from a higher point of view.",
+   "core_idea": "Values shift with one's point of view",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-006-p05",
+   "plain": "Divine moments even wipe away our regrets. I blame myself daily for laziness, but when God flows into me I stop counting lost time, for such moments see that the mind's energy matches the work, without need of time.",
+   "core_idea": "Divine moments erase regret over lost time",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p01",
+   "plain": "While we keep company with what is above us, we grow young, not old. The young look upward and learn; the old often think they know all and lose hope. Let them love and seek truth again.",
+   "core_idea": "Aspiring upward keeps the mind young",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p02",
+   "plain": "In nature every moment is new and only what is coming is sacred. Nothing is secure but life and change. People want to be settled, but there is hope for them only as far as they are unsettled.",
+   "core_idea": "Only change is secure; being unsettled brings hope",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p03",
+   "plain": "Life is full of surprises. While we are building ourselves, we can't predict tomorrow's mood, joy or strength.",
+   "core_idea": "Life is a series of surprises",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p04",
+   "plain": "People boast of how cheerfully they have overcome dark events, but not if those events still come to mind. True victory is when the disaster fades into a small passing cloud in a large, moving life.",
+   "core_idea": "True conquest lets past calamity fade into insignificance",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p05",
+   "plain": "Nothing great was ever done without enthusiasm. Life's way is wonderful, and it works through letting go.",
+   "core_idea": "Greatness needs enthusiasm and abandonment",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p06",
+   "plain": "Do not be afraid, weak child: no god would dare wrong even a worm. Rewards go to those who earn them; whatever nature made yours will cross hills and seas to follow you like your shadow.",
+   "core_idea": "What is truly yours will find you",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-007-p07",
+   "plain": "Every excess brings a lack and every lack an excess; every sweet has its sour and every evil its good. For everything you miss you gain something else, and for everything you gain you lose something.",
+   "core_idea": "Every gain has a loss, every loss a gain",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p01",
+   "plain": "Wrongdoing and its punishment grow from the same root. Punishment ripens unnoticed inside the very pleasure that hid it.",
+   "core_idea": "Punishment grows hidden inside wrongful pleasure",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p02",
+   "plain": "People want to be great, seeking office, wealth, power and fame. They think greatness means having the sweet side of life without the bitter.",
+   "core_idea": "People wrongly seek the sweet without the bitter",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p03",
+   "plain": "As soon as we try to pull pleasure, profit or power away from the whole, it drains out of them. We can no more split off the good alone than have an inside without an outside, or light without shadow.",
+   "core_idea": "Good cannot be split from its cost",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p04",
+   "plain": "Everything God has made has a flaw in it.",
+   "core_idea": "Everything God made has a crack",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p05",
+   "plain": "Whenever you speak, you judge yourself; every word paints your portrait for others, whether you want it or not. Each opinion rebounds on the speaker, like a ball of thread thrown whose other end stays in the thrower's bag.",
+   "core_idea": "Our words reveal and rebound on ourselves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-008-p06",
+   "plain": "You cannot wrong others without being wronged yourself. The snob shuts himself out of enjoyment, and the religious exclusionist shuts heaven on himself. Treat people as pawns and you suffer too; leave out their heart and you lose your own.",
+   "core_idea": "Harming others harms ourselves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p01",
+   "plain": "While I deal simply and fairly with others, meeting them is easy, like water meeting water. But once I seek good for me that isn't good for them, they pull back, and hate and fear grow between us.",
+   "core_idea": "Unfairness breeds distance, hate and fear",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p02",
+   "plain": "Nature exists to give benefit, but every benefit carries a debt. The one truly base thing is to take favours and give none back; we rarely repay the giver, so pass the good on to someone, and quickly.",
+   "core_idea": "Pass on every benefit you receive",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p03",
+   "plain": "Love, and you will be loved. All love is as exactly balanced as the two sides of an equation.",
+   "core_idea": "Love returns in exact measure",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p04",
+   "plain": "Even weaknesses serve good people; every defect proves useful somewhere, so everyone should thank their faults. A bad temper that makes someone unfit for company drives them to rely on themselves, like a wounded oyster mending its shell with pearl.",
+   "core_idea": "Our faults can become our strengths",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p05",
+   "plain": "Our strength grows out of our weakness. Comfort puts a great person to sleep; being pushed, tormented and defeated teaches them, exposing their ignorance, curing their conceit, and giving them moderation and real skill.",
+   "core_idea": "Strength grows from weakness and defeat",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p06",
+   "plain": "No one can be cheated except by himself. The nature of things guarantees that honest service is never lost. If your master is ungrateful, serve him more; put God in your debt; every effort will be repaid.",
+   "core_idea": "Honest service is never lost; only we cheat ourselves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-009-p07",
+   "plain": "A martyr cannot be disgraced. Every lash spreads his fame, every burned book enlightens the world, every silenced word echoes across the earth. In time communities see the truth, and martyrs are vindicated.",
+   "core_idea": "Persecution only amplifies the martyr's truth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p01",
+   "plain": "Virtue and wisdom carry no penalty; they add to who you are and to the world, pushing back darkness. Pure love, knowledge and beauty have no excess. The soul refuses limits and is always optimistic.",
+   "core_idea": "Virtue and love have no penalty or limit",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p02",
+   "plain": "Material goods have a cost, and unearned gain has no root and blows away. The soul's good comes through honest work. I no longer want unearned gain or more possessions: the gain only seems; the cost is certain.",
+   "core_idea": "Unearned gain is fleeting; its cost is certain",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p03",
+   "plain": "Even if great people around me overshadow me, I can still love and receive, and whoever loves makes the greatness he loves his own. Then I find that the one I envied is my guardian, and his riches are mine.",
+   "core_idea": "Love makes others' greatness our own",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p04",
+   "plain": "The upheavals that regularly break up our prosperity are signs that nature's law is growth. Every soul must leave its friends, home, laws and faith, as a shellfish leaves a shell it has outgrown, and slowly build a new one.",
+   "core_idea": "Upheaval is the soul outgrowing its shell",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p05",
+   "plain": "We cling to friends, not seeing they leave so better ones can come. We doubt today can match yesterday and weep in its ruins. God says, Up and onward forever, yet we walk looking backward.",
+   "core_idea": "Clinging to the past blocks what comes next",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p06",
+   "plain": "Illness, ruin, even a loved one's death seem at first pure loss. But the years reveal a healing force: such losses end old phases and open new paths, letting a sheltered person grow to shelter many.",
+   "core_idea": "Loss, in time, reveals its power to grow us",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p07",
+   "plain": "We can't tell today whether we are busy or idle. Times we thought lazy later turned out to have achieved much and started much in us.",
+   "core_idea": "Seemingly idle times can be quietly productive",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p08",
+   "plain": "Every ship looks romantic except the one we are on; once aboard, the romance seems to belong to every other sail. Our own life looks trivial, and we avoid recording it.",
+   "core_idea": "Other lives look romantic; ours seems trivial",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-010-p09",
+   "plain": "After my son's death, I seem to have lost only a beautiful estate. It does not touch me; what seemed part of me fell away without a scar. I grieve that grief can teach me nothing real.",
+   "core_idea": "Grief, strangely, teaches nothing and leaves no mark",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p01",
+   "plain": "Life is a string of moods, each a coloured lens showing only what is in its focus. We see only what we bring alive. Sunsets and genius are always there, but few hours are calm enough to enjoy them.",
+   "core_idea": "Our moods colour and limit what we see",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p02",
+   "plain": "I had imagined that life's value lay in its unknowable possibilities, in never knowing what might happen when I meet someone new.",
+   "core_idea": "Life's value lies in its unknown possibilities",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p03",
+   "plain": "Every mind has a door that never closes, through which the Creator enters.",
+   "core_idea": "The Creator can always enter the mind",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p04",
+   "plain": "We love what is real and lasting, yet a healthy body needs circulation and a sane mind needs variety. We need a change of objects; devotion to a single thought soon becomes hateful.",
+   "core_idea": "A healthy mind needs variety",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p05",
+   "plain": "A person is like a stone that looks dull until you turn it to just the right angle, and then it shows deep, beautiful colours.",
+   "core_idea": "Everyone shines from the right angle",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-011-p06",
+   "plain": "We gain something even from dealing with so much foolishness and fault. Whoever loses, we end up on the winning side; the divine stands behind our failures and follies too.",
+   "core_idea": "God is behind even our failures",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-012-p01",
+   "plain": "Don't drive yourself mad with thinking; just get on with your work wherever you are. Life is sturdy, not intellectual, and its best is for balanced people who enjoy what they find without questioning.",
+   "core_idea": "Stop overthinking; live and enjoy what you find",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-012-p02",
+   "plain": "Happiness is filling the hour fully, leaving no gap for regret or self-approval. We live among surfaces, and the art of life is to skate well on them.",
+   "core_idea": "Happiness is filling the present hour",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-012-p03",
+   "plain": "Life is lived in moments, so use them well; five minutes today are worth five minutes in a thousand years. Be balanced, wise and your own today, and treat people as if they were real; perhaps they are.",
+   "core_idea": "Use today's moments well and treat people as real",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-012-p04",
+   "plain": "I am thankful for small mercies. A friend expects the best from the universe and is disappointed by less; I expect nothing and am always grateful for modest good things.",
+   "core_idea": "Expect little and be grateful for modest goods",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-012-p05",
+   "plain": "You are told your illness demands this or that, but your life is a tent for one night; sick or well, finish your task. You will not worsen, and the universe, which holds you dear, will be better.",
+   "core_idea": "Sick or well, finish your work; you are held dear",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-013-p01",
+   "plain": "Life is a string of surprises and would not be worth living otherwise. Daily God hides the past and future behind a clear screen of sky, as if saying: you will not remember, and you will not expect.",
+   "core_idea": "God hides past and future to keep life surprising",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-013-p02",
+   "plain": "Every person is impossible until born; everything is impossible until we see it succeed.",
+   "core_idea": "Everything seems impossible until it happens",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-013-p03",
+   "plain": "Life's results can't be calculated; the years teach what days never know. A person plans, recruits others, quarrels and blunders, and something gets done, but never what he intended; the individual is always mistaken.",
+   "core_idea": "Life's outcomes always differ from our plans",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-013-p04",
+   "plain": "Why fret when something stops me being where I was expected? Wherever I am, my presence can serve friendship and wisdom just as well, for I bring the same power to every place.",
+   "core_idea": "Wherever you are, your presence matters equally",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-013-p05",
+   "plain": "All personal sympathy is partial. Two people are like globes that touch at only one point; their other parts stay idle and grow restless the longer the union lasts.",
+   "core_idea": "People connect only partially, like touching spheres",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p01",
+   "plain": "A key lesson of wisdom is to tell what is yours from what is another's. I cannot settle other people's lives, but holding the key to my own convinces me they hold the key to theirs.",
+   "core_idea": "Know your own business from others'",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p02",
+   "plain": "A sympathetic person is like a swimmer among drowning men who will pull him under. They want rescue from the harm of their vices, not from the vices. A wise healer first says: get out of that.",
+   "core_idea": "Help people quit their vices, not just the consequences",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p03",
+   "plain": "Our good nature and listening to everyone ruin us; such compliance robs us of real usefulness. The only answer to others' pestering trivia is focused attention on an aim that makes their wants trivial, leaving no grievance.",
+   "core_idea": "Focused purpose answers others' trivial demands",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p04",
+   "plain": "I don't claim this picture is complete. I am a fragment, and this is a fragment of me.",
+   "core_idea": "I am a fragment, offering a fragment",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p05",
+   "plain": "With patience we will win. Chores take long and are forgotten, while a life-guiding insight takes a moment; in solitude we find clarity. Never mind ridicule or defeat; get up again, old heart, victory remains.",
+   "core_idea": "Be patient; rise after defeat, victory remains",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p06",
+   "plain": "My heart was free again: friend, through you alone the sky and rose seem beautiful and all things look nobler. Your goodness has taught me to master my despair, and my hidden life is made fair by your friendship.",
+   "core_idea": "A friend's nobleness helps us master despair",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p07",
+   "plain": "We feel far more kindness than we ever say. Despite chilling selfishness, all people are bathed in love. Think how many we barely speak to yet honour, or silently rejoice to be near. Read those passing glances; the heart knows.",
+   "core_idea": "Far more unspoken kindness exists than we say",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-014-p08",
+   "plain": "Our minds and energies grow with our affection. A scholar may sit for hours without one good thought, yet when he writes to a friend, gentle thoughts arrive at once in well-chosen words.",
+   "core_idea": "Affection quickens our thinking and expression",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p01",
+   "plain": "The moment we give in to affection, the world is transformed: no winter, no night, no tragedy or boredom. If the soul knew it would someday rejoin its friend, it could be content alone for a thousand years.",
+   "core_idea": "Love transforms the world and sustains the soul",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p02",
+   "plain": "I woke deeply grateful for my friends, old and new, and wondered whether to call God the Beautiful, shown daily in such gifts. I prefer solitude, yet whoever understands me becomes mine forever.",
+   "core_idea": "Gratitude for friends as God's gifts",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p03",
+   "plain": "The soul grows friends like a tree grows leaves, pushing out old ones as new buds form. Nature's law is alternation: the soul gathers friends to know itself better, then goes alone a while to enrich its company.",
+   "core_idea": "The soul alternates between friendship and solitude",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p04",
+   "plain": "Friendships end quickly and poorly because we build them of wine and dreams, not the heart's tough fibre. We grab quick sweetness from the slowest fruit in God's garden, which takes many seasons to ripen.",
+   "core_idea": "True friendship ripens slowly; don't rush it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p05",
+   "plain": "I want to treat friendship not delicately but with rough courage. Real friendships are not fragile like glass or frost; they are the most solid thing we know.",
+   "core_idea": "Real friendship is solid, not fragile",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p06",
+   "plain": "A friend is someone with whom I can be sincere and think aloud. With such a real equal I can drop even my deepest layers of pretence, politeness and second thought, and meet him whole and simply.",
+   "core_idea": "A friend is someone you can be fully sincere with",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-015-p07",
+   "plain": "Everyone is sincere when alone. When a second person enters, hypocrisy begins: we hold others off with compliments, gossip, amusements and business, hiding our thoughts under a hundred folds.",
+   "core_idea": "Hypocrisy begins when another person enters",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-016-p01",
+   "plain": "Friendship aims at the closest, most homely partnership, for help and comfort through all of life and death. It suits calm days and pleasant walks, but also rough roads, shipwreck, poverty and persecution.",
+   "core_idea": "Friendship is for hard times as well as good",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-016-p02",
+   "plain": "Friendship needs a rare balance of likeness and difference. I'd rather be alone than have my friend fake sympathy or merely agree. Let him stay himself. Better be a nettle in your friend's side than his echo.",
+   "core_idea": "A true friend is not your echo",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-016-p03",
+   "plain": "Friendship calls for reverence. Friends choose themselves. Your friend has merits you lack, which you cannot honour if you cling to him; stand back and let them grow. Are you a friend to his buttons or to his thought?",
+   "core_idea": "Revere your friend; give their gifts room",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-016-p04",
+   "plain": "Virtue's only reward is virtue; the only way to have a friend is to be one. You get no closer to someone just by getting into his house.",
+   "core_idea": "To have a friend, be one",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-016-p05",
+   "plain": "The higher our ideal of friendship, the harder it is to find. We walk alone, and ideal friends are dreams. Yet the faithful heart hopes that elsewhere souls exist who can love us and whom we can love.",
+   "core_idea": "Hope sustains us though ideal friends are rare",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-017-p01",
+   "plain": "Loving without being loved back is thought shameful, but true love cannot go unreturned. It looks past the unworthy person to the eternal, and when that mask falls, it is not sad but freer and surer of itself.",
+   "core_idea": "True love cannot be unrequited",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-017-p02",
+   "plain": "Rings and jewels are not gifts but excuses for gifts. The only true gift is a part of yourself; you must bleed for me.",
+   "core_idea": "The only true gift is a part of yourself",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-017-p03",
+   "plain": "Services are worth nothing; only kinship of spirit counts. Trying to bond with people through favours is just a trick: they consume your service and leave you out. But love them, and they feel you and delight in you always.",
+   "core_idea": "Love, not service, truly connects people",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-017-p04",
+   "plain": "Fine wine, sugar and flowers go to rogues, slaves and clowns, while storm clouds crown the god. The hero is not fed on sweets but daily eats his own heart; great men's rooms are prisons, and headwinds suit royal sails.",
+   "core_idea": "Heroes are shaped by hardship, not comfort",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-018-p01",
+   "plain": "Heroism obeys a private impulse, against the crowd and, for a time, the wise. Only the hero sees its wisdom, so the just disapprove until time shows it matches their ideals. It spurns comfort but finally succeeds.",
+   "core_idea": "Heroism defies opinion until time vindicates it",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-018-p02",
+   "plain": "Heroism is at heart self-trust: the soul at war, defying falsehood and wrong to the last and able to endure any evil. It is truthful, just, generous and temperate, scorns petty calculation and scorn, and persists with untiring courage.",
+   "core_idea": "Self-trust is the essence of heroism",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-018-p03",
+   "plain": "A heroic soul won't sell its justice or nobility and doesn't ask for good meals or a warm bed. Greatness means seeing that virtue is enough. Poverty adorns it; it needs no abundance and bears its loss well.",
+   "core_idea": "Virtue alone is enough",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p01",
+   "plain": "The muses and gods live where the heart is, not in famous places. Our own towns seem dull, but if we stay, we may learn here is best. Be truly present, and hope, friends and God will be with you.",
+   "core_idea": "Be present where you are; the divine is here",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p02",
+   "plain": "Heroism's mark is persistence. Once you've chosen your part, stick to it and don't seek the world's approval or take back what prudent people disapprove of. As one youth was advised: always do what you are afraid to do.",
+   "core_idea": "Persist in your chosen course; do what you fear",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p03",
+   "plain": "For any weakness or embarrassment we can find comfort in thinking it is part of who we are and our role among others. Nature never promised we'd never look foolish. Be generous with your dignity; greatness is done with opinion.",
+   "core_idea": "Greatness doesn't depend on appearing dignified",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p04",
+   "plain": "The only road to peace is following your own heart. Keep less company, stay home often, settle in ways you approve. Holding high ideals in humble duties hardens character to act honourably, even on the scaffold.",
+   "core_idea": "Peace comes from following your own heart",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p05",
+   "plain": "In dark times we may envy those who have safely finished their brave work and died, beyond life's turmoil. Yet love that would perish rather than betray has already made death impossible and is eternal.",
+   "core_idea": "Faithful love transcends death",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-019-p06",
+   "plain": "One mind is shared by all people, and each person opens onto all of it. Whoever can reason may think what Plato thought, feel what a saint felt, and understand whatever has happened to anyone.",
+   "core_idea": "All people share one universal mind",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-020-p01",
+   "plain": "Every mind must learn the whole lesson for itself and cover all the ground. What it does not see and live, it will not know.",
+   "core_idea": "We only truly know what we live ourselves",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-020-p02",
+   "plain": "To the poet, the philosopher and the saint, all things are friendly and sacred, every event useful, every day holy, every person divine, because they look at life itself, not circumstances.",
+   "core_idea": "Seeing life itself makes every day holy",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-021-p01",
+   "plain": "When Plato's thought becomes mine, or a truth that inspired an ancient poet inspires me, time vanishes. When our souls meet in one perception, why measure distance or count the years between us?",
+   "core_idea": "Shared insight abolishes time and distance",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-021-p02",
+   "plain": "A rigid, harsh adult crushes a child's spirit and courage, breeding fear, obedience and even sympathy with the tyranny. Only as an adult does the child see that his oppressor was himself a child ruled by names, words and forms.",
+   "core_idea": "Oppressors are often themselves oppressed",
+   "quotability": 1,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-022-p01",
+   "plain": "Brother, stop your soul from ebbing away into the habits you have slid into for so many years.",
+   "core_idea": "Stop sliding into deadening habits",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-022-p02",
+   "plain": "Love can teach a mind more about itself in a day than ages of thinking. We don't know ourselves until moved by outrage, eloquence or a nation's shared emotion; no one can predict what a new experience will awaken.",
+   "core_idea": "Experience, not thought, reveals who we are",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p01",
+   "plain": "Everyone views the human condition with some sadness: like a grounded ship battered by waves, we lie exposed to coming events. But a truth grasped by the mind is beyond fate, raised like a god above care and fear.",
+   "core_idea": "Truth grasped by the mind rises above fate",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p02",
+   "plain": "What am I, and what has my will done to make me so? Nothing. Hidden currents of power and mind carried me to this thought and moment; my cleverness and stubbornness barely helped or hindered.",
+   "core_idea": "Hidden currents, not our will, shape us",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p03",
+   "plain": "Spontaneous action is always best. Careful deliberation never gets as close to a question as the sudden insight that comes on waking or a morning walk, after mulling it over the night before.",
+   "core_idea": "Spontaneous insight beats deliberate effort",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p04",
+   "plain": "All progress unfolds like a bud: first instinct, then opinion, then knowledge, as a plant has root, bud and fruit. Trust your instinct to the end even without reasons; don't hurry it, and it will ripen into truth you understand.",
+   "core_idea": "Trust instinct; it ripens into knowledge",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p05",
+   "plain": "We expect a truth to come clear on a walk or in the quiet library, but it doesn't. Then suddenly, unannounced, it appears. Yet the insight comes only because we had already laid siege to it.",
+   "core_idea": "Insight arrives unbidden after sustained effort",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-023-p06",
+   "plain": "It takes long to see how rich we are. We think our lives dull, yet in later years we keep finding treasures in childhood memories, until we suspect our own foolish life is a miniature of all human history.",
+   "core_idea": "Our ordinary lives mirror all of history",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-024-p01",
+   "plain": "Every thought is also a prison. I can't see what you see because I'm swept so far in one direction that I'm outside the circle of your view.",
+   "core_idea": "Every thought confines our view",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-024-p02",
+   "plain": "We crave new thoughts, but each new one is only the old in a new face; we make it ours and instantly want another, never really richer.",
+   "core_idea": "Craving new thoughts never truly enriches us",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-024-p03",
+   "plain": "God offers every mind a choice between truth and rest; you can't have both. Lovers of rest take the first creed they meet and shut out truth. Lovers of truth stay unmoored, bearing uncertainty, and honour their highest law.",
+   "core_idea": "Choose truth or comfort; you cannot have both",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-024-p04",
+   "plain": "Listeners are happy; talkers are not. While I hear truth I feel bathed in beauty, without limits, open to the deep. But when I speak, I define, confine, and become less.",
+   "core_idea": "Listening enlarges us; speaking confines us",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-025-p01",
+   "plain": "We see our own past as flawed and others' as ideal; recalling our dearest relationships, we wince with regret. Seen as truth, all is beautiful; seen as experience, all is sour. Details are sad; the plan is noble.",
+   "core_idea": "Life's details are sad; its larger plan is noble",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-026-p01",
+   "plain": "Hence the saying, If I love you, what is that to you? What we love is beyond your will: not you, but your radiance, something in you that you don't know and never can.",
+   "core_idea": "We love a radiance beyond the beloved's knowing",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-026-p02",
+   "plain": "We are by nature watchers and learners, but our affections are tents for a night that slowly change, at times tying our happiness to certain people. In health the mind returns, and those loves blend with God.",
+   "core_idea": "Changing affections ultimately find their perfection in God",
+   "quotability": 1,
+   "complete": false,
+   "extended_text": "We are by nature observers, and thereby learners. That is our permanent state. But we are often made to feel that our affections are but tents of a night. Though slowly and with pain, the objects of the affections change, as the objects of thought do. There are moments when the affections rule and absorb the man and make his happiness dependent on a person or persons. But in health the mind is presently seen again⁠—its overarching vault, bright with galaxies of immutable lights, and the warm loves and fears that swept over us as clouds must lose their finite character and blend with God, to attain their own perfection."
+  },
+  {
+   "id": "emerson-essays-026-p03",
+   "plain": "We need not fear losing anything as the soul grows. The soul can be trusted to the end: relationships so beautiful can only be replaced by something more beautiful, and so on forever.",
+   "core_idea": "The soul's growth only brings greater beauty",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-027-p01",
+   "plain": "A gentleman is truthful and master of his own actions, showing it in behaviour that bows to no person, opinion or possession. Beyond that truth and strength, he is kind: manhood first, then gentleness.",
+   "core_idea": "True gentility is honest self-mastery, then kindness",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-028-p01",
+   "plain": "Newcomers think every social act follows strict ritual. Later they learn good sense and character make their own forms, even sprawling on the floor with children; strong will is always in fashion. Fashion asks only composure and self-content.",
+   "core_idea": "Character and composure outrank social ritual",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-028-p02",
+   "plain": "What do we really seek in all our visits and hospitality? Is it the curtains, pictures and decorations? Or do we keep asking: was there a real person in the house?",
+   "core_idea": "We seek real people, not fine surroundings",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-028-p03",
+   "plain": "Nature's mysteries and our deep separateness should teach us independence; let us not be too familiar. We should meet each morning as if from foreign lands and part at night the same way. Keep each person's island untouched.",
+   "core_idea": "Preserve each person's independence, even among friends",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-029-p01",
+   "plain": "The secret of social success is warmth and sympathy. Someone unhappy in company can't find a fitting word. Someone happy there finds every turn of conversation a lucky chance to say what he has to say.",
+   "core_idea": "Warmth, not information, makes us good company",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-029-p02",
+   "plain": "Heroes have not died out. There's still the plain stranger who jumps in to save a drowning man, the helper of runaway slaves, the planter of orchards for future generations, the just person content with a bad name.",
+   "core_idea": "Quiet heroes still live among us",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-029-p03",
+   "plain": "A beautiful form beats a beautiful face, and beautiful behaviour beats both; it is the finest of the fine arts. Small amid nature, a person can, through the goodness shining in his face and manners, match the world's majesty.",
+   "core_idea": "Beautiful behaviour is the finest art",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-030-p01",
+   "plain": "Are you rich enough to help the odd, the foreign, the poor, the outcast, making them feel welcomed and hopeful? Refusing them with clever reasons is vulgar; welcoming them is gentle. Without a rich heart, wealth is an ugly beggar.",
+   "core_idea": "True wealth is a generous heart",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-030-p02",
+   "plain": "At the forest's edge, the worldly person must drop city ideas of great and small, wise and foolish. Custom falls away at the first step. Here is a holiness that shames our religions and a reality that discredits our heroes.",
+   "core_idea": "Nature strips away our worldly measures",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-030-p03",
+   "plain": "Cities don't give our senses enough room. Day and night we go out to feast our eyes on the horizon; we need that open space as we need water to bathe.",
+   "core_idea": "We need open horizons as we need water",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-031-p01",
+   "plain": "My house sits low on the village edge. But paddling the river with a friend, one stroke leaves village gossip and the world behind, entering a realm of sunset and moonlight almost too bright for flawed people.",
+   "core_idea": "Nature lifts us out of petty concerns",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-031-p02",
+   "plain": "We overpraise famous scenery. The wonder of any landscape is where sky meets earth, visible from any hill; the stars shine as grandly over a plain common as over Egypt. Landscapes differ little; beholders differ greatly. Beauty breaks in everywhere.",
+   "core_idea": "Beauty is everywhere; what differs is the beholder",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-031-p03",
+   "plain": "We watch a foaming brook with a pang: if our lives flowed with real energy, we would put the brook to shame. True zeal sparkles with its own fire, not reflected light.",
+   "core_idea": "Our zeal should outshine the lively brook",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-032-p01",
+   "plain": "Our bodies' excessive fear, flinching at cold, a snake or a sudden noise, protects us through countless false alarms from the one real danger that comes at last.",
+   "core_idea": "Many false alarms guard against one real danger",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-032-p02",
+   "plain": "No one can write without believing, for the moment, that it is the history of the world, or do anything well without thinking it matters. My work may not matter, but I mustn't think so.",
+   "core_idea": "Believe your work matters to do it well",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-032-p03",
+   "plain": "Promise always outruns delivery. We live among approximations; every goal leads to another, never a final success. We camp in nature rather than settle; however we prepare food and drink, they leave us hungry and thirsty even when full.",
+   "core_idea": "No success fully satisfies; every end points beyond",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-033-p01",
+   "plain": "Spiritual guides surround us, and a kindly purpose awaits us. Pitted against nature, we feel doomed. But if we feel the Maker's soul streaming through us, we find morning peace and nature's deepest powers within us.",
+   "core_idea": "Let the Maker's soul flow through you for peace",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-033-p02",
+   "plain": "Every moment and every object teaches, for wisdom fills every form. It has entered us as blood, as pain, as pleasure, in dull sad days and cheerful working days; only after long time did we grasp what it was.",
+   "core_idea": "Every experience teaches, though we learn slowly",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-033-p03",
+   "plain": "Am I too sheltered? My lot differs so much from yours, my poor brother and sister. I miss what labour and poverty teach. Amid polite courtesy and luxury I suspect I'm a prisoner, paying a ruinous tax for conforming.",
+   "core_idea": "Comfort and conformity can imprison us",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-034-p01",
+   "plain": "Attacks on institutions have shown that society gains nothing when someone tries to reform things around him without reforming himself; he becomes tiresomely good in one thing and narrow in the rest, often ending in hypocrisy and vanity.",
+   "core_idea": "Reform yourself before reforming the world",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-034-p02",
+   "plain": "I can't spend my time irritably attacking. If I left church at every false sentiment, I'd never stay five minutes. But why leave? The street is just as false, and in my own manners and speech the lie remains.",
+   "core_idea": "Falsehood is everywhere, even in ourselves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-034-p03",
+   "plain": "Friendship and grand alliances are fine, but no society can be as large as one person. In natural friendships a person multiplies himself; once he pledges himself to a group, he shrinks below the size of one.",
+   "core_idea": "No society is larger than one whole person",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-034-p04",
+   "plain": "Two people cannot be in harmony when one person is not in harmony with himself: when thoughts and actions, faith and habits, reason and senses pull apart, like rowing forward with one hand and backward with the other.",
+   "core_idea": "Inner harmony must come before harmony with others",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-035-p01",
+   "plain": "People are better than they seem. They enjoy flattery for a moment but know the truth. It is foolish cowardice not to trust them with blunt truth; they'll resent your honesty briefly and thank you forever.",
+   "core_idea": "Tell people the truth; they will thank you",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "emerson-essays-035-p02",
+   "plain": "What do we truly want from each other? Not flattery, but to be exposed and shamed out of our nonsense, made real instead of ghosts. Tired of drifting through an unreal world, we crave reality, even through pain.",
+   "core_idea": "We crave reality and truth, even if painful",
+   "quotability": 3,
+   "complete": true
+  }
+ ]
+}

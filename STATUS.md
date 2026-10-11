@@ -1,38 +1,44 @@
 # Status
 
-*Updated at the end of every session. Last update: Fri 9 Oct 2026 (session 4: Days 3, 12–13 and 14; Day 5 sample drawn).*
+*Updated at the end of every session. Last update: Sun 12 Oct 2026, 01:00 IST (session 5: Day 5 recorded, Day 15 done).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–4, 6, 7–14. **Phase 1 closed and corpus v1 frozen on 9 Oct** (`logs/Phase-1-Report.md`), 12 days ahead of plan. Day 5 sample drawn, Shailesh's review pending (a measurement now, not a gate).
+- **Plan days done:** 1–15. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
   - Day 3: both test sets in `evals/`: human (32 held-out, 5 crisis, 5 look-alikes) and agent (60 golden, 20 held-out, 8 crisis, 8 look-alikes).
   - Day 4: 33 sources normalised (4.18M words); extraction harness; pilot on Sonnet and Opus.
+  - Day 5: Shailesh's blind review of 40 passages: 38 kept (95%); 2 cut by override, 2 display fixes.
   - Day 6: pilot tagged on both models; model Opus 5.5 at medium effort; prompts locked (v1).
-  - Days 7–11 (`logs/D07.md`): all 33 sources extracted and tagged; 5,029 passages, 99.86% verbatim; 16 cut, 47 hidden from distress.
-  - Days 12–13 (`logs/D12.md`): 84 duplicates marked, 18 near groups; display clean-ups; `corpus/passages/stats.md`. **4,929 passages can be shown.**
-- **Not started:** retrieval (Day 15 on), app code.
+  - Days 7–11 (`logs/D07.md`): all 33 sources extracted and tagged; 5,029 passages, 99.86% verbatim.
+  - Days 12–14 (`logs/D12.md`): deduplication, display clean-ups, statistics; corpus v1 frozen (Decision, 9 Oct).
+  - Day 15 (`logs/D15.md`): six Tagore and Gibran works licence-checked, fetched, extracted and tagged (613 passages; the Gracián dropped, no clean text). **5,540 passages can be shown across 39 sources.** Every shown passage enriched (plain version, core idea, quotability, completeness, display fixes) and every plain version AI-judged: 98.1% scored 4 or 5 of 5.
+- **Not started:** retrieval (Day 16 on), app code.
 
 ## 2. Next session
 
-1. **Day 5 scored by the Cowork reviewer, 11 Oct:** 38 of 40 kept (95% precision); freeze stands. Cuts: S24 (Emerson, too long and dense), S40 (Epictetus, too abstract). Record them as overrides. Display fixes for S15 (Rumi, missing "(" in the source) and S29 (Vivekananda, missing full stop).
-2. **Plan revised 11 Oct** (`docs/Plan.md`, `docs/Decisions.md`): plain versions, Explain, Surprise me, quotability boost, transcription fixes, seven aphoristic sources, human checks capped at about 10 items.
-3. **Day 15:** licence-check and fetch the seven new works; extract and tag them; then the enrichment pass over every shown passage (Corpus-Policy section 7, step 7) and the AI judge on every plain version. Unattended, under a token budget.
-4. Then Day 16: Shailesh reads the 10 weakest plain versions; embeddings decision; Supabase.
+1. **Day 16, Shailesh (~10 min):** mark OK / Fix / Hide on the 10 rows of `evals/plain-version-check.md`; confirm the six suicide-naming passages hidden from distress (`logs/D15.md` section 4).
+2. **Day 16, Claude:** apply the marks; [DECISION] embeddings option (hosted API vs a free model); create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
+3. **Day 17:** eval harness; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 16 | Read the 10 weakest plain versions; fix or hide (~10 min) | Plan section 4.3 |
+| 16 | Mark the 10 weakest plain versions OK / Fix / Hide (~10 min) | `evals/plain-version-check.md` |
+| 16 | Confirm six suicide-naming passages hidden from distress by the 8 Oct precedent (small) | `logs/D15.md` section 4 |
 | 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
-- **Corpus after dedup (Days 12–13, `corpus/passages/stats.md`):** 5,029 extracted; 4,882 keep, 47 no-distress, 16 cut, 84 dup; 4,929 shown. Median 53 words. Secular 51%. All 37 themes used; "losing a pet" is the one situation with no passage.
+- **Plain-version faithfulness (Day 15, `logs/D15.md`):** 5,540 of 5,540 plain versions judged by Opus 5.5 in a separate pass. Score 5: 4,668 (84.3%); 4: 769; 3: 96; 2: 6; 1: 1. **98.1% at 4 or 5**, mean 4.82, 0 flagged for adding advice. The judge is the writer's model family and is sensitive to its wording (0 vs 17 threes on the same 200 items with and without "be exacting"); the 10 weakest go to Shailesh on Day 16.
+- **Enrichment (Day 15):** quotability 1/2/3/4/5 = 48 / 1,137 / 2,415 / 1,405 / 535; Surprise-me pool (4–5, keep) 1,929. 28 passages extended verbatim for completeness; 88 display fixes accepted, 26 rejected by the checks (`corpus/passages/bulk/enrich-report.md`).
+- **New sources (Day 15):** 613 passages, 613 verbatim, 0 tag problems. Sand and Foam 252 and Stray Birds 149 passages, median 15–19 words, about 75% secular.
+- **Corpus after Day 15 (`corpus/passages/stats.md`):** 5,642 extracted; 5,484 keep, 56 no-distress, 18 cut, 84 dup; **5,540 shown**. Median 51 words. Secular 52%. All 37 themes used.
+- **Corpus after dedup (Days 12–13):** 5,029 extracted; 4,882 keep, 47 no-distress, 16 cut, 84 dup; 4,929 shown. Median 53 words. Secular 51%. "Losing a pet" was the one situation with no passage.
 - **Full corpus run (Days 7–11, `logs/D07.md`):**
   - Verbatim check: 5,029 of 5,036 exact (99.86%); 7 rejected and logged.
   - Tag validity: 0 problems across 5,029 passages.
@@ -53,6 +59,8 @@ Ideas raised but out of v1 scope. Add here; don't build.
 - Pre-filtered Bible books (Leviticus, Numbers, 1 Chronicles; 73,189 words), not yet read
 - A source for pet loss, breakup and partnership (corpus gap found on Day 13; Phase 2 sources)
 - Re-run of the `<j>`-skipped SuttaCentral chunks and the three early-filtered helper packs (declined 8 Oct; listed in case the freeze is extended)
+- Gracián, *The Art of Worldly Wisdom* (Jacobs 1892): public domain but only OCR scans exist; needs a clean transcription before it can be added (dropped 11 Oct)
+- A second, independent judge model for the plain versions (the Day 15 judge is the writer's own model family)
 
 ## 6. Token budget
 
@@ -64,6 +72,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   - **Ratio:** session % ≈ 6 × weekly %.
   - **Superseded:** the Day 4 estimate (1.4% per 100k words for extraction alone) was about 3 times too high.
   - **Readings:** Claude reads both bars through the app's usage API, so no screenshots are needed.
+- **Enrichment and judge (Day 15, measured):** about **9% of the weekly limit** for one pass over 5,540 passages (plain version plus judge) together with 75k words of extraction and tagging: roughly 1.5% per 1,000 passages enriched and judged. The 5-hour window moved about 35 points over the run, so one window holds a pass of this size with room to spare.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
@@ -81,6 +90,9 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Window 1 paused, 22:49 | 84% | 59% |
   | Window 2 start, 8 Oct 00:51 | 0% | 60% |
   | Full run complete, 8 Oct 01:12 | 39% | 66% |
+  | Day 15 start, 11 Oct 22:21 | 15% | 22% |
+  | Day 15 midpoint, 23:17 | 13% (new window) | 26% |
+  | Day 15 run complete, 12 Oct 00:52 | 48% | 32% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits

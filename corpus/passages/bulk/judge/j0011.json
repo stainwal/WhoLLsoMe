@@ -1,0 +1,1096 @@
+{
+ "judgements": [
+  {
+   "id": "gibran-sand-and-foam-002-p40",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p41",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p42",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'first', implying the speaker wronged first; the original sets no order."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p43",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p44",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Would not have needed' replaces 'would not have used'; shifts from choice to necessity."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p45",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p46",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p47",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p48",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p49",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p50",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Shifts the reproach from 'you' to 'we', softening the address to the reader."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p51",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p52",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p53",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p54",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p55",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p56",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p57",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p58",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p59",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p60",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p61",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p62",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p63",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p64",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p65",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p66",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p67",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p68",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Tribune' (champion, advocate) rendered as 'true voice'; slight loss of meaning."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p69",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p70",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p71",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p72",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p73",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the condition of seeing the thief struggle upward before helping him a step."
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p74",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p75",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p76",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p77",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p78",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p79",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p80",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p81",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p82",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p83",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p84",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p85",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p86",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p87",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p88",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p89",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p90",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p91",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p92",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p93",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p94",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p95",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p96",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p97",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-002-p98",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p10",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p11",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p12",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p13",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p14",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p15",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p16",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p17",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p18",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p19",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p20",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p21",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p22",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p23",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p24",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p25",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p26",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p27",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p28",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'More than you can afford' narrows 'more than you can' to money."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p29",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p30",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p31",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p32",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the comparison with 'ten birds in the hand'; the reversal is blurred."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p33",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p34",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p35",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p36",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p37",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p38",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p39",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p40",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p41",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p42",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p43",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p44",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p45",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p46",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p47",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p48",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p49",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p50",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p51",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p52",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p53",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p54",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p55",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p56",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p57",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'with a will' from the morning: the deliberate declaration 'I am still dark' is weakened."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p58",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p59",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p60",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p61",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p62",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p63",
+   "faithful": 4,
+   "advice": false,
+   "issue": "The voice speaking as 'me' becomes 'it'; drops 'in your innocence'."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p64",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p65",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p66",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p67",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Sound of time's hoofbeats' adds an interpretation to 'the hoofs of time'."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p68",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p69",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p70",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p71",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p72",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p73",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p74",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p75",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p76",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p77",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p78",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p79",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p80",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p81",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p82",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p83",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p84",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p85",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'our Brother', which carries the passage's intimate stance toward Jesus."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p86",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'This Golgotha' becomes 'this place', losing the identification of the heart with Golgotha."
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p87",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gibran-sand-and-foam-003-p88",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-001-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'contemning gain and merit'; scorn of reward is only partly carried by 'set self aside'."
+  },
+  {
+   "id": "gita-arnold-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-004-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops several attributes (taste of water, fire's light, holiness, strength of seed, greatness)."
+  },
+  {
+   "id": "gita-arnold-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-005-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'whereby they draw to Me' and 'all for love of them'; the gift's purpose and motive lost."
+  },
+  {
+   "id": "gita-arnold-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-006-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'for Love's sole end', the motive of love behind the devotee's acts."
+  },
+  {
+   "id": "gita-arnold-006-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the closing ranking: worship above knowing, renunciation above all; secondary teaching lost."
+  },
+  {
+   "id": "gita-arnold-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-006-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-007-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "List condensed; drops love of study, charity that sees no faults, tenderness, mild bearing."
+  },
+  {
+   "id": "gita-arnold-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-007-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "gita-arnold-008-p03",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops conditions for release (unfettered mind, subdued soul, dead desires) and 'shall not fall in sin'."
+  },
+  {
+   "id": "gita-arnold-008-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Shifts between addressing the reader as 'you' and speaking of Arjuna in the third person."
+  }
+ ]
+}

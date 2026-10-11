@@ -1,0 +1,1148 @@
+{
+ "items": [
+  {
+   "id": "schopenhauer-counsels-maxims-010-p04",
+   "plain": "Grasping a rule for dealing with people is easy, yet you may break it soon after. Don't despair or give up on rules: first understand the rule, then learn its practice, which takes time.",
+   "core_idea": "Understanding a rule is quick; practising it takes time.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-010-p05",
+   "plain": "Showing off a quality is admitting you lack it. Whatever a man boasts of is where he is weak; someone who truly has a gift is content to know it and feels no need to display it.",
+   "core_idea": "People boast most about what they lack.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-010-p06",
+   "plain": "Just as we don't feel our own body's weight, we see others' faults but not our own. The upside: others become a mirror showing our own flaws, though we usually think we see someone else.",
+   "core_idea": "Others' faults are a mirror of our own.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "A man bears the weight of his own body without knowing it, but he soon feels the weight of any other, if he tries to move it; in the same way, a man can see other people's shortcomings and vices, but he is blind to his own. This arrangement has one advantage: it turns other people into a kind of mirror, in which a man can see clearly everything that is vicious, faulty, ill-bred and loathsome in his own nature; only, it is generally the old story of the dog barking at his own image; it is himself that he sees and not another dog, as he fancies.",
+    "reason": "Stray apostrophe; missing letter in 'his'"
+   }
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-011-p01",
+   "plain": "Short of a friend making a big sacrifice for you, the best test of his feelings is how he reacts when he hears of a misfortune that has just struck you.",
+   "core_idea": "A friend's reaction to your misfortune reveals his feelings.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-011-p02",
+   "plain": "Distance and long absence wear down friendship. Over the years even dear friends we never see become abstract ideas, kept up by habit, while we stay warmly attached to whoever is in front of us, even pets.",
+   "core_idea": "Absence slowly dries up friendship.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-011-p03",
+   "plain": "Friends say they are sincere; enemies actually are. Take your enemies' criticism like bitter medicine that helps you know yourself.",
+   "core_idea": "Enemies' honest criticism teaches self-knowledge.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-011-p04",
+   "plain": "We often trust others out of laziness, self-interest and vanity, yet expect them to keep faith. And we shouldn't be angry when people don't trust us: they simply think honesty is very rare.",
+   "core_idea": "Trust often springs from laziness, selfishness and vanity.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-011-p05",
+   "plain": "Being polite is wise and being rude is stupid; making enemies through needless rudeness is like setting your own house on fire. Politeness is token money, openly false, so spend it generously.",
+   "core_idea": "Politeness costs nothing, so be generous with it.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p01",
+   "plain": "We'd be far slower to take offence at an insult if we didn't think so highly of ourselves, and if we understood what people privately think of one another.",
+   "core_idea": "Pride makes insults sting more than they should.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p02",
+   "plain": "Never copy another person's conduct, since no two situations or characters are alike; two people doing the same thing get different results. Think carefully, then act according to your own character.",
+   "core_idea": "Act from your own character, not another's example.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p03",
+   "plain": "If two people's silly talk that you overhear irritates you, imagine you're listening to two fools in a comic play.",
+   "core_idea": "Treat overheard foolishness as comedy.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p04",
+   "plain": "If you want people to accept your judgment, state it calmly and without passion.",
+   "core_idea": "Calm statements persuade better than passionate ones.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p05",
+   "plain": "It is usually wiser to show your intelligence by staying silent than by speaking; silence is prudence, speech has a touch of vanity. Yet people prefer speech's brief pleasure to silence's lasting gain.",
+   "core_idea": "Silence shows wisdom better than speech.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p06",
+   "plain": "Money is never better spent than when someone cheats you of it, because in one stroke you have bought caution.",
+   "core_idea": "Being cheated buys you prudence.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p07",
+   "plain": "Show anger and hatred only through what you do, never otherwise; feelings work best in action when you avoid displaying them.",
+   "core_idea": "Let anger show only in deeds.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p08",
+   "plain": "Whatever form a life takes, it is made of the same elements, in a cottage or a palace. Success and failure differ less than they seem, like a kaleidoscope showing new patterns from the same bits of glass.",
+   "core_idea": "All lives are made of the same stuff.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-012-p09",
+   "plain": "A life is like a ship's voyage with luck as the wind, speeding it or driving it off course. A person's own effort is like the rudder: it helps a little, but a sudden squall can undo it all.",
+   "core_idea": "Luck steers life more than effort does.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p01",
+   "plain": "Looking back on life, a man sees where luck failed him and easily blames himself too much. But a life isn't wholly self-made; it comes from events and his own choices, constantly shaping each other.",
+   "core_idea": "Life is shaped by events and choices together.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p02",
+   "plain": "Life is a card game dealt by fate, or better, a chess game where fate is the opponent. We keep adjusting our tactics until our original plan is barely recognisable.",
+   "core_idea": "Fate forces us to keep changing our plans.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p03",
+   "plain": "Our brains are not the wisest part of us. In life's big moments, a person acts less from clear knowledge than from a deep inner impulse, almost an instinct, rising from the core of their being.",
+   "core_idea": "Big decisions come from deep instinct, not reasoning.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p04",
+   "plain": "Everyone has inborn principles, part of their very blood, that they usually can't name. Only looking back on life do they see these principles have guided them all along, like an invisible thread.",
+   "core_idea": "Hidden inborn principles guide a whole life.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p05",
+   "plain": "Never forget that time changes everything and nothing lasts. In any situation, picture its opposite: misfortune in good times, betrayal in trust, and in hard times, happier days. That is lasting worldly wisdom.",
+   "core_idea": "Always imagine the opposite of your present state.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p06",
+   "plain": "Only experience truly teaches that everything in this world is unstable and passing. Each moment's circumstances seem as if they should last forever, but in a world where all is fleeting, only change endures.",
+   "core_idea": "Everything passes; only change endures.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p07",
+   "plain": "You can force a tree to bloom in days, but then it withers. Likewise a young man who overworks his strength borrows from time, and repays the debt out of his later years and his very life.",
+   "core_idea": "Forcing youth's strength costs you later life.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-013-p08",
+   "plain": "Whatever happens to you, don't rejoice or grieve too much: fortune can turn at any moment, and we often misjudge what is good for us. Many have mourned what proved their best luck, or celebrated their ruin.",
+   "core_idea": "Don't overreact; we misjudge what's good for us.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p01",
+   "plain": "Misfortune weighs less if we've thought about it beforehand: we know its size and it feels no heavier than it is. Unexpected, it terrifies us and seems limitless, just as darkness and uncertainty magnify danger.",
+   "core_idea": "Preparing for misfortune keeps it in proportion.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p03",
+   "plain": "Life's small daily irritations can be seen as practice for bearing great misfortunes. Treat petty quarrels, gossip and rudeness like stones in the road: push them aside and don't brood on them at all.",
+   "core_idea": "Push small annoyances aside without brooding.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p04",
+   "plain": "The most accomplished person would be one who is never undecided and never in a hurry.",
+   "core_idea": "Never irresolute, never in a hurry.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p05",
+   "plain": "It is a cowardly soul that loses heart and gives up as soon as a storm starts gathering, or even at the first cloud on the horizon.",
+   "core_idea": "Losing heart at the first sign of trouble is cowardly.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p06",
+   "plain": "As long as a risky outcome is still undecided and things might yet turn out well, no one should tremble but only resist, just as you shouldn't despair of the weather while any blue sky shows.",
+   "core_idea": "While hope remains, resist rather than despair.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p07",
+   "plain": "All our lives, the present is the only thing we really possess. The young look ahead to a long future and the old look back on a long past, while shifting temperament colours the present differently at each age.",
+   "core_idea": "The present is all we ever possess.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-014-p08",
+   "plain": "When young, we were absorbed in what was around us as if nothing else existed. Later, discovering how much the world holds, we lose that early state of mind, and with it our patience.",
+   "core_idea": "Knowing more of the world costs us patience.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p01",
+   "plain": "In youth, life's poetry shows us a dazzling vision, and we torment ourselves wanting it to come true, like trying to grab a rainbow. Expecting life to be a romance is the seed of disappointment.",
+   "core_idea": "Youthful romantic expectations breed disappointment.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p02",
+   "plain": "The second half of life has less longing and more rest. The young think great happiness exists but is hard to reach; the old know it doesn't, so they relax, enjoy the present and take pleasure in small things.",
+   "core_idea": "Age brings rest by dropping the hunt for happiness.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "The consequence of this is that, as compared with the earlier, the later half of life, like the second part of a musical period, has less of passionate longing and more restfulness about it. And why is this the case? Simply because, in youth, a man fancies that there is a prodigious amount of happiness and pleasure to be had in the world, only that it is difficult to come by it; whereas, when he becomes old, he knows that there is nothing of the kind; he makes his mind completely at ease on the matter, enjoys the present hour as well as he can, and even takes a pleasure in trifles.",
+    "reason": "Missing question mark"
+   }
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p03",
+   "plain": "Life's experience mainly gives clear sight. The mature person sees things as they really are, while in youth he saw a phantom world built from his own whims, inherited prejudice and delusion.",
+   "core_idea": "Experience brings clear sight of reality.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p04",
+   "plain": "When young, we expect the big events and important people of our life to arrive with drums and trumpets; in old age we see they all slipped in quietly, almost unnoticed, by the side door.",
+   "core_idea": "Life's important things arrive quietly.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p05",
+   "plain": "Life is like embroidery: in the first half you see the right side, in the second the back. The back is less pretty but more instructive, because it shows how the threads were worked together.",
+   "core_idea": "Later life shows how life was woven together.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p06",
+   "plain": "Being surprised by how people behave, and handling them awkwardly and crossly, is a sign of a nobler kind of character.",
+   "core_idea": "Awkwardness with people can signal a noble character.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p07",
+   "plain": "From youth, life seems to stretch endlessly ahead; from old age, it looks a short way back, like looking through a reversed telescope. To see how short life is, you must have lived a long time.",
+   "core_idea": "Only the old see how short life is.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-015-p08",
+   "plain": "Time moves slower when we are young, so life's first quarter is both the happiest and the longest, leaving the most memories. Spring days drag; autumn days are short but gentler and more even.",
+   "core_idea": "Youth feels longest; later days are short but mellow.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p01",
+   "plain": "We don't like dwelling on unpleasant things that happened to us, especially when they hurt our pride, since we're rarely blameless. So people readily forget much that was unpleasant, along with much that didn't matter.",
+   "core_idea": "We forget what wounds our pride.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p02",
+   "plain": "Why do the years ahead seem endless in youth? Because we must make room for everything we hope to achieve; we pack them with so many plans that even a vast lifespan couldn't carry them all out.",
+   "core_idea": "Youth's crowded plans make life seem endless.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p03",
+   "plain": "Sometimes we think we long for a faraway place when really we long for the time we spent there, when we were younger and fresher. Time disguises itself as place, and going back shows how we were fooled.",
+   "core_idea": "Longing for a place is often longing for lost time.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p04",
+   "plain": "Even when young, a person should save and pace his strength.",
+   "core_idea": "Conserve your strength even in youth.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p05",
+   "plain": "Some people are charming only while young; others shine in their prime and fade with age; many look their best in old age, when experience softens their character and they take life easily.",
+   "core_idea": "Different people flourish at different ages.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p06",
+   "plain": "A sailor sees his progress only as the coast shrinks behind him. In the same way, a man realises he is getting old when people older than him start to seem young.",
+   "core_idea": "You notice ageing when older people seem young.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-016-p07",
+   "plain": "As time speeds up with age, boredom mostly fades, and with the passions quieted, life's burden is lighter than in youth, if health holds. So the years just before old age's troubles are called one's best.",
+   "core_idea": "Life grows lighter as passions quiet with age.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p01",
+   "plain": "Later life and old age bring intellectual rewards. Only then is a person truly rich in experience, able to see life from every side and grasp how things connect; what he thought he knew in youth, he now really knows.",
+   "core_idea": "Old age turns knowledge into real understanding.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p02",
+   "plain": "The tree of knowledge must grow to full height before it bears fruit, but its roots are in youth.",
+   "core_idea": "Knowledge ripens late but is rooted in youth.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p03",
+   "plain": "While our minds are growing, we get used to scorning yesterday from today. The habit persists even after our powers decline, when we should respect the past instead, so we often undervalue what we did and thought when young.",
+   "core_idea": "We wrongly look down on our younger selves.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p04",
+   "plain": "The first forty years of life provide the text and the remaining thirty the commentary; without the commentary we cannot properly grasp the text's meaning, its moral and its finer applications.",
+   "core_idea": "Later life explains the meaning of earlier life.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p05",
+   "plain": "Near life's end it's like the close of a masked ball: the masks come off. You see who people really were; characters are revealed, deeds have borne fruit, and every sham has collapsed. Only time could do this.",
+   "core_idea": "Time unmasks everyone by life's end.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p06",
+   "plain": "As life goes on, it shows a person what he is made of.",
+   "core_idea": "Life reveals what we are made of.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p07",
+   "plain": "Youth is called happy and age sad, which would be true if passions made us happy. But passions toss the young about, bringing much pain and little joy; in age they cool, and the freed mind turns contemplative.",
+   "core_idea": "Age frees the mind as the passions cool.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-017-p08",
+   "plain": "Youth is restless and age is calm, which shows how pleasure is shared between them. Like a child grabbing at pretty things, the young imagine delights the world can't deliver, and longing for them makes happiness impossible.",
+   "core_idea": "Youth's restless longing makes happiness impossible.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-018-p01",
+   "plain": "The mind does weaken with age, but a strong one keeps enough to fight boredom. Experience and reflection sharpen an old man's judgment and widen his view, and his continuing self-education gives the mind work and satisfaction.",
+   "core_idea": "Experience and self-education reward the ageing mind.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-018-p02",
+   "plain": "It's lucky if an old person keeps some love of study, music or theatre and stays responsive to the world. In old age, what a person has within himself matters more than ever.",
+   "core_idea": "In old age, inner resources matter most.",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "It is a piece of good fortune if the old man retains some of his love of study or of music or of the theatre,--if, in general, he is still somewhat susceptible to the things about him; as is, indeed, the case with some people to a very late age. At that time of life, what a man has in himself is of greater advantage to him than ever it was before.",
+    "reason": "Scan error: 'that' for 'than'"
+   }
+  },
+  {
+   "id": "schopenhauer-counsels-maxims-018-p03",
+   "plain": "It is sad that all our faculties waste away faster and faster as we age, yet this is necessary and even good: it prepares us for death, which would otherwise be too hard to bear.",
+   "core_idea": "Decline in age prepares us for death.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-001-p01",
+   "plain": "The same events affect no two people alike; each lives in a world of his own. How a person looks at the world shapes it: dull and empty to one, rich and meaningful to another.",
+   "core_idea": "How we see the world shapes our world.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-001-p02",
+   "plain": "People who hear of someone's interesting experiences wish the same had happened to them, forgetting they should envy the mind that made those events meaningful. To a dull person, the same events would have been ordinary.",
+   "core_idea": "The mind, not the event, makes experience rich.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-001-p03",
+   "plain": "On stage, one actor plays a prince and another a servant, but underneath each is the same anxious player. Life is the same: rank and wealth assign roles, but beneath them is the same poor mortal with his troubles.",
+   "core_idea": "Beneath every role is the same struggling human.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-001-p04",
+   "plain": "Health outweighs every other blessing; a healthy beggar is happier than a sick king. A cheerful temper, clear mind and good conscience can't be bought. What you are within matters more than what you own or your reputation.",
+   "core_idea": "What you are matters more than what you have.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-001-p05",
+   "plain": "A good, moderate, gentle person can be happy while poor, while a greedy, envious, spiteful man is miserable even if he is the richest in the world.",
+   "core_idea": "Character, not wealth, decides happiness.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-002-p01",
+   "plain": "All that is truly in our power is to make the best use of our own qualities: pursue what calls on them, aim for the perfection they allow, and choose the work and life that develop them.",
+   "core_idea": "Choose a life that uses your own gifts.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-002-p02",
+   "plain": "A very strong man forced into fine desk work, or a brilliant mind stuck in bodily labour, will be unhappy all his life. Still, especially when young, beware of conceit and imagining you have powers you lack.",
+   "core_idea": "Unused strengths cause lifelong unhappiness.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-002-p03",
+   "plain": "Great wealth adds little to happiness beyond real needs, and its upkeep brings worry. Many rich people are unhappy for lack of inner culture. Yet people chase riches over culture, though what we are matters more than what we have.",
+   "core_idea": "What you are outweighs what you own.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-002-p04",
+   "plain": "To a sour, ill-tempered person every pleasure tastes like fine wine in a bitter mouth. So in good and bad alike, what happens to us matters less than how we meet it.",
+   "core_idea": "How we meet events matters more than events.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-002-p05",
+   "plain": "When cheerfulness knocks, fling the door open; it is never untimely, yet we hesitate. Cheerfulness is happiness in ready cash: it makes us happy now, and the present is all such brief beings as we have.",
+   "core_idea": "Welcome cheerfulness whenever it comes.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-003-p01",
+   "plain": "What makes us happy or unhappy isn't what things are in themselves but how we see them. As Epictetus said, people are moved not by things but by their thoughts about them.",
+   "core_idea": "Our view of things, not things, moves us.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-003-p02",
+   "plain": "With health, everything gives pleasure; without it, nothing can be enjoyed, and even a great mind or a happy temperament is diminished.",
+   "core_idea": "Without health, nothing can be enjoyed.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-003-p03",
+   "plain": "Human happiness has two enemies, pain and boredom. The further we get from one, the nearer we come to the other, and life swings more or less violently between them.",
+   "core_idea": "Life swings between pain and boredom.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-003-p04",
+   "plain": "A wise man seeks freedom from pain, quiet, leisure and a modest life; after some experience of people he chooses retirement, or even solitude if very gifted. The more one has within, the less one needs from others.",
+   "core_idea": "The richer within, the less we need others.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-004-p01",
+   "plain": "Ordinary people think only about how to pass their time; a person of any talent tries to use it.",
+   "core_idea": "Use time rather than merely pass it.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-004-p02",
+   "plain": "Don't expect much from other people or the outside world. One person can't be a great deal to another; in the end everyone stands alone, and what matters is who it is that stands alone.",
+   "core_idea": "Everyone stands alone; what matters is who.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-004-p03",
+   "plain": "Wherever we are, we are left to ourselves, and we either make or find our own happiness.",
+   "core_idea": "We make our own happiness wherever we are.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-004-p04",
+   "plain": "The world offers little: it is full of misery and pain, with boredom lurking beyond them; evil usually wins and folly is loudest. Here, a person rich within is like a warm, bright room on a freezing December night.",
+   "core_idea": "Inner richness is warmth in a cold world.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-004-p05",
+   "plain": "It is great foolishness to trade your inner life, giving up most of your peace, leisure and independence, for show, rank, titles and honours.",
+   "core_idea": "Don't trade inner peace for outward status.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-005-p01",
+   "plain": "A life of the mind guards against boredom and its harms: bad company, dangers, losses and extravagance that hit those who seek happiness only outside. Schopenhauer notes his philosophy never earned him sixpence but saved him many expenses.",
+   "core_idea": "The life of the mind protects against boredom's harms.",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "The life of the mind is not only a protection against boredom; it also wards off the pernicious effects of boredom; it keeps us from bad company, from the many dangers, misfortunes, losses and extravagances which the man who places his happiness entirely in the objective world is sure to encounter. My philosophy, for instance, has never brought me in a six-pence; but it has spared me many an expense.",
+    "reason": "Comma should be full stop before new sentence"
+   }
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-005-p02",
+   "plain": "The ordinary person bases happiness on outside things like property, rank, family and friends, so when he loses them or they disappoint, his happiness collapses. His centre of gravity lies outside himself, shifting with every wish.",
+   "core_idea": "Happiness built on externals easily collapses.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-005-p03",
+   "plain": "A person rich within needs nothing from outside except undisturbed leisure to develop his mind and enjoy that wealth; in short, permission to be himself every day of his life.",
+   "core_idea": "The inwardly rich need only freedom to be themselves.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-005-p04",
+   "plain": "The more wisdom you have, the more grief you have; whoever adds to knowledge adds to sorrow.",
+   "core_idea": "More knowledge brings more sorrow.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-006-p01",
+   "plain": "A person never misses things it never occurs to him to want and is just as happy without them, while someone with a hundred times more is miserable for lacking the one thing he desires.",
+   "core_idea": "We only miss what we expect to have.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-006-p02",
+   "plain": "Riches, like sea-water, make you thirstier the more you drink; so does fame. After losing wealth, once the first grief passes, we return to our usual mood by lowering our demands, which hurts and then heals like an old wound.",
+   "core_idea": "Wealth breeds thirst; loss heals as demands shrink.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-006-p03",
+   "plain": "Discontent comes from constantly raising our demands while being unable to increase what would satisfy them.",
+   "core_idea": "Discontent is demands outrunning means.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-007-p01",
+   "plain": "Wife and children are not counted among a man's possessions; rather, he belongs to them. Friends might sooner count, but a man's friends are no more his than he is theirs.",
+   "core_idea": "We belong to our family more than it to us.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-007-p02",
+   "plain": "People care far too much about others' opinions, though these aren't essential to happiness. Yet praise a man and he lights up as surely as a stroked cat purrs, even at an obvious lie, if it touches his pride.",
+   "core_idea": "We crave praise like a cat craves stroking.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-007-p03",
+   "plain": "Once we've seen even the greatest people treated with contempt by a handful of fools, we understand that valuing what others say is giving them too much honour.",
+   "core_idea": "Others' opinions deserve less weight than we give.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-008-p01",
+   "plain": "We'd be far happier recognising early that our real life is in our own skin, not in others' opinions. Health, temperament, abilities, income, family and home matter a hundred times more than what people think of us.",
+   "core_idea": "Real life is in your own skin, not others' opinions.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-008-p02",
+   "plain": "In nearly everything we do, we first ask what people will say, and almost half of life's troubles come from this worry. It lies beneath our touchy self-importance, our vanity and pretension, and all our showing off.",
+   "core_idea": "Worry about others' opinions causes half our troubles.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-008-p03",
+   "plain": "A quiet, retired life does wonders for peace of mind, mainly because we escape living constantly under others' eyes and minding their passing opinions; we can return to ourselves.",
+   "core_idea": "Withdrawing from others' gaze brings peace of mind.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-009-p01",
+   "plain": "Whoever breaks a trust has lost trust for ever, whatever he does and whoever he is, and the bitter results of that loss can never be avoided.",
+   "core_idea": "Broken trust is lost for ever.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-011-p01",
+   "plain": "Socrates was often roughly treated after his debates and bore it mildly. When kicked, he asked whether he should resent a donkey's kick; when told a man had insulted him, he said the words weren't addressed to him.",
+   "core_idea": "Insults need not be taken personally.",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "Socrates' frequent discussions were often followed by his being severely handled, and he bore it all mildly. Once, for instance, when somebody kicked him, the patience with which he took the insult surprised one of his friends. Do you think, said Socrates, that if an ass happened to kick me, I should resent it? On another occasion, when he was asked, Has not that fellow abused and insulted you? No, was his answer, what he says is not addressed to me.",
+    "reason": "Missing full stop at end"
+   }
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-012-p01",
+   "plain": "The truer the charge, the more it stings; a hint of a real fault offends more than a terrible accusation that is baseless. So someone sure he has done nothing to deserve blame can safely treat it with contempt.",
+   "core_idea": "Baseless accusations can be met with contempt.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-012-p02",
+   "plain": "Truly knowing your own worth makes you indifferent to insults; but if you can't help resenting one, a little shrewdness and good breeding will let you keep up appearances and hide your anger.",
+   "core_idea": "Knowing your worth makes insults powerless.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-014-p01",
+   "plain": "Seneca said, finely, that fame follows merit as surely as a body casts a shadow, sometimes going ahead of it and sometimes behind.",
+   "core_idea": "Fame follows merit like a shadow.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-014-p02",
+   "plain": "Fame that will last usually comes late, since excellent work takes time. Lasting fame grows slowly like an oak, brief fame like a yearly plant, and false fame springs up overnight like a fungus and dies as fast.",
+   "core_idea": "Lasting fame grows slowly, like an oak.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-015-p01",
+   "plain": "Whoever pursues the good and genuine must avoid the bad and defy, even despise, the crowd. So fame flees those who chase it and seeks those who shun it: the first pander to current taste, the second defy it.",
+   "core_idea": "Fame flees those who chase it.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-015-p02",
+   "plain": "Making your worth depend on others' opinions is a wretched way to live. Each person lives mainly in and for himself; what he is matters most to him. Others' heads are a poor home for real happiness.",
+   "core_idea": "Your worth can't live in other people's heads.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-015-p03",
+   "plain": "It's not fame that makes a person happy but what earns it: his merits and the character and ability behind them. Others' opinion matters little by comparison, so someone who deserves fame but lacks it has the more important part.",
+   "core_idea": "Merit, not fame, brings happiness.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "schopenhauer-wisdom-of-life-015-p04",
+   "plain": "In old age there is no greater comfort than knowing you poured all your youthful strength into works that still remain young.",
+   "core_idea": "Lasting work comforts old age.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p01",
+   "plain": "Some of our time is snatched away, some slips off, some drifts out of reach; the most shameful loss is through carelessness. Most of life passes doing wrong, much doing nothing, and all of it doing what doesn't matter.",
+   "core_idea": "Most of our time is lost through carelessness.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p02",
+   "plain": "Who truly values his time, weighs each day, and understands that he is dying daily? We wrongly look ahead to death, but most of it is already past: all the years behind us belong to death.",
+   "core_idea": "We are dying daily; past years belong to death.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p03",
+   "plain": "Take hold of today's work and you won't need to lean so much on tomorrow. While we put things off, life rushes past.",
+   "core_idea": "While we postpone, life speeds by.",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p04",
+   "plain": "Nothing is truly ours except time, the one thing nature gave us, and it slips away easily. People count cheap, replaceable things as debts, yet never feel indebted for time, the one loan no one can repay.",
+   "core_idea": "Time is our only true possession.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p05",
+   "plain": "You don't rush around changing where you live, since such restlessness shows a disordered spirit. The first sign of a well-ordered mind is being able to stay in one place and spend time in your own company.",
+   "core_idea": "A settled mind can stay put and be alone.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p06",
+   "plain": "Stay with a small number of great thinkers and digest their work if you want ideas that take firm root. Being everywhere means being nowhere: someone always travelling ends up with many acquaintances but no friends.",
+   "core_idea": "Everywhere means nowhere; go deep, not wide.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p07",
+   "plain": "The poor man isn't the one with too little but the one who craves more. However much you own, coveting your neighbour's goods and future gains makes you poor. The right limit: first what's needed, then what's enough.",
+   "core_idea": "Poverty is craving more, not having little.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p08",
+   "plain": "If you don't trust a friend as you trust yourself, you misunderstand friendship. Judge a person before befriending him, not after. Think long before admitting someone; once you do, welcome him wholeheartedly and speak as freely as to yourself.",
+   "core_idea": "Judge before befriending; then trust completely.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p09",
+   "plain": "Some people pour out private matters to anyone they meet; others won't confide even in their closest friends. Both are wrong: trusting everyone and trusting no one are equal faults, though the first is more innocent and the second safer.",
+   "core_idea": "Trusting everyone and trusting no one are both faults.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p10",
+   "plain": "Love of busyness is not hard work; it is only the restlessness of a hunted mind. And true rest isn't rejecting all activity as a nuisance; that kind of rest is just laziness.",
+   "core_idea": "Busyness is restlessness; idleness isn't rest.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p11",
+   "plain": "No evil is great if it is the last one. Death would be worth dreading if it stayed with you, but it either doesn't come at all or comes and passes.",
+   "core_idea": "Death, the last evil, cannot stay with you.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p12",
+   "plain": "Most people drift miserably between fear of death and the hardships of life: they don't want to live, and yet they don't know how to die.",
+   "core_idea": "People fear death yet dislike living.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p13",
+   "plain": "No good thing makes its owner happy unless his mind has accepted that he might lose it; and nothing is lost more easily than what, once lost, isn't missed.",
+   "core_idea": "Accept possible loss to enjoy what you have.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-001-p14",
+   "plain": "No one has been raised so high by Fortune that she didn't threaten him as much as she favoured him. Don't trust her calm: the sea can churn in a moment, and proud ships can sink the same day.",
+   "core_idea": "Fortune's calm can turn in a moment.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p01",
+   "plain": "People toil for unnecessary things, which wear out their clothes, keep them in army camps till old age and wreck them on foreign shores. What is enough is close at hand. Whoever has made peace with poverty is rich.",
+   "core_idea": "Whoever makes peace with poverty is rich.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p02",
+   "plain": "Just as one chain binds a prisoner to the soldier guarding him, hope and fear, though unlike, march together: fear follows hope.",
+   "core_idea": "Hope and fear are chained together.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p03",
+   "plain": "Animals flee dangers they see and then stop worrying, but humans torment themselves over the future and the past. Memory brings back fear and foresight anticipates it. The present alone can make no one miserable.",
+   "core_idea": "Only past and future torment us; the present doesn't.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p04",
+   "plain": "Seneca feels not just improved but transformed, though much in him still needs changing. Seeing faults he never noticed proves his spirit is better, just as a sick man who knows he is sick is congratulated.",
+   "core_idea": "Seeing your faults is a sign of progress.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p05",
+   "plain": "Many have lacked not a friend but a friendship. That can't happen when souls are joined by shared, honourable aims, because then people know they hold everything in common, especially their troubles.",
+   "core_idea": "True friends share everything, especially troubles.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p06",
+   "plain": "Nothing pleases me, however good, if I must keep it to myself. If wisdom were offered on condition that I hide it, I'd refuse it. No good thing is pleasant to have without friends to share it.",
+   "core_idea": "No good is pleasant without friends to share it.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p07",
+   "plain": "Asked what progress he had made, a man answered that he had begun to be a friend to himself. That is a great gain: such a person is never alone, and is surely a friend to all humankind.",
+   "core_idea": "Befriend yourself and you are never alone.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p08",
+   "plain": "Seneca admits his weakness: he never comes home with the same character he took out. Something he had calmed inside is stirred up again, and some enemies he had beaten come back.",
+   "core_idea": "Going among crowds unsettles the calm we've built.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p09",
+   "plain": "One example of indulgence or greed does great harm; companions rub off on us. Don't copy the bad because they're many, nor hate the many. Withdraw into yourself; keep company with those who improve you and whom you can improve.",
+   "core_idea": "Keep company that makes you better; we learn by teaching.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-002-p10",
+   "plain": "You may ask why you learned all these things. Don't worry that the effort was wasted: you learned them for yourself.",
+   "core_idea": "Learning for yourself is never wasted.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p01",
+   "plain": "Many people praise you, but should you be pleased with yourself if the crowd can understand you? Your good qualities should face inward.",
+   "core_idea": "Let your good qualities face inward.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p02",
+   "plain": "Fortune's so-called gifts are traps. Anyone who wants a safe life will avoid her sticky lures as far as he can; we think we hold these things, but they hold us.",
+   "core_idea": "Fortune's gifts are traps that hold us.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p03",
+   "plain": "Eat to end hunger, drink to quench thirst, dress against cold, house yourself against discomfort; thatch shelters as well as gold. Scorn useless ornament. Only the soul deserves wonder, and to a great soul nothing is great.",
+   "core_idea": "Meet only real needs; only the soul deserves wonder.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p04",
+   "plain": "Those who seem to be doing nothing are often doing the greater work, dealing with things both mortal and immortal at once.",
+   "core_idea": "Quiet reflection can be the greatest work.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p05",
+   "plain": "Hecato offers a love potion that needs no drugs, herbs or spells: if you want to be loved, love. There is great pleasure both in keeping old friendships and in making new ones.",
+   "core_idea": "If you would be loved, love.",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Hecato says: “I can show you a philtre, compounded without drugs, herbs, or any witch’s incantation: ‘If you would be loved, love.’” Now there is great pleasure, not only in maintaining old and established friendships, but also in beginning and acquiring new ones.",
+    "reason": "Stray comma before 'says'"
+   }
+  },
+  {
+   "id": "seneca-003-p06",
+   "plain": "Winning a friend differs from having won one as sowing from reaping. Making a friend pleases more than keeping one, as painting pleases an artist more than the finished picture; so too children's infancy is sweeter than their youth.",
+   "core_idea": "Making a friend delights more than keeping one.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-003-p07",
+   "plain": "Friends chosen for usefulness last only while useful: the prosperous are crowded with friends, while those who fail stand alone. Whoever becomes your friend because it pays will stop when it no longer pays. Real friendship seeks nothing but friendship.",
+   "core_idea": "Friends made for profit leave when profit ends.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p01",
+   "plain": "Whoever thinks himself unlucky is unlucky. What does your situation matter if it looks bad to you?",
+   "core_idea": "Thinking yourself wretched makes you wretched.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p02",
+   "plain": "What counts is not what you say but what you feel, and not how you feel on one particular day but how you feel all the time.",
+   "core_idea": "Lasting feeling, not words, shows contentment.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p03",
+   "plain": "Crates saw a young man walking alone and asked what he was doing. The youth said he was talking with himself. Crates told him to be careful, because he was keeping company with a bad man.",
+   "core_idea": "Solitude is only good with good company inside.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p04",
+   "plain": "Release the gods from your old prayers and pray anew for a sound mind and good health, first of soul, then of body. Pray often, and call boldly on God; you aren't asking for what belongs to another.",
+   "core_idea": "Pray for a sound mind and health.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p05",
+   "plain": "You are free of desire when you ask God only for what you could pray aloud. People tell God what they hide from others. So live among people as if God saw you; speak with God as if people heard.",
+   "core_idea": "Live as if God sees; pray as if people hear.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p06",
+   "plain": "Even the steadiest speakers sweat, tremble, or stammer before an audience. Training and experience never remove this; nature uses such weakness to make her power felt even in the strongest.",
+   "core_idea": "Even the strong cannot train away nature's nerves.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p07",
+   "plain": "We avoid most wrongdoing if someone we respect is near when we're tempted. Happy is the one who improves others even in their thoughts, and the one who steadies himself by recalling someone he reveres; he'll soon deserve reverence.",
+   "core_idea": "Keep someone you revere in mind to stay good.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p08",
+   "plain": "Choose a mentor whose life, talk and face satisfy you, and always picture him as your guardian or model. We need someone to measure our character against; you can't straighten what's crooked without a ruler.",
+   "core_idea": "You need a model, as a ruler straightens lines.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-004-p09",
+   "plain": "Let's cherish and love old age; it is full of pleasure if you know how to use it. Fruit tastes best at the season's end, youth is most charming as it closes, and the drinker enjoys the last glass most.",
+   "core_idea": "Old age is full of pleasure if used well.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p01",
+   "plain": "Life is most delightful on the downward slope before the steep drop, and even the very edge has pleasures, or not wanting pleasures replaces them. How comforting to have worn out your appetites and be done with them.",
+   "core_idea": "Late life brings the relief of spent appetites.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p02",
+   "plain": "Young and old alike should look death in the face; we aren't called in order of age. Yet no one is too old to hope for one more day, and one day is a stage on life's journey.",
+   "core_idea": "Face death at any age; each day still counts.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p03",
+   "plain": "If God grants another day, welcome it gladly. The happiest person, secure in himself, awaits tomorrow without fear. Whoever can say he has truly lived receives each new morning as a bonus.",
+   "core_idea": "Having lived, each new day is a bonus.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p05",
+   "plain": "We only gain full faith in our strength after facing many difficulties, some at close range. A fighter enters the ring confidently only after being bloodied and knocked down in body but not spirit, rising each time more defiant.",
+   "core_idea": "Confidence comes from rising after many falls.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p06",
+   "plain": "More things frighten us than harm us; we suffer more in imagination than in reality. Don't be unhappy before the crisis comes; it may never come. We exaggerate, imagine or anticipate sorrow, suffering more, sooner or needlessly.",
+   "core_idea": "We suffer more in imagination than reality.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p07",
+   "plain": "When people try to convince you that you are unhappy, attend to what you feel, not what you hear; you know your affairs best. Ask whether there is real harm or just talk, and whether you're inventing an evil.",
+   "core_idea": "Trust your own sense of your troubles, not others'.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p08",
+   "plain": "First check whether your evidence of future trouble is solid. We're usually troubled by fears and rumour and believe talk too quickly. We don't test our fears; we flee like soldiers panicked by dust from stampeding cattle.",
+   "core_idea": "Test your fears before running from them.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p09",
+   "plain": "Some trouble may come, but it isn't here now. How often the unexpected happens and the expected never does! Even if it is certain, why rush to meet suffering? It will come soon enough; meanwhile, look forward to better things.",
+   "core_idea": "Don't rush out to meet future suffering.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p10",
+   "plain": "The mind invents evils without evidence, reads the worst into vague words and inflates grudges. Indulge every fear and life is unbearable. Resist with resolve, or balance fear with hope: dreaded things often vanish and hoped-for ones disappoint.",
+   "core_idea": "Temper imagined fears with hope.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "seneca-005-p11",
+   "plain": "Among his faults, the fool is always getting ready to live. Think how repellent it is that people lay new foundations for their lives every day and start fresh hopes even at the edge of the grave.",
+   "core_idea": "The fool is always getting ready to live.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-006-p01",
+   "plain": "The body may be indulged but not made a master. Live not for the body, but as if you couldn't live without it. Loving it too much brings fear, worry and insult, and makes virtue seem cheap.",
+   "core_idea": "Care for the body, but don't be its slave.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-006-p02",
+   "plain": "The wise man looks to the reasons for his actions, not their results. The beginning is in our power; fortune decides the outcome, but I don't let her pass judgment on me.",
+   "core_idea": "Own your intentions; leave outcomes to fortune.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-006-p03",
+   "plain": "Whoever craves riches fears for them, and no one enjoys a blessing that brings anxiety; he always wants a little more. Busy increasing his wealth, he forgets how to use it, and from master he becomes a mere steward.",
+   "core_idea": "Craving wealth turns its master into its servant.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-006-p04",
+   "plain": "Exercise the mind day and night; moderate work nourishes it, and no weather or old age need stop this training. Cultivate the good that gets better with the years.",
+   "core_idea": "Cultivate the good that improves with age.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-006-p05",
+   "plain": "You don't need to bend over your books constantly; the mind needs a change, but one that relaxes it without weakening it.",
+   "core_idea": "Rest the mind without letting it go slack.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-007-p01",
+   "plain": "When you see many people ahead of you, think how many are behind. To be grateful for your life, consider how many you have passed. But why bother with others? You have surpassed yourself.",
+   "core_idea": "Measure progress against yourself, not others.",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "seneca-007-p02",
+   "plain": "Set a limit you won't even want to pass. Away with deceptive goods: they look better to those hoping for them than to those who have them. If they had substance they'd satisfy; instead they make the drinker thirstier.",
+   "core_idea": "Set a limit; worldly goods never satisfy.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-007-p03",
+   "plain": "No one can live happily, or even bearably, without studying wisdom; completed wisdom brings happiness, begun wisdom makes life bearable. Keeping the resolutions you've made matters more than making grand new ones; persevere until good inclination becomes settled purpose.",
+   "core_idea": "Keep your resolutions until they become character.",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "seneca-007-p04",
+   "plain": "Philosophy isn't a show or a pastime; it is deeds, not words. It shapes the soul, orders life, guides conduct and steers us through uncertainty. Without it no one lives fearlessly or at peace.",
+   "core_idea": "Philosophy shapes the soul and steers life.",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "seneca-007-p05",
+   "plain": "Natural desires have limits; desires born of false opinion have none. A road ends, but wandering doesn't. To tell natural desire from misleading desire, ask whether it can stop somewhere; if the goal keeps receding, it is against nature.",
+   "core_idea": "Natural desires have limits; false ones never end.",
+   "quotability": 3,
+   "complete": true
+  }
+ ]
+}

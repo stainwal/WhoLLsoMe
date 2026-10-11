@@ -1,0 +1,1204 @@
+{
+ "judgements": [
+  {
+   "id": "viv07-029-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'after work, do not think of it' and 'you lose nothing'."
+  },
+  {
+   "id": "viv07-029-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv07-029-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-001-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'know once for all that there is no chain for you'."
+  },
+  {
+   "id": "viv08-001-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'and none will be imposed', the reciprocal half of the condition."
+  },
+  {
+   "id": "viv08-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-001-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses the philosophers' stone image; 'women' rendered as 'sex'."
+  },
+  {
+   "id": "viv08-001-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Obey' softened to 'follow'; warning against the 'you cannot' teacher only implied."
+  },
+  {
+   "id": "viv08-001-p08",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Moth 'for the light' becomes 'drawn to a flame', adding a self-destruction connotation."
+  },
+  {
+   "id": "viv08-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that misery follows faster for the advanced soul."
+  },
+  {
+   "id": "viv08-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-002-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-003-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Millennium' rendered as 'Paradise'; slight shift."
+  },
+  {
+   "id": "viv08-003-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'we are all on the way' and thinking through material means."
+  },
+  {
+   "id": "viv08-003-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-003-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-004-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'A Sufi poem' attribution not in the passage."
+  },
+  {
+   "id": "viv08-004-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-005-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Strike a blow' rendered as 'striking back', adding retaliation."
+  },
+  {
+   "id": "viv08-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-005-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-005-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-006-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'philosophy says check everything'; contrast slightly thinned."
+  },
+  {
+   "id": "viv08-006-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-006-p05",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'No ignorance or wrong ideas' broadened to 'nothing'; drops death-for-great-purpose line."
+  },
+  {
+   "id": "viv08-006-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-006-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops Rabbia seeing selfish will lingering in the saints' maxims."
+  },
+  {
+   "id": "viv08-006-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-007-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'we have no duty', self-forgetting as happiest, and the gymnasium image."
+  },
+  {
+   "id": "viv08-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-007-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'teach the Godhood of man' and being beyond sun and stars."
+  },
+  {
+   "id": "viv08-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-008-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops unconsciousness of the highest state and the 'dynamo of spirituality' image."
+  },
+  {
+   "id": "viv08-008-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-008-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-008-p07",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'healthy body is the best instrument' and melancholy as nearly insuperable."
+  },
+  {
+   "id": "viv08-009-p01",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the warning that giving up work before knowing leads to misery, and work for the Self."
+  },
+  {
+   "id": "viv08-009-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'whatever they do to you', the condition on loving all."
+  },
+  {
+   "id": "viv08-009-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-009-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Upanishads' generalised to 'scriptures'; drops 'go into your own room'."
+  },
+  {
+   "id": "viv08-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-010-p09",
+   "faithful": 4,
+   "advice": false,
+   "issue": "First-person reply shifted to an unclear 'he'; 'no duty, no bondage of family' thinned."
+  },
+  {
+   "id": "viv08-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'never mind what you do'."
+  },
+  {
+   "id": "viv08-011-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-011-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-012-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that books are understood only once knowledge is earned, and 'you can do anything'."
+  },
+  {
+   "id": "viv08-012-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'Worship your Guru as God' loses 'as God'."
+  },
+  {
+   "id": "viv08-012-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'you serve because you are lower than he'."
+  },
+  {
+   "id": "viv08-012-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-012-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-012-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'no weakness even facing death' and 'the weak never reach Atman'."
+  },
+  {
+   "id": "viv08-012-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-013-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'if you give up, stand fast' and that the flag can never fall."
+  },
+  {
+   "id": "viv08-014-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p06",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that without evil we would never glimpse anything higher."
+  },
+  {
+   "id": "viv08-014-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv08-014-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p06",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p07",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p08",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-001-p09",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-002-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'if this is a devil's world, we must be devils also'."
+  },
+  {
+   "id": "viv09-002-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-003-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-004-p01",
+   "faithful": 2,
+   "advice": false,
+   "issue": "Loses the main point: this science demands more application than business; few succeed."
+  },
+  {
+   "id": "viv09-004-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his wish for a fragment of their power; 'often I think' softened to 'may'."
+  },
+  {
+   "id": "viv09-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-004-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-005-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'mere machines until you are free' and the rebuke of pride in goodness."
+  },
+  {
+   "id": "viv09-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-006-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-006-p04",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that all enmity and selfishness are effaced."
+  },
+  {
+   "id": "viv09-006-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-007-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv09-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-002-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-002-p02",
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the point: the illusion of the universe will likewise break one day."
+  },
+  {
+   "id": "viv10-003-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-003-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-003-p03",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses that the need-to-struggle idea is itself a delusion."
+  },
+  {
+   "id": "viv10-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-005-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'You are the creator of the universe' softened to 'you made your own universe'."
+  },
+  {
+   "id": "viv10-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv10-005-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-001-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-002-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the hymn's direct address to Shiva."
+  },
+  {
+   "id": "viv11-002-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-004-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-004-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-004-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-005-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-005-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-005-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-005-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-006-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-006-p02",
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops image-worship as merely preliminary and serving regardless of caste or creed."
+  },
+  {
+   "id": "viv11-006-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-006-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-007-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-007-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-008-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-008-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-008-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-009-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-009-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-009-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-009-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-009-p05",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-010-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-010-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-011-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-011-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-012-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-012-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-013-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-014-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-014-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-014-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-015-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-016-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-016-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-017-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-017-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-018-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-019-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-019-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-019-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-019-p04",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-021-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-021-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-021-p03",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-022-p01",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-022-p02",
+   "faithful": 5,
+   "advice": false,
+   "issue": ""
+  },
+  {
+   "id": "viv11-023-p01",
+   "faithful": 4,
+   "advice": false,
+   "issue": "'If the Lord grants' becomes 'if you get the chance'; drops privilege others lacked."
+  }
+ ]
+}

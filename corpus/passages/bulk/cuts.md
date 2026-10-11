@@ -127,11 +127,13 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 20. emerson-essays
 
-257 tagged; 1 cut; 1 kept but hidden from distress.
+257 tagged; 1 cut; 3 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
 | emerson-essays-019-p05 | Heroism | welcomes-death | Envies the dead as safe from suffering and speaks of awaiting one's own end with complacency. | In the gloom of our ignorance of what shall be, in the hour when… |
+| emerson-essays-042-p02 | Prudence | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Every violation of truth is not only a sort of suicide in the liar,… |
+| emerson-essays-043-p05 | Self-Reliance | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | There is a time in every man’s education when he arrives at the conviction… |
 | emerson-essays-045-p01 | Self-Reliance | decided: cut | Day 5 review, S24: too long and convoluted; focus on ideas grasped immediately (Shailesh, 11 Oct 2026) | Man is timid and apologetic; he is no longer upright; he dares not say… |
 
 ## 21. walden-thoreau
@@ -184,7 +186,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 27. aristotle-ethics
 
-77 tagged; 0 cut; 0 kept but hidden from distress.
+77 tagged; 0 cut; 1 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| aristotle-ethics-009-p04 | Book III, Bekker 1116a | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | But dying to escape from poverty, or the pangs of love, or anything that… |
 
 ## 28. seneca-letters-gummere
 
@@ -258,4 +264,52 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
 | american-indian-stories-zitkala-005-p03 | The School Days of an Indian Girl, chapter VII | group-hatred | Out of context, the line calling a whole people 'a cold race whose hearts were frozen hard with prejudice' reads as contempt for a race, though it voices the author's experience of racism; needs human review. | As I hid myself in my little room in the college dormitory, away from… |
+
+## 34. tagore-stray-birds
+
+149 tagged; 0 cut; 1 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| tagore-stray-birds-001-p41 | Stray Birds, 97 | welcomes-death | Presents passing away and being forgotten as a felt freedom. | I think of other ages that floated upon the stream of life and love… |
+
+## 35. tagore-gitanjali
+
+72 tagged; 0 cut; 5 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| tagore-gitanjali-001-p14 | Gitanjali, poem 16 | welcomes-death | Speaks of being ready to go in and see God's face at the end of life, framed as a welcome next step. | I have had my invitation to this world’s festival, and thus my life has… |
+| tagore-gitanjali-005-p01 | Gitanjali, poem 86 | welcomes-death | Describes worshipping and welcoming death at the door as God's messenger. | Death, thy servant, is at my door. He has crossed the unknown sea and… |
+| tagore-gitanjali-005-p04 | Gitanjali, poem 91 | welcomes-death | Addresses death as life's fulfilment and asks it to come. | O thou the last fulfilment of life, Death, my death, come and whisper to… |
+| tagore-gitanjali-005-p06 | Gitanjali, poem 93 | welcomes-death | A farewell that presents departing from life as a summons the speaker is ready for. | I have got my leave. Bid me farewell, my brothers! I bow to you… |
+| tagore-gitanjali-005-p07 | Gitanjali, poem 94 | welcomes-death | Frames departing life as a beautiful, joyful journey to be welcomed. | At this time of my parting, wish me good luck, my friends! The sky… |
+
+## 36. tagore-sadhana
+
+93 tagged; 0 cut; 2 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| tagore-sadhana-005-p07 | Sādhanā: The Problem of Evil, paragraph 9 | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | If existence were an evil, it would wait for no philosopher to prove it.… |
+| tagore-sadhana-006-p01 | Sādhanā: The Problem of Evil, paragraph 12 | welcomes-death | Says death may be made welcome for a higher cause, praising martyrdom. | To the man who lives for an idea, for his country, for the good… |
+
+## 37. gibran-madman
+
+27 tagged; 0 cut; 0 kept but hidden from distress.
+
+## 38. gibran-forerunner
+
+20 tagged; 0 cut; 0 kept but hidden from distress.
+
+## 39. gibran-sand-and-foam
+
+252 tagged; 0 cut; 4 kept but hidden from distress.
+
+| Id | Location | Safety | Reason | Opening words |
+| --- | --- | --- | --- | --- |
+| gibran-sand-and-foam-002-p26 | Sand and Foam, paragraph 199 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Trickery succeeds sometimes, but it always commits suicide.… |
+| gibran-sand-and-foam-002-p93 | Sand and Foam, paragraph 304 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Every great man I have known had something small in his make-up; and it… |
+| gibran-sand-and-foam-003-p17 | Sand and Foam, paragraph 332 | welcomes-death | Presents longing for death as the natural response once life's mysteries are solved. | When you have solved all the mysteries of life you long for death, for… |
+| gibran-sand-and-foam-003-p79 | Sand and Foam, paragraph 438 | welcomes-death | Expresses longing for eternity beyond death as the place of fulfilment. | I long for eternity because there I shall meet my unwritten poems and my… |
 

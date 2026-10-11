@@ -1,0 +1,1204 @@
+{
+"judgements": [
+{
+"id": "imitation-of-christ-benham-019-p08",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the fallen angel and Adam argument and \"raise to my own nature\"; God's first-person voice shifted."
+},
+{
+"id": "imitation-of-christ-benham-020-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-020-p02",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the hard saying \"where Thou art not, there death and hell\"."
+},
+{
+"id": "imitation-of-christ-benham-020-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-020-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-021-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"servant to the Lord\" and \"Fountain of life\" becomes just a fountain."
+},
+{
+"id": "imitation-of-christ-benham-021-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-022-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-022-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-022-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"never more commit them\" and the plea to save a soul redeemed by Christ's blood."
+},
+{
+"id": "imitation-of-christ-benham-022-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-023-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-023-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-023-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-024-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "imitation-of-christ-benham-024-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops asking fervently, receiving gratefully, working diligently, and grace deferred to the end of prayer."
+},
+{
+"id": "imitation-of-christ-benham-024-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the eucharistic desire to receive the Lord and poverty in virtues."
+},
+{
+"id": "imitation-of-christ-benham-024-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Loses unquenchable hunger for God and \"as preordained\"; recasts as worldly gain not reaching God."
+},
+{
+"id": "japji-macauliffe-001-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-001-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-002-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the challenge \"he in whose arm there is strength may see what he can do\"."
+},
+{
+"id": "japji-macauliffe-002-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "japji-macauliffe-002-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops day and night as nurses and \"after completion of toil\"."
+},
+{
+"id": "light-of-asia-arnold-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-004-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"we are as ye are, ghosts from the inane\" and changeful pain lines."
+},
+{
+"id": "light-of-asia-arnold-004-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-005-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-006-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops mockery of earth's best and \"woes that are not false\"."
+},
+{
+"id": "light-of-asia-arnold-007-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-007-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-008-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-008-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-009-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-010-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-010-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-010-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-011-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-012-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-012-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-013-p01",
+"faithful": 4,
+"advice": false,
+"issue": "\"Free are ye rather that your freedom spread\" recast as a command to be free."
+},
+{
+"id": "light-of-asia-arnold-014-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-014-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-014-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"that which was Good doth pass to Better, Best\"."
+},
+{
+"id": "light-of-asia-arnold-014-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-014-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-014-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-014-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"for pleasure, to live beyond the gods\"; descriptive definition of peace partly turned into commands."
+},
+{
+"id": "light-of-asia-arnold-015-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"fruitful of good life's gentle charities\"."
+},
+{
+"id": "light-of-asia-arnold-015-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "light-of-asia-arnold-015-p10",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the mapping of each relation to a compass quarter."
+},
+{
+"id": "meditations-001-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"not peevish in instruction\" and holding his own skill as smallest merit; child's loss generalised."
+},
+{
+"id": "meditations-001-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-002-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-002-p02",
+"faithful": 3,
+"advice": false,
+"issue": "Drops kinship through shared reason and divinity, and that being vexed or turning away is itself against nature."
+},
+{
+"id": "meditations-002-p03",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the cosmic frame: part of the universe, existence flowing from its administrator, chances from the gods."
+},
+{
+"id": "meditations-002-p04",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the life \"like the existence of the gods\"; \"a calm life needs little\" misreads few principles held."
+},
+{
+"id": "meditations-002-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-002-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-002-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-003-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-003-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-003-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-003-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Drops keeping the divine part \"as if bound to give it back\" and heroic truth."
+},
+{
+"id": "meditations-004-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p03",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"under certain conditions\" and the contrast with a small light being extinguished."
+},
+{
+"id": "meditations-004-p04",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the brief fundamental principles that cleanse the soul, a key secondary idea."
+},
+{
+"id": "meditations-004-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-004-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-005-p12",
+"faithful": 4,
+"advice": false,
+"issue": "\"A little mucus\" softened to \"a speck\"."
+},
+{
+"id": "meditations-005-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-006-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-006-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-006-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-006-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"the way of both is one\", the unity of one's own and common nature."
+},
+{
+"id": "meditations-006-p05",
+"faithful": 4,
+"advice": false,
+"issue": "List loses \"aversion to pleasure\" and \"no love of superfluity\"."
+},
+{
+"id": "meditations-006-p06",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the horse, dog and bee images and not calling others to come and see."
+},
+{
+"id": "meditations-006-p07",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"love this to which thou returnest\" and reposing in reason."
+},
+{
+"id": "meditations-007-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-007-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-008-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p02",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"we do much injustice\" by not treating these as indifferent; fault-finding with God folded into blame."
+},
+{
+"id": "meditations-009-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p09",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"I can have the opinion I ought to have; why then am I disturbed?\""
+},
+{
+"id": "meditations-009-p10",
+"faithful": 3,
+"advice": false,
+"issue": "Drops the condition \"unless there be some reason why I ought not\" to step aside."
+},
+{
+"id": "meditations-009-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-009-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"I entreat thee by the gods\"; daemon rendered as inner spirit."
+},
+{
+"id": "meditations-010-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p14",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-010-p15",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p05",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"say to thyself that thou art yielding to pain\" and the rational and social aspects."
+},
+{
+"id": "meditations-011-p06",
+"faithful": 4,
+"advice": false,
+"issue": "\"Do not renounce the hope\" of being free becomes a flat command; drops self-circumscription."
+},
+{
+"id": "meditations-011-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p10",
+"faithful": 4,
+"advice": false,
+"issue": "\"Under the same law with God\" narrowed to \"under God's law\"; drops \"How is this with respect to me?\""
+},
+{
+"id": "meditations-011-p11",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p12",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-011-p13",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-012-p01",
+"faithful": 4,
+"advice": false,
+"issue": "Adds \"badly\"; drops \"nothing should be done without a purpose\"."
+},
+{
+"id": "meditations-012-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-012-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-012-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops God's kindness in letting man never be separated at all."
+},
+{
+"id": "meditations-012-p05",
+"faithful": 4,
+"advice": false,
+"issue": "Drops \"you will be ashamed to confess\" and chiding the mind that cannot hold out."
+},
+{
+"id": "meditations-012-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-012-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-012-p08",
+"faithful": 4,
+"advice": false,
+"issue": "Drops even obstinate resistance and the stronger case of judgement aided by reason."
+},
+{
+"id": "meditations-012-p09",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the sick-child example."
+},
+{
+"id": "meditations-013-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-013-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p02",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p04",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p05",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p06",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p07",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p08",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p09",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p10",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-014-p11",
+"faithful": 4,
+"advice": false,
+"issue": "Drops the first horn (if gods lack power, why pray) and the objection about what is in our power."
+},
+{
+"id": "meditations-015-p01",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-015-p02",
+"faithful": 4,
+"advice": false,
+"issue": "\"The fault is manifestly thy own\" softened to \"look at yourself\"."
+},
+{
+"id": "meditations-015-p03",
+"faithful": 5,
+"advice": false,
+"issue": ""
+},
+{
+"id": "meditations-015-p04",
+"faithful": 4,
+"advice": false,
+"issue": "Drops making things bearable by thinking it your interest or duty."
+}
+]
+}

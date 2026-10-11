@@ -1,0 +1,1164 @@
+{
+ "items": [
+  {
+   "id": "viv09-004-p01",
+   "plain": "Business is a harsh master: even when someone dies or your heart is breaking, you must still go to work, and we accept that as right.",
+   "core_idea": "Spiritual practice demands more effort than relentless business",
+   "quotability": 2,
+   "complete": false,
+   "extended_text": "And what an amount of attention does business require, and what a rigorous taskmaster it is! Even if the father, the mother, the wife, or the child dies, business cannot stop! Even if the heart is breaking, we still have to go to our place of business, when every hour of work is a pang. That is business, and we think that it is just, that it is right. This science calls for more application than any business can ever require. Many men can succeed in business; very few in this."
+  },
+  {
+   "id": "viv09-004-p02",
+   "plain": "As a boy I criticised the hard practices of ascetics, as even the Buddha did. Now I feel I have no right to judge; my criticism may come from cowardice, because I could not do what they do.",
+   "core_idea": "My criticism of ascetics may hide my own cowardice",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv09-004-p03",
+   "plain": "A man brave before cannon may fear the surgeon's knife, and the reverse. So when you judge others, define what you mean by courage; the person you call not good may excel where you do not.",
+   "core_idea": "Courage takes many forms; define it before judging",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv09-004-p04",
+   "plain": "The universe is like waves and hollows; you cannot have one without the other. Balance is everywhere: you are great in one thing, your neighbour in another.",
+   "core_idea": "Everything is balanced; each person has their own greatness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv09-005-p01",
+   "plain": "Birth, life and death are old superstitions. No one was ever born and no one will ever die; we only change our position.",
+   "core_idea": "No one is born or dies; we only change position",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv09-005-p02",
+   "plain": "Look at people as kindly as you can, because being good is not easy. You are not good by your own merit, nor is another bad by his; in his place, who knows what you would be?",
+   "core_idea": "Judge others charitably; you might be no better",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv09-006-p01",
+   "plain": "Everything depends on preparation. Striking a light takes a second, but making the candle takes long; a meal takes half an hour to eat but hours to cook. We want the quick result and forget the preparation.",
+   "core_idea": "Preparation is the real work behind every result",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv09-006-p02",
+   "plain": "Nothing is lost. In the Gita, Krishna tells Arjuna that whatever effort one makes remains one's own, and if Yoga is not fulfilled in this life, it is taken up again in the next birth.",
+   "core_idea": "No spiritual effort is ever lost",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv09-006-p03",
+   "plain": "Live for one ideal and leave no room in your mind for anything else. Put all your energy into spiritual perfection; true longing means struggle, and growth comes through it. Mistakes may turn out to be blessings.",
+   "core_idea": "Live for one ideal and struggle toward it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv09-006-p04",
+   "plain": "Meditation is the greatest help in spiritual life. In it we set aside material things and feel our divine nature, needing nothing outside. The soul's touch can brighten the darkest place and make even the wicked divine.",
+   "core_idea": "Meditation reveals our divine nature and transforms everything",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv09-006-p05",
+   "plain": "It is good to be born in a church but bad to die in one. Religious forms help the young plant of spirituality, but dying still within them shows the soul never grew.",
+   "core_idea": "Religious forms should help growth, not confine it",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "It is very good to be born in a church, but it is very bad to die in a church. It is very good to be born within the limits of certain forms that help the little plant of spirituality, but if a man dies within the bounds of these forms, it shows that he has not grown, that there has been no development of the soul.",
+    "reason": "Scan error: he for be"
+   }
+  },
+  {
+   "id": "viv09-007-p01",
+   "plain": "Religion is not doctrine, dogma or argument; it is being and becoming, it is realisation. Many talk about God and the soul, yet few have actually realised either, and still they fight one another.",
+   "core_idea": "Religion is realisation, not doctrine or argument",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv09-007-p02",
+   "plain": "A jar makes noise while it is being filled with water, but when it is full, it is silent.",
+   "core_idea": "Those who are full make no noise",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv09-007-p03",
+   "plain": "Everyone talks of love, but loving is hard. The first test of love is that it does not bargain; if someone loves another to get something back, that is not love but shopkeeping.",
+   "core_idea": "True love never bargains",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv09-008-p01",
+   "plain": "The first test of love is that it does not bargain. Love always gives and never takes.",
+   "core_idea": "Love gives and never takes",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv09-008-p02",
+   "plain": "A young mother who runs from a barking dog will stand in a lion's mouth to protect her child. Her love overcame all her fear.",
+   "core_idea": "Love conquers fear",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv09-008-p03",
+   "plain": "The outer world only gives us hints; we project our own minds onto it, as an oyster coats a grain of sand into a pearl. The wicked see hell, the good heaven; lovers see love, fighters strife, the peaceful peace.",
+   "core_idea": "We see the world through what is in us",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv10-001-p01",
+   "plain": "Humans alone naturally look upward. Looking and rising upward toward perfection is salvation, and it lies not in money, clothes or houses but in the wealth of spiritual thought within you.",
+   "core_idea": "Salvation is rising toward truth, not wealth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv10-002-p01",
+   "plain": "Clouds of many colours pass across the sky, but the blue sky itself never changes. In the same way you are always perfect; nothing changes your true nature, or ever will.",
+   "core_idea": "You are always perfect, like the unchanging sky",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv10-002-p02",
+   "plain": "Travelling in an Indian desert, I kept seeing lovely lakes until one vanished when I went to drink. Afterwards the mirage still appeared, but I knew it for a mirage; once known, it lost its power to fool me.",
+   "core_idea": "Once seen through, illusion loses its power",
+   "quotability": 2,
+   "complete": false,
+   "extended_text": "I was once travelling in the desert in India. I travelled for over a month and always found the most beautiful landscapes before me, beautiful lakes and all that. One day I was very thirsty and I wanted to have a drink at one of these lakes; but when I approached that lake it vanished. Immediately with a blow came into my brain the idea that this was a mirage about which I had read all my life; and then I remembered and smiled at my folly, that for the last month all the beautiful landscapes and lakes I had been seeing were this mirage, but I could not distinguish them then. The next morning I again began my march; there was the lake and the landscape, but with it immediately came the idea, “This is a mirage.” Once known it had lost its power of illusion. So this illusion of the universe will break one day."
+  },
+  {
+   "id": "viv10-003-p01",
+   "plain": "However clearly people see that nothing here is free, they cannot help feeling free, and nothing gets done without it. That felt freedom is a glimpse of blue sky through clouds; real freedom lies behind.",
+   "core_idea": "Our felt freedom hints at a real freedom beyond",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv10-003-p02",
+   "plain": "You are not going to become God or become perfect; you already are perfect. Whenever you think you are not, that is a delusion.",
+   "core_idea": "You are already perfect, not becoming so",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv10-003-p03",
+   "plain": "We are not going to become free; we are free already. Thinking we are bound, or happy or unhappy, is delusion; the idea that we must struggle to be free chases it out, and then both fall away.",
+   "core_idea": "You are already free; bondage is a delusion",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv10-004-p01",
+   "plain": "People who toil like machines do not really enjoy life; the wise do. A rich man may buy a costly painting, but only one who understands art enjoys it; without that, the rich man merely owns it.",
+   "core_idea": "The wise, not the owners, truly enjoy life",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv10-004-p02",
+   "plain": "You are permanent and unchanging; how could you come and go? Like the sky, which seems to move while only clouds move, or land that seems to move from a train, you stay where you are while dreams pass.",
+   "core_idea": "The Self is unmoving; only dreams pass over it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv10-005-p01",
+   "plain": "We are the Infinite Being, yet we have become small people who depend on one man's kind word or another's angry one. I am a slave of body, mind, praise, blame, passion, life and death. This slavery must be broken.",
+   "core_idea": "We are infinite, yet enslaved by praise and pain",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv10-005-p02",
+   "plain": "There is no help for you outside yourself; you made your own universe. Like a silkworm you have spun a cocoon around yourself. Break it and come out a butterfly, a free soul; only then will you see Truth.",
+   "core_idea": "No one outside you can free you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv10-005-p03",
+   "plain": "Before you start practising, clear your mind of doubts. Argue it out, and once you are convinced this is the truth, stop arguing and stop listening to arguments. You have settled the question; more debate is useless.",
+   "core_idea": "Settle your doubts, then stop arguing and practise",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv10-005-p04",
+   "plain": "The way is long, like walking on a razor's edge, yet do not despair. The Vedas say: wake up, get up, and do not stop until you reach the goal.",
+   "core_idea": "The path is hard, but do not despair",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv10-005-p05",
+   "plain": "A perfect person sees perfection in others. When someone sees imperfection, it is their own mind projecting it; how could they see it if it were not in them?",
+   "core_idea": "The imperfection we see in others is our own",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-001-p01",
+   "plain": "Each person has their own way of growing, set by all their past Karma, as Hindus say. We arrive carrying the whole past, and how we use the present will make the future.",
+   "core_idea": "The past shapes us; the present shapes the future",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-002-p01",
+   "plain": "As rivers from different mountains, straight or winding, all reach the ocean, so people's different paths all lead to the Lord. Some go crooked, some straight, but all will at last reach the One.",
+   "core_idea": "All paths, straight or crooked, lead to the One",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-002-p02",
+   "plain": "Differences can never all disappear; without variety life would end, and the clash of ideas drives everything. But differing does not mean we must hate or fight each other.",
+   "core_idea": "Differences must remain, but hatred need not",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-004-p01",
+   "plain": "A cloud rains on all fields alike, but only the tilled field benefits; that is not the cloud's fault. God's mercy is eternal and unchanging; it is we who make the difference.",
+   "core_idea": "God's mercy falls equally; we make the difference",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-004-p02",
+   "plain": "We alone are responsible for what we suffer; we are cause and effect, and so we are free. If I made my unhappiness or impurity, I can be happy and pure if I will. The human will stands above circumstance.",
+   "core_idea": "We cause our own suffering, so we can end it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-004-p03",
+   "plain": "The same all-present, all-knowing soul lives in every person and animal, weak or wicked, great or small. The difference lies only in how it shows itself; even the smallest animal is my brother with the same soul.",
+   "core_idea": "Every creature has the same soul",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-005-p01",
+   "plain": "Whatever you think yourself to be, weak or strong, pure or impure, you will become. All knowledge, power and purity are already in me; they do not show because I do not believe it. Believe, and they will.",
+   "core_idea": "You become what you think you are",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-005-p02",
+   "plain": "It has long been recognised that there are many ways of worshipping God and that different natures need different methods. Your way to God may not suit me; the idea of one way for everyone is harmful.",
+   "core_idea": "Different natures need different ways to God",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-005-p03",
+   "plain": "Talking is not religion; parrots and machines can talk. Show me a life of renunciation, spirituality, endurance and boundless love; that is the mark of a spiritual person.",
+   "core_idea": "Religion is a lived life, not talk",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Talking is not religion; parrots may talk, machines may talk nowadays. But show me the life of renunciation, of spirituality, of all-suffering, of love infinite. This kind of life indicates a spiritual man.",
+    "reason": "Transcription error: missing hyphen"
+   }
+  },
+  {
+   "id": "viv11-005-p04",
+   "plain": "For ages we have been soaked in jealousy, always asking why someone else gets ahead and not I. We want precedence even in worshipping God, so enslaved have we become. This must be avoided.",
+   "core_idea": "Jealousy and craving precedence enslave us",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-006-p01",
+   "plain": "Religion exists in pure, sincere love in the heart, not in ceremony.",
+   "core_idea": "Religion lives in sincere love, not ceremony",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-006-p02",
+   "plain": "All worship comes down to being pure and doing good to others. Whoever sees Shiva in the poor, weak and sick truly worships him. Serving one poor person as Shiva pleases him more than seeing him only in temples.",
+   "core_idea": "True worship is serving God in the poor",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-006-p03",
+   "plain": "A dusty mirror cannot show your image. In the same way, ignorance and wickedness are the dust on the mirror of our hearts.",
+   "core_idea": "Ignorance and wickedness cloud the heart's mirror",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-006-p04",
+   "plain": "Selfishness, putting ourselves first, is the chief sin, even wanting to reach heaven or liberation before others. The unselfish person would go last, even to hell, to help others. Unselfishness is the test of religion.",
+   "core_idea": "Unselfishness is the test of religion",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-007-p01",
+   "plain": "I feel your warmth and kindness, because heart speaks to heart better than words do; spirit speaks to spirit in silence, yet unmistakably, and I feel it deep in my heart.",
+   "core_idea": "Heart speaks to heart beyond words",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-007-p02",
+   "plain": "Give up: that is the watchword of Indian religions. This world is a two-day illusion and this life lasts five minutes. Beyond it is the Infinite; let us seek that.",
+   "core_idea": "Renounce this brief world and seek the Infinite",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-008-p01",
+   "plain": "The ideal is to give things up after seeing and experiencing how empty they are. Once you find that the material world is hollow at its heart, holding only ashes, give it up and turn back.",
+   "core_idea": "Having seen the world's emptiness, turn away from it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-008-p02",
+   "plain": "Stand in your own strength and die in it. If there is any sin in the world, it is weakness; avoid all weakness, because weakness is sin and weakness is death.",
+   "core_idea": "Weakness is the only sin",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-008-p03",
+   "plain": "Stand on your own feet and absorb what you can; learn from every nation and take whatever is useful to you.",
+   "core_idea": "Stand on your own feet and learn from all",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-009-p01",
+   "plain": "The worst, most devilish person has some virtues the greatest saint lacks, and the lowest worm may have things the highest human does not.",
+   "core_idea": "Even the worst have virtues the best lack",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-009-p02",
+   "plain": "Impurity is only a covering that hides your real nature. The real you is already perfect and strong and needs no help to govern itself. The only difference is whether you know it or not.",
+   "core_idea": "Your real self is already perfect and strong",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-009-p03",
+   "plain": "The word that bursts from the Upanishads like a bomb is fearlessness, and the only religion worth teaching is fearlessness. Fear brings misery, death and evil, and fear comes from not knowing our own nature.",
+   "core_idea": "Fearlessness is the true religion",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-009-p04",
+   "plain": "Knowing the soul's nature gives hope to the weakest and worst sinner. Do not despair: whatever you do, your nature stays pure and cannot be destroyed. It may be hidden for ages, but at last it will come out.",
+   "core_idea": "Your pure nature will always win out",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-009-p05",
+   "plain": "All responsibility for good and evil rests on you, and that is the great hope: what I have done, I can undo.",
+   "core_idea": "What I have done, I can undo",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-010-p01",
+   "plain": "As followers of Vedanta, we know for certain that no power in the universe can injure us unless we first injure ourselves.",
+   "core_idea": "Nothing can harm us unless we harm ourselves first",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-010-p02",
+   "plain": "I do not know if I will succeed, but it is a great thing to take up a grand ideal and give your whole life to it. Otherwise life is small and stagnant; a high ideal is its only value.",
+   "core_idea": "Life's value lies in serving a grand ideal",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-011-p01",
+   "plain": "I doubt a perfect world will ever come, but each of us must work for it as if it will come tomorrow and depends on us alone, as if everyone else has done their part. That responsibility is ours.",
+   "core_idea": "Work for a perfect world as if solely responsible",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-011-p02",
+   "plain": "I want the fanatic's intensity together with the materialist's breadth. A heart as deep as the ocean and as broad as the sky: that is what we need.",
+   "core_idea": "Combine deep intensity with broad openness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-012-p01",
+   "plain": "In the West people try to work out how much a person can own; here we try to work out how little a person can live on.",
+   "core_idea": "The West asks how much; India asks how little",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-012-p02",
+   "plain": "Only the soul itself changing for the better can cure the evils of life.",
+   "core_idea": "Only inner change cures life's evils",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-013-p01",
+   "plain": "No civilisation can grow until fanaticism and brutality stop and we look kindly on one another, starting with others' religious beliefs. More than that, we should actively help each other, however different our beliefs.",
+   "core_idea": "Civilisation needs charity toward others' beliefs",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "No civilisation can grow unless fanatics, bloodshed, and brutality stop. No civilisation can begin to lift up its head until we look charitably upon one another; and the first step towards that much-needed charity is to look charitably and kindly upon the religious convictions of others. Nay more, to understand that not only should we be charitable, but positively helpful to each other, however different our religious ideas and convictions may be.",
+    "reason": "Transcription error: missing hyphen"
+   }
+  },
+  {
+   "id": "viv11-014-p01",
+   "plain": "Faith in ourselves and faith in God is the secret of greatness. You may believe in every god there is, but without faith in yourself there is no salvation. Have faith in yourself, stand on it, and be strong.",
+   "core_idea": "Faith in yourself is the secret of greatness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-014-p02",
+   "plain": "Get up, wake up, and do not stop until you reach the goal. Wake from the spell of weakness: no one is really weak, because the soul is infinite and all-powerful. Stand up and declare the God within you.",
+   "core_idea": "Wake from weakness; the soul is infinite",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-014-p03",
+   "plain": "We cannot stand still; standing still is dying. We either go forward or go back, either grow or decline.",
+   "core_idea": "We must move forward or we fall back",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-015-p01",
+   "plain": "Cursing, condemning and abusing cannot produce anything good; they have been tried for years with no worthwhile result. Good results come only through love and sympathy.",
+   "core_idea": "Only love and sympathy produce good results",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-016-p01",
+   "plain": "Respecting and loving someone is one thing; swallowing everything they say without reasoning, questioning or analysing is quite another.",
+   "core_idea": "Respect does not mean accepting everything uncritically",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-016-p02",
+   "plain": "People talk a lot about open minds and respecting other views. But in practice we sympathise with others only while they agree with us; once they dare to differ, the sympathy and love vanish.",
+   "core_idea": "Tolerance often ends the moment someone disagrees",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-017-p01",
+   "plain": "A tiny amount of practice is worth more than mountains of grand talk.",
+   "core_idea": "Practice outweighs talk",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-017-p02",
+   "plain": "Anyone can point out what is wrong, but the true friend of humanity is the one who finds a way out of the problem.",
+   "core_idea": "Anyone sees evil; a true friend finds a way out",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-018-p01",
+   "plain": "It is very hard to see through each other's eyes, and that is humanity's curse. It is the root of hatred, jealousy, quarrels and fights.",
+   "core_idea": "Failing to see through others' eyes breeds hatred",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "How difficult it is to look through each other’s eyes, and that is the bane of humanity. That is the basis of hatred and jealousy, of quarrel and of fight.",
+    "reason": "Transcription error: stray space"
+   }
+  },
+  {
+   "id": "viv11-019-p01",
+   "plain": "Make your nerves strong; we need muscles of iron and nerves of steel. We have wept long enough. No more weeping: stand on your feet and be men.",
+   "core_idea": "Stop weeping; be strong and stand up",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-019-p02",
+   "plain": "Here is a test of truth: reject as poison anything that weakens you in body, mind or spirit; there is no life in it and it cannot be true. Truth is pure and wise, and it always strengthens and enlightens.",
+   "core_idea": "Whatever weakens you cannot be true",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-019-p03",
+   "plain": "Reason goes a few steps and then stops, but inspiration comes through the heart. Love opens the most impossible gates; it is the gateway to all the secrets of the universe.",
+   "core_idea": "Love opens what reason cannot",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-019-p04",
+   "plain": "Would you still do right if the whole world, even your family, opposed you and you lost money and name? As Bhartrihari said, the steady person never strays an inch from truth, whatever praise, blame or death comes.",
+   "core_idea": "Hold to the right course whatever the cost",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-021-p01",
+   "plain": "Two friendly birds sit on one tree. The lower eats sweet and bitter fruits and turns happy and unhappy; the upper sits calm and majestic, eating nothing, absorbed in its own glory. This is a picture of the human soul.",
+   "core_idea": "The soul is a calm witness above joy and sorrow",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-021-p02",
+   "plain": "In everyone's life, amid deepest sorrow or joy, come golden moments when the clouds part and we glimpse something far beyond the senses, beyond pleasure and pain, and beyond all longing for money, fame or legacy.",
+   "core_idea": "Golden moments reveal something beyond the senses",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-021-p03",
+   "plain": "On every page the Upanishads tell me: be strong, do not be weak. Yes, people have weaknesses, but will more weakness heal them? You cannot wash dirt with dirt. Stand up and be strong.",
+   "core_idea": "Weakness cannot cure weakness; be strong",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-022-p01",
+   "plain": "The Upanishads say ignorance is the cause of all misery, and that is true everywhere. Ignorance makes us hate each other and keeps us from loving; once we know each other, love must come, since we are one.",
+   "core_idea": "Ignorance makes us hate; knowing each other brings love",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-022-p02",
+   "plain": "Even the smallest thing done well brings wonderful results, so let everyone do what little they can. A fisherman who thinks he is the Spirit will be a better fisherman; a student who thinks so, a better student.",
+   "core_idea": "Even small work done well yields great results",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-023-p01",
+   "plain": "See every person as God. You cannot help anyone; you can only serve God's children, and God himself. If you get the chance, count yourself blessed and do not think too much of yourself. Do it only as worship.",
+   "core_idea": "Serve others as God, humbly, as worship",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-023-p02",
+   "plain": "Give up the idea that you can do others good by ruling them. As with a plant, you can only supply what it needs, earth, water and air; it takes what it wants and grows by its own nature.",
+   "core_idea": "You cannot rule others into good; only nourish their growth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-023-p03",
+   "plain": "In everyone's life come calm moments, at a loved one's death, a shock, or great joy, when the mind feels its real nature and glimpses the Infinite beyond words and thought. Such moments must be deepened and practised.",
+   "core_idea": "Moments of stillness give a glimpse of the Infinite",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-024-p01",
+   "plain": "Religion is not in books, theories, dogmas, talk or even reasoning. It is being and becoming.",
+   "core_idea": "Religion is being and becoming",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-024-p02",
+   "plain": "Tell all nations, as the Vedas do: your fights are pointless. Have you seen the God you preach? If not, your preaching is empty; if you have, you will not quarrel, and your face will shine.",
+   "core_idea": "Those who have seen God do not quarrel",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-024-p03",
+   "plain": "A prayer: I do not want wealth, followers, learning or even heaven. Let me be born again and again, but Lord, grant that I may love you, and love you only for love's sake.",
+   "core_idea": "Ask God only for love, for love's sake",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-026-p01",
+   "plain": "We must always be ready to sit at the feet of anyone, because everyone can teach us great lessons. Manu says to accept good knowledge even from the lowest-born and learn from them, by serving, the road to heaven.",
+   "core_idea": "Be ready to learn from anyone",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-026-p02",
+   "plain": "The first sign of life is expansion. You must expand if you want to live; the moment you stop, death is near and danger lies ahead.",
+   "core_idea": "To live, you must keep expanding",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-027-p01",
+   "plain": "People will tell you to look after your own home first and only then work outside it. But plainly, you work best when you work for others.",
+   "core_idea": "You work best when you work for others",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-027-p02",
+   "plain": "Love must conquer hatred; hatred cannot conquer itself. Materialism and its miseries can never be defeated by more materialism, and armies fighting armies only multiply and brutalise humanity.",
+   "core_idea": "Hatred cannot conquer hatred; love must",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-028-p01",
+   "plain": "In a Sufi poem the lover knocks at the Beloved’s door. Asked who is there, he says I am, then gives his name; the door stays shut. The third time he says I am yourself, my Love, and it opens.",
+   "core_idea": "The door opens when the self dissolves into the Beloved",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-028-p02",
+   "plain": "Religion is not going to church, marking your forehead or dressing a certain way. Without an opened heart and realisation of God, all that is useless. Whoever has the colour of the heart needs no outer colour.",
+   "core_idea": "Outer marks are empty without an opened heart",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-028-p03",
+   "plain": "All power is within you; you can do anything. Believe that, and do not believe you are weak or half-mad, as most of us do. You need no one's guidance. Stand up and express the divinity within you.",
+   "core_idea": "All power is within you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-028-p04",
+   "plain": "Such periods were necessary. A great tree bears a ripe fruit that falls, rots and decays, and from that decay grows a new tree, perhaps mightier than the first.",
+   "core_idea": "Decay can seed something greater",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-030-p01",
+   "plain": "Gaining an advantage is one thing; keeping it for evil use is another. Whenever power is used for evil it becomes devilish; it must be used only for good.",
+   "core_idea": "Power must be used only for good",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-031-p01",
+   "plain": "Education is not a mass of undigested facts in your head. If you have taken in five ideas and made them your life and character, you are better educated than someone who memorised a library; otherwise libraries would be sages.",
+   "core_idea": "Education is ideas lived, not facts stored",
+   "quotability": 2,
+   "complete": true,
+   "fix": {
+    "display_text": "Education is not the amount of information that is put into your brain and runs riot there, undigested, all your life. We must have life-building, man-making, character-making assimilation of ideas. If you have assimilated five ideas and made them your life and character, you have more education than any man who has got by heart a whole library — “The ass carrying its load of sandalwood knows only the weight and not the value of the sandalwood.” If education is identical with information, the libraries are the greatest sages in the world, and encyclopaedias are the Rishis.",
+    "reason": "Transcription error: missing hyphen"
+   }
+  },
+  {
+   "id": "viv11-031-p02",
+   "plain": "Money is nothing. For twelve years I did not know where my next meal would come from, yet money and whatever I need must come, because they are my servants, not my masters.",
+   "core_idea": "Money serves me; I do not serve it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-031-p03",
+   "plain": "Life is short but the soul is eternal, and death is certain. So let us take up a great ideal and give our whole life to it.",
+   "core_idea": "Life is short; give it to a great ideal",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-032-p01",
+   "plain": "A person may try to lose himself in the universal, renounce everything, and even forget he is human; yet deep in his heart a soft whisper still tells him: East or West, home is best.",
+   "core_idea": "Even the renunciate's heart still longs for home",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-032-p02",
+   "plain": "No one arrived in England hating the English more than I did. But the more I lived among them and found the nation’s heart, the more I loved them; now none here loves them more. Go and mix with them.",
+   "core_idea": "Living among people turned my hatred into love",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-033-p01",
+   "plain": "There can be no friendship without equality, and no equality when one side always teaches and the other always sits at its feet.",
+   "core_idea": "Friendship needs equality, and equality needs give and take",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-033-p02",
+   "plain": "Intellect is great, but it stops within certain limits. Inspiration comes through the heart, and the heart alone.",
+   "core_idea": "Inspiration comes through the heart, not intellect",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-033-p03",
+   "plain": "It is people who make money. The whole world has been made by human energy, enthusiasm and faith.",
+   "core_idea": "Human energy and faith make everything, even money",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-033-p04",
+   "plain": "My Master used to say that whoever thinks himself weak will become weak, and that is true.",
+   "core_idea": "Think yourself weak and you become weak",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-034-p01",
+   "plain": "Do not be afraid of anything, and you will do wonderful work. The moment you fear, you are nobody. Fear is the main cause of misery and the greatest superstition; fearlessness can bring heaven in a moment.",
+   "core_idea": "Fear is the root of misery; fearlessness brings heaven",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-036-p01",
+   "plain": "Patanjali's example: a farmer's field sits beside a full reservoir, held back only by a mud wall; break it and water rushes in. The soul already holds power, purity and perfection; once the veil over it is removed, they show.",
+   "core_idea": "The soul's perfection is already there, only veiled",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-036-p02",
+   "plain": "As the saying goes, if much bathing led to heaven, fish would get there first; if eating vegetables did, cows and deer would arrive first.",
+   "core_idea": "Outward practices alone do not earn heaven",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-037-p01",
+   "plain": "Even if you are too weak to renounce, do not lower the ideal. Say honestly that you are weak and cannot renounce, but do not be a hypocrite, twisting texts and making clever excuses to fool people.",
+   "core_idea": "Admit weakness honestly rather than lowering the ideal",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-037-p02",
+   "plain": "Those who are in darkness yet proudly think they know everything try to help others; they wander in crooked ways and, like the blind leading the blind, both fall into the ditch.",
+   "core_idea": "The proud and ignorant who lead others fall together",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-037-p03",
+   "plain": "As a child you thought one way, as an adult another, and in old age you will think differently again. Everyone changes, so where is your individuality?",
+   "core_idea": "Everything about us changes, so where is the self?",
+   "quotability": 3,
+   "complete": false,
+   "extended_text": "You were a child and thought in one way, now you are a man and think another way, again you will be an old man and think differently. Everybody is changing. If so, where is your individuality? Certainly not in the body, or in the mind, or in thought. And beyond that is your Atman, and, says the Advaitist, this Atman is the Brahman Itself."
+  },
+  {
+   "id": "viv11-038-p01",
+   "plain": "Those whose minds are firmly fixed on the sameness of everything have conquered birth and death in this very life, because God is pure and the same to all; such people are said to live in God.",
+   "core_idea": "Seeing all as the same is living in God",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-038-p02",
+   "plain": "Everything in this life is full of fear. Only renunciation makes a person fearless.",
+   "core_idea": "Only renunciation makes one fearless",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-039-p01",
+   "plain": "Each person must follow their own nature, and a teacher who helps along those lines brings progress. Forced onto another path, they lose what they had. Like a river, a life channelled along its course gains force; diverted, it weakens.",
+   "core_idea": "Let each person grow along their own nature",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-039-p02",
+   "plain": "Not sinning, lying, drinking, gambling or stealing is good, but it is only your duty and earns no praise. You must also serve others; do good to them as you do to yourself.",
+   "core_idea": "Avoiding wrong is only duty; also do good to others",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-040-p01",
+   "plain": "Do we always tell the truth? People flatter a rich man as a friend of the poor to get something, even if he would harm a poor man at his door. That is plain falsehood, and it pollutes the mind.",
+   "core_idea": "Flattery is falsehood, and it pollutes the mind",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-040-p02",
+   "plain": "Everything in this world, good or bad, belongs to God. Whatever happens in our lives, good or bad, is bringing us to Him.",
+   "core_idea": "Good and bad alike bring us to God",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-041-p01",
+   "plain": "The world sometimes needs criticism, even fierce criticism, but only for a while. The work that lasts forever is progress and building, not criticism and tearing down.",
+   "core_idea": "Criticism has its moment; lasting work is building",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-042-p01",
+   "plain": "If someone thinks day and night that they are miserable, low and nothing, they become nothing. Say I am, and you will be; dwell constantly on being nothing, and nothing you will be.",
+   "core_idea": "You become what you dwell on about yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-042-p02",
+   "plain": "I may be a little bubble and you a towering wave. Never mind: the same infinite ocean of life, power and spirit lies behind both of us, and it is mine as much as yours.",
+   "core_idea": "Small or great, we share the same infinite ocean",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-042-p03",
+   "plain": "A great sage, dying, asked his mind to remember his mighty deeds and thoughts, not his weaknesses and follies. We all have follies and weaknesses, but remembering your real nature is the only way to cure them.",
+   "core_idea": "Remember your real nature, not your failings",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-042-p04",
+   "plain": "You are what you make yourselves, by God's grace and your own effort. Merely believing in theories and doctrines will not help you much.",
+   "core_idea": "You are what you make yourself",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-043-p01",
+   "plain": "Do not rush to copy anyone; imitation is not civilisation. Dressing as a king does not make me one, and a donkey in a lion's skin is no lion. Cowardly imitation never brings progress.",
+   "core_idea": "Imitation is not progress",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-043-p02",
+   "plain": "Develop what you have by your own effort; do not imitate, yet take what is good from others. A seed absorbs earth, air and water but does not become them; it grows into a great tree after its own nature.",
+   "core_idea": "Learn from others but grow after your own nature",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-043-p03",
+   "plain": "If a room has been dark for centuries and we go in crying how dark it is, will the darkness leave? Bring in light and the darkness vanishes at once.",
+   "core_idea": "Bring light instead of lamenting the darkness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-043-p04",
+   "plain": "I have never lost faith in people, even at their worst, and wherever I had faith it won out in the end. Have faith in people, whether they seem learned or ignorant, angels or devils.",
+   "core_idea": "Always keep faith in people",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-045-p01",
+   "plain": "Only a fool living by the Ganges digs a little well, and so is one who begs God for material things. The devotee should say: Lord, I want nothing from you, but I am ready to give whatever you need.",
+   "core_idea": "Ask nothing of God; be ready to give",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-046-p01",
+   "plain": "A grain of sand irritates an oyster, which coats it with its own juice to form a pearl. The universe is like that: a pearl we form ourselves. All we get from the outside world is the blow.",
+   "core_idea": "We make our world from the blows it gives us",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "A grain of sand enters into the shell of a pearl oyster, and sets up an irritation there, and the oyster’s body reacts towards the irritation and covers the little particle with its own juice. That crystallises and forms the pearl. So the whole universe is like that, it is the pearl which is being formed by us. What we get from the external world is simply the blow.",
+    "reason": "Transcription error: stray space"
+   }
+  },
+  {
+   "id": "viv11-047-p01",
+   "plain": "A farmer opens a small gate and reservoir water rushes into his field; the power is already there. Likewise every being has behind it a reservoir of infinite strength, purity and bliss, and only our bodies hold it back.",
+   "core_idea": "Infinite power is already within; the body holds it back",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-048-p01",
+   "plain": "You become whatever you tell yourself; the Buddha said what you think, you are. So do not teach yourself that you are nothing and can do nothing without help from someone above the clouds; you will only grow weaker.",
+   "core_idea": "Do not teach yourself that you are helpless",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-048-p02",
+   "plain": "If you are going to be rational, be rational all the way; if not, give others the same freedom you ask for yourself.",
+   "core_idea": "Be consistently rational, or grant others the same latitude",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-049-p01",
+   "plain": "Only the witness truly enjoys. At a wrestling match, who enjoys it more, the wrestlers or the onlookers? The more you are a witness to anything in life, the more you enjoy it.",
+   "core_idea": "The witness enjoys more than the participant",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-049-p02",
+   "plain": "A wave differs from the ocean only in its form and name, which exist only with the wave. When the wave subsides, the same water remains, though its name and form are gone forever.",
+   "core_idea": "Name and form vanish; the underlying reality remains",
+   "quotability": 3,
+   "complete": false,
+   "extended_text": "Suppose there is a wave in the ocean. The wave is distinct from the ocean only in its form and name, and this form and this name cannot have any separate existence from the wave; they exist only with the wave. The wave may subside, but the same amount of water remains, even if the name and form that were on the wave vanish for ever. So this Maya is what makes the difference between me and you, between all animals and man, between gods and men."
+  },
+  {
+   "id": "viv11-050-p01",
+   "plain": "Through Advaita, know that whoever you hurt, you hurt yourself, because they are all you. You work through every hand, you are king and beggar, ignorant and learned, weak and strong; know this and be compassionate.",
+   "core_idea": "Whoever you hurt, you hurt yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-050-p02",
+   "plain": "All sins and evils can be summed up in one word: weakness. Weakness drives all wrongdoing, is the source of all selfishness, makes people harm others, and makes them show what they really are not.",
+   "core_idea": "All evil comes from weakness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-050-p03",
+   "plain": "I may be a little bubble and you a towering wave, but behind us both is the infinite ocean, Brahman, a store of power we can both draw on freely. So believe in yourself first, then in anything else.",
+   "core_idea": "Believe in yourself first; Brahman backs us all",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "I may be a little bubble, and you may be a wave mountain-high, but know that for both of us the infinite ocean is the background, the infinite Brahman is our magazine of power and strength, and we can draw as much as we like, both of us, I the bubble and you the mountain-high wave. Believe, therefore, in yourselves. The secret of Advaita is: Believe in yourselves first, and then believe in anything else.",
+    "reason": "Transcription error: missing hyphen"
+   }
+  },
+  {
+   "id": "viv11-050-p04",
+   "plain": "Stand up, be bold, and take the blame on your own shoulders. Do not throw mud at others; for all the faults you suffer from, you alone are the cause.",
+   "core_idea": "Take the blame yourself; stop blaming others",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-051-p01",
+   "plain": "Rise up again, because nothing can be done without renunciation. If you want to help others, your little self must go.",
+   "core_idea": "To help others, the little self must go",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-051-p02",
+   "plain": "Whether sages blame or praise, whether fortune comes or goes, whether death comes now or in a hundred years, the true sage never takes one false step from the right path.",
+   "core_idea": "The wise never step off the right path",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-051-p03",
+   "plain": "Bread first, then religion. We stuff starving people with religion, but no doctrine can satisfy hunger.",
+   "core_idea": "Feed the hungry before preaching religion",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-051-p04",
+   "plain": "You may talk doctrines by the million and have countless sects, but it is all nothing until you have a heart that feels.",
+   "core_idea": "Doctrines mean nothing without a feeling heart",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-052-p01",
+   "plain": "There the sun does not shine, nor the moon, stars or lightning, let alone this fire. Because He shines, everything shines; through Him everything gives light.",
+   "core_idea": "All light is His light",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-053-p01",
+   "plain": "One person may be a little bubble and another a towering wave, but behind both lies the infinite ocean. So there is hope for everyone.",
+   "core_idea": "One ocean lies behind every bubble and wave",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-053-p02",
+   "plain": "Sooner or later you must learn that you cannot be saved without trying to save your brothers. Combine great idealism with great practicality in your life.",
+   "core_idea": "Seek others' salvation; join idealism with practicality",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv11-053-p03",
+   "plain": "The true man is as strong as strength itself, yet has a woman's heart.",
+   "core_idea": "Be strong yet tender-hearted",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "viv11-054-p01",
+   "plain": "Reading many scriptures has made people parrots, not scholars. The true scholar is one who gains divine love from reading even one word of scripture.",
+   "core_idea": "Love, not book learning, makes one wise",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-054-p02",
+   "plain": "Even with a burning thirst for God, or a Guru to guide you, you cannot reach realisation unless you also practise what you have been taught.",
+   "core_idea": "Longing and a teacher are not enough without practice",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-054-p03",
+   "plain": "I do not despair at today's degradation; I am full of hope for the future. A seed is transformed and seems destroyed before it grows into a tree.",
+   "core_idea": "Present decline may be a seed of future greatness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv11-055-p01",
+   "plain": "When a grand old building falls into dirt and disrepair, do you clean and repair it, or tear it down for an untested modern plan? True reform means making it ready again by cleaning and repair, not demolishing it.",
+   "core_idea": "Restore what is good rather than demolish it",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "viv11-055-p02",
+   "plain": "Brothers, if you can worship God without form, needing no outward aids, do so; but why condemn those who cannot?",
+   "core_idea": "Do not condemn those who worship differently",
+   "quotability": 4,
+   "complete": true,
+   "fix": {
+    "display_text": "Brothers, if you are fit to worship God-without-form discarding all external help, do so, but why do you condemn others who cannot do the same?",
+    "reason": "Transcription error: missing hyphen"
+   }
+  },
+  {
+   "id": "viv12-001-p01",
+   "plain": "See and do everything, but do not be attached. Extreme attachment makes you lose self-mastery and become a slave, even to someone you love, and there are higher things than that. Love and do good to all, but stay free.",
+   "core_idea": "Love and do good, but never be enslaved by attachment",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-001-p02",
+   "plain": "We keep mistaking one thing for another and bring misery on ourselves. Whatever thrills us for a moment we take for the highest good and plunge in, only to find too late it has hurt us, often all our lives.",
+   "core_idea": "We mistake brief pleasure for the good",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "We always take one thing for another, and act upon that, with the result that we bring misery upon ourselves. We take the bad for the good. Anything that titillates our nerves for a moment we think as the highest good, and plunge into it immediately, but find, when it is too late, that it has given us a tremendous blow. Every day, we run into this error, and we often continue in it all our lives.",
+    "reason": "Stray semicolon from transcription"
+   }
+  },
+  {
+   "id": "viv12-001-p03",
+   "plain": "The great danger is that everyone wants to leap to the highest ideal, but leaping only ends in a fall. We are bound here and must break our chains slowly.",
+   "core_idea": "Break your chains slowly; do not leap",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-001-p04",
+   "plain": "We forget this world is a means, not an end. If it were the end, we would never die. We see people dying all around us, yet foolishly think we never will, and so take this life as the goal.",
+   "core_idea": "The world is a means, not the goal",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-001-p05",
+   "plain": "What we are now comes from past practice, and practice will make what we become. One kind of turning brought us here; so turn the other way and get out as soon as you can.",
+   "core_idea": "Practice made us, and practice can free us",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-001-p06",
+   "plain": "As oil poured from one vessel to another falls in an unbroken stream, and distant bells sound as one continuous note, so the mind should flow toward God in one continuous stream.",
+   "core_idea": "Let the mind flow to God unbroken",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p01",
+   "plain": "The selfish person will not remember God. The more we go out and do good to others, the purer our hearts become, and God will dwell in them.",
+   "core_idea": "Doing good purifies the heart for God",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p02",
+   "plain": "The first share of everything belongs to the poor; we have a right only to what is left. The poor, and all who suffer, are God's representatives.",
+   "core_idea": "The poor come first; they represent God",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p03",
+   "plain": "No virtue is higher than charity. The lowest person is the one whose hand pulls in to receive; the highest is the one whose hand reaches out to give. The hand was made for giving.",
+   "core_idea": "The hand was made to give",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p04",
+   "plain": "Everyone has their own burden. If you are miserable, try to overcome it and be happy. The weak cannot reach God, so never be weak; you have infinite strength within you, and you need it to overcome anything.",
+   "core_idea": "God is not reached by the weak; be strong",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p05",
+   "plain": "Too much merriment is always followed by sorrow; tears and laughter are close relatives. People swing between extremes. Keep the mind cheerful but calm, because every excess brings a reaction.",
+   "core_idea": "Stay cheerful but calm; excess brings reaction",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "viv12-002-p06",
+   "plain": "As a schoolboy, a stronger boy snatched my sweets, and I thought him the most wicked boy alive and vowed to punish him. We have both grown up now and are close friends.",
+   "core_idea": "Childhood grudges look small once we grow",
+   "quotability": 3,
+   "complete": true
+  }
+ ]
+}

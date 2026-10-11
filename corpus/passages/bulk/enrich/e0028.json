@@ -1,0 +1,1128 @@
+{
+ "items": [
+  {
+   "id": "tagore-stray-birds-001-p25",
+   "plain": "Life is handed to us as a gift, but we make it truly ours by giving it away.",
+   "core_idea": "We earn life by giving it",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p26",
+   "plain": "We get closest to greatness when our humility is great.",
+   "core_idea": "Great humility brings us near greatness",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p27",
+   "plain": "The little sparrow feels sorry for the peacock, which has to carry its heavy, showy tail.",
+   "core_idea": "Splendour can be a burden",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p28",
+   "plain": "The eternal voice sings to us: do not be afraid of passing moments.",
+   "core_idea": "Do not fear the passing moments",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p29",
+   "plain": "Friend, take my wine in my own cup; poured into someone else's, it loses its crown of foam.",
+   "core_idea": "Take something in its own form, not recast",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p30",
+   "plain": "Be grateful to the flame for its light, but also remember the lampstand, patiently and faithfully holding it up out of sight in the shadow.",
+   "core_idea": "Remember the unseen supporters behind the visible",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p31",
+   "plain": "Little grass, your steps are tiny, yet the whole earth beneath you is yours.",
+   "core_idea": "The small still hold the earth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p32",
+   "plain": "What is wrong cannot survive losing, but what is right can lose and still endure.",
+   "core_idea": "Right can survive defeat; wrong cannot",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p33",
+   "plain": "The waterfall sings that it gives all its water joyfully, even though the thirsty need only a little.",
+   "core_idea": "Give everything joyfully, beyond what is needed",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p34",
+   "plain": "The woodcutter's axe asked the tree for a handle, and the tree gave it.",
+   "core_idea": "The tree gives the means of its own cutting",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p35",
+   "plain": "We misread the world and then claim that it has fooled us.",
+   "core_idea": "We misread the world, then blame it",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p36",
+   "plain": "Grass looks for company down in the earth, while the tree looks for solitude up in the sky.",
+   "core_idea": "Some seek company, others seek solitude",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p37",
+   "plain": "May life be as beautiful as summer flowers, and death as beautiful as autumn leaves.",
+   "core_idea": "Life and death can both be beautiful",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p38",
+   "plain": "Someone who wants to do good has to knock at the gate; someone who loves finds it already open.",
+   "core_idea": "Love opens doors that good intentions knock on",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p39",
+   "plain": "The sheath is happy to be plain and dull, because it keeps the sword sharp.",
+   "core_idea": "Humble roles protect what shines",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p40",
+   "plain": "Power claimed the world as its own, and the world made it a prisoner on her throne. Love gave itself to the world, and the world let it move freely in her home.",
+   "core_idea": "Power is confined; love is set free",
+   "quotability": 3,
+   "complete": true,
+   "fix": {
+    "display_text": "Power said to the world, \"You are mine.\" The world kept it prisoner on her throne. Love said to the world, \"I am thine.\" The world gave it the freedom of her house.",
+    "reason": "Missing closing quotation mark after \"mine.\""
+   }
+  },
+  {
+   "id": "tagore-stray-birds-001-p41",
+   "plain": "I think of past ages that drifted through life, love and death and are now forgotten, and I feel how freeing it is to pass away.",
+   "core_idea": "Being forgotten by time can feel freeing",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p42",
+   "plain": "Death is like the stamp that gives a coin its value: because life ends, we can spend it on what really matters.",
+   "core_idea": "Death gives life its value",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p43",
+   "plain": "The cloud stayed modestly in a corner of the sky, and the morning crowned it with glory.",
+   "core_idea": "Humility is crowned with glory",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p44",
+   "plain": "The dust is insulted, and in return it gives flowers.",
+   "core_idea": "Answer insult with gifts",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p45",
+   "plain": "Don't stop to pick and hoard flowers; keep walking, because flowers will go on blooming all along your way.",
+   "core_idea": "Don't cling to beauty; more will come",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p46",
+   "plain": "Don't insult your friend by crediting him with good qualities that are really your own.",
+   "core_idea": "Don't patronise friends with borrowed virtues",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p47",
+   "plain": "My own shadow falls across my path because the lamp I carry has never been lit.",
+   "core_idea": "Our unlit inner light darkens our way",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p48",
+   "plain": "People go into noisy crowds to drown out the loud silence inside themselves.",
+   "core_idea": "Crowds are used to escape inner silence",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p49",
+   "plain": "The road is lonely even though crowds walk it, because no one loves it.",
+   "core_idea": "Crowded but unloved is still lonely",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p50",
+   "plain": "Within my thriving world I carry all the worlds that failed.",
+   "core_idea": "Success carries past failures within it",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p51",
+   "plain": "It is not hammer blows but the water's dancing that sings the pebbles into perfect shape.",
+   "core_idea": "Gentleness perfects more than force",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p52",
+   "plain": "Bees drink nectar from flowers and hum their thanks as they leave, while the showy butterfly is sure the flowers should thank him.",
+   "core_idea": "The humble give thanks; the vain expect it",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p53",
+   "plain": "It is easy to speak bluntly when you don't wait until you can tell the whole truth.",
+   "core_idea": "Bluntness is easy without the whole truth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p54",
+   "plain": "If you close your door to every mistake, you will close it to truth as well.",
+   "core_idea": "Shutting out all error shuts out truth",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p55",
+   "plain": "The roots underground ask no reward for making the branches bear fruit.",
+   "core_idea": "Hidden helpers seek no reward",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p56",
+   "plain": "Time is the richness of change, but the clock mocks it, turning it into mere change with no richness at all.",
+   "core_idea": "Clocks reduce time to empty change",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p57",
+   "plain": "When you took me only from here to there, Road, I grew tired of you; now that you lead me everywhere, I love you as if married to you.",
+   "core_idea": "A road to everywhere becomes beloved",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p58",
+   "plain": "Let me believe that one of those stars is guiding my life through the dark unknown.",
+   "core_idea": "Hoping a star guides us through darkness",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p59",
+   "plain": "A sad voice lives among the ruins of the years, and at night it sings to me that it loved me.",
+   "core_idea": "Past love still sings in memory",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p60",
+   "plain": "I have stars in the sky, but oh, how I long for the little lamp in my house that is still unlit.",
+   "core_idea": "Distant splendour can't replace a near light",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p61",
+   "plain": "The dust of dead words clings to you. Wash your soul clean with silence.",
+   "core_idea": "Silence cleanses the soul of empty words",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p62",
+   "plain": "Life has gaps in it, and through them comes the sad music of death.",
+   "core_idea": "Death's sorrow enters through life's gaps",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-001-p63",
+   "plain": "In the morning the world has opened its heart of light. My heart, come out with your love to meet it.",
+   "core_idea": "Meet the morning's light with love",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p01",
+   "plain": "God's great power is found in the gentle breeze, not in the storm.",
+   "core_idea": "God's power is in gentleness, not force",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p02",
+   "plain": "The setting sun asked who would take over its work, and the little clay lamp replied that it would do what it could.",
+   "core_idea": "Do what small part you can",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p03",
+   "plain": "Pulling off a flower's petals does not get you its beauty.",
+   "core_idea": "Taking apart beauty does not capture it",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p04",
+   "plain": "The truly great mix with the small without fear; it is those in the middle who hold themselves apart.",
+   "core_idea": "The great are not afraid of the small",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p05",
+   "plain": "When we delight in being full, we can give away what we produce with joy.",
+   "core_idea": "Fullness lets us give gladly",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p06",
+   "plain": "Love, when you come carrying the burning lamp of pain, I can see your face and recognise you as joy.",
+   "core_idea": "Pain reveals love's face as bliss",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p07",
+   "plain": "The world has touched my soul with pain and asks me to give it back as songs.",
+   "core_idea": "Turn the world's pain into song",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p08",
+   "plain": "Either you have real work or you don't. Trouble starts when you have to say, 'Let's do something.'",
+   "core_idea": "Trouble begins with aimless busyness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p09",
+   "plain": "Asked what drives him on like fate, the answer is: his own self, striding on his back.",
+   "core_idea": "Our own self drives us like fate",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p10",
+   "plain": "As I walk I keep spilling water from my jar, so very little is left by the time I get home.",
+   "core_idea": "What we carry spills away on the road",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p11",
+   "plain": "Water in a jar sparkles while the sea is dark. A small truth can be said in clear words; a great truth is met with deep silence.",
+   "core_idea": "Great truths are held in silence",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p12",
+   "plain": "What I leave to the people I love are the little things; the great things belong to everyone.",
+   "core_idea": "Little things are our gifts to loved ones",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p13",
+   "plain": "My flower of the day lost its petals unnoticed, but by evening it ripens into a golden fruit of memory.",
+   "core_idea": "Lost moments ripen into precious memories",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p14",
+   "plain": "Someone too busy doing good has no time left to actually be good.",
+   "core_idea": "Busy doing good, too busy to be good",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p15",
+   "plain": "I am like the autumn cloud that has already poured out its rain; look for my fullness in the ripe rice fields.",
+   "core_idea": "What we gave shows where our fullness went",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p16",
+   "plain": "Darkness moves toward light, but blindness moves toward death.",
+   "core_idea": "Darkness can end in light; blindness cannot",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p17",
+   "plain": "Be still, my heart, and don't stir up dust. Let the world come to you.",
+   "core_idea": "Be still and let the world come",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p18",
+   "plain": "Before the arrow flies, the bow whispers to it that its freedom belongs to the bow.",
+   "core_idea": "Freedom depends on what launches it",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p19",
+   "plain": "A mind that is nothing but logic is like a knife that is all blade: it cuts the hand of whoever uses it.",
+   "core_idea": "Pure logic wounds its user",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p20",
+   "plain": "Touching something can kill it, while keeping your distance may let you truly have it.",
+   "core_idea": "Grasping destroys; distance can possess",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p21",
+   "plain": "The wasp thinks the bees' honeycomb next door is too small, and the bees tell him to build an even smaller one.",
+   "core_idea": "Critics should try making something themselves",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p22",
+   "plain": "The riverbank tells the river that it cannot hold on to its waves, but asks to keep its footprints in its heart.",
+   "core_idea": "We can't keep what passes, only its traces",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p23",
+   "plain": "May I not present myself wrongly to the world and so turn it against me.",
+   "core_idea": "Don't turn the world against yourself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p24",
+   "plain": "Praise makes me ashamed, because secretly I beg for it.",
+   "core_idea": "Craving praise makes praise shameful",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p25",
+   "plain": "When I have nothing to do, may my idleness be deeply peaceful and untroubled, like evening on the shore when the water is still.",
+   "core_idea": "Let idle time be deeply peaceful",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p26",
+   "plain": "Our desires paint rainbow colours onto what are only mists and vapours in life.",
+   "core_idea": "Desire colours life's empty mists",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p27",
+   "plain": "My sad thoughts tease me by asking me what they are called.",
+   "core_idea": "Sadness asks to be named",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p28",
+   "plain": "The fruit's service is precious and the flower's is sweet, but may my service be like the leaves, giving shade in humble devotion.",
+   "core_idea": "Choose humble, devoted service like leaves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p29",
+   "plain": "People as individuals can be cruel, but humanity as a whole is kind.",
+   "core_idea": "Men are cruel, humanity is kind",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p30",
+   "plain": "Nothing drains out of the world when someone dies, because death is not a crack in it.",
+   "core_idea": "Death is not a hole in the world",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p31",
+   "plain": "Love that has been lost has made life richer.",
+   "core_idea": "Lost love enriches life",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p32",
+   "plain": "Kicking the ground only raises dust; it never grows crops.",
+   "core_idea": "Anger and force produce nothing",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p33",
+   "plain": "Our names are like light glowing on night waves at sea, which fades without leaving a trace.",
+   "core_idea": "Our names fade without a trace",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p34",
+   "plain": "Only someone who can see the rose should be allowed to see the thorns.",
+   "core_idea": "Only see faults if you see beauty too",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p35",
+   "plain": "Cover a bird's wings in gold and it will never fly in the sky again.",
+   "core_idea": "Riches can ground the free spirit",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p36",
+   "plain": "To the heart, distance seems much larger than it is.",
+   "core_idea": "The heart magnifies distance",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p37",
+   "plain": "The moon spreads her light across the whole sky and keeps her dark spots to herself.",
+   "core_idea": "Share your light, keep your flaws private",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p38",
+   "plain": "Don't just say 'It's morning' and brush it off with yesterday's label. See it for the first time, like a newborn child without a name.",
+   "core_idea": "See each morning as completely new",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p39",
+   "plain": "The raindrop asked the jasmine to keep it in her heart forever; the jasmine sighed 'Alas' and fell to the ground.",
+   "core_idea": "Nothing can promise to keep us forever",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p40",
+   "plain": "Shy thoughts, don't be afraid of me; I am a poet.",
+   "core_idea": "A poet welcomes timid thoughts",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p41",
+   "plain": "You have led me through the busy journeys of the day to the loneliness of evening, and I wait through the quiet night to learn what it means.",
+   "core_idea": "Waiting in stillness for life's meaning",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p42",
+   "plain": "Life is like crossing a sea together in one small boat; at death we reach the shore and each go off to our own world.",
+   "core_idea": "We share life's voyage, part at death",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p43",
+   "plain": "Truth flows like a stream, and the channels it runs through are our mistakes.",
+   "core_idea": "Truth reaches us through mistakes",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p44",
+   "plain": "Today my heart longs, like someone homesick, for one sweet hour far back across the sea of time.",
+   "core_idea": "Longing for one sweet hour long past",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p45",
+   "plain": "The sharp blade should not sneer at its handle for being blunt.",
+   "core_idea": "Don't scorn the plain parts that support you",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p46",
+   "plain": "When what is real is misunderstood and the stress is put in the wrong place, it becomes unreal.",
+   "core_idea": "Misread reality becomes unreal",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p47",
+   "plain": "My heart, find your beauty in the movement of the world, as a boat takes its grace from the wind and the water.",
+   "core_idea": "Find beauty by moving with the world",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p48",
+   "plain": "I live in my own little world and fear losing even the smallest part of it. Lift me into your world, and let me be free to gladly lose everything.",
+   "core_idea": "Freedom in gladly losing everything to God",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p49",
+   "plain": "Something false can never become true just by becoming more powerful.",
+   "core_idea": "Power cannot make falsehood true",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p50",
+   "plain": "The little flower lies in the dust because it tried to follow the butterfly's path.",
+   "core_idea": "Trying to be what you're not brings a fall",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p51",
+   "plain": "I have sung the songs of your day; in the evening, let me carry your lamp along the stormy path.",
+   "core_idea": "Serving God through day and stormy night",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p52",
+   "plain": "I don't invite you into my house; I ask you, my Lover, to come into my endless loneliness.",
+   "core_idea": "Inviting the beloved into one's loneliness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p53",
+   "plain": "Death is as much a part of life as birth, just as walking is lifting your foot as well as putting it down.",
+   "core_idea": "Death belongs to life like birth",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p54",
+   "plain": "I have understood what you whisper through flowers and sunshine; now teach me to understand what you say through pain and death.",
+   "core_idea": "Learning God's meaning in pain and death",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p55",
+   "plain": "Beneath the sadness of everything, I hear the Eternal Mother softly singing.",
+   "core_idea": "The Eternal Mother sings through all sadness",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p56",
+   "plain": "My earth, I arrived on your shore a stranger, lived in your home as a guest, and leave your door as a friend.",
+   "core_idea": "Arriving a stranger, leaving the earth a friend",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p57",
+   "plain": "When I am gone, may my thoughts reach you like the lingering glow after sunset at the edge of the silent, starry night.",
+   "core_idea": "Being remembered like a sunset's afterglow",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p58",
+   "plain": "The day's work is over. Mother, let me hide my face in your arms and dream.",
+   "core_idea": "Resting in the Mother's arms after work",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p59",
+   "plain": "The lamp of being together burns a long time, but at parting it goes out in an instant.",
+   "core_idea": "Togetherness lasts long, parting is instant",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p60",
+   "plain": "World, when I am dead, keep just one phrase for me in your silence: 'I have loved.'",
+   "core_idea": "Be remembered only for having loved",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p61",
+   "plain": "We truly live in this world only when we love it.",
+   "core_idea": "Loving the world is truly living",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p62",
+   "plain": "Let the dead live on through fame, but let the living live on through love.",
+   "core_idea": "Fame for the dead, love for the living",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p63",
+   "plain": "I will die over and over to learn that life never runs out.",
+   "core_idea": "Repeated deaths show life is endless",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p64",
+   "plain": "Walking in the crowded road, I saw your smile from the balcony, and I sang and forgot all the noise.",
+   "core_idea": "One smile can silence the world's noise",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p65",
+   "plain": "Love is life at its fullest, like a cup filled with wine.",
+   "core_idea": "Love is life filled to the brim",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p66",
+   "plain": "The pain of love surrounded my life like a bottomless sea, and the joy of love sang like birds in its blossoming woods.",
+   "core_idea": "Love brings both deep pain and joy",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p67",
+   "plain": "Put out the lamp whenever you wish; I will come to know your darkness and love it.",
+   "core_idea": "Loving God's darkness as well as light",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p68",
+   "plain": "When I stand before you at the end of the day, you will see my scars and know I was wounded and also healed.",
+   "core_idea": "Scars show both wounds and healing",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p69",
+   "plain": "Clouds from past days drift into my life, no longer bringing rain or storms, only colour for my sunset sky.",
+   "core_idea": "Old troubles become colour in later life",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p70",
+   "plain": "Truth stirs up a storm against itself, and that storm spreads its seeds far and wide.",
+   "core_idea": "Opposition spreads the truth",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p71",
+   "plain": "Last night's storm has left this morning crowned with a golden calm.",
+   "core_idea": "Peace follows the storm",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p72",
+   "plain": "Blessed is the person whose fame does not shine brighter than their truth.",
+   "core_idea": "Let your truth outshine your fame",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p73",
+   "plain": "The world loved people when they smiled, and grew afraid of them when they laughed.",
+   "core_idea": "Smiles are loved, laughter can be feared",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p74",
+   "plain": "Your sunshine smiles on the winter days of my heart, never doubting that spring flowers will come.",
+   "core_idea": "God's light trusts the heart's coming spring",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p75",
+   "plain": "You cross deserts of empty years to reach the moment when everything is fulfilled.",
+   "core_idea": "Barren years lead to fulfilment",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p76",
+   "plain": "The day is gloomy: the light under the dark clouds looks like a punished, tear-stained child, and the wind cries like a wounded world. Yet I know I am travelling to meet my Friend.",
+   "core_idea": "Through gloom, journeying toward the divine Friend",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p77",
+   "plain": "We cannot accept as true the fact that love can ever lose.",
+   "core_idea": "We refuse to believe love can lose",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p78",
+   "plain": "One day we will know that death can never take what the soul has gained, because those gains have become part of the soul itself.",
+   "core_idea": "Death cannot take the soul's gains",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p79",
+   "plain": "In the evening of my life, God comes to me carrying the flowers of my past, still fresh in his basket.",
+   "core_idea": "God keeps our past fresh for us",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p80",
+   "plain": "My Lord, let me live truthfully, so that my death will be true as well.",
+   "core_idea": "Live truly so death is true",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p81",
+   "plain": "Human history waits patiently for the day the insulted and humiliated triumph.",
+   "core_idea": "History awaits the triumph of the humiliated",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p82",
+   "plain": "I climbed to the summit and found no shelter on fame's cold, empty heights. Guide me, before the light goes, down to the quiet valley where life's harvest ripens into wisdom.",
+   "core_idea": "Fame's heights are empty; wisdom grows in quiet",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p83",
+   "plain": "I have suffered, despaired and known death, and I am glad to be in this great world.",
+   "core_idea": "Glad for life despite suffering",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p84",
+   "plain": "Some stretches of my life are bare and silent; they are the open spaces that gave my busy days light and air.",
+   "core_idea": "Empty times give busy life room to breathe",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p85",
+   "plain": "Free me from the unfinished past that clings to me from behind and makes dying hard.",
+   "core_idea": "An unfulfilled past makes death hard",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tagore-stray-birds-002-p86",
+   "plain": "May my final word be this: that I trust in your love.",
+   "core_idea": "Ending with trust in God's love",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p01",
+   "plain": "The highest goodness is like water: it benefits everything and, without struggling, settles in the low places everyone avoids. That is why it comes close to the Tao.",
+   "core_idea": "Highest goodness is humble and helpful like water",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p02",
+   "plain": "Better not to fill a vessel than carry it brimming. Sharpened points dull; hoarded treasure can't be guarded; wealth that breeds arrogance brings ruin. When the work is done and fame grows, withdrawing is Heaven's way.",
+   "core_idea": "Stop before excess; withdraw when work is done",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p03",
+   "plain": "Too many colours blind the eyes, too much music deafens the ears, too many flavours dull the taste; racing and hunting drive the mind wild, and chasing rare things leads people to do wrong.",
+   "core_idea": "Overindulging the senses dulls and corrupts us",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p04",
+   "plain": "Favour and disgrace are equally to be feared. Gaining favour makes you anxious about losing it, and losing it makes you dread worse misfortune; so both bring fear.",
+   "core_idea": "Favour and disgrace both bring fear",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p05",
+   "plain": "Who can clear muddy water? Leave it still, and it slowly clears. Who can reach rest? Let movement continue, and rest gradually comes.",
+   "core_idea": "Stillness clears; rest arises in its own time",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tao-001-p06",
+   "plain": "Everyone else looks content, as if feasting. I alone seem flat and still, like a baby not yet smiling, forlorn and homeless. Others have plenty; I seem to have lost everything, my mind foolish and in chaos.",
+   "core_idea": "The sage feels alone and lost among content crowds",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p01",
+   "plain": "What is partial becomes whole, the crooked straight, the empty full, the worn-out new. Those who want little get it; those who want much lose their way.",
+   "core_idea": "Want little and you will have enough",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p02",
+   "plain": "A gale doesn't last the whole morning, and a downpour doesn't last all day. These come from Heaven and Earth, and if even they can't make such bursts last, how much less can a person.",
+   "core_idea": "Violent bursts never last",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p03",
+   "plain": "On tiptoe you can't stand firm; taking huge strides you can't walk well. In the same way, showing off doesn't make you shine, pushing your views doesn't earn respect, and boasting or conceit wins no recognition.",
+   "core_idea": "Self-display defeats itself",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p04",
+   "plain": "Things naturally turn around: what was ahead falls behind, what was warm grows cold, strength often falls to weakness, and stored wealth crumbles, mocking our effort.",
+   "core_idea": "Everything reverses in time",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p05",
+   "plain": "Knowing others is shrewd; knowing yourself is wise. Defeating others is strength; mastering yourself is real power. Being content is wealth; persevering shows a firm will.",
+   "core_idea": "Self-knowledge and self-mastery are true strength",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tao-002-p06",
+   "plain": "The soft overcomes the hard, and the weak overcomes the strong.",
+   "core_idea": "Softness overcomes hardness",
+   "quotability": 5,
+   "complete": true
+  },
+  {
+   "id": "tao-003-p01",
+   "plain": "Which matters more to you, fame or life? Life or wealth? If you keep your life and lose the rest, or keep the rest and lose your life, which brings sorrow nearer?",
+   "core_idea": "Life matters more than fame or wealth",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-003-p02",
+   "plain": "No wrong is greater than approving ambition, no disaster greater than discontent, no fault greater than always wanting more. So the enough that comes from contentment is an enough that lasts.",
+   "core_idea": "Contentment is lasting sufficiency",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-003-p03",
+   "plain": "I am good to those who are good to me and also to those who are not, and so everyone becomes good. I am sincere with the sincere and also with the insincere, and so everyone becomes sincere.",
+   "core_idea": "Return goodness to all, and goodness spreads",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-003-p04",
+   "plain": "Happiness sits right beside misery, and misery hides beneath happiness. Who knows how either will turn out in the end?",
+   "core_idea": "Fortune and misfortune are intertwined",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p01",
+   "plain": "People who promise easily rarely keep their word, and those who assume everything is easy find it hard. So the sage treats even easy-looking things as difficult, and so meets no difficulties.",
+   "core_idea": "Treat easy things seriously to avoid trouble",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p02",
+   "plain": "A tree too wide to hug grew from a tiny sprout; a nine-storey tower began as a small pile of earth; a thousand-mile journey starts with one step.",
+   "core_idea": "Great things begin small",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p03",
+   "plain": "Knowing, yet thinking you don't know, is the highest state; not knowing, yet thinking you do, is a sickness.",
+   "core_idea": "Thinking you know when you don't is sickness",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p04",
+   "plain": "At birth people are soft and weak; at death, stiff and hard. Plants are tender when young and dry and brittle when dead. So hardness and rigidity go with death, softness and weakness with life.",
+   "core_idea": "Softness belongs to life, rigidity to death",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p05",
+   "plain": "After a bitter quarrel is patched up, some resentment always remains, and how can that be good?",
+   "core_idea": "Reconciliation after enmity leaves resentment",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p06",
+   "plain": "True words aren't fancy, and fancy words aren't true. Those skilled in the Tao don't argue; those who argue aren't skilled. Those who know it aren't widely learned; the widely learned don't know it.",
+   "core_idea": "Truth is plain; wisdom needs no argument",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "tao-004-p07",
+   "plain": "The sage doesn't hoard. The more he spends on others, the more he has; the more he gives, the richer he becomes.",
+   "core_idea": "Giving to others enriches the giver",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-001-p01",
+   "plain": "The soul is like a castle of clear crystal with many rooms, a paradise where God delights to dwell. Its beauty and powers are beyond our understanding, just as God is, because he made us in his image.",
+   "core_idea": "The soul is a crystal castle where God dwells",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-001-p02",
+   "plain": "It is our own shameful fault that we don't understand our nature or origin. Worse than not knowing your own name, we think only of our bodies and rarely consider the soul's gifts, worth, and who dwells in it.",
+   "core_idea": "We neglect to know our own souls",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-001-p03",
+   "plain": "Resenting God's graces to others shows a lack of humility and love. Why not be glad when someone receives favours that take nothing from us, and rejoice that God shows his greatness wherever he chooses?",
+   "core_idea": "Rejoice when God blesses others",
+   "quotability": 2,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-001-p04",
+   "plain": "If someone doesn't consider who they are speaking to, what they are asking, or who they are to speak to God, then however many words they say, it isn't prayer.",
+   "core_idea": "Prayer needs awareness of whom we address",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-002-p01",
+   "plain": "A soul in that state is like a crystal in sunlight covered with a thick black cloth: however bright the sun, the crystal cannot reflect it.",
+   "core_idea": "A darkened soul cannot reflect God's light",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-002-p02",
+   "plain": "Humility must always be at work, like a bee making honey, or all is lost. Yet the bee leaves its hive for flowers, and the soul should sometimes stop thinking of itself and rise to contemplate God's greatness.",
+   "core_idea": "Balance humility with contemplating God",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-002-p03",
+   "plain": "We will never know ourselves except by trying to know God: his greatness shows our lowliness, his purity our impurity, and his humility how far we are from being humble.",
+   "core_idea": "Knowing God is how we know ourselves",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-002-p04",
+   "plain": "My daughters, don't burden yourselves with worries that are not your concern.",
+   "core_idea": "Don't worry about what isn't yours",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-003-p01",
+   "plain": "My daughters, true perfection lies in loving God and our neighbour; the better we keep these two commandments, the more perfect we become.",
+   "core_idea": "Perfection is loving God and neighbour",
+   "quotability": 4,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-003-p02",
+   "plain": "We can lose our own peace, and disturb others', by constantly criticising small actions that often aren't faults at all, but which we misjudge because we don't know the reasons behind them.",
+   "core_idea": "Petty criticism destroys peace",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-003-p03",
+   "plain": "Sisters, don't undervalue this first grace or lose heart if you didn't answer the Lord's call at once; he will wait days and even years, especially when he sees perseverance and good desire. Perseverance is what matters most.",
+   "core_idea": "God waits patiently; perseverance is essential",
+   "quotability": 3,
+   "complete": true
+  },
+  {
+   "id": "teresa-interior-castle-003-p04",
+   "plain": "How absurd! We are full of obstacles and faults, our virtues barely born, if they exist at all, and yet we shamelessly expect sweetness in prayer and complain when it feels dry.",
+   "core_idea": "Don't demand sweetness in prayer while imperfect",
+   "quotability": 3,
+   "complete": true
+  }
+ ]
+}
