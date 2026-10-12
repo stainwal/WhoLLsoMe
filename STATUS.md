@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Sun 12 Oct 2026, 01:00 IST (session 5: Day 5 recorded, Day 15 done).*
+*Updated at the end of every session. Last update: Sun 12 Oct 2026, 15:30 IST (session 6: Day 16 decisions applied; repo prepared to go public).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–15. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–15, and Day 16 in part (`logs/D16.md`). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -15,25 +15,31 @@
   - Days 7–11 (`logs/D07.md`): all 33 sources extracted and tagged; 5,029 passages, 99.86% verbatim.
   - Days 12–14 (`logs/D12.md`): deduplication, display clean-ups, statistics; corpus v1 frozen (Decision, 9 Oct).
   - Day 15 (`logs/D15.md`): six Tagore and Gibran works licence-checked, fetched, extracted and tagged (613 passages; the Gracián dropped, no clean text). **5,540 passages can be shown across 39 sources.** Every shown passage enriched (plain version, core idea, quotability, completeness, display fixes) and every plain version AI-judged: 98.1% scored 4 or 5 of 5.
-- **Not started:** retrieval (Day 16 on), app code.
+  - Day 16, part (`logs/D16.md`): the 103 plain versions judged 3 or lower rewritten to keep the conclusion; blind side-by-side re-judge: new 95 fives, 8 fours, 0 at 3 or lower. Six suicide-naming passages confirmed hidden from distress. 28 of 34 AI letter fixes confirmed against a second copy and kept, 6 reverted; all 54 punctuation fixes kept.
+  - Repo prepared to go public (12 Oct): private archive `stainwal/WhoLLsoMe-archive`; the three restricted sources (Way of Perfection, Brother Lawrence, Sivananda Gita) and `evals/agent-set-provenance.md` out of git and out of history, still on disk (`pipeline/restricted.py`, pre-commit hook); history rewritten and force-pushed; gitleaks clean; README committed. **`stainwal/WhoLLsoMe` is still private.**
+- **Not started:** retrieval (rest of Day 16 on), app code.
 
 ## 2. Next session
 
-1. **Day 16, Shailesh (~10 min):** mark OK / Fix / Hide on the 10 rows of `evals/plain-version-check.md`; confirm the six suicide-naming passages hidden from distress (`logs/D15.md` section 4).
-2. **Day 16, Claude:** apply the marks; [DECISION] embeddings option (hosted API vs a free model); create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
-3. **Day 17:** eval harness; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
+1. **Shailesh:** the decisions in section 3 (crisis statements and licence before the repo goes public; two print-confirmed corrections; embeddings option).
+2. **Day 16, rest, Claude:** create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
+3. **Before the visibility switch:** clear Showcase checklist items 5 (licence, credits) and 6 (crisis statements); re-run gitleaks.
+4. **Day 17:** eval harness; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 16 | Mark the 10 weakest plain versions OK / Fix / Hide (~10 min) | `evals/plain-version-check.md` |
-| 16 | Confirm six suicide-naming passages hidden from distress by the 8 Oct precedent (small) | `logs/D15.md` section 4 |
 | 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
+| 16 | Crisis statements out of the public repo (A: git-ignored file plus history scrub, recommended; B: publish) | `logs/D16.md` section 4 |
+| 16 | Code licence: MIT (recommended) or Apache 2.0, plus README credits | `logs/D16.md` section 4 |
+| 16 | Apply two print-confirmed corrections as overrides (small; recommended yes) | `logs/D16.md` section 3 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Plain-version rewrite (Day 16, `logs/D16.md`):** the 103 judged ≤ 3 rewritten. Blind side-by-side judge on the same 103: old mean 3.86 (21 at ≤ 3), new mean 4.92 (95 fives, 8 fours, 0 at ≤ 3). Corpus now 4,763 fives, 777 fours: **100% at 4 or 5**, mean 4.86. The judge drifts between days (Day 15 gave the same old versions a mean of 2.92).
+- **Display fixes (Day 16):** 82 applied (28 letter fixes confirmed against a printed edition or independent transcription, 54 punctuation); 6 reverted (`evals/letter-fix-check.json`).
 - **Plain-version faithfulness (Day 15, `logs/D15.md`):** 5,540 of 5,540 plain versions judged by Opus 5.5 in a separate pass. Score 5: 4,668 (84.3%); 4: 769; 3: 96; 2: 6; 1: 1. **98.1% at 4 or 5**, mean 4.82, 0 flagged for adding advice. The judge is the writer's model family and is sensitive to its wording (0 vs 17 threes on the same 200 items with and without "be exacting"); the 10 weakest go to Shailesh on Day 16.
 - **Enrichment (Day 15):** quotability 1/2/3/4/5 = 48 / 1,137 / 2,415 / 1,405 / 535; Surprise-me pool (4–5, keep) 1,929. 28 passages extended verbatim for completeness; 88 display fixes accepted, 26 rejected by the checks (`corpus/passages/bulk/enrich-report.md`).
 - **New sources (Day 15):** 613 passages, 613 verbatim, 0 tag problems. Sand and Foam 252 and Stray Birds 149 passages, median 15–19 words, about 75% secular.
@@ -93,6 +99,8 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Day 15 start, 11 Oct 22:21 | 15% | 22% |
   | Day 15 midpoint, 23:17 | 13% (new window) | 26% |
   | Day 15 run complete, 12 Oct 00:52 | 48% | 32% |
+  | Day 16 start, 12 Oct ~14:20 | 4% | 33% |
+  | Day 16 close, 15:25 | 8% | 34% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits
