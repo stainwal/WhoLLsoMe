@@ -2071,56 +2071,112 @@
   }
  },
  "augustine-confessions-pusey-011-p03": {
-  "plain": "Does knowing all these things please You, God? Unhappy is the one who knows them all but not You; happy the one who knows You though not them. Knowing both makes one happier only because of You.",
+  "plain": "Does knowing all these things please You, God of truth? Unhappy is one who knows them all but not You; happy is one who knows You without them. One who knows both is happier only because of You, if he glorifies You, is thankful and not vain.",
   "core_idea": "Knowing God matters more than knowing everything else",
   "quotability": 2,
   "complete": true,
   "batch": "e0001",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Does knowing all these things please You, God? Unhappy is the one who knows them all but not You; happy the one who knows You though not them. Knowing both makes one happier only because of You.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition: only if he glorifies God, is thankful and not vain.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition: if he glorifies God, is thankful and not vain.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-011-p04": {
-  "plain": "God taught me that words are not true because they are eloquent, nor false because they are clumsy. Wisdom and folly are like healthy and unhealthy food, and either can be served in a plain dish or a fine one.",
+  "plain": "From You I had learned that words are not true because eloquent, nor false because clumsy. Wisdom and folly are like healthy and unhealthy food, and fine or plain words like fancy or simple dishes: either food can be served in either dish.",
   "core_idea": "Truth does not depend on eloquent or plain speech",
   "quotability": 1,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "God taught me that words are not true because they are eloquent, nor false because they are clumsy. Wisdom and folly are like healthy and unhealthy food, and either can be served in a plain dish or a fine one.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'Of Thyself I learned' becomes 'God taught me'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-012-p01": {
-  "plain": "I lied to my mother and slipped away by night while she wept and prayed I would not sail. God, who forgave me, refused her request so as to grant what she always truly wanted for me.",
+  "plain": "I lied to my mother and slipped away while she spent the night near Cyprian's chapel, and You forgave me. Her daily tears begged You, Lord, to stop me sailing; but You, hearing her deeper wish, refused that request to make me what she always prayed for.",
   "core_idea": "God denied a mother's plea to grant her deeper wish",
   "quotability": 2,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I lied to my mother and slipped away by night while she wept and prayed I would not sail. God, who forgave me, refused her request so as to grant what she always truly wanted for me.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address from God to third person; drops the mother's daily tears and Cyprian's oratory.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-012-p02": {
-  "plain": "I liked to think some other nature sinned in me, not I; it flattered my pride to be blameless. But it was wholly I, and refusing to see myself as a sinner made my sin harder to heal.",
+  "plain": "I told myself some other nature in me sinned, not I; it pleased my pride to escape blame. But it was wholly me, divided against myself. Worst of all, I would rather have You, Almighty God, defeated in me to my ruin than be overcome by You and saved.",
   "core_idea": "Refusing to own your sin makes it harder to heal",
   "quotability": 2,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that not judging himself a sinner made the sin more incurable.",
+   "batch": "k0001"
+  },
+  "plain_v1": "I liked to think some other nature sinned in me, not I; it flattered my pride to be blameless. But it was wholly I, and refusing to see myself as a sinner made my sin harder to heal.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the climax: preferring God overcome in him to his destruction over salvation.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the final self-indictment about preferring God overcome in him.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-013-p01": {
   "plain": "O God, my hope since youth, where were you? You made me wiser than the beasts, yet I walked in darkness, looked for you outside myself, and despaired of ever finding truth.",
@@ -2175,17 +2231,31 @@
   }
  },
  "augustine-confessions-pusey-015-p01": {
-  "plain": "I longed for honours, money and marriage, and God laughed at me. Chasing them brought bitter pain, and the kinder God was, the less he let anything but himself taste sweet to me.",
+  "plain": "I chased honours, money and marriage, and You laughed at me. In those desires I suffered bitterly, and You were kinder the less You let anything that was not You become sweet to me.",
   "core_idea": "God let nothing but himself satisfy me",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I longed for honours, money and marriage, and God laughed at me. Chasing them brought bitter pain, and the kinder God was, the less he let anything but himself taste sweet to me.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'thou deridedst me' becomes 'God laughed at me'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-015-p02": {
   "plain": "In Milan I saw a beggar, merry on a few coins, while I toiled anxiously through ambition toward the same passing joy. His joy was not true, but mine was even less so; he was carefree, I full of fear.",
@@ -2227,17 +2297,31 @@
   }
  },
  "augustine-confessions-pusey-016-p03": {
-  "plain": "When the woman I lived with was sent away for my marriage, my heart bled. She vowed herself to God; I, a slave to lust, took another. The wound did not heal; the pain dulled but grew hopeless.",
+  "plain": "My sins multiplied. The woman I lived with was sent back to Africa, vowing to You never to know another man, and my heart bled. No lover of marriage but a slave to lust, I took another, and the wound did not heal: the pain dulled but grew more hopeless.",
   "core_idea": "Lust kept my wound from healing",
   "quotability": 2,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "When the woman I lived with was sent away for my marriage, my heart bled. She vowed herself to God; I, a slave to lust, took another. The wound did not heal; the pain dulled but grew hopeless.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address from God; drops 'not a lover of marriage but slave to lust'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his self-reproach at failing to imitate her fidelity, and the son left with him.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-017-p01": {
   "plain": "Praise to you, God, fountain of mercy. As I grew more miserable, you came nearer, ready to pull me from the mire, though I did not know it. Only fear of death and judgment held me back.",
@@ -2253,17 +2337,31 @@
   }
  },
  "augustine-confessions-pusey-017-p02": {
-  "plain": "How crooked the paths of a soul that leaves God hoping for something better! It turns every way and finds only pain, for God alone is rest. Yet God rescues us and promises to carry us home.",
+  "plain": "How crooked my paths! Woe to the soul that hoped to gain something better by leaving You. It tossed every way and found only pain; You alone are rest. Yet You are near, rescue us from our wanderings, set us on Your way and promise to carry us through.",
   "core_idea": "God alone is rest, and he carries us home",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "How crooked the paths of a soul that leaves God hoping for something better! It turns every way and finds only pain, for God alone is rest. Yet God rescues us and promises to carry us home.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address to third person; adds 'home' to God's 'I will carry you'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-018-p01": {
   "plain": "Why fear what does not exist? If we fear for nothing, the fear itself is the evil, tormenting the soul, and it is all the worse because there is nothing to fear and we fear anyway.",
@@ -2305,17 +2403,31 @@
   }
  },
  "augustine-confessions-pusey-019-p01": {
-  "plain": "Urged to return to myself, I went inward with God as my guide and helper, and with my soul's eye I saw, above my mind, the unchanging Light.",
+  "plain": "Prompted to return to myself, I went into my inmost self with You as my Guide and Helper. With my soul's eye, such as it was, I saw above my mind the Unchangeable Light.",
   "core_idea": "Turning inward, I saw God's unchanging Light",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Urged to return to myself, I went inward with God as my guide and helper, and with my soul's eye I saw, above my mind, the unchanging Light.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'Thou being my Guide' becomes 'with God as my guide'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-019-p02": {
   "plain": "O God, you are Truth that is Eternity, Love that is Truth, and Eternity that is Love. You are my God, and I long for you night and day.",
@@ -2344,30 +2456,58 @@
   }
  },
  "augustine-confessions-pusey-019-p04": {
-  "plain": "When God quietly soothed me and closed my eyes to empty things, my old self loosened and my frenzy calmed. I woke in God and saw him as infinite, in a sight not from the body.",
+  "plain": "After You had quietly soothed my head and closed my eyes to empty things, my old frenzy calmed. I awoke in You and saw You infinite, in a way that did not come through the senses.",
   "core_idea": "Calmed by God, I woke and saw him infinite",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "When God quietly soothed me and closed my eyes to empty things, my old self loosened and my frenzy calmed. I woke in God and saw him as infinite, in a sight not from the body.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'Thou hadst soothed', 'awoke in Thee' rendered in third person.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-020-p01": {
-  "plain": "I marvelled that I now loved God and not an illusion. Yet I did not hold on: God's beauty drew me up, and my own weight, the habit of the flesh, dragged me back down in sorrow.",
+  "plain": "I marvelled that I now loved You, and not some fantasy in Your place. Yet I did not hold on to You: Your beauty lifted me up to You, and my own weight, the habit of the flesh, soon dragged me back down in sorrow.",
   "core_idea": "God's beauty lifts me; old habit drags me down",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I marvelled that I now loved God and not an illusion. Yet I did not hold on: God's beauty drew me up, and my own weight, the habit of the flesh, dragged me back down in sorrow.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'I now loved Thee' becomes 'I now loved God'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-020-p02": {
   "plain": "It is one thing to see the land of peace from a mountaintop and find no way there, attacked on impassable paths; it is another to walk the road that leads there, guarded by heaven's army.",
@@ -2383,17 +2523,31 @@
   }
  },
  "augustine-confessions-pusey-020-p03": {
-  "plain": "I was now sure of God's eternal life, though I saw it dimly, and no longer wanted more certainty, only more steadfastness. But my everyday life was unsteady, and my heart still needed cleansing of the old ways.",
+  "plain": "I was now certain of Your eternal life, though I saw it dimly, and no longer doubted an incorruptible source of all things. I wanted not more certainty about You but more steadiness in You. Yet my daily life still wavered, and my heart needed cleansing of the old ways.",
   "core_idea": "I needed steadfastness more than certainty",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I was now sure of God's eternal life, though I saw it dimly, and no longer wanted more certainty, only more steadfastness. But my everyday life was unsteady, and my heart still needed cleansing of the old ways.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'Thy eternal life', 'steadfast in Thee' rendered as third person.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops his certainty of an incorruptible substance, source of all things.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-021-p01": {
   "plain": "I had found the precious pearl I should have sold everything to buy, and still I hesitated.",
@@ -2435,17 +2589,31 @@
   }
  },
  "augustine-confessions-pusey-021-p04": {
-  "plain": "How high God is in the heights and how deep in the depths! God never leaves, yet we hardly ever return to him.",
+  "plain": "Woe is me! How high You are in the heights and how deep in the depths! You never leave, yet we hardly ever return to You.",
   "core_idea": "God never leaves; we rarely return",
   "quotability": 4,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "How high God is in the heights and how deep in the depths! God never leaves, yet we hardly ever return to him.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address to third person and drops 'Woe is me!'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-021-p05": {
   "plain": "Rise up, Lord, and act: stir us, call us back, set us alight and draw us; become sweet to us, so that we may love and run to you.",
@@ -2474,69 +2642,139 @@
   }
  },
  "augustine-confessions-pusey-022-p02": {
-  "plain": "Weighed down by the world, I was held as in pleasant sleep. Like someone who knows it is time to rise but lingers in bed, I knew giving myself to God's love was better, yet desire held me.",
+  "plain": "The world held me down pleasantly, as in sleep; my thoughts of You were like someone half waking and sinking back. I knew giving myself to Your love was far better than giving in to my desires, but the one convinced me while the other pleased me and held me.",
   "core_idea": "Knowing what is better, I lingered like a sleeper",
   "quotability": 2,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Weighed down by the world, I was held as in pleasant sleep. Like someone who knows it is time to rise but lingers in bed, I knew giving myself to God's love was better, yet desire held me.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'Thy charity' becomes 'God's love'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Loses the contrast: conviction satisfied him while desire pleased and mastered him.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-022-p03": {
-  "plain": "When God showed me the truth, I had only drowsy answers: soon, in a moment, just a little longer. But my soon never came, and my little while went on and on, as sin held me captive.",
+  "plain": "When You showed me on every side that Your words were true, I had no answer but sleepy words: soon, in a little while. That soon never came. I delighted in Your law inwardly, but another law in my body fought my mind and held me captive to sin.",
   "core_idea": "My \"soon\" never came",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "When God showed me the truth, I had only drowsy answers: soon, in a moment, just a little longer. But my soon never came, and my little while went on and on, as sin held me captive.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address to third person; drops the law of the members warring against the mind.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Collapses the inner law versus law in the members into 'sin held me captive'.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-022-p04": {
-  "plain": "As Pontitianus spoke, God turned me to face the self I had kept behind my back, so I would see how foul and crooked I was. Horrified, I could not escape myself. I had known it but pretended not to.",
+  "plain": "While Pontitianus spoke, You, Lord, turned me to face the self I had hidden behind my back, and I saw how foul I was. I could not flee; You kept setting me before my eyes to see my sin and hate it, though I had pretended not to see it.",
   "core_idea": "God made me face the self I avoided",
   "quotability": 2,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "As Pontitianus spoke, God turned me to face the self I had kept behind my back, so I would see how foul and crooked I was. Horrified, I could not escape myself. I had known it but pretended not to.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address from 'Thou, O Lord' to 'God'; drops 'that I might hate it'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that God set him before himself so he would find his sin and hate it.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-022-p05": {
-  "plain": "As a youth I had begged God for chastity, saying: give me chastity and self-control, only not yet. I feared God would answer quickly and cure a desire I wanted satisfied, not ended.",
+  "plain": "Wretched as I was, in early youth I had begged You for chastity, saying: give it to me, but not yet. I feared You would answer quickly and cure a desire I wanted satisfied, not ended.",
   "core_idea": "I prayed for purity, but not yet",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "As a youth I had begged God for chastity, saying: give me chastity and self-control, only not yet. I feared God would answer quickly and cure a desire I wanted satisfied, not ended.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'begged chastity of Thee' becomes 'begged God'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-022-p06": {
-  "plain": "I lashed my soul with every argument to make it follow God, but it drew back. All reasons were spent; only a silent shrinking remained, dreading to be cut off from the habit that was killing it.",
+  "plain": "I condemned and lashed my soul with every argument to make it follow me in striving after You. It held back with no excuse left, only a silent shrinking, fearing like death to be pulled from the habit that was killing it.",
   "core_idea": "The soul clings to the habit that kills it",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I lashed my soul with every argument to make it follow God, but it drew back. All reasons were spent; only a silent shrinking remained, dreading to be cut off from the habit that was killing it.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts address: 'striving to go after Thee' becomes 'follow God'.",
    "batch": "j0001"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-023-p01": {
   "plain": "The mind commands the body and it obeys at once; the mind commands itself and meets resistance. It tells the hand to move and it does, yet when it tells itself to will, it does not.",
@@ -3098,7 +3336,7 @@
   }
  },
  "augustine-confessions-pusey-036-p01": {
-  "plain": "What shines through me and strikes my heart without hurting it, so that I shudder and burn? I shudder because I am unlike it, and burn because I am like it.",
+  "plain": "What light shines through me and strikes my heart without hurting it, so that I shudder and burn? I shudder because I am unlike it, burn because I am like it. It is Wisdom itself, breaking through my clouds, though the darkness my sins earn settles over me again.",
   "core_idea": "I shudder where unlike God, burn where like",
   "quotability": 3,
   "complete": false,
@@ -3110,11 +3348,25 @@
    "added_words": 31
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "What shines through me and strikes my heart without hurting it, so that I shudder and burn? I shudder because I am unlike it, and burn because I am like it.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the answer, 'It is Wisdom', the passage's main point, and the returning darkness.",
    "batch": "j0002"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Omits that the light is Wisdom itself, and the returning darkness.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-036-p02": {
   "plain": "We are saved in hope, so we wait patiently for God's promises.",
@@ -3325,7 +3577,7 @@
   }
  },
  "augustine-confessions-pusey-044-p03": {
-  "plain": "My God, in you I breathe a little when I pour out my soul in praise, yet my soul grows sad again. My faith answers: why are you sad, my soul? Hope in the Lord and endure until day breaks.",
+  "plain": "I too ask, my God, where You are. In You I breathe a little when I pour out praise, then sink back into sadness. My faith says: hope in the Lord and endure the night of the wicked and his wrath, still bearing sin in us, until day breaks.",
   "core_idea": "When sad, hope in the Lord until day breaks",
   "quotability": 2,
   "complete": false,
@@ -3337,11 +3589,25 @@
    "added_words": 63
   },
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Garbles the night and wrath imagery; 'his wrath' is ambiguous.",
+   "batch": "k0001"
+  },
+  "plain_v1": "My God, in you I breathe a little when I pour out my soul in praise, yet my soul grows sad again. My faith answers: why are you sad, my soul? Hope in the Lord and endure until day breaks.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the night of the wicked, the Lord's wrath and sin's relics; hard part softened away.",
    "batch": "j0002"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the soul's question 'where art Thou', the lantern, and the night of wrath.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "augustine-confessions-pusey-045-p01": {
   "plain": "Let us share our bread with the hungry and bring homeless poor people into our homes. Let us clothe the naked and not look down on our own kin.",
@@ -3513,17 +3779,31 @@
   }
  },
  "bib-1corinthians-003-p01": {
-  "plain": "No one should look out only for themselves; each should seek the good of others.",
+  "plain": "No one should seek their own good; each should seek their neighbour's good.",
   "core_idea": "Seek others' good, not just your own",
   "quotability": 5,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "No one should look out only for themselves; each should seek the good of others.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Adds 'only', softening 'let no one seek his own' into a milder saying.",
    "batch": "j0002"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Adds 'only', softening 'seek not his own' to not looking out only for oneself.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-1corinthians-003-p02": {
   "plain": "The eye cannot tell the hand it does not need it, nor the head tell the feet. In fact, the parts of the body that seem weaker are essential.",
@@ -3981,17 +4261,31 @@
   }
  },
  "bib-1peter-001-p03": {
-  "plain": "Be united, compassionate, loving and courteous. Do not repay evil or insult in kind, but bless instead. Whoever wants a good life should guard their tongue, turn from evil, do good and pursue peace, for the Lord watches the righteous.",
+  "plain": "Be united, compassionate, loving and kind; don't repay evil or insult in kind, but bless, since you were called to inherit a blessing. Whoever wants a good life must guard their tongue, turn from evil, do good and pursue peace; the Lord watches over the righteous but opposes evildoers.",
   "core_idea": "Repay insult with blessing and pursue peace",
   "quotability": 3,
   "complete": true,
   "batch": "e0002",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Be united, compassionate, loving and courteous. Do not repay evil or insult in kind, but bless instead. Whoever wants a good life should guard their tongue, turn from evil, do good and pursue peace, for the Lord watches the righteous.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'the face of the Lord is against those who do evil' and the called-to-blessing line.",
    "batch": "j0002"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the calling to inherit a blessing and the Lord set against evildoers.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-1peter-001-p04": {
   "plain": "Above all, love each other deeply, because love covers many sins. Welcome one another without complaining. Use whatever gift you have received to serve others, as good stewards of God's many kinds of grace.",
@@ -6100,17 +6394,31 @@
   }
  },
  "bib-ecc-001-p08": {
-  "plain": "Someone alone, with no son or brother, works without end and is never satisfied with his wealth. He never asks who he is working for, depriving himself of enjoyment. This too is empty, a miserable business.",
+  "plain": "A man is all alone, with no son or brother, yet his work never ends and his wealth never satisfies him. He asks whom he is toiling for, depriving himself of joy. This too is meaningless, a miserable business.",
   "core_idea": "Endless toil for no one is empty and miserable.",
   "quotability": 3,
   "complete": true,
   "batch": "e0003",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Someone alone, with no son or brother, works without end and is never satisfied with his wealth. He never asks who he is working for, depriving himself of enjoyment. This too is empty, a miserable business.",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Says he never asks whom he works for; in the passage he does ask.",
    "batch": "j0003"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Says he never asks whom he works for; in the passage he asks it.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-ecc-001-p09": {
   "plain": "Two are better than one; they gain more from their work. If one falls, the other lifts them up; pity the one who falls alone. Two keep warm and resist attackers; a threefold cord is not quickly broken.",
@@ -6503,17 +6811,31 @@
   }
  },
  "bib-exodus-011-p01": {
-  "plain": "God proclaims his own name: merciful, gracious, slow to anger, full of steadfast love and truth, forgiving wrongdoing, yet not letting the guilty go unpunished, with consequences reaching to later generations.",
+  "plain": "Yahweh passed by and proclaimed himself merciful and gracious, slow to anger, rich in loving kindness and truth, forgiving sin for thousands; yet he will not clear the guilty, but brings the parents' sins upon their children and grandchildren to the third and fourth generation.",
   "core_idea": "God is merciful and forgiving, yet holds guilt accountable",
   "quotability": 2,
   "complete": true,
   "batch": "e0004",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "God proclaims his own name: merciful, gracious, slow to anger, full of steadfast love and truth, forgiving wrongdoing, yet not letting the guilty go unpunished, with consequences reaching to later generations.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens visiting fathers' iniquity on children to third and fourth generation into vague 'consequences'.",
    "batch": "j0003"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens visiting the fathers' iniquity on children to vague 'consequences'.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-ezekiel-003-p01": {
   "plain": "God promises to give his people one heart and a new spirit, replacing their hearts of stone with hearts of flesh, so they will follow his ways; they will be his people and he their God.",
@@ -7621,17 +7943,31 @@
   }
  },
  "bib-isaiah-008-p01": {
-  "plain": "Strengthen tired hands and weak knees. Tell the frightened to be strong and not afraid, because their God is coming to set things right and save them.",
+  "plain": "Strengthen weak hands and shaky knees. Tell the fearful: be strong, don't be afraid; your God is coming with vengeance and retribution, and he will come and save you.",
   "core_idea": "Be strong, do not fear; God will save you",
   "quotability": 3,
   "complete": true,
   "batch": "e0004",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Strengthen tired hands and weak knees. Tell the frightened to be strong and not afraid, because their God is coming to set things right and save them.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens 'God will come with vengeance, God's retribution' to 'set things right'.",
    "batch": "j0003"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Softens 'vengeance' and 'God's retribution' to 'set things right'.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-isaiah-008-p02": {
   "plain": "Gravely ill, King Hezekiah said he was going to the grave in mid-life, robbed of his remaining years, never again to see God or people among the living; his life was being cut off like cloth from a loom.",
@@ -8102,17 +8438,31 @@
   }
  },
  "bib-isaiah-013-p07": {
-  "plain": "The speaker says God's Spirit has anointed him to bring good news to the humble, heal the broken-hearted, free captives, and comfort all who mourn, giving them beauty for ashes, joy for mourning and praise for despair.",
+  "plain": "The Lord's Spirit is on me: Yahweh anointed me to bring good news to the humble, heal the broken-hearted, free captives, proclaim his year of favour and our God's day of vengeance, and comfort mourners, giving joy for ashes, so they become his righteous planting, for his glory.",
   "core_idea": "Sent to heal the broken-hearted and comfort mourners",
   "quotability": 2,
   "complete": true,
   "batch": "e0004",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "The speaker says God's Spirit has anointed him to bring good news to the humble, heal the broken-hearted, free captives, and comfort all who mourn, giving them beauty for ashes, joy for mourning and praise for despair.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops \"the day of vengeance of our God\", softening the hard saying.",
    "batch": "j0004"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the 'day of vengeance' and the purpose that they be trees of righteousness.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-isaiah-014-p01": {
   "plain": "I will rejoice greatly in God, and my soul will be glad, because he has dressed me in salvation and righteousness, like a groom in his garland or a bride in her jewels.",
@@ -8310,30 +8660,58 @@
   }
  },
  "bib-james-001-p08": {
-  "plain": "If you are wise, show it by good deeds done gently. Bitter jealousy and selfish ambition are not wisdom from above; they bring disorder and evil. Wisdom from above is pure, peaceful, gentle, merciful and sincere, and peacemakers reap righteousness.",
+  "plain": "The wise show it by gentle good conduct. If bitter jealousy and selfish ambition fill your heart, don't boast or lie against the truth: that wisdom is earthly, sensual and demonic, breeding disorder and evil. Wisdom from above is pure, peaceful, gentle, merciful and sincere, and peacemakers sow righteousness.",
   "core_idea": "True wisdom is gentle and peaceful, not envious",
   "quotability": 2,
   "complete": true,
   "batch": "e0004",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "If you are wise, show it by good deeds done gently. Bitter jealousy and selfish ambition are not wisdom from above; they bring disorder and evil. Wisdom from above is pure, peaceful, gentle, merciful and sincere, and peacemakers reap righteousness.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops \"earthly, sensual, and demonic\" and the command not to boast or lie; softens.",
    "batch": "j0004"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the warning not to boast or lie against the truth.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-james-001-p09": {
-  "plain": "Fights come from the desires warring inside you. You want what you cannot have, so you fight. You do not have because you do not ask God, and when you ask, you ask only for your own pleasures.",
+  "plain": "Your fights and wars come from the cravings battling inside you. You want and don't get, so you murder and covet, and fight. You don't have because you don't ask; and when you ask, you don't receive, because you want it only for your pleasures.",
   "core_idea": "Conflict comes from selfish desires",
   "quotability": 3,
   "complete": true,
   "batch": "e0004",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Fights come from the desires warring inside you. You want what you cannot have, so you fight. You do not have because you do not ask God, and when you ask, you ask only for your own pleasures.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops \"you murder and covet\", softening the accusation.",
    "batch": "j0004"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops murder and covetousness; makes the asking explicitly of God.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-james-001-p10": {
   "plain": "Don't run each other down, because judging a fellow believer sets you above God's law. There is only one lawgiver, who can save or destroy, so who are you to judge anyone?",
@@ -8570,17 +8948,31 @@
   }
  },
  "bib-jeremiah-005-p03": {
-  "plain": "God says those who trust in people and turn from him are like a desert shrub that never sees good. Those who trust God are like a tree by a river: unafraid of heat, green, fruitful even in drought.",
+  "plain": "Yahweh says: cursed is whoever trusts in people and turns from him; he will be like a desert shrub in parched salt land. Blessed is whoever trusts in Yahweh; he will be like a tree by water, green in heat, unworried in drought, always bearing fruit.",
   "core_idea": "Trust God and flourish like a well-watered tree",
   "quotability": 2,
   "complete": true,
   "batch": "e0005",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "God says those who trust in people and turn from him are like a desert shrub that never sees good. Those who trust God are like a tree by a river: unafraid of heat, green, fruitful even in drought.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops \"cursed\" and \"blessed\", softening the hard saying into a comparison.",
    "batch": "j0004"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-jeremiah-005-p04": {
   "plain": "The human heart is more deceptive than anything, and deeply sick. Who can understand it?",
@@ -10850,17 +11242,31 @@
   }
  },
  "bib-matthew-001-p03": {
-  "plain": "Blessed are the humble in spirit, the grieving, the gentle, those who long for what is right, the merciful, the pure in heart, the peacemakers and the persecuted: God's Kingdom, comfort and mercy will be theirs.",
+  "plain": "Blessed are the poor in spirit and those persecuted for righteousness, for heaven is theirs; mourners will be comforted, the gentle inherit the earth, those hungry for righteousness be filled, the merciful receive mercy, the pure in heart see God, and peacemakers be called God's children.",
   "core_idea": "God blesses the humble, grieving, merciful and peacemaking.",
   "quotability": 3,
   "complete": true,
   "batch": "e0006",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Blessed are the humble in spirit, the grieving, the gentle, those who long for what is right, the merciful, the pure in heart, the peacemakers and the persecuted: God's Kingdom, comfort and mercy will be theirs.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Merges the distinct promises; drops inheriting the earth, being filled, seeing God, children of God.",
    "batch": "j0005"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Collapses the distinct promises into one vague list.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-matthew-001-p04": {
   "plain": "You are the light of the world, like a city on a hill that cannot be hidden. No one hides a lamp; so let your light shine, that people see your good deeds and praise your Father in heaven.",
@@ -13113,17 +13519,31 @@
   }
  },
  "bib-psa-003-p11": {
-  "plain": "Be merciful, God, because I am in distress. Grief and sorrow are wearing me down, my strength is failing, and even friends and neighbours avoid me and forget me like the dead.",
+  "plain": "Have mercy on me, Yahweh, for I am in distress. Grief and sorrow waste my eyes, soul, body and years; my own sin has drained my strength. My enemies have made me despised; neighbours and friends flee me, and I am forgotten like the dead, like broken pottery.",
   "core_idea": "Grief, weakness, and being shunned by others",
   "quotability": 2,
   "complete": true,
   "batch": "e0007",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Be merciful, God, because I am in distress. Grief and sorrow are wearing me down, my strength is failing, and even friends and neighbours avoid me and forget me like the dead.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops that the speaker's strength fails because of his own iniquity.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that his own iniquity causes his failing strength.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-psa-003-p12": {
   "plain": "In a panic I said God had cut me off and no longer saw me. But you heard me when I cried out to you.",
@@ -13728,17 +14148,31 @@
   }
  },
  "bib-psa-008-p06": {
-  "plain": "I was bitter and grieving, as foolish as an animal before you, yet I am always with you; you hold my hand and guide me. My body and heart may fail, but God is my strength forever.",
+  "plain": "My heart was bitter and I was senseless as a beast before you. Yet I am always with you; you hold my hand, guide me, and will afterwards receive me into glory. I desire no one but you; though body and heart fail, God is my strength and portion forever.",
   "core_idea": "Even when bitter, God holds and strengthens me",
   "quotability": 2,
   "complete": true,
   "batch": "e0007",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I was bitter and grieving, as foolish as an animal before you, yet I am always with you; you hold my hand and guide me. My body and heart may fail, but God is my strength forever.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'afterward receive me to glory' and 'no one on earth I desire besides you'.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops being received to glory and desiring no one but God.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-psa-009-p01": {
   "plain": "I cry out to God to listen. In my trouble I reached out to the Lord all night, and my soul would not be comforted. Remembering God, I groan; you keep me awake, too troubled to speak.",
@@ -13968,17 +14402,31 @@
   }
  },
  "bib-psa-012-p03": {
-  "plain": "God is merciful, kind, slow to anger and full of love. He doesn't punish us as our wrongs deserve, but removes them as far as east from west, caring for us like a father, knowing we are only dust.",
+  "plain": "Yahweh is merciful, gracious and slow to anger; he won't accuse forever or repay us for our sins. His love for those who fear him is as high as the heavens; he removes our sins as far as east from west, pitying them like a father, knowing we are dust.",
   "core_idea": "God is compassionate and removes our wrongs",
   "quotability": 2,
   "complete": true,
   "batch": "e0007",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "God is merciful, kind, slow to anger and full of love. He doesn't punish us as our wrongs deserve, but removes them as far as east from west, caring for us like a father, knowing we are only dust.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition 'toward those who fear him'; makes God's love unconditional.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition that his compassion is toward those who fear him.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-psa-012-p04": {
   "plain": "A human life is like grass or a wildflower: it blooms, then the wind passes over it and it is gone, and even its place forgets it.",
@@ -14007,17 +14455,31 @@
   }
  },
  "bib-psa-013-p01": {
-  "plain": "Sailors on the great sea see God's wonders. A storm lifts them high and drops them low until they lose their nerve. They cry to God, and he calms the storm and brings them to the harbour they wanted.",
+  "plain": "Sailors on the great waters see Yahweh's wonders: he commands the storm that tosses them until they reel and lose courage. Then they cry to Yahweh, and he rescues them, calms the storm, and brings them gladly to the harbour they longed for.",
   "core_idea": "God calms the storm for those who cry out",
   "quotability": 2,
   "complete": true,
   "batch": "e0007",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Sailors on the great sea see God's wonders. A storm lifts them high and drops them low until they lose their nerve. They cry to God, and he calms the storm and brings them to the harbour they wanted.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops that God himself commands and raises the storm.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-psa-013-p02": {
   "plain": "They answer my love by opposing me, but I keep praying. They have paid me back evil for good and hatred for love.",
@@ -14696,17 +15158,31 @@
   }
  },
  "bib-romans-003-p04": {
-  "plain": "Don't pay back wrong with wrong or take revenge; leave that to God. Live at peace with everyone as far as you can, feed your hungry enemy, and defeat evil by doing good.",
+  "plain": "Don't repay evil for evil; live at peace with everyone as far as you can. Don't take revenge, but leave room for God's wrath, for vengeance is his. Feed your hungry enemy and give him drink; that will heap burning coals on his head. Overcome evil with good.",
   "core_idea": "Overcome evil with good, not revenge",
   "quotability": 3,
   "complete": true,
   "batch": "e0008",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Don't pay back wrong with wrong or take revenge; leave that to God. Live at peace with everyone as far as you can, feed your hungry enemy, and defeat evil by doing good.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens 'give place to God's wrath' and drops 'heap coals of fire on his head'.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops respecting the honourable and heaping coals of fire.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-romans-004-p01": {
   "plain": "The only debt you should carry is the duty to love each other. All the commandments come down to loving your neighbour as yourself, because love never harms anyone, and so love fulfils the law.",
@@ -14891,17 +15367,31 @@
   }
  },
  "bib-sirach-001-p08": {
-  "plain": "Watch for the right moment, avoid evil, and don't be ashamed to stand up for yourself. Some shame leads to sin, and some shame is honourable and gracious.",
+  "plain": "Watch for the right moment and beware of evil, and don't be ashamed about your own soul. For there is a shame that leads to sin, and a shame that brings honour and grace.",
   "core_idea": "There is a bad shame and a good shame",
   "quotability": 3,
   "complete": true,
   "batch": "e0008",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Watch for the right moment, avoid evil, and don't be ashamed to stand up for yourself. Some shame leads to sin, and some shame is honourable and gracious.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Recasts 'not ashamed concerning your soul' as standing up for yourself; shifted frame.",
    "batch": "j0006"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Adds 'stand up for yourself'; the passage says not to be ashamed concerning your soul.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "bib-sirach-001-p09": {
   "plain": "Be quick to listen and slow to answer. If you understand, reply; if not, keep your hand over your mouth. Talk brings honour or disgrace, and a person's tongue can be their downfall.",
@@ -18626,10 +19116,6 @@
   "quotability": 3,
   "complete": true,
   "batch": "e0010",
-  "fix": {
-   "display_text": "If the heart is to be ready for the highest, it must be vacant of all other things. If I wish to write on a white tablet, whatever else is written on the tablet, however noble its purport, is a hindrance to me. If I am to write, I must wipe the tablet clean of everything, and the tablet is most suitable for my purpose when it is blank. Similarly, if God is to write on my heart, everything else must come out of it till it is really sanctified. Only so can God work His highest will, and so the sanctified heart has no outward object at all.",
-   "reason": "Scan error: 'he' for 'be'"
-  },
   "judge": {
    "faithful": 4,
    "advice": false,
@@ -18924,17 +19410,31 @@
   }
  },
  "emerson-essays-005-p04": {
-  "plain": "Nothing in people is fixed either. Everyone feels not fully understood, sensing an unknown inner room never opened; that is, everyone believes they hold a greater possibility.",
+  "plain": "People have no fixed limits. Everyone feels not fully understood, and if there is truth in him and he rests finally on the divine soul, that must be so: some inner room is never opened. So everyone believes he has greater possibilities.",
   "core_idea": "Everyone holds an unexplored greater possibility",
   "quotability": 3,
   "complete": true,
   "batch": "e0010",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Nothing in people is fixed either. Everyone feels not fully understood, sensing an unknown inner room never opened; that is, everyone believes they hold a greater possibility.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition 'if he rests at last on the divine soul', secularising the ground of the claim.",
    "batch": "j0008"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition about resting on the divine soul; 'either' is unexplained.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-005-p05": {
   "plain": "Our moods don't trust each other. Today I write freely; yesterday I saw only emptiness, and next month I'll wonder who wrote this. Such shaky faith: I am God in nature; I am a weed by the wall.",
@@ -19028,30 +19528,58 @@
   }
  },
  "emerson-essays-007-p01": {
-  "plain": "While we keep company with what is above us, we grow young, not old. The young look upward and learn; the old often think they know all and lose hope. Let them love and seek truth again.",
+  "plain": "While we keep company with what is above us, we grow younger, not older. The young look up and learn from everything, but at seventy people think they know all and lose hope. Let them become vessels of the Holy Spirit, love and see truth, and hope and power return.",
   "core_idea": "Aspiring upward keeps the mind young",
   "quotability": 2,
   "complete": true,
   "batch": "e0010",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "While we keep company with what is above us, we grow young, not old. The young look upward and learn; the old often think they know all and lose hope. Let them love and seek truth again.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'organs of the Holy Ghost' and the renewal of hope and power; secularises the remedy.",
    "batch": "j0008"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops becoming organs of the Holy Ghost and the renewal of hope and power.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-007-p02": {
-  "plain": "In nature every moment is new and only what is coming is sacred. Nothing is secure but life and change. People want to be settled, but there is hope for them only as far as they are unsettled.",
+  "plain": "In nature every moment is new; only what is coming is sacred, and nothing is secure but life and change. No oath protects a love from a higher love, nor any truth from new thought. People want to be settled, but only being unsettled gives them hope.",
   "core_idea": "Only change is secure; being unsettled brings hope",
   "quotability": 3,
   "complete": true,
   "batch": "e0010",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "In nature every moment is new and only what is coming is sacred. Nothing is secure but life and change. People want to be settled, but there is hope for them only as far as they are unsettled.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops that no love is bound against a higher love and no truth is safe from new thought.",
    "batch": "j0008"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that no love or truth is secure against a higher one.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-007-p03": {
   "plain": "Life is full of surprises. While we are building ourselves, we can't predict tomorrow's mood, joy or strength.",
@@ -19665,17 +20193,31 @@
   }
  },
  "emerson-essays-014-p05": {
-  "plain": "With patience we will win. Chores take long and are forgotten, while a life-guiding insight takes a moment; in solitude we find clarity. Never mind ridicule or defeat; get up again, old heart, victory remains.",
+  "plain": "Be patient; we will win in the end. Daily chores are soon forgotten, but in solitude a person finds sanity and insight that last. Ignore ridicule and defeat and rise again: justice will yet win, and the world exists to turn genius into practical power.",
   "core_idea": "Be patient; rise after defeat, victory remains",
   "quotability": 2,
   "complete": true,
   "batch": "e0010",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the deception of time and the quick insight that lights a life.",
+   "batch": "k0001"
+  },
+  "plain_v1": "With patience we will win. Chores take long and are forgotten, while a life-guiding insight takes a moment; in solitude we find clarity. Never mind ridicule or defeat; get up again, old heart, victory remains.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops closing thesis: victory for justice and genius transformed into practical power.",
    "batch": "j0008"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops time's deceptions and the closing on genius becoming practical power.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-014-p06": {
   "plain": "My heart was free again: friend, through you alone the sky and rose seem beautiful and all things look nobler. Your goodness has taught me to master my despair, and my hidden life is made fair by your friendship.",
@@ -21062,17 +21604,31 @@
   }
  },
  "emerson-essays-043-p07": {
-  "plain": "Trust yourself; every heart responds to that. Accept the place, people and times divine providence has given you, as great men did, trusting what works within them. We must take up that destiny boldly, not as cowards hiding.",
+  "plain": "Trust yourself. Accept the place divine providence has given you, as great men did, sensing that what is fully trustworthy works within them. We must accept that same high destiny, not as cowards or invalids but as guides, redeemers and benefactors, obeying the Almighty and advancing on chaos.",
   "core_idea": "Trust yourself and accept your providential place",
   "quotability": 3,
   "complete": true,
   "batch": "e0011",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Trust yourself; every heart responds to that. Accept the place, people and times divine providence has given you, as great men did, trusting what works within them. We must take up that destiny boldly, not as cowards hiding.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'obeying the Almighty effort' and the call to be guides, redeemers, benefactors.",
    "batch": "j0009"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the call to be guides, redeemers and benefactors advancing on chaos.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-043-p08": {
   "plain": "Society everywhere conspires against the independence of its members. It is like a company where people trade their freedom for security. Its favourite virtue is conformity; it hates self-reliance and prefers names and customs to real creators.",
@@ -21842,17 +22398,31 @@
   }
  },
  "emerson-essays-052-p03": {
-  "plain": "Our hungry questions about the future betray a fault; God gives them no answer. Our nature veils tomorrow so we learn to live today. Drop idle curiosity, work and live, and the growing soul makes question and answer one.",
+  "plain": "Our craving to know the future confesses sin, and God gives no answer. The veil over tomorrow comes not from God's decree but from human nature: the soul lets us read only cause and effect, teaching us to live today. Drop idle curiosity, work and live, and the answer comes.",
   "core_idea": "The future is veiled so we live today",
   "quotability": 2,
   "complete": true,
   "batch": "e0011",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Flattens 'question and answer are one' into 'the answer comes'.",
+   "batch": "k0001"
+  },
+  "plain_v1": "Our hungry questions about the future betray a fault; God gives them no answer. Our nature veils tomorrow so we learn to live today. Drop idle curiosity, work and live, and the growing soul makes question and answer one.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens 'confession of sin' to 'fault'; drops cause-and-effect veil and not God's decree.",
    "batch": "j0009"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Softens 'confession of sin' to 'a fault'; drops that the veil is not an arbitrary decree.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "emerson-essays-052-p04": {
   "plain": "We teach what we are, without meaning to. Thoughts enter and leave our minds by paths we never deliberately opened. Character teaches over our heads.",
@@ -23031,17 +23601,31 @@
   }
  },
  "epictetus-discourses-long-023-p04": {
-  "plain": "People are disturbed not by events but by their opinions about them; death is not terrible, the opinion that it is terrible is. So blame neither others nor ultimately yourself, but your opinions.",
+  "plain": "We are upset not by events but by our opinions about them; death isn't terrible, or Socrates would have thought so. So when troubled, blame our own opinions, not others. The untaught blame others, the beginner blames himself, and the fully taught blames neither.",
   "core_idea": "Opinions, not events, disturb us",
   "quotability": 3,
   "complete": true,
   "batch": "e0012",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "People are disturbed not by events but by their opinions about them; death is not terrible, the opinion that it is terrible is. So blame neither others nor ultimately yourself, but your opinions.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Conflates the three stages: blame others, blame yourself, blame neither.",
    "batch": "j0009"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the three stages of instruction; muddles whom the passage says to blame.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "epictetus-discourses-long-023-p05": {
   "plain": "Like a passenger ashore gathering shells, you may take up a wife and child, but keep listening for the captain. When he calls, leave everything and run to the ship; if you are old, stay close to it.",
@@ -25969,17 +26553,31 @@
   }
  },
  "gibran-sand-and-foam-002-p50": {
-  "plain": "It is strange that we pity people who are slow on their feet but not those slow in mind, and the blind in eye rather than the blind in heart.",
+  "plain": "How strange that you pity the slow of foot but not the slow of mind, and the blind in eye rather than the blind in heart.",
   "core_idea": "We pity the wrong kinds of disability",
   "quotability": 4,
   "complete": true,
   "batch": "e0013",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "It is strange that we pity people who are slow on their feet but not those slow in mind, and the blind in eye rather than the blind in heart.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Shifts the reproach from 'you' to 'we', softening the address to the reader.",
    "batch": "j0011"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "gibran-sand-and-foam-002-p51": {
   "plain": "It is wiser for a lame person not to break their crutches over their enemy's head.",
@@ -26268,17 +26866,31 @@
   }
  },
  "gibran-sand-and-foam-002-p73": {
-  "plain": "We are all climbing toward what our hearts desire; if another climber steals your pack and purse and grows fat and heavy, pity him, since his climb will be harder, and help him a step, which will speed you too.",
+  "plain": "We all climb toward our heart's desire. If another climber steals your sack and purse and grows fat and loaded, pity him: his climb will be harder and longer. And if, lean as you are, you see him heaving himself upward, help him a step; it will speed you.",
   "core_idea": "Pity and help those who rob you on the climb",
   "quotability": 2,
   "complete": true,
   "batch": "e0013",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "We are all climbing toward what our hearts desire; if another climber steals your pack and purse and grows fat and heavy, pity him, since his climb will be harder, and help him a step, which will speed you too.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition of seeing the thief struggle upward before helping him a step.",
    "batch": "j0011"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "gibran-sand-and-foam-002-p74": {
   "plain": "You cannot judge anyone beyond what you know of them, and you know very little.",
@@ -26845,10 +27457,6 @@
   "quotability": 2,
   "complete": true,
   "batch": "e0013",
-  "fix": {
-   "display_text": "My friend, you and I shall remain strangers unto life, And unto one another, and each unto himself, Until the day when you shall speak and I shall listen Deeming your voice my own voice; And when I shall stand before you Thinking myself standing before a mirror.",
-   "reason": "Duplicated word 'and' removed"
-  },
   "judge": {
    "faithful": 5,
    "advice": false,
@@ -28066,17 +28674,31 @@
   }
  },
  "gita-arnold-006-p02": {
-  "plain": "Krishna says: if you cannot keep your mind on him, do not despair. Worship him; failing that, work for him; failing that, bring him your failure and let go of results. Eternal peace lies very near renunciation.",
+  "plain": "If you are too weak to fix yourself on Me always, don't despair: worship Me steadily; if not, work for Me; if even that fails, take refuge in Me and give up the fruits of your work. Worship beats knowledge, renunciation beats both, and peace lies very near renunciation.",
   "core_idea": "Whatever your weakness, God offers a lower step",
   "quotability": 1,
   "complete": true,
   "batch": "e0014",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Krishna says: if you cannot keep your mind on him, do not despair. Worship him; failing that, work for him; failing that, bring him your failure and let go of results. Eternal peace lies very near renunciation.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing ranking: worship above knowing, renunciation above all; secondary teaching lost.",
    "batch": "j0011"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the ranking: worship above knowing, renunciation above both.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "gita-arnold-006-p03": {
   "plain": "Krishna says he loves the person who neither troubles others nor is troubled by them, is free of anger, beyond gladness, grief and fear, calm, pure and balanced, working with him yet detached from all work.",
@@ -28191,17 +28813,31 @@
   }
  },
  "gita-arnold-008-p03": {
-  "plain": "Krishna says your own work done with faults beats another's done well. Do not drop your natural duty because it carries blame; every work has some, as every flame has smoke. Perfection comes through renouncing results.",
+  "plain": "Better your own duty done imperfectly than another's done well. Whoever does his nature-given task does not sin; don't abandon it, Prince, though it bears blame, for all work has fault as fire has smoke. Only one working with free mind, subdued soul, dead desires and renounced results is released.",
   "core_idea": "Do your own duty though it is imperfect",
   "quotability": 2,
   "complete": true,
   "batch": "e0014",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Krishna says your own work done with faults beats another's done well. Do not drop your natural duty because it carries blame; every work has some, as every flame has smoke. Perfection comes through renouncing results.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops conditions for release (unfettered mind, subdued soul, dead desires) and 'shall not fall in sin'.",
    "batch": "j0011"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'not fall in sin' and the full conditions of release; 'perfection' is loose.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "gita-arnold-008-p04": {
   "plain": "Krishna tells Arjuna that he is precious and well loved. Give him your heart, worship him, serve him and cling to him in faith and love, and you will come to him; he promises, because Arjuna is dear to him.",
@@ -28295,17 +28931,31 @@
   }
  },
  "imitation-of-christ-benham-001-p07": {
-  "plain": "Wisdom means not rushing to act, not clinging to your opinions, not believing or repeating all you hear, and taking advice from wise, good people. The humbler you are and the more obedient to God, the wiser and calmer.",
+  "plain": "Wisdom means not acting hastily, not clinging to your opinions, and not believing or repeating all you hear. Seek advice from a wise, conscientious person and learn from your betters. A good life makes one wise before God; the humbler and more obedient to God, the wiser and more peaceful.",
   "core_idea": "Wisdom is humility, caution and good counsel",
   "quotability": 2,
   "complete": true,
   "batch": "e0014",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Wisdom means not rushing to act, not clinging to your opinions, not believing or repeating all you hear, and taking advice from wise, good people. The humbler you are and the more obedient to God, the wiser and calmer.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops that a good life makes one wise toward God and the call to seek instruction from betters.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-001-p08": {
   "plain": "Wanting anything too much makes you restless. The proud and greedy never rest; the humble live in peace. Someone not yet dead to self is easily tempted by small things, and sad and irritable when giving up pleasures.",
@@ -28321,17 +28971,31 @@
   }
  },
  "imitation-of-christ-benham-001-p09": {
-  "plain": "Life is empty if you trust people or created things. Do not be ashamed to serve others for love of Jesus Christ. Hope in God, do what you can, and God will help; he resists the proud, favours the humble.",
+  "plain": "Trusting in people or created things is futile. Don't be ashamed to serve others for Christ's love or to seem poor. Hope in God, not yourself: do what you can and God will help. Trust not learning or cleverness but God's favour; he resists the proud and helps the humble.",
   "core_idea": "Trust God, not yourself or other people",
   "quotability": 2,
   "complete": true,
   "batch": "e0014",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Life is empty if you trust people or created things. Do not be ashamed to serve others for love of Jesus Christ. Hope in God, do what you can, and God will help; he resists the proud, favours the humble.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops warnings not to trust learning or cleverness and to accept being reckoned poor.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops being reckoned poor and not trusting in learning or cleverness.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-001-p10": {
   "plain": "Don't take pride in wealth, powerful friends, strength, looks or skill; illness can take the body's gifts quickly, and every good gift comes from God, who wants to give even Himself.",
@@ -28412,17 +29076,31 @@
   }
  },
  "imitation-of-christ-benham-002-p05": {
-  "plain": "Breaking a habit is hard, and going against your own will is harder. If you can't beat small obstacles, how will you beat big ones? Resist bad habits early, before they drag you into worse.",
+  "plain": "Breaking a habit is hard, opposing your own will harder. But if you can't overcome small obstacles, how will you overcome great ones? Resist your will early and unlearn bad habits before they lead to worse. If you knew the peace and joy holy living brings, you'd be more zealous.",
   "core_idea": "Resist bad habits early, while they are small",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Breaking a habit is hard, and going against your own will is harder. If you can't beat small obstacles, how will you beat big ones? Resist bad habits early, before they drag you into worse.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing idea: peace and joy a holy life brings, and the call to spiritual zeal.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the closing point about the peace and joy a holy life brings.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-002-p06": {
   "plain": "Sorrows and unfair criticism are good for us sometimes. They remind us we are only passing through this world, keep us humble, and make us look harder for God's approval when people misjudge us.",
@@ -28607,17 +29285,31 @@
   }
  },
  "imitation-of-christ-benham-003-p08": {
-  "plain": "Someone said that each time he went among people he came back less of a man. Silence is easier than talking without excess. Only those who love quiet and obedience can safely speak, lead and command.",
+  "plain": "Long talk with people often leaves us less than we were; silence is easier than measured speech. So whoever seeks the spiritual must go apart from the crowd with Jesus. Only one who loves staying home goes out safely, who loves silence speaks safely, who loves obeying commands safely.",
   "core_idea": "Only lovers of silence speak safely",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Someone said that each time he went among people he came back less of a man. Silence is easier than talking without excess. Only those who love quiet and obedience can safely speak, lead and command.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops going apart with Jesus and the home/abroad sayings; the spiritual frame is lost.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the call to go apart from the crowd with Jesus to seek the spiritual.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-003-p09": {
   "plain": "Those most admired often fall hardest through overconfidence, so inner temptation is good for many, keeping them from pride. How clear a conscience and how much peace belong to the one who drops vain worries and hopes only in God.",
@@ -28893,30 +29585,58 @@
   }
  },
  "imitation-of-christ-benham-006-p07": {
-  "plain": "Some keep peace in themselves and with others; some have no peace and give none, troubling themselves most. But our peace in this life lies in suffering humbly, not in avoiding hardship; whoever suffers best has the most peace.",
+  "plain": "Some keep peace within and with others; some have none and give none, troubling others but themselves most. Yet all our peace here lies in humble suffering, not in escaping hardship. Whoever suffers best has most peace: master of himself, lord of the world, Christ's friend and heir of heaven.",
   "core_idea": "Peace lies in humble suffering, not avoiding hardship",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Some keep peace in themselves and with others; some have no peace and give none, troubling themselves most. But our peace in this life lies in suffering humbly, not in avoiding hardship; whoever suffers best has the most peace.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing promise: conqueror of self, friend of Christ, inheritor of heaven.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the peacemakers and the sufferer as conqueror, lord, friend of Christ.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-006-p08": {
-  "plain": "If you were pure inside, you would see everything rightly; we judge outwardly as we are inwardly. The pure in heart have the world's joy. As fire burns rust off iron, turning wholly to God makes you new.",
+  "plain": "If you were pure inside, you would see everything rightly and unharmed. A pure heart sees into heaven and hell; we judge outwardly as we are inwardly. The pure have joy; the bad conscience knows anguish best. As fire cleans rusty iron, turning wholly to God makes a person new.",
   "core_idea": "As we are inside, so we see outside",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "If you were pure inside, you would see everything rightly; we judge outwardly as we are inwardly. The pure in heart have the world's joy. As fire burns rust off iron, turning wholly to God makes you new.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops that a pure heart sees heaven and hell and that evil conscience knows anguish best.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the evil conscience knowing anguish and seeing heaven and hell.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-006-p09": {
   "plain": "When someone grows lukewarm, small efforts scare him and he grabs at outward comforts; when he truly starts mastering himself and following God, things that once seemed so hard count for nothing.",
@@ -28984,30 +29704,58 @@
   }
  },
  "imitation-of-christ-benham-007-p01": {
-  "plain": "A pure conscience is easily content. Praise doesn't make you holier, nor blame worse; you are what you are, and no better than God says. People see the outside and the deed, but God sees the heart and the intention.",
+  "plain": "A pure conscience brings peace. Praise doesn't make you holier nor blame worse; you are what God judges you to be. People see deeds, God sees intent. A humble spirit always does well and thinks little of itself; seeking no comfort from created things shows great purity and faithfulness.",
   "core_idea": "You are what you are in God's sight",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "A pure conscience is easily content. Praise doesn't make you holier, nor blame worse; you are what you are, and no better than God says. People see the outside and the deed, but God sees the heart and the intention.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing ideas on humility and not seeking consolation from created things.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the humble spirit and seeking no comfort from created things.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-007-p02": {
-  "plain": "Blessed is whoever knows what it is to love Jesus above all. Love of created things is unstable and makes you fall; love of Jesus is faithful. Hold Him as your friend; He stays when everyone leaves.",
+  "plain": "Blessed is whoever knows what it is to love Jesus and despise himself for his sake, giving up all he loves, for Jesus must be loved above all. Love of created things fails; his lasts. He won't abandon you when all leave you, as one day they must.",
   "core_idea": "Jesus stays when all others leave",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the command to hold Jesus as friend and the promise not to let you perish.",
+   "batch": "k0001"
+  },
+  "plain_v1": "Blessed is whoever knows what it is to love Jesus above all. Love of created things is unstable and makes you fall; love of Jesus is faithful. Hold Him as your friend; He stays when everyone leaves.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens: drops despising oneself for Jesus and giving up all one loves; drops final separation.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops despising oneself, giving up all, and the inevitable separation from all.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-007-p03": {
   "plain": "Bring God a free, bare heart; only His grace unites you to Him. With grace you can do anything; without it you are weak. Don't despair then, but rest in God's will: after winter comes summer, after storm, calm.",
@@ -29088,17 +29836,31 @@
   }
  },
  "imitation-of-christ-benham-008-p02": {
-  "plain": "At times God seems absent, others try you, and you tire of yourself, with no relief but to bear it as God wills. You can't escape the Cross, since you take yourself everywhere; you need patience for inner peace.",
+  "plain": "At times God will forsake you, others will try you and you will weary yourself; you must bear it as long as God wills and be humbled. Only sufferers truly grasp Christ's Passion. The Cross awaits everywhere, for you carry yourself; patience brings inner peace and the everlasting crown.",
   "core_idea": "The Cross is everywhere; patience brings peace",
   "quotability": 2,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "At times God seems absent, others try you, and you tire of yourself, with no relief but to bear it as God wills. You can't escape the Cross, since you take yourself everywhere; you need patience for inner peace.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "\"Forsaken of God\" softened to \"God seems absent\"; drops Christ's Passion and the everlasting crown.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops suffering as God's way to humility, understanding the Passion, and the everlasting crown.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-008-p03": {
   "plain": "Carry your cross willingly and it will carry you to where suffering ends, though not in this life. Carry it unwillingly and it gets heavier, yet you must still carry it. Drop one and you'll find another, perhaps heavier.",
@@ -29166,17 +29928,31 @@
   }
  },
  "imitation-of-christ-benham-010-p01": {
-  "plain": "Love is quick, sincere, gentle, strong, patient, faithful and never selfish; seeking your own is falling from love. It is humble, steady and grateful to God, trusting Him even when He hides, for love cannot live without sorrow.",
+  "plain": "Love is swift, sincere, gentle, strong, patient, faithful and never selfish; seeking your own is falling from love. It is humble, steady, chaste, obedient to authority, lowly in its own eyes, grateful to God and trusting him even when he hides his face, for love cannot live without sorrow.",
   "core_idea": "True love is selfless and trusts through sorrow",
   "quotability": 2,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Love is quick, sincere, gentle, strong, patient, faithful and never selfish; seeking your own is falling from love. It is humble, steady and grateful to God, trusting Him even when He hides, for love cannot live without sorrow.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops love's obedience to authority and being vile and lowly in its own sight.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops obedience to authority and being lowly in one's own sight.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-010-p02": {
   "plain": "God speaks: fight like a good soldier, and if you sometimes fail through weakness, take up your strength more bravely, trusting in My greater grace; and beware of false confidence and pride.",
@@ -29361,17 +30137,31 @@
   }
  },
  "imitation-of-christ-benham-012-p02": {
-  "plain": "Lord, You care for me more than I can for myself; whoever doesn't give You his worries stands insecurely. While my will rests in You, do as You wish; it can only be good. Blessed be You, dark or light.",
+  "plain": "Lord, Your care for me exceeds any I can give myself. As long as my will stays firm in You, do with me what You will, for it can only be good. Blessed be You whether You leave me in darkness or light, comfort me or cause me trouble.",
   "core_idea": "Blessed be God in light and darkness alike",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Lord, You care for me more than I can for myself; whoever doesn't give You his worries stands insecurely. While my will rests in You, do as You wish; it can only be good. Blessed be You, dark or light.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens: drops blessing God for causing trouble, reducing it to \"dark or light\".",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops blessing God whether He comforts or troubles.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-012-p03": {
   "plain": "Your suffering is small next to those who have been far more tempted and tried. Remember their pains to bear yours more easily; if yours don't seem small, impatience may be the cause. Big or small, bear them patiently.",
@@ -29491,17 +30281,31 @@
   }
  },
  "imitation-of-christ-benham-013-p01": {
-  "plain": "Someone given fewer gifts shouldn't be downcast or envy those given more, but praise God's generous goodness, the source of everything. God knows what is best for each; why one has less and another more is His to understand.",
+  "plain": "Whoever has fewer gifts shouldn't be downcast or envious, but look to You and praise Your goodness, for You give freely to all. Everything comes from You, so You are praised in all. Why one has less and another more is Yours to know, for You know what each deserves.",
   "core_idea": "Don't envy others' gifts; God knows best",
   "quotability": 2,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Someone given fewer gifts shouldn't be downcast or envy those given more, but praise God's generous goodness, the source of everything. God knows what is best for each; why one has less and another more is His to understand.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Passage addressed to God (\"Thee\") recast as speech about God; drops God knowing each one's deserving.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-013-p02": {
   "plain": "God speaks: try to do another's will rather than your own. Always choose less rather than more, seek the lowest place, and pray that God's will be done in you. Such a person enters into peace and quiet.",
@@ -29855,17 +30659,31 @@
   }
  },
  "imitation-of-christ-benham-015-p04": {
-  "plain": "God speaks: do you expect spiritual comfort whenever you want? My saints had grief and desolation instead, yet bore it patiently and trusted God. Don't demand at once what others won through tears. Wait, be strong; I am with you.",
+  "plain": "Do you expect spiritual comfort at will? My saints had grief and desolation instead, yet bore it patiently, trusting God, knowing present suffering is nothing beside the coming glory. Wait for the Lord, be strong, devote yourself to God's glory; I will reward you richly and stand by you.",
   "core_idea": "Saints endured desolation; wait for the Lord",
   "quotability": 2,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "God speaks: do you expect spiritual comfort whenever you want? My saints had grief and desolation instead, yet bore it patiently and trusted God. Don't demand at once what others won through tears. Wait, be strong; I am with you.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops future glory outweighing present suffering, devotion to God's glory, and the promised reward.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the coming glory and devoting body and soul to God's glory.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-015-p05": {
   "plain": "God speaks: anchor your soul in God and don't fear people's judgment when your conscience says you are innocent. Such suffering is good for a humble heart. People's opinions vary, so trust them little; you can't please everyone anyway.",
@@ -30284,17 +31102,31 @@
   }
  },
  "imitation-of-christ-benham-018-p06": {
-  "plain": "What does God ask of a guilty sinner but sorrow and humility? From true sorrow and humility come hope of pardon, a reconciled conscience and recovered grace, and God and the repentant soul hurry to meet each other.",
+  "plain": "What do You ask of a guilty sinner above all, but sorrow and humility for his sins? True contrition brings hope of pardon, a reconciled conscience, recovered grace and escape from the wrath to come, as God and the penitent soul hurry to meet with a holy kiss.",
   "core_idea": "Humble sorrow brings God and sinner together",
   "quotability": 3,
   "complete": true,
   "batch": "e0015",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "What does God ask of a guilty sinner but sorrow and humility? From true sorrow and humility come hope of pardon, a reconciled conscience and recovered grace, and God and the repentant soul hurry to meet each other.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Question addressed to God recast as about God; drops preservation from wrath to come and the holy kiss.",
    "batch": "j0012"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops preservation from the wrath to come.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-018-p07": {
   "plain": "God speaks: if you fully conquer yourself, you'll easily master everything else. The perfect victory is over yourself. Whoever keeps his desires obedient to reason, and his reason obedient to Me, truly rules himself and the world.",
@@ -30440,17 +31272,31 @@
   }
  },
  "imitation-of-christ-benham-020-p02": {
-  "plain": "Speaking to God: You are my only real comfort. I would rather be poor with You than rich without You, a wanderer with You than in heaven without You. Where You are is heaven.",
+  "plain": "Lord, my trust and comfort is You, whose mercies are endless. When was I well without You, or harmed with You near? I'd rather be poor or a pilgrim with You than rich, or in heaven, without You. Where You are is heaven; where You aren't, death and hell.",
   "core_idea": "With God is heaven; without God is hell",
   "quotability": 3,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Speaking to God: You are my only real comfort. I would rather be poor with You than rich without You, a wanderer with You than in heaven without You. Where You are is heaven.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the hard saying \"where Thou art not, there death and hell\".",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'where You are not, there is death and hell' and his endless mercies.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "imitation-of-christ-benham-020-p03": {
   "plain": "Speaking to God: I put all my hope and troubles in You, because everything else is weak. Friends, helpers, advisers, books, wealth and safe places are all useless unless You yourself help and comfort.",
@@ -31276,43 +32122,85 @@
   }
  },
  "meditations-002-p02": {
-  "plain": "Each morning, expect to meet meddling, ungrateful, arrogant, deceitful and envious people who don't know good from evil. They cannot harm you, and you cannot hate them, for they are your kin. We are made to work together.",
+  "plain": "Each morning tell yourself: today I'll meet meddling, ungrateful, arrogant, deceitful, envious people, ignorant of good and evil. But the wrongdoer is my kin, sharing reason and the divine, so he cannot harm me nor I hate him. We are made to cooperate; resenting or turning away is against nature.",
   "core_idea": "Expect difficult people; they are still your kin",
   "quotability": 2,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Each morning, expect to meet meddling, ungrateful, arrogant, deceitful and envious people who don't know good from evil. They cannot harm you, and you cannot hate them, for they are your kin. We are made to work together.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops kinship through shared reason and divinity, and that being vexed or turning away is itself against nature.",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that resentment and turning away are against nature, and kinship in divinity.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-002-p03": {
-  "plain": "Remember how long you have put things off and wasted chances. Your time is limited, and if you don't use it to clear your mind, it will pass, you will pass, and it will never return.",
+  "plain": "Remember how long you have delayed and how many chances the gods gave you. See what universe you belong to and what governor your life flows from; your time is fixed, and unless you use it to clear your mind, it will go, and you too, never to return.",
   "core_idea": "Your time is limited; stop putting things off",
   "quotability": 2,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Remember how long you have put things off and wasted chances. Your time is limited, and if you don't use it to clear your mind, it will pass, you will pass, and it will never return.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the cosmic frame: part of the universe, existence flowing from its administrator, chances from the gods.",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops perceiving one's place in the universe and its governor.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-002-p04": {
-  "plain": "Do each task with dignity, care, freedom and justice, setting other thoughts aside. You can, if you act each time as if it were your last, without carelessness, hypocrisy, self-love or discontent. A calm life needs little.",
+  "plain": "Do each present task with simple dignity, kindness, freedom and justice, setting aside other thoughts. You will, if you do each act as your last, free of carelessness, hypocrisy, self-love and discontent. Hold these few things and you live a quiet life like the gods', who ask nothing more.",
   "core_idea": "Do each act as if it were your last",
   "quotability": 2,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Do each task with dignity, care, freedom and justice, setting other thoughts aside. You can, if you act each time as if it were your last, without carelessness, hypocrisy, self-love or discontent. A calm life needs little.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the life \"like the existence of the gods\"; \"a calm life needs little\" misreads few principles held.",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that this life is like the gods', who require nothing more.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-002-p05": {
   "plain": "Do outside events distract you? Take time to learn something good and stop being spun around. But avoid the opposite error too: people who wear themselves out with activity, with no aim for their actions and thoughts.",
@@ -31445,17 +32333,31 @@
   }
  },
  "meditations-004-p04": {
-  "plain": "People seek retreats in the country, by the sea, in the mountains. But you can retreat into yourself whenever you choose, and nowhere is quieter than your own soul. Tranquility is a well-ordered mind; renew yourself there often.",
+  "plain": "People seek retreats in the country, by the sea or in the mountains, but you can retreat into yourself anytime, and nowhere is quieter or freer than your own soul. Tranquillity is a well-ordered mind. Retreat there often, keeping brief basic principles that cleanse you and send you back content.",
   "core_idea": "Retreat into your own mind for peace",
   "quotability": 2,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "People seek retreats in the country, by the sea, in the mountains. But you can retreat into yourself whenever you choose, and nowhere is quieter than your own soul. Tranquility is a well-ordered mind; renew yourself there often.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the brief fundamental principles that cleanse the soul, a key secondary idea.",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the brief fundamental principles that cleanse and send you back content.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-004-p05": {
   "plain": "Death, like birth, is a mystery of nature: a coming together of elements and a coming apart into them. It is nothing to be ashamed of, since it is not against the nature or reason of a thinking being.",
@@ -32181,17 +33083,31 @@
   }
  },
  "meditations-009-p10": {
-  "plain": "Is my understanding enough for this? If so, I use it as nature's tool. If not, I step aside for someone abler, or do my best with help. Whatever I do, alone or with others, should serve the common good.",
+  "plain": "Am I capable of this? If so, I use my mind as a tool given by nature. If not, I step aside for someone better, unless there's reason not to, or do my best with a helper. Whatever I do, alone or with others, should serve the common good.",
   "core_idea": "Do what you can, with help, for the common good",
   "quotability": 2,
   "complete": true,
   "batch": "e0016",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Is my understanding enough for this? If so, I use it as nature's tool. If not, I step aside for someone abler, or do my best with help. Whatever I do, alone or with others, should serve the common good.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition \"unless there be some reason why I ought not\" to step aside.",
    "batch": "j0013"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition 'unless there be some reason why I ought not'.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-009-p11": {
   "plain": "How many once famous people are now forgotten, and how many who praised the famous are long dead.",
@@ -33316,17 +34232,31 @@
   }
  },
  "meditations-019-p05": {
-  "plain": "When troubled, you've forgotten that all happens by nature; that others' wrongs are nothing to you; that all people are kin; that each mind is divine; that nothing is yours; that all is opinion; that you lose only now.",
+  "plain": "When troubled, you have forgotten: all happens by universal nature; another's wrong is nothing to you; all things always happen so; humans are kin through mind; each mind is divine; child, body and soul come from the deity; all is opinion; and you live and lose only the present.",
   "core_idea": "Trouble comes from forgetting basic truths",
   "quotability": 1,
   "complete": true,
   "batch": "e0017",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "When troubled, you've forgotten that all happens by nature; that others' wrongs are nothing to you; that all people are kin; that each mind is divine; that nothing is yours; that all is opinion; that you lose only now.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops recurrence item and that body, child and soul came from the deity.",
    "batch": "j0014"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "meditations-019-p06": {
   "plain": "Security in life lies in seeing each thing fully for what it is, and with your whole soul doing justice and speaking truth. What remains but to enjoy life, linking one good act to the next without gaps?",
@@ -34063,17 +34993,31 @@
   }
  },
  "prophet-001-p06": {
-  "plain": "Your children are not yours; they come from Life's longing for itself, through you but not from you. Give them love but not your thoughts; house their bodies, not their souls, which live in a tomorrow you can't visit.",
+  "plain": "Your children are not your own; they are Life longing for itself, coming through you, not from you. Give them love, not your thoughts; house their bodies, not their souls, which live in a tomorrow you can't visit. Strive to be like them, not to make them like you.",
   "core_idea": "Children belong to life, not to their parents",
   "quotability": 3,
   "complete": true,
   "batch": "e0017",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Your children are not yours; they come from Life's longing for itself, through you but not from you. Give them love but not your thoughts; house their bodies, not their souls, which live in a tomorrow you can't visit.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops striving to be like children, not making them like you; life does not go backward.",
    "batch": "j0014"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the conclusion: be like them, not make them like you; life goes forward.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "prophet-001-p07": {
   "plain": "Giving possessions is giving little; giving yourself is true giving. Possessions are things hoarded for fear of tomorrow, yet fear of need is itself need, like dreading thirst beside a full well.",
@@ -36771,10 +37715,6 @@
   "quotability": 2,
   "complete": true,
   "batch": "e0019",
-  "fix": {
-   "display_text": "A man bears the weight of his own body without knowing it, but he soon feels the weight of any other, if he tries to move it; in the same way, a man can see other people's shortcomings and vices, but he is blind to his own. This arrangement has one advantage: it turns other people into a kind of mirror, in which a man can see clearly everything that is vicious, faulty, ill-bred and loathsome in his own nature; only, it is generally the old story of the dog barking at his own image; it is himself that he sees and not another dog, as he fancies.",
-   "reason": "Stray apostrophe; missing letter in 'his'"
-  },
   "judge": {
    "faithful": 5,
    "advice": false,
@@ -43940,17 +44880,31 @@
   }
  },
  "seneca-080-p06": {
-  "plain": "What we chase looks grand only because we are far below it; to those who reach it, it is just a rung on the ladder. Misled by the crowd, people win their wish and find it bad, empty or disappointing.",
+  "plain": "Happiness is lowly, not greedy, so it never gluts desire. What you think lofty seems small to those who reach it, and they climb higher. Ignorant of truth and led by common talk, people chase things as good, then find them bad, empty or lesser. Crowds mistake big for good.",
   "core_idea": "What we chase looks great only from afar",
   "quotability": 2,
   "complete": true,
   "batch": "e0022",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "What we chase looks grand only because we are far below it; to those who reach it, it is just a rung on the ladder. Misled by the crowd, people win their wish and find it bad, empty or disappointing.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops opening claim that happiness is lowly, not greedy; and the urge to climb higher.",
    "batch": "j0018"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the opening claim that happiness is lowly, not greedy.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "seneca-081-p01": {
   "plain": "Would you rather have much, or enough? Whoever has much wants more, proof they don't have enough yet; whoever has enough has what the rich never get: a place to stop.",
@@ -45259,17 +46213,31 @@
   }
  },
  "an-035-p02": {
-  "plain": "People will blame you if you lack learning and ethics, and praise you for whichever you have. If you both learn much and live ethically, they will praise you for both.",
+  "plain": "If you learn little and lack ethics, you're criticised for both; learn little but are ethical, you're praised for ethics; learn much but lack ethics, you're criticised for ethics, as your learning failed; learn much and are ethical, you're praised for both.",
   "core_idea": "Learning and ethics together earn full praise",
   "quotability": 2,
   "complete": true,
   "batch": "e0023",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "People will blame you if you lack learning and ethics, and praise you for whichever you have. If you both learn much and live ethically, they will praise you for both.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "'Praise you for whichever you have' is wrong: learning without ethics earns criticism, not praise.",
    "batch": "j0018"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Loses the point that learning succeeds only through ethics; overgeneralises the praise.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "an-035-p03": {
   "plain": "Craving goes with a person from life to life, and they never escape the round of rebirth. Seeing that craving causes suffering, a mendicant lets go of it and of grasping, and lives mindfully.",
@@ -47440,17 +48408,31 @@
   }
  },
  "an-176-p02": {
-  "plain": "Developing love fully brings eleven benefits: you sleep and wake easily, have no nightmares, are loved by humans and others, protected by gods, settle quickly in meditation, look bright, die unconfused, and may be reborn divinely.",
+  "plain": "Mendicants, fully cultivating the heart's release by love brings eleven benefits: easy sleep, happy waking, no bad dreams, love of humans and non-humans, protection by deities, safety from fire, poison and blade, quick immersion, a bright face, dying unconfused, and, if you go no higher, rebirth in a divine realm.",
   "core_idea": "Cultivating love brings many blessings, in life and death",
   "quotability": 2,
   "complete": true,
   "batch": "e0024",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Developing love fully brings eleven benefits: you sleep and wake easily, have no nightmares, are loved by humans and others, protected by gods, settle quickly in meditation, look bright, die unconfused, and may be reborn divinely.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops immunity to fire, poison and blade and the condition 'if you don't penetrate higher'.",
    "batch": "j0019"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops safety from fire, poison and blade, and the condition on divine rebirth.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "dhp-001-p01": {
   "plain": "Intention leads everything we do. If you speak or act with a corrupt mind, suffering follows you like a cart wheel behind the ox; act with a pure mind, and happiness follows like your own shadow.",
@@ -47557,7 +48539,7 @@
   }
  },
  "dhp-001-p10": {
-  "plain": "A fragrant, lovely lotus can bloom from a pile of rubbish thrown by the roadside. In the same way, a disciple of the Buddha shines with wisdom among people looked down on as worthless.",
+  "plain": "Just as a fragrant, lovely lotus can bloom from a heap of roadside trash, so a disciple of the Buddha, among those thought worthless, outshines blind ordinary people with wisdom.",
   "core_idea": "Beauty and wisdom can rise from what is despised",
   "quotability": 4,
   "complete": false,
@@ -47569,11 +48551,25 @@
    "added_words": 22
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "A fragrant, lovely lotus can bloom from a pile of rubbish thrown by the roadside. In the same way, a disciple of the Buddha shines with wisdom among people looked down on as worthless.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Loses that the disciple, from among the despised, outshines 'blind ordinary folk'.",
    "batch": "j0019"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that the disciple outshines the blind ordinary folk.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "dhp-001-p11": {
   "plain": "If on your travels you find no companion equal to or better than you, go on firmly alone; there is no companionship with fools.",
@@ -49877,17 +50873,31 @@
   }
  },
  "mn-072-p01": {
-  "plain": "Family and friends can't help you as you die; wealth, children and kingdom stay behind, and beings go on by their deeds. Life is short for all, but only the fool is struck down; the attentive don't tremble.",
+  "plain": "Friends can't help when you die; heirs take your wealth, and beings fare on by their deeds. Riches, family and kingdom don't follow you, nor buy long life or stop old age. Life is short for all; the fool lies stricken by his own folly, but the wise don't tremble.",
   "core_idea": "Death takes everything; only the wise stay unshaken.",
   "quotability": 3,
   "complete": true,
   "batch": "e0025",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Family and friends can't help you as you die; wealth, children and kingdom stay behind, and beings go on by their deeds. Life is short for all, but only the fool is struck down; the attentive don't tremble.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "'Only the fool is struck down' misreads 'stricken by their own folly'; drops riches can't buy longevity.",
    "batch": "j0020"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Says only the fool is struck; the passage says all feel its touch.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "mn-074-p01": {
   "plain": "The Buddha saw that his extreme self-torment, as severe as anyone's, hadn't brought awakening. Then he remembered entering a blissful first absorption as a boy under a plum tree, and realised that this was the path to awakening.",
@@ -50319,17 +51329,31 @@
   }
  },
  "mn-114-p02": {
-  "plain": "Don't run back to the past or reach for the future; the past is gone and the future hasn't come. See clearly what is here now. Work keenly today, for death may come tomorrow and can't be bargained with.",
+  "plain": "Don't run back to the past or anticipate the future; see clearly what is present, and know and foster the unshakable. Work keenly today, for death may come tomorrow and won't bargain. One who meditates tirelessly like this, night and day, has had one fine night, says the peaceful sage.",
   "core_idea": "Live fully in the present; death won't wait.",
   "quotability": 3,
   "complete": true,
   "batch": "e0025",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Don't run back to the past or reach for the future; the past is gone and the future hasn't come. See clearly what is here now. Work keenly today, for death may come tomorrow and can't be bargained with.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'know the unshakable and foster it' and the tireless meditator who has one fine night.",
    "batch": "j0020"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops fostering the unshakable and the meditator who has one fine night.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "mn-116-p01": {
   "plain": "Beings own their deeds and inherit them. Their deeds are their origin, their family and their refuge, and it is deeds that make some beings lower and some higher.",
@@ -51515,7 +52539,7 @@
   }
  },
  "sn-035-p01": {
-  "plain": "A thirsty man is offered a delicious drink that is laced with poison and would kill him. He thinks it over, chooses another drink, and leaves the poisoned one alone, avoiding death.",
+  "plain": "A thirsty, exhausted man is offered a delicious-looking drink but told it is poisoned and will bring death or deadly pain, so he quenches his thirst another way. In the same way, past ascetics saw pleasant things as impermanent, suffering, not-self, diseased and dangerous, and gave up craving.",
   "core_idea": "Refuse pleasant things that bring lasting harm.",
   "quotability": 2,
   "complete": false,
@@ -51527,11 +52551,25 @@
    "added_words": 39
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "A thirsty man is offered a delicious drink that is laced with poison and would kill him. He thinks it over, chooses another drink, and leaves the poisoned one alone, avoiding death.",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Drops the point: ascetics saw pleasant things as dangerous and gave up craving.",
    "batch": "j0021"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the point: past ascetics saw pleasures as dangerous and gave up craving.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "sn-038-p01": {
   "plain": "A torch dropped in dry grass does no harm if quickly put out. Likewise, if a seeker quickly drops a corrupt thought, they live happily now and can expect a good rebirth after death.",
@@ -52275,7 +53313,7 @@
   }
  },
  "sn-089-p01": {
-  "plain": "A person asks different people what a parrot tree looks like and gets different answers, black, red, pod-laden, leafy, each true of the tree at the time that person saw it.",
+  "plain": "Asked what a parrot tree is like, different people describe it as blackish, reddish, flaking or leafy, each rightly for the time they saw it. In the same way, those true persons each answered according to what they focused on when their vision was purified.",
   "core_idea": "Different true answers come from different vantage points.",
   "quotability": 2,
   "complete": false,
@@ -52287,11 +53325,25 @@
    "added_words": 22
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "A person asks different people what a parrot tree looks like and gets different answers, black, red, pod-laden, leafy, each true of the tree at the time that person saw it.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the application: true persons answered according to their focus.",
    "batch": "j0021"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the point: true persons answered by their focus with purified vision.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "sn-090-p01": {
   "plain": "The 'abyss' is really painful bodily feeling. An untaught person facing pain wails and falls into confusion, finding no footing; a learned disciple of the noble ones meets pain without lament and finds firm footing.",
@@ -52541,7 +53593,7 @@
   }
  },
  "sn-109-p02": {
-  "plain": "The Buddha asks the mendicants where a tree leaning east would fall if cut at the root. They answer: in the direction it leans.",
+  "plain": "A tree leaning east, when cut at the root, falls east. In the same way, a mendicant who develops the noble eightfold path leans and inclines toward extinguishment.",
   "core_idea": "You fall the way you lean.",
   "quotability": 3,
   "complete": false,
@@ -52553,11 +53605,25 @@
    "added_words": 20
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "The Buddha asks the mendicants where a tree leaning east would fall if cut at the root. They answer: in the direction it leans.",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Drops the point: the path inclines the mendicant toward extinguishment.",
    "batch": "j0021"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the point: the eightfold path inclines a mendicant to extinguishment.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "sn-110-p01": {
   "plain": "The Buddha tells the mendicants there are three kinds of comparing oneself: thinking 'I'm better', 'I'm equal', or 'I'm worse'.",
@@ -52599,7 +53665,7 @@
   }
  },
  "sn-112-p01": {
-  "plain": "The Buddha asks the sick Kassapa if he is getting better and his pain easing. Kassapa answers honestly that he is not well: his pain is terrible and growing worse.",
+  "plain": "The Buddha asks the sick Kassapa if his pain is easing; Kassapa says it is terrible and growing. The Buddha reminds him of the seven awakening factors he has rightly taught, which when developed lead to direct knowledge, awakening and extinguishment.",
   "core_idea": "Honestly admitting that pain is growing.",
   "quotability": 2,
   "complete": false,
@@ -52611,11 +53677,25 @@
    "added_words": 22
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "The Buddha asks the sick Kassapa if he is getting better and his pain easing. Kassapa answers honestly that he is not well: his pain is terrible and growing worse.",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Drops the Buddha's answer about the seven awakening factors; only the complaint remains.",
    "batch": "j0021"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the Buddha's teaching on the seven awakening factors, the passage's conclusion.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "sn-113-p01": {
   "plain": "Gold mixed with iron, copper, tin, lead or silver is brittle and dull. In the same way, sensual desire, ill will, drowsiness, restlessness and doubt make the mind brittle and unable to settle in meditation.",
@@ -54360,7 +55440,7 @@
   }
  },
  "tagore-sadhana-006-p01": {
-  "plain": "For those who live for others or an ideal, pain matters less; pleasure serves oneself, goodness serves all. A pitcher of seawater is heavy, yet in the sea you feel no weight: living for self makes pleasure and pain heavy.",
+  "plain": "For one who lives for an idea or the good of all, pain matters less. Seen from goodness, pleasure may be shunned, pain sought, death welcomed, as martyrs show. As sea water weighs nothing when you dive in, on the moral plane pain lightens, giving near-superhuman patience under crushing persecution.",
   "core_idea": "Living for others lightens pain",
   "quotability": 1,
   "complete": true,
@@ -54370,11 +55450,25 @@
    "reason": "Scan error: 'trails' for 'trials'"
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "For those who live for others or an ideal, pain matters less; pleasure serves oneself, goodness serves all. A pitcher of seawater is heavy, yet in the sea you feel no weight: living for self makes pleasure and pain heavy.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the hard saying: pain courted, death welcomed, martyrs' patience under persecution.",
    "batch": "j0022"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the main point: on the moral plane pain lightens, as martyrs show.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "tagore-sadhana-006-p02": {
   "plain": "A strong imagination is closer to truth, and a strong individuality widens toward the universal. A personality's greatness lies in its universal content, just as a lake's depth is measured by its water, not the size of its hollow.",
@@ -57216,17 +58310,31 @@
   }
  },
  "tao-001-p02": {
-  "plain": "Better not to fill a vessel than carry it brimming. Sharpened points dull; hoarded treasure can't be guarded; wealth that breeds arrogance brings ruin. When the work is done and fame grows, withdrawing is Heaven's way.",
+  "plain": "Better not to fill a vessel than carry it full. A point you keep fingering won't stay sharp. A hall full of gold and jade can't be kept safe. Wealth and honour turned to arrogance bring their own ruin. When work is done and fame grows, withdrawing is Heaven's way.",
   "core_idea": "Stop before excess; withdraw when work is done",
   "quotability": 2,
   "complete": true,
   "batch": "e0028",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Better not to fill a vessel than carry it brimming. Sharpened points dull; hoarded treasure can't be guarded; wealth that breeds arrogance brings ruin. When the work is done and fame grows, withdrawing is Heaven's way.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition of repeatedly feeling the point; says sharpened points simply dull.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "tao-001-p03": {
   "plain": "Too many colours blind the eyes, too much music deafens the ears, too many flavours dull the taste; racing and hunting drive the mind wild, and chasing rare things leads people to do wrong.",
@@ -57242,17 +58350,31 @@
   }
  },
  "tao-001-p04": {
-  "plain": "Favour and disgrace are equally to be feared. Gaining favour makes you anxious about losing it, and losing it makes you dread worse misfortune; so both bring fear.",
+  "plain": "Favour and disgrace are both to be feared, and honour and great calamity are alike personal conditions. Disgrace means falling low after favour: gaining favour brings fear of losing it, and losing it brings fear of worse disaster. That is why favour and disgrace are equally feared.",
   "core_idea": "Favour and disgrace both bring fear",
   "quotability": 2,
   "complete": true,
   "batch": "e0028",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Favour and disgrace are equally to be feared. Gaining favour makes you anxious about losing it, and losing it makes you dread worse misfortune; so both bring fear.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops honour and calamity as personal conditions, and the definition of disgrace.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops honour and calamity regarded as personal conditions.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "tao-001-p05": {
   "plain": "Who can clear muddy water? Leave it still, and it slowly clears. Who can reach rest? Let movement continue, and rest gradually comes.",
@@ -57502,17 +58624,31 @@
   }
  },
  "teresa-interior-castle-001-p01": {
-  "plain": "The soul is like a castle of clear crystal with many rooms, a paradise where God delights to dwell. Its beauty and powers are beyond our understanding, just as God is, because he made us in his image.",
+  "plain": "I pictured the soul as a castle of diamond or clear crystal with many rooms, like heaven's many mansions. The soul of the just person is a paradise where God delights. Its beauty and powers are beyond our understanding, as God is, for he made us in his image.",
   "core_idea": "The soul is a crystal castle where God dwells",
   "quotability": 2,
   "complete": true,
   "batch": "e0028",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "The soul is like a castle of clear crystal with many rooms, a paradise where God delights to dwell. Its beauty and powers are beyond our understanding, just as God is, because he made us in his image.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition 'soul of the just man'; says any soul is God's paradise.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops 'of the just man'; implies every soul is God's paradise.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "teresa-interior-castle-001-p02": {
   "plain": "It is our own shameful fault that we don't understand our nature or origin. Worse than not knowing your own name, we think only of our bodies and rarely consider the soul's gifts, worth, and who dwells in it.",
@@ -57896,17 +59032,31 @@
   }
  },
  "teresa-interior-castle-007-p01": {
-  "plain": "Do not be distressed or worried by your thoughts: if they come from the devil, ignoring them makes him leave; if they are human weakness, bear them patiently for God's love, accepting that we are human.",
+  "plain": "We shouldn't be troubled by our thoughts: if from the devil, he leaves us alone when ignored; if frailties from Adam's sin, let us bear them patiently for love of God. Since we must eat and sleep, let us admit we are human and long for where none despise us.",
   "core_idea": "Bear troubling thoughts patiently; we are human.",
   "quotability": 2,
   "complete": true,
   "batch": "e0029",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Do not be distressed or worried by your thoughts: if they come from the devil, ignoring them makes him leave; if they are human weakness, bear them patiently for God's love, accepting that we are human.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the eating and sleeping point and longing for where none despise us.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the longing to be where no one may despise us.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "teresa-interior-castle-007-p02": {
   "plain": "Any trouble or conflict can be borne while we have peace inside; but when we seek rest from the world's trials and the obstacle is in ourselves, the pain is almost unbearable.",
@@ -58078,17 +59228,31 @@
   }
  },
  "teresa-interior-castle-012-p01": {
-  "plain": "Union with God is not guarding pious feelings in prayer; God wants deeds. Help a sick sister, feel her pain as your own, rejoice when others are praised, and grieve over their faults as if they were yours, hiding them.",
+  "plain": "Anxiously guarding feelings of devotion in prayer misunderstands union with God. The Lord wants works: care for a sick sister, feel her pain, fast so she may eat, because the Lord asks it. That is true union of wills. Rejoice when others are praised, and hide their faults.",
   "core_idea": "Union with God shows in deeds of love.",
   "quotability": 2,
   "complete": true,
   "batch": "e0029",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Union with God is not guarding pious feelings in prayer; God wants deeds. Help a sick sister, feel her pain as your own, rejoice when others are praised, and grieve over their faults as if they were yours, hiding them.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops motive 'because the Lord asks it', union of wills, and humility vexed by praise.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops fasting for her because the Lord asks it, the true union of wills.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "teresa-interior-castle-012-p02": {
   "plain": "Ask God for perfect love of your neighbour and leave the rest to Him. Push yourself to give way to others' wishes, put their interests before yours however much you resist, and take burdens off them.",
@@ -58233,17 +59397,31 @@
   }
  },
  "teresa-interior-castle-018-p01": {
-  "plain": "Crying a lot is not enough; what matters is working at the virtues and letting tears come when God sends them. Rest in God's presence and let Him give water or drought, since He knows best.",
+  "plain": "Tears are not enough; what matters is hard work and virtue, letting tears come when God sends them, for they water the soul as no digging can. So we should stand before God, weigh His mercy and our vileness, and accept water or drought; then we have peace.",
   "core_idea": "Practise virtue; leave tears and comfort to God.",
   "quotability": 2,
   "complete": true,
   "batch": "e0029",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Crying a lot is not enough; what matters is working at the virtues and letting tears come when God sends them. Rest in God's presence and let Him give water or drought, since He knows best.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops heavenly water versus digging, contemplating our vileness, and the devil.",
    "batch": "j0023"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops tears watering the soul and the resulting peace from the devil.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "teresa-interior-castle-018-p02": {
   "plain": "However much God has favoured a soul, it is dangerous to forget the unhappy state it was once in; remembering may hurt, but it does great good.",
@@ -59853,17 +61031,31 @@
   }
  },
  "viv03-013-p01": {
-  "plain": "The highest people are calm, quiet and unknown. They know that even five true thoughts, thought alone in a cave, will live forever, travel the world, and inspire people to live them out.",
+  "plain": "The only cure for bad habits is good counter-habits. Keep doing good and thinking holy thoughts to suppress bad impressions. Never call anyone hopeless: a person's character is a bundle of habits that new, better ones can check. Character is repeated habit, and only repeated habit can reform it.",
   "core_idea": "Only good habits can reform bad ones.",
   "quotability": 3,
   "complete": true,
   "batch": "e0030",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "The highest people are calm, quiet and unknown. They know that even five true thoughts, thought alone in a cave, will live forever, travel the world, and inspire people to live them out.",
+  "judge_v1": {
    "faithful": 1,
    "advice": false,
    "issue": "Plain version belongs to a different passage (calm unknown men); says nothing about habits.",
    "batch": "j0024"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 1,
+   "advice": false,
+   "issue": "Plain version belongs to a different passage; says nothing about habits.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv03-014-p01": {
   "plain": "All knowledge is within us, but it must be drawn out by another knowing being; lifeless matter cannot do it. That is why teachers have always been needed.",
@@ -60849,7 +62041,7 @@
   }
  },
  "viv04-017-p01": {
-  "plain": "Nachiketas tells Death that riches, pleasures and even a long life are short-lived and drain the senses; Death can keep them, because wealth can never satisfy a person.",
+  "plain": "Nachiketas told Death: these pleasures last a day and wear out the senses, and even the longest life is short. Keep your horses, chariots, dances and songs. Wealth cannot satisfy a person, nor can we keep it when we face you; we live only as long as you wish.",
   "core_idea": "Wealth and pleasure cannot satisfy a human being",
   "quotability": 3,
   "complete": false,
@@ -60861,11 +62053,25 @@
    "added_words": 17
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Nachiketas tells Death that riches, pleasures and even a long life are short-lived and drain the senses; Death can keep them, because wealth can never satisfy a person.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing point that life lasts only as long as Death wills, and wealth is futile before him.",
    "batch": "j0025"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that wealth cannot be kept before Death and we live as long as Death wills.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv04-017-p02": {
   "plain": "Once you see religion and God more vividly than you see the outside world, nothing can shake your belief, just as no one can make you doubt a country you have visited. That is real faith.",
@@ -61514,10 +62720,6 @@
   "quotability": 2,
   "complete": true,
   "batch": "e0031",
-  "fix": {
-   "display_text": "When man has seen himself as one with the Infinite Being of the universe, when all separateness has ceased, when all men and women, and gods and angels, all animals and plants, and the whole universe have melted into that Oneness, then all fear disappears. Can I hurt myself? Can I kill myself? Can I injure myself? Whom to fear? Can you fear yourself? Then will all sorrow disappear. What can cause me sorrow? I am the One Existence of the universe. Then all jealousies will disappear; of whom to be jealous? Of myself? Then all bad feelings disappear. Against whom can I have bad feeling? Against myself? There is none in the universe but I.",
-   "reason": "scan error: an for and"
-  },
   "judge": {
    "faithful": 5,
    "advice": false,
@@ -61950,17 +63152,31 @@
   }
  },
  "viv06-001-p04": {
-  "plain": "Step back from the world's petty selfish attachments and watch life as a witness and a student. Inside the current you feel the friction, falls and fights; standing outside it, you see God showing Himself as Love through countless channels.",
+  "plain": "Pull away from the world's petty selfish clingings and don't make humanity the centre of your interests. Stand apart as a witness and student, unattached to people, and watch love work itself out. Frictions and falls are passing; outside the world's current you see God showing Himself as Love everywhere.",
   "core_idea": "As a witness, see God as Love everywhere",
   "quotability": 2,
   "complete": true,
   "batch": "e0031",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Step back from the world's petty selfish attachments and watch life as a witness and a student. Inside the current you feel the friction, falls and fights; standing outside it, you see God showing Himself as Love through countless channels.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the hard saying not to make humanity the centre, and non-attachment toward people.",
    "batch": "j0025"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops not making humanity the centre and non-attachment to people.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv06-001-p05": {
   "plain": "The Lord is a great magnet and we are iron filings, always drawn toward Him. All our struggle in life, even when people do not know it, is meant to bring us to Him and make us one with Him.",
@@ -62482,10 +63698,6 @@
   "quotability": 4,
   "complete": true,
   "batch": "e0031",
-  "fix": {
-   "display_text": "Love cannot come through fear, its basis is freedom. When we really begin to love the world, then we understand what is meant by brotherhood of mankind, and not before.",
-   "reason": "scan error: or for of"
-  },
   "judge": {
    "faithful": 5,
    "advice": false,
@@ -62533,17 +63745,31 @@
   }
  },
  "viv07-006-p03": {
-  "plain": "As the Bible says, if you cannot love the brother you see, how can you love the God you do not? If you cannot see God in a human face, you cannot see Him in clouds or idols.",
+  "plain": "As the Bible says, if you can't love the brother you see, how can you love the unseen God? If you can't see God in a human face, you won't find him in clouds, images or stories. Seeing God in people makes you religious, and explains turning the other cheek.",
   "core_idea": "Religion begins when you see God in people",
   "quotability": 3,
   "complete": true,
   "batch": "e0031",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "As the Bible says, if you cannot love the brother you see, how can you love the God you do not? If you cannot see God in a human face, you cannot see Him in clouds or idols.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the closing point: religion begins when you see God in people, and turning the other cheek.",
    "batch": "j0025"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Drops the conclusion: true religion begins in seeing God in people.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv07-006-p04": {
   "plain": "Always look at others with love and sympathy, knowing they are walking the same path we have already walked.",
@@ -64245,17 +65471,31 @@
   }
  },
  "viv08-009-p01": {
-  "plain": "To gain freedom through work, work without desire or looking for results, neither seeking pleasure nor fearing pain; that leads to knowledge and liberation. It is body and mind that work, not I.",
+  "plain": "To gain liberation through work, work without desire or looking for results; such work brings knowledge, then freedom. Giving up work before you know brings misery. Work done for the Self doesn't bind. Neither seek pleasure nor fear pain from work; keep telling yourself mind and body work, not you.",
   "core_idea": "Work without desire leads to freedom.",
   "quotability": 2,
   "complete": true,
   "batch": "e0032",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "To gain freedom through work, work without desire or looking for results, neither seeking pleasure nor fearing pain; that leads to knowledge and liberation. It is body and mind that work, not I.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the warning that giving up work before knowing leads to misery, and work for the Self.",
    "batch": "j0026"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops misery of giving up work early and work for the Self not binding.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv08-009-p02": {
   "plain": "Do everything as an offering to the Lord, in the world but not of it, like a lotus pure above the mud, and love everyone. We see evil outside only because it is in us; the pure cannot see impurity.",
@@ -65085,7 +66325,7 @@
   }
  },
  "viv09-004-p01": {
-  "plain": "Business is a harsh master: even when someone dies or your heart is breaking, you must still go to work, and we accept that as right.",
+  "plain": "Business is a harsh master: even when family die and your heart is breaking, you must keep working, and we think this right. This science demands more effort than any business ever could; many succeed in business, very few in this.",
   "core_idea": "Spiritual practice demands more effort than relentless business",
   "quotability": 2,
   "complete": false,
@@ -65097,11 +66337,25 @@
    "added_words": 22
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Business is a harsh master: even when someone dies or your heart is breaking, you must still go to work, and we accept that as right.",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Loses the main point: this science demands more application than business; few succeed.",
    "batch": "j0026"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the main point: this science demands more than business; few succeed.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv09-004-p02": {
   "plain": "As a boy I criticised the hard practices of ascetics, as even the Buddha did. Now I feel I have no right to judge; my criticism may come from cowardice, because I could not do what they do.",
@@ -65342,7 +66596,7 @@
   }
  },
  "viv10-002-p02": {
-  "plain": "Travelling in an Indian desert, I kept seeing lovely lakes until one vanished when I went to drink. Afterwards the mirage still appeared, but I knew it for a mirage; once known, it lost its power to fool me.",
+  "plain": "Crossing an Indian desert, I saw lovely lakes for a month; when one vanished as I approached, I realised all were mirages. Afterwards I still saw them but knew them as mirage, so they lost their power to deceive. So too the illusion of the universe will break one day.",
   "core_idea": "Once seen through, illusion loses its power",
   "quotability": 2,
   "complete": false,
@@ -65354,11 +66608,25 @@
    "added_words": 10
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "Travelling in an Indian desert, I kept seeing lovely lakes until one vanished when I went to drink. Afterwards the mirage still appeared, but I knew it for a mirage; once known, it lost its power to fool me.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the point: the illusion of the universe will likewise break one day.",
    "batch": "j0026"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the conclusion that the illusion of the universe will break one day.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv10-003-p01": {
   "plain": "However clearly people see that nothing here is free, they cannot help feeling free, and nothing gets done without it. That felt freedom is a glimpse of blue sky through clouds; real freedom lies behind.",
@@ -66521,7 +67789,7 @@
   }
  },
  "viv11-037-p03": {
-  "plain": "As a child you thought one way, as an adult another, and in old age you will think differently again. Everyone changes, so where is your individuality?",
+  "plain": "You think differently as child, adult and old man; everyone changes. So your individuality is not in body, mind or thought. Beyond them is your Atman, and the Advaitist says this Atman is Brahman itself.",
   "core_idea": "Everything about us changes, so where is the self?",
   "quotability": 3,
   "complete": false,
@@ -66533,11 +67801,25 @@
    "added_words": 28
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "As a child you thought one way, as an adult another, and in old age you will think differently again. Everyone changes, so where is your individuality?",
+  "judge_v1": {
    "faithful": 2,
    "advice": false,
    "issue": "Drops the conclusion that individuality lies in the Atman, which is Brahman; loses the main point.",
    "batch": "j0027"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the answer: individuality lies in the Atman, which is Brahman.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv11-038-p01": {
   "plain": "Those whose minds are firmly fixed on the sameness of everything have conquered birth and death in this very life, because God is pure and the same to all; such people are said to live in God.",
@@ -66817,7 +68099,7 @@
   }
  },
  "viv11-049-p02": {
-  "plain": "A wave differs from the ocean only in its form and name, which exist only with the wave. When the wave subsides, the same water remains, though its name and form are gone forever.",
+  "plain": "A wave differs from the ocean only by its form and name, which exist only with the wave; when it subsides, the same water remains. In the same way, Maya is what makes the difference between you and me, between animals and humans, and between gods and humans.",
   "core_idea": "Name and form vanish; the underlying reality remains",
   "quotability": 3,
   "complete": false,
@@ -66829,11 +68111,25 @@
    "added_words": 21
   },
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "A wave differs from the ocean only in its form and name, which exist only with the wave. When the wave subsides, the same water remains, though its name and form are gone forever.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the conclusion that Maya is what makes the difference between beings.",
    "batch": "j0027"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 2,
+   "advice": false,
+   "issue": "Omits the conclusion that Maya makes the difference between beings; only the analogy remains.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "viv11-050-p01": {
   "plain": "Through Advaita, know that whoever you hurt, you hurt yourself, because they are all you. You work through every hand, you are king and beggar, ignorant and learned, weak and strong; know this and be compassionate.",
@@ -68801,17 +70097,31 @@
   }
  },
  "walden-thoreau-002-p02": {
-  "plain": "We could safely trust far more than we do, and worry about ourselves less. Nature suits our weakness as well as our strength; the constant anxiety and strain some people live with is an almost incurable disease.",
+  "plain": "We can safely trust far more than we do, setting aside as much care for ourselves as we honestly give elsewhere. Nature fits our weakness as well as our strength. Constant anxiety and strain is an almost incurable disease.",
   "core_idea": "Trust more; constant anxiety is a disease",
   "quotability": 3,
   "complete": true,
   "batch": "e0034",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "We could safely trust far more than we do, and worry about ourselves less. Nature suits our weakness as well as our strength; the constant anxiety and strain some people live with is an almost incurable disease.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the condition: waive only as much self-care as we honestly give elsewhere.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the condition: only as much self-care as we bestow elsewhere.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-002-p03": {
   "plain": "We say ours is the only way, but there are as many ways as lines drawn from a centre. Every change is a miracle to think about, and it is happening every moment.",
@@ -69334,17 +70644,31 @@
   }
  },
  "walden-thoreau-013-p02": {
-  "plain": "I went to live in the woods to face only what truly matters in life, so that when I died I would not find I had never really lived.",
+  "plain": "I went to the woods to live deliberately, facing only life's essentials, to learn what it could teach and not find at death that I had never lived. I didn't want to live what wasn't life, life being so precious, nor to resign myself unless truly necessary.",
   "core_idea": "Live deliberately so you do not miss life itself.",
   "quotability": 3,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "I went to live in the woods to face only what truly matters in life, so that when I died I would not find I had never really lived.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops 'live deliberately', learning what life teaches, and refusing resignation unless necessary.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops learning what life had to teach and not practising resignation.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-013-p03": {
   "plain": "Our lives are wasted on endless small details. Keep things simple: reduce your concerns to a few instead of hundreds or thousands.",
@@ -69906,17 +71230,31 @@
   }
  },
  "walden-thoreau-029-p03": {
-  "plain": "Follow the faint but steady promptings of your genius, though you cannot see where they lead; no one ever followed their genius until it misled them. If you greet each day with joy, that is success.",
+  "plain": "Whoever follows the faint, steady promptings of his genius may not see what extremes, even madness, they lead to, yet his road lies there. No one was ever misled by his genius; even bodily weakness wouldn't be regretted. If you greet each day and night with joy, that is success.",
   "core_idea": "Following your genius never misleads; joy is success.",
   "quotability": 2,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops the healthy objection prevailing and life's fragrance as the measure of success.",
+   "batch": "k0001"
+  },
+  "plain_v1": "Follow the faint but steady promptings of your genius, though you cannot see where they lead; no one ever followed their genius until it misled them. If you greet each day with joy, that is success.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Softens 'extremes, or even insanity' and bodily weakness; conditional made a command.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": true,
+   "issue": "Turns a conditional description into a command; drops the risk of extremes or insanity.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-029-p04": {
   "plain": "The greatest things in life are the least noticed; we doubt and forget them, yet they are most real. The true harvest of my days is indescribable: a little stardust caught, a piece of rainbow held.",
@@ -70114,17 +71452,31 @@
   }
  },
  "walden-thoreau-039-p01": {
-  "plain": "If we knew all nature's laws, one fact would reveal everything. We know few, so our conclusions fail through our ignorance, not nature's disorder. The hidden harmony is greater still; like a mountain, truth changes with every viewpoint.",
+  "plain": "If we knew all of Nature's laws, one fact would reveal everything. We know few, so our results fail through our ignorance, not Nature's disorder. Unseen concurring laws make a harmony more wonderful still. Laws are like viewpoints on a mountain: endless profiles, but one true form, never grasped whole.",
   "core_idea": "Nature's harmony exceeds the few laws we know.",
   "quotability": 1,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "If we knew all nature's laws, one fact would reveal everything. We know few, so our conclusions fail through our ignorance, not nature's disorder. The hidden harmony is greater still; like a mountain, truth changes with every viewpoint.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "'Truth changes with every viewpoint' loses the mountain's one absolute form behind many profiles.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 3,
+   "advice": false,
+   "issue": "Says truth changes with viewpoint; the passage says one form, many profiles.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-042-p01": {
   "plain": "A gentle thaw is more powerful than the god Thor with his hammer: the thaw melts things, while the hammer only smashes them.",
@@ -70257,17 +71609,31 @@
   }
  },
  "walden-thoreau-044-p02": {
-  "plain": "My experiment taught me that if you move confidently toward your dreams and live the life you imagined, you will meet unexpected success. If you built castles in the air, they belong there; now build foundations under them.",
+  "plain": "Advance confidently toward your dreams and live the life you imagined, and you'll meet unexpected success, and freer laws will form around you. The more you simplify, the simpler the universe seems; solitude, poverty and weakness cease to be such. Build castles in the air, then put foundations under them.",
   "core_idea": "Pursue your dreams boldly, then build their foundations.",
   "quotability": 3,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Turns 'if you have built castles' into an instruction to build them.",
+   "batch": "k0001"
+  },
+  "plain_v1": "My experiment taught me that if you move confidently toward your dreams and live the life you imagined, you will meet unexpected success. If you built castles in the air, they belong there; now build foundations under them.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops simplicity making laws less complex and solitude, poverty, weakness ceasing to be such.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops passing boundaries, freer laws, and simplicity making solitude not solitude.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-044-p03": {
   "plain": "People call moderns intellectual dwarfs beside the ancients. So what? A living dog beats a dead lion. Rather than despair at being small, be the biggest small person you can. Mind your business; be what you were made to be.",
@@ -70296,17 +71662,31 @@
   }
  },
  "walden-thoreau-044-p05": {
-  "plain": "An artist set out to make a perfect staff, since time has no part in perfect work. While he searched for wood, his friends aged and died, but he did not. He never compromised with Time, so Time spared him.",
+  "plain": "An artist of Kouroo resolved to make a perfect staff, believing time does not enter perfect work. He searched for the right wood while his friends grew old and died, but he did not age; his singleness of purpose and piety kept him young, and Time could not overcome him.",
   "core_idea": "Single-minded devotion to perfection is untouched by time.",
   "quotability": 2,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "An artist set out to make a perfect staff, since time has no part in perfect work. While he searched for wood, his friends aged and died, but he did not. He never compromised with Time, so Time spared him.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops singleness of purpose and elevated piety as the source of his perennial youth.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops singleness of purpose and piety as the cause of his youth.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-044-p06": {
   "plain": "In the end nothing serves us like the truth; it alone wears well. We often live in a false position, imagining a situation and stepping into it. Say what you have to say, not what you ought; truth beats pretending.",
@@ -70569,17 +71949,31 @@
   }
  },
  "walden-thoreau-048-p01": {
-  "plain": "When an acorn and a chestnut fall side by side, neither holds back for the other; each follows its nature and grows as best it can. A plant that cannot live by its nature dies, and so does a person.",
+  "plain": "When an acorn and a chestnut fall side by side, neither holds back for the other; each grows by its own laws until one perhaps overshadows and destroys the other. A plant that cannot live by its nature dies, and so does a man.",
   "core_idea": "Like a plant, a person must live by their nature.",
   "quotability": 3,
   "complete": true,
   "batch": "e0035",
   "judge": {
+   "faithful": 5,
+   "advice": false,
+   "issue": "",
+   "batch": "k0001"
+  },
+  "plain_v1": "When an acorn and a chestnut fall side by side, neither holds back for the other; each follows its nature and grows as best it can. A plant that cannot live by its nature dies, and so does a person.",
+  "judge_v1": {
    "faithful": 3,
    "advice": false,
    "issue": "Drops the hard ending: one may overshadow and destroy the other.",
    "batch": "j0028"
-  }
+  },
+  "judge_v1_rejudged": {
+   "faithful": 4,
+   "advice": false,
+   "issue": "Drops that one may overshadow and destroy the other.",
+   "batch": "k0001"
+  },
+  "rewrite": "r0001"
  },
  "walden-thoreau-049-p01": {
   "plain": "I do not want to quarrel with anyone, person or nation. I do not want to split hairs or set myself up as better than my neighbors.",

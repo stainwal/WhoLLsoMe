@@ -1,0 +1,206 @@
+[
+ {
+  "pid": "bib-sirach-003-p03",
+  "verdict": "CONFIRMED",
+  "url": "https://ebible.org/eng-web/SIR11.htm",
+  "evidence": "Current WEB 11:11 reads \"There is one who toils, labors, and hurries\" (verse wording since revised; spelling \"labors\")."
+ },
+ {
+  "pid": "bib-sirach-008-p07",
+  "verdict": "CONFIRMED",
+  "url": "https://ebible.org/eng-web/SIR38.htm",
+  "evidence": "Current WEB 38:22: \"Remember his end, for so also will yours be\" (wording revised; \"yours\" confirmed)."
+ },
+ {
+  "pid": "bib-sirach-009-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://ebible.org/eng-web/SIR40.htm",
+  "evidence": "\"The life of one who labors and is content will be made sweet.\""
+ },
+ {
+  "pid": "bib-wisdomofsolomon-003-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://ebible.org/eng-web/WIS11.htm",
+  "evidence": "\"because they are yours, O Sovereign Lord\" (both fixes confirmed)."
+ },
+ {
+  "pid": "eckhart-sermons-field-004-p03",
+  "verdict": "UNCONFIRMED",
+  "url": "",
+  "evidence": "No independent copy of the Field translation found; only CCEL (our source) is online."
+ },
+ {
+  "pid": "gibran-sand-and-foam-003-p19",
+  "verdict": "REFUTED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.200279",
+  "evidence": "1946 printing scan also reads \"when you shall speak and and I shall listen\"; Wikisource 1928 scan-proofread page agrees."
+ },
+ {
+  "pid": "light-of-asia-arnold-013-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.csl.5943",
+  "evidence": "1879 printing reads \"being ’scaped from bonds\"."
+ },
+ {
+  "pid": "meditations-007-p07",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/thoughtsofempero01marc_0",
+  "evidence": "1890 Long printing: \"What good will this anger do thee?\" (Gutenberg #2680 also has \"danger\", so the error is in both e-texts)."
+ },
+ {
+  "pid": "rumi-masnavi-whinfield-011-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/masnaviimanavi",
+  "evidence": "1898 printing: \"Who neither, like Jesus, ascends to heaven\" and \"when thou art afflicted will keep His promise\"."
+ },
+ {
+  "pid": "rumi-masnavi-whinfield-013-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/masnaviimanavi",
+  "evidence": "1898 printing: \"relieved and lose their harshness\"; 1887 scans agree. (sacred-texts has the same \"harshless\" error.)"
+ },
+ {
+  "pid": "rumi-masnavi-whinfield-019-p05",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+  "evidence": "\"In lieu thereof God gave you a better existence.\""
+ },
+ {
+  "pid": "rumi-masnavi-whinfield-020-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/masnaviimanavisp00jala_0",
+  "evidence": "\"Seeing that Thou gavest me my being first of all; Thou gavest me the garment of being\"."
+ },
+ {
+  "pid": "schopenhauer-counsels-maxims-010-p06",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.222964",
+  "evidence": "1924 printing: \"other people’s shortcomings and vices\" and \"dog barking at its own image\" (reads \"its\", not \"his\")."
+ },
+ {
+  "pid": "schopenhauer-counsels-maxims-018-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.222964",
+  "evidence": "\"of greater advantage to him than ever it was before\"."
+ },
+ {
+  "pid": "tagore-gitanjali-001-p04",
+  "verdict": "CONFIRMED",
+  "url": "https://en.wikisource.org/wiki/Gitanjali/5",
+  "evidence": "Scan-proofread Wikisource: \"Now it is time to sit quiet, face to face with thee\"."
+ },
+ {
+  "pid": "tagore-gitanjali-001-p10",
+  "verdict": "CONFIRMED",
+  "url": "https://en.wikisource.org/wiki/Gitanjali/11",
+  "evidence": "\"Put off thy holy mantle\"."
+ },
+ {
+  "pid": "tagore-gitanjali-001-p18",
+  "verdict": "CONFIRMED",
+  "url": "https://en.wikisource.org/wiki/Gitanjali/20",
+  "evidence": "\"it seemed to me that it was the eager breath of the summer\"."
+ },
+ {
+  "pid": "tagore-gitanjali-003-p09",
+  "verdict": "CONFIRMED",
+  "url": "https://en.wikisource.org/wiki/Gitanjali/62",
+  "evidence": "\"When I sing to make you dance I truly know why there is music in leaves\"."
+ },
+ {
+  "pid": "tagore-sadhana-006-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.ministry.26871",
+  "evidence": "1913 printing: \"patience under crushing trials\"."
+ },
+ {
+  "pid": "tagore-sadhana-011-p10",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.ministry.26871",
+  "evidence": "\"but joy is. And joy is everywhere\"."
+ },
+ {
+  "pid": "tagore-sadhana-012-p06",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.ministry.26871",
+  "evidence": "\"in this field he is for ever building up and pulling down\"."
+ },
+ {
+  "pid": "tagore-sadhana-015-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.ministry.26871",
+  "evidence": "\"part with all that he has, not excepting his life\"."
+ },
+ {
+  "pid": "teresa-interior-castle-016-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/interiorcastleor00tere",
+  "evidence": "1921 Stanbrook printing: \"let us benefit by our defects so as to please Him in all things\"."
+ },
+ {
+  "pid": "teresa-way-of-perfection-029-p02",
+  "verdict": "UNCONFIRMED",
+  "url": "https://archive.org/details/way-of-perfection-by-saint-teresa-of-avila",
+  "evidence": "Only other copy found (an e-text, likely same lineage as CCEL) also reads \"walls in safety\"; no Peers scan readable."
+ },
+ {
+  "pid": "viv04-007-p03",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.6137",
+  "evidence": "Printed Vol II: \"what were my ideals at different times, I find this to be so\"."
+ },
+ {
+  "pid": "viv04-015-p08",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.6137",
+  "evidence": "Printed Vol II OCR \"/Esop’s Fables\" (ligature Æsop, no extra e)."
+ },
+ {
+  "pid": "viv04-031-p02",
+  "verdict": "UNCONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.6137",
+  "evidence": "Printed Vol II reads \"all men and women, all gods and angels\" — a real error, but correct word is \"all\", not \"and\"."
+ },
+ {
+  "pid": "viv05-002-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.233867",
+  "evidence": "Printed Vol III: \"the result of what we think and do now\"."
+ },
+ {
+  "pid": "viv06-003-p03",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.211427",
+  "evidence": "1947 Vol III: \"We may compare this kind of love, for purposes of illustration\"."
+ },
+ {
+  "pid": "viv07-005-p04",
+  "verdict": "REFUTED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.6137",
+  "evidence": "Two printed Vol II scans both read \"what is meant by brother-hood or mankind, and not before\"."
+ },
+ {
+  "pid": "viv08-006-p03",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.162092",
+  "evidence": "1938 Inspired Talks: \"It is a quicker method but very hard. Philosophy says, “Check everything.”\""
+ },
+ {
+  "pid": "viv09-006-p05",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.6137",
+  "evidence": "\"It is very good to be born in a church, but it is very bad to die in a church.\""
+ },
+ {
+  "pid": "viv12-008-p01",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/in.ernet.dli.2015.22996",
+  "evidence": "1924 Vol IV: \"Though the goal is one and the same, there may be many ways to reach it\"."
+ },
+ {
+  "pid": "viv13-024-p02",
+  "verdict": "CONFIRMED",
+  "url": "https://archive.org/details/dli.scoerat.5705thecompleteworksofswamivivekanandavolumeiv",
+  "evidence": "Printed Vol IV: \"evil, are from that one great blunder—that we are bodies\"."
+ }
+]

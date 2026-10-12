@@ -16,7 +16,7 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
-| gita-siva-002-p11 | *(restricted source: text removed from history, 12 Oct 2026)* |  |  |  |
+|  gita-siva-002-p11 | restricted source (gita-siva-002-p11); text kept off git in `corpus/restricted/` |  |  |  |
 
 ## 3. suttacentral-sujato
 
@@ -132,8 +132,8 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
 | emerson-essays-019-p05 | Heroism | welcomes-death | Envies the dead as safe from suffering and speaks of awaiting one's own end with complacency. | In the gloom of our ignorance of what shall be, in the hour when… |
-| emerson-essays-042-p02 | Prudence | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Every violation of truth is not only a sort of suicide in the liar,… |
-| emerson-essays-043-p05 | Self-Reliance | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | There is a time in every man’s education when he arrives at the conviction… |
+| emerson-essays-042-p02 | Prudence | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | Every violation of truth is not only a sort of suicide in the liar,… |
+| emerson-essays-043-p05 | Self-Reliance | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | There is a time in every man’s education when he arrives at the conviction… |
 | emerson-essays-045-p01 | Self-Reliance | decided: cut | Day 5 review, S24: too long and convoluted; focus on ideas grasped immediately (Shailesh, 11 Oct 2026) | Man is timid and apologetic; he is no longer upright; he dares not say… |
 
 ## 21. walden-thoreau
@@ -190,7 +190,7 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
-| aristotle-ethics-009-p04 | Book III, Bekker 1116a | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | But dying to escape from poverty, or the pangs of love, or anything that… |
+| aristotle-ethics-009-p04 | Book III, Bekker 1116a | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | But dying to escape from poverty, or the pangs of love, or anything that… |
 
 ## 28. seneca-letters-gummere
 
@@ -242,7 +242,7 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
-| teresa-way-of-perfection-030-p05 | *(restricted source: text removed from history, 12 Oct 2026)* |  |  |  |
+|  teresa-way-of-perfection-030-p05 | restricted source (teresa-way-of-perfection-030-p05); text kept off git in `corpus/restricted/` |  |  |  |
 
 ## 31. brother-lawrence
 
@@ -291,7 +291,7 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
-| tagore-sadhana-005-p07 | Sādhanā: The Problem of Evil, paragraph 9 | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | If existence were an evil, it would wait for no philosopher to prove it.… |
+| tagore-sadhana-005-p07 | Sādhanā: The Problem of Evil, paragraph 9 | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | If existence were an evil, it would wait for no philosopher to prove it.… |
 | tagore-sadhana-006-p01 | Sādhanā: The Problem of Evil, paragraph 12 | welcomes-death | Says death may be made welcome for a higher cause, praising martyrdom. | To the man who lives for an idea, for his country, for the good… |
 
 ## 37. gibran-madman
@@ -308,8 +308,8 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
-| gibran-sand-and-foam-002-p26 | Sand and Foam, paragraph 199 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Trickery succeeds sometimes, but it always commits suicide.… |
-| gibran-sand-and-foam-002-p93 | Sand and Foam, paragraph 304 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm | Every great man I have known had something small in his make-up; and it… |
+| gibran-sand-and-foam-002-p26 | Sand and Foam, paragraph 199 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | Trickery succeeds sometimes, but it always commits suicide.… |
+| gibran-sand-and-foam-002-p93 | Sand and Foam, paragraph 304 | decided: no-distress | Names suicide (figuratively / as something prevented); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | Every great man I have known had something small in his make-up; and it… |
 | gibran-sand-and-foam-003-p17 | Sand and Foam, paragraph 332 | welcomes-death | Presents longing for death as the natural response once life's mysteries are solved. | When you have solved all the mysteries of life you long for death, for… |
 | gibran-sand-and-foam-003-p79 | Sand and Foam, paragraph 438 | welcomes-death | Expresses longing for eternity beyond death as the place of fulfilment. | I long for eternity because there I shall meet my unwritten poems and my… |
 

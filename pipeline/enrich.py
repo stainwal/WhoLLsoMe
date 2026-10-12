@@ -5,6 +5,8 @@
     python3 pipeline/enrich.py judgebatches N SIZE  # claim N batches of SIZE enriched, unjudged passages -> judge-in/jNNNN.jsonl
     python3 pipeline/enrich.py status               # progress counts
     python3 pipeline/enrich.py weakest N            # the N plain versions the judge rated least faithful -> evals/plain-version-check.md
+    python3 pipeline/enrich.py rewritebatch MAX     # plain versions judged <= MAX -> rewrite-in/r0001.jsonl (Day 16)
+    python3 pipeline/enrich.py rejudgebatch         # old and new plain versions of the rewrites, shuffled -> judge-in/k0001.jsonl
     python3 pipeline/bulk.py merge                  # then applies enrichment.json to corpus/passages/<source>.jsonl
 
 Helpers (Opus 5.5, medium effort) read pipeline/prompts/enrich.md or judge-plain.md, one input
@@ -25,12 +27,20 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
-from bulk import ROOT, RUN, claim, display_text, jload, jsave, live_claims  # noqa: E402
+from bulk import ROOT, RUN, checked_passages, claim, display_text, jload, jsave, live_claims  # noqa: E402
 from common import load_units, squash, verbatim_match  # noqa: E402
 from check import SENT_END  # noqa: E402
+import restricted  # noqa: E402
 
 ENRICH_IN, ENRICH, JUDGE_IN, JUDGE = RUN / "enrich-in", RUN / "enrich", RUN / "judge-in", RUN / "judge"
 ENRICHMENT, REJECTS = RUN / "enrichment.json", RUN / "enrich-rejects.jsonl"
+# Day 16 rewrite of weak plain versions: rewrite/rNNNN.json {"items": [{id, plain}]} replaces the plain
+# version; rejudge/kNNNN.json judges old and new side by side (ids "<pid>#old" / "<pid>#new"), and the
+# "#new" judgement replaces the Day 15 one, which is kept as judge_v1.
+REWRITE_IN, REWRITE, REJUDGE = RUN / "rewrite-in", RUN / "rewrite", RUN / "rejudge"
+# Shailesh's 12 Oct rule for AI display fixes: punctuation and spacing fixes stand; a fix that changes
+# letters stands only if a second copy of the text confirms it. {pid: reason} for each fix withdrawn.
+FIX_REVERTS = RUN / "fix-reverts.json"
 PASSAGES = ROOT / "corpus" / "passages"
 NEXT_WORDS, MAX_EXTENSION_WORDS = 90, 130
 PLAIN_MAX, CORE_MAX = 60, 14            # hard limits; the prompt asks for 40 and 10
@@ -86,9 +96,9 @@ def next_text(p):
 
 def enriched_ids():
     ids = set()
-    for f in ENRICH.glob("*.json"):
+    for f in restricted.glob_mixed(ENRICH):
         try:
-            ids |= {it["id"] for it in json.loads(f.read_text(encoding="utf-8"))["items"]}
+            ids |= {it["id"] for it in restricted.load_json(f)["items"]}
         except (json.JSONDecodeError, KeyError):
             pass
     return ids
@@ -96,9 +106,9 @@ def enriched_ids():
 
 def judged_ids():
     ids = set()
-    for f in JUDGE.glob("*.json"):
+    for f in restricted.glob_mixed(JUDGE):
         try:
-            ids |= {j["id"] for j in json.loads(f.read_text(encoding="utf-8"))["judgements"]}
+            ids |= {j["id"] for j in restricted.load_json(f)["judgements"]}
         except (json.JSONDecodeError, KeyError):
             pass
     return ids
@@ -225,11 +235,15 @@ def check_fix(p, fix):
 
 def verify():
     """Read every enrich/*.json and judge/*.json; write enrichment.json and the reject log."""
-    by = {p["pid"]: p for p in shown()}
+    restricted.split()     # helper output may mix sources; restricted items move to corpus/restricted/
+    # check against the passage as extracted: after a merge, corpus/passages/ already holds extended text
+    ids = {p["pid"] for p in shown()}
+    by = {p["pid"]: p for p in checked_passages() if p["pid"] in ids}
+    reverts = jload(FIX_REVERTS, {})
     out, rejects, counts = {}, [], Counter()
-    for f in sorted(ENRICH.glob("*.json")):
+    for f in restricted.glob_mixed(ENRICH):
         try:
-            items = json.loads(f.read_text(encoding="utf-8"))["items"]
+            items = restricted.load_json(f)["items"]
         except (json.JSONDecodeError, KeyError) as e:
             rejects.append({"file": f.name, "reason": f"unreadable: {e}"})
             continue
@@ -264,7 +278,9 @@ def verify():
                     counts["extensions rejected"] += 1
             elif it["complete"] is False:
                 counts["incomplete without extension"] += 1
-            if it.get("fix"):
+            if it.get("fix") and pid in reverts:
+                counts["fixes reverted"] += 1
+            elif it.get("fix"):
                 fx, why = check_fix(p, it["fix"])
                 if fx:
                     rec["fix"] = fx
@@ -274,9 +290,9 @@ def verify():
                     counts["fixes rejected"] += 1
             out[pid] = rec
             counts["enriched"] += 1
-    for f in sorted(JUDGE.glob("*.json")):
+    for f in restricted.glob_mixed(JUDGE):
         try:
-            js = json.loads(f.read_text(encoding="utf-8"))["judgements"]
+            js = restricted.load_json(f)["judgements"]
         except (json.JSONDecodeError, KeyError) as e:
             rejects.append({"file": f.name, "reason": f"unreadable: {e}"})
             continue
@@ -291,6 +307,7 @@ def verify():
             out[pid]["judge"] = {"faithful": score, "advice": bool(j.get("advice", False)),
                                  "issue": str(j.get("issue", ""))[:200], "batch": f.stem}
             counts["judged"] += 1
+    apply_rewrites(out, rejects, counts)
     jsave(ENRICHMENT, out)
     with REJECTS.open("w", encoding="utf-8") as fo:
         for r in rejects:
@@ -298,6 +315,85 @@ def verify():
     print(f"enrichment.json: {len(out)} passages; " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
     print(f"rejects logged: {len(rejects)}")
     return out
+
+
+def apply_rewrites(out, rejects, counts):
+    """Day 16: a rewritten plain version replaces the Day 15 one only once it has its own judgement."""
+    judged, key = {}, {}
+    for f in REJUDGE.glob("*-key.jsonl"):          # opaque id -> "<pid>#old" / "<pid>#new"
+        for line in f.read_text(encoding="utf-8").splitlines():
+            k = json.loads(line)
+            key[k["opaque"]] = k["id"]
+    for f in restricted.glob_mixed(REJUDGE):
+        for j in restricted.load_json(f)["judgements"]:
+            judged[key.get(j["id"], j["id"])] = {"faithful": j["faithful"], "advice": bool(j.get("advice", False)),
+                               "issue": str(j.get("issue", ""))[:200], "batch": f.stem}
+    for f in restricted.glob_mixed(REWRITE):
+        for it in restricted.load_json(f)["items"]:
+            pid, plain = it.get("id"), str(it.get("plain", "")).strip()
+            if pid not in out:
+                rejects.append({"file": f.name, "id": pid, "reason": "rewrite for an unenriched id"})
+                continue
+            if not plain or len(plain.split()) > PLAIN_MAX:
+                rejects.append({"file": f.name, "id": pid, "reason": f"rewrite plain: {len(plain.split())} words"})
+                continue
+            new = judged.get(f"{pid}#new")
+            if not new or not isinstance(new["faithful"], int):
+                counts["rewrites awaiting judge"] += 1
+                continue
+            rec = out[pid]
+            rec["plain_v1"], rec["judge_v1"] = rec["plain"], rec.get("judge")
+            if f"{pid}#old" in judged:
+                rec["judge_v1_rejudged"] = judged[f"{pid}#old"]
+            rec["plain"], rec["judge"], rec["rewrite"] = plain, new, f.stem
+            counts["rewrites applied"] += 1
+
+
+def rewritebatch(max_score):
+    """All plain versions the judge scored max_score or lower, in one batch for a rewrite helper."""
+    REWRITE_IN.mkdir(exist_ok=True)
+    REWRITE.mkdir(exist_ok=True)
+    e = jload(ENRICHMENT, {})
+    by = {p["pid"]: p for p in shown()}
+    rows = [pid for pid, v in e.items() if "judge" in v and v["judge"]["faithful"] <= max_score and pid in by]
+    bid = f"r{len(list(REWRITE_IN.glob('*.jsonl'))) + 1:04d}"
+    with (REWRITE_IN / f"{bid}.jsonl").open("w", encoding="utf-8") as fo:
+        for pid in rows:
+            v, p = e[pid], by[pid]
+            text = v["extension"]["text"] if "extension" in v else p["text"]
+            shown_text = v["fix"]["display_text"] if "fix" in v else display_text(text)
+            fo.write(json.dumps({"id": pid, "source": p["source"], "display": p["display"], "text": shown_text,
+                                 "old_plain": v["plain"], "issue": v["judge"]["issue"]}, ensure_ascii=False) + "\n")
+    print(f"BATCH {bid}   # {len(rows)} plain versions judged <= {max_score}")
+
+
+def rejudgebatch():
+    """Old and new plain versions of every rewrite, shuffled together, judged cold with the same prompt."""
+    import random
+    JUDGE_IN.mkdir(exist_ok=True)
+    REJUDGE.mkdir(exist_ok=True)
+    e = jload(ENRICHMENT, {})
+    by = {p["pid"]: p for p in shown()}
+    items = []
+    for f in restricted.glob_mixed(REWRITE):
+        for it in restricted.load_json(f)["items"]:
+            pid = it["id"]
+            v, p = e[pid], by[pid]
+            text = v["extension"]["text"] if "extension" in v else p["text"]
+            shown_text = v["fix"]["display_text"] if "fix" in v else display_text(text)
+            old = v.get("plain_v1", v["plain"])
+            items += [{"id": f"{pid}#old", "text": shown_text, "plain": old},
+                      {"id": f"{pid}#new", "text": shown_text, "plain": it["plain"]}]
+    random.Random(16).shuffle(items)
+    bid = f"k{len(list(JUDGE_IN.glob('k*.jsonl'))) + 1:04d}"
+    # the judge sees opaque ids, so it cannot tell the old version from the new; the key stays here
+    with (JUDGE_IN / f"{bid}.jsonl").open("w", encoding="utf-8") as fo, \
+         (REJUDGE / f"{bid}-key.jsonl").open("w", encoding="utf-8") as fk:
+        for i, it in enumerate(items, 1):
+            opaque = f"{bid}-{i:03d}"
+            fk.write(json.dumps({"opaque": opaque, "id": it["id"]}) + "\n")
+            fo.write(json.dumps({**it, "id": opaque}, ensure_ascii=False) + "\n")
+    print(f"BATCH {bid}   # {len(items)} items (old and new, shuffled)")
 
 
 def judgebatches(n, size):
@@ -359,7 +455,7 @@ def weakest(n):
         judge = f"{score}/5" + (", gives advice" if advice else "") + (f": {v['judge']['issue']}" if v["judge"]["issue"] else "")
         lines.append(f"| P{i:02d} | **{p['source']}: {cell(p['display'])}** ({pid})<br>{cell(shown_text)} | {cell(v['plain'])} | {cell(judge)} | |")
     out = ROOT / "evals" / "plain-version-check.md"
-    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    restricted.write_report(out, lines)
     print(f"wrote {out.relative_to(ROOT)}: {len(pick)} rows; score distribution of all judged: "
           f"{dict(sorted(Counter(r[0] for r in rows).items()))}")
 
@@ -402,11 +498,12 @@ def report():
         t = v["extension"]["text"]
         lines.append(f"| {pid} ({cell(by[pid]['display'])}) | {v['extension']['added_words']} | …{cell(t[-160:])} |")
     out = RUN / "enrich-report.md"
-    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    restricted.write_report(out, lines)
     print(f"wrote {out.relative_to(ROOT)}: {len(word_fixes)} letter fixes, {len(punct_fixes)} punctuation fixes, {len(ext)} extensions")
 
 
 if __name__ == "__main__":
     cmd, args = sys.argv[1], [int(a) if a.isdigit() else a for a in sys.argv[2:]]
     {"batches": batches, "verify": verify, "judgebatches": judgebatches,
-     "status": status, "weakest": weakest, "report": report}[cmd](*args)
+     "status": status, "weakest": weakest, "report": report,
+     "rewritebatch": rewritebatch, "rejudgebatch": rejudgebatch}[cmd](*args)

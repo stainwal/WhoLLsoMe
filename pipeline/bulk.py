@@ -26,6 +26,8 @@ from common import ROOT, is_active, load_units, verbatim_match, squash  # noqa: 
 from chunk import make_chunks, render  # noqa: E402
 from check import SENT_END  # noqa: E402
 from compare import vocab, LIMITS  # noqa: E402
+sys.path.insert(0, str(HERE))
+import restricted  # noqa: E402
 
 RUN = ROOT / "corpus" / "passages" / "bulk"
 CHUNKS, EXTRACT, TAG_IN, TAGS = RUN / "chunks", RUN / "extract", RUN / "tag-in", RUN / "tags"
@@ -93,11 +95,15 @@ def tier3():
 
 
 def jload(p, default):
-    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
+    # merged with its git-ignored restricted twin, if any (pipeline/restricted.py)
+    return restricted.load_json(p, default)
 
 
 def jsave(p, obj):
-    p.write_text(json.dumps(obj, indent=1, ensure_ascii=False), encoding="utf-8")
+    if str(p.relative_to(ROOT)) in restricted.MIXED_DICTS:
+        restricted.save_json(p, obj)      # restricted passages' entries go to corpus/restricted/
+    else:
+        p.write_text(json.dumps(obj, indent=1, ensure_ascii=False), encoding="utf-8")
 
 
 def prep():
@@ -299,6 +305,7 @@ def merge():
             print(f"BAD TAG FILE {f.name}: {e}")
     problems = Counter()
     per_src = defaultdict(list)
+    restricted.split()
     overrides = jload(OVERRIDES, {})
     duplicates = jload(DUPLICATES, {})
     enrichment = jload(ENRICHMENT, {})
@@ -371,7 +378,7 @@ def merge():
                 reason = (p.get("override") or p["tags"].get("safety_reason") or "").replace("|", "/")
                 lines.append(f"| {p['pid']} | {p['display']} | {p['tags']['safety'] if 'override' not in p else 'decided: ' + p['status']} | {reason} | {opening}… |")
             lines.append("")
-    (RUN / "cuts.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    restricted.write_report(RUN / "cuts.md", lines)
     print(f"merged {sum(map(len, per_src.values()))} passages over {len(per_src)} sources; "
           f"{len(tags)} tagged; tag validity problems: {sum(problems.values())}; enriched: {len(enrichment)}")
     for k, v in problems.most_common(8):

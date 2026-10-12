@@ -1,6 +1,6 @@
 # Corpus statistics
 
-*Written by `pipeline/stats.py` on 11 Oct 2026. Counts are over the 5,540 passages a user can be shown (status keep or no-distress); cut and duplicate passages are excluded.*
+*Written by `pipeline/stats.py` on 12 Oct 2026. Counts are over the 5,540 passages a user can be shown (status keep or no-distress); cut and duplicate passages are excluded.*
 
 ## 1. Totals
 

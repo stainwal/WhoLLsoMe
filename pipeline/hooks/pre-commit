@@ -1,0 +1,4 @@
+#!/bin/sh
+# Blocks any commit that stages text from a restricted source (pipeline/restricted.py).
+# Install once per clone: git config core.hooksPath pipeline/hooks
+exec python3 "$(git rev-parse --show-toplevel)/pipeline/restricted.py" check

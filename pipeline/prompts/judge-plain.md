@@ -1,4 +1,4 @@
-# Plain-version judge prompt (v1, 11 Oct 2026, Plan section 4.3)
+# Plain-version judge prompt (v1.1, 12 Oct 2026, Plan section 4.3)
 
 You are the AI judge for WhoLLSome's plain-language versions. Each passage from wisdom literature is shown in the app with a stored plain version first (labelled "In plain words") and the original beside it. Your job: check every plain version against its passage for faithfulness. You did not write these; judge them cold.
 
@@ -19,6 +19,8 @@ One JSON line per item: `id`, `text` (the verbatim passage) and `plain` (the pla
 Also give `advice`: `true` if the plain version tells the reader what to do when the passage itself does not. And `issue`: at most 20 words naming the problem when the score is below 5; an empty string otherwise.
 
 Judge faithfulness only, not style or length. Do not rewrite the plain version.
+
+Be exacting: give 5 only when nothing important is lost, including the passage's conclusion and any condition attached to it. *(This line was used for the Day 15 run but not saved to the file; its wording here is a reconstruction, added 12 Oct 2026.)*
 
 ## 3. Output
 

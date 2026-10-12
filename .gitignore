@@ -21,3 +21,30 @@ __pycache__/
 .vscode/
 enrich-in/
 judge-in/
+rewrite-in/
+
+# Restricted sources (copyrighted or GRAY; Corpus-Policy section 2): kept on disk, used by the
+# pipeline, never committed. Listed in pipeline/sources.toml with `restricted = true`.
+# The restricted share of mixed files lives in corpus/restricted/ (pipeline/restricted.py).
+corpus/restricted/
+corpus/source/teresa-way-of-perfection/
+corpus/source/brother-lawrence/
+corpus/source/gita-sivananda/
+corpus/passages/teresa-way-of-perfection.jsonl
+corpus/passages/brother-lawrence.jsonl
+corpus/passages/gita-sivananda.jsonl
+corpus/passages/normalised/teresa-way-of-perfection.jsonl
+corpus/passages/normalised/brother-lawrence.jsonl
+corpus/passages/normalised/gita-sivananda.jsonl
+corpus/passages/bulk/checked/teresa-way-of-perfection.jsonl
+corpus/passages/bulk/checked/brother-lawrence.jsonl
+corpus/passages/bulk/checked/gita-sivananda.jsonl
+corpus/passages/bulk/extract/teresa-way-of-perfection-*
+corpus/passages/bulk/extract/brother-lawrence-*
+corpus/passages/bulk/extract/gita-siva-*
+corpus/passages/bulk/chunks/teresa-way-of-perfection-*
+corpus/passages/bulk/chunks/brother-lawrence-*
+corpus/passages/bulk/chunks/gita-siva-*
+
+# Links to real people's posts (Showcase checklist item 6): private, never published
+evals/agent-set-provenance.md

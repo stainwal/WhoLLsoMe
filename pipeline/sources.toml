@@ -25,6 +25,7 @@ active = true
 
 [sources.brother-lawrence]
 active = true
+restricted = true   # copyrighted or GRAY: kept on disk, never committed (12 Oct 2026)
 note = "File is the 2002 Lightheart edition (copyrighted), not a PD translation. Kept on Shailesh's call, 7 Oct 2026."
 
 [sources.chuang-tzu-giles]
@@ -47,6 +48,7 @@ active = true
 
 [sources.gita-sivananda]
 active = true
+restricted = true   # copyrighted or GRAY: kept on disk, never committed (12 Oct 2026)
 note = "Tier B GRAY. Treated like any other source, no cap (Shailesh, 7 Oct 2026)."
 
 [sources.imitation-of-christ-benham]
@@ -99,6 +101,7 @@ active = true
 
 [sources.teresa-way-of-perfection]
 active = true
+restricted = true   # copyrighted or GRAY: kept on disk, never committed (12 Oct 2026)
 note = "File is the E. Allison Peers translation (1964), not Stanbrook 1911. Kept on Shailesh's call, 7 Oct 2026."
 
 [sources.upanishads-paramananda]
