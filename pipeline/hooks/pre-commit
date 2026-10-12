@@ -1,4 +1,7 @@
 #!/bin/sh
-# Blocks any commit that stages text from a restricted source (pipeline/restricted.py).
+# Blocks any commit that stages text from a restricted source (pipeline/restricted.py)
+# or from a private crisis test statement (evals/sets.py).
 # Install once per clone: git config core.hooksPath pipeline/hooks
-exec python3 "$(git rev-parse --show-toplevel)/pipeline/restricted.py" check
+root="$(git rev-parse --show-toplevel)"
+python3 "$root/pipeline/restricted.py" check || exit 1
+exec python3 "$root/evals/sets.py" check

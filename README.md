@@ -89,6 +89,8 @@ Full log: [`docs/Decisions.md`](docs/Decisions.md).
 - **Safe messaging.** Passages that endorse suicide or self-harm are cut, following the WHO's 2023 media guidance; passages that present death as a release are never shown to someone in distress.
 - **No user data kept.** What people type is not stored.
 - **Licensing.** Every source in this repository is US public domain or openly licensed, credited to its translator. Three sources whose rights are unclear (two copyrighted editions and one translation of unstated licence) are excluded from this repository and its history; they will be cleared or replaced before the public launch. Policy and per-source licences: [`docs/Corpus-Policy.md`](docs/Corpus-Policy.md).
+- **Licence of this repository.** The code is MIT ([`LICENSE`](LICENSE)). The passages are not covered by it: each keeps its source's licence, as listed per source, with its translator, in [`docs/Corpus-Policy.md`](docs/Corpus-Policy.md) section 2 (credits as shown in the app: section 3). Two sources carry attribution terms: Pirkei Avot is "Mishnah Yomit by Dr. Joshua Kulp" ([Sefaria](https://www.sefaria.org/Pirkei_Avot), CC-BY), and Bible passages are from the World English Bible (public domain; the name is used per [ebible.org](https://ebible.org/web/)).
+- **Crisis test statements are private.** The 13 crisis statements in the test sets are kept out of this repository so the safety check can't be tuned to them; the look-alikes are public.
 
 ## 8. Roadmap
 

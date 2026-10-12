@@ -48,3 +48,7 @@ corpus/passages/bulk/chunks/gita-siva-*
 
 # Links to real people's posts (Showcase checklist item 6): private, never published
 evals/agent-set-provenance.md
+
+# Crisis test statements (Showcase checklist item 6): private so the crisis check can't be tuned to them.
+# Read through evals/sets.py; the pre-commit hook blocks their text anywhere else.
+evals/private/

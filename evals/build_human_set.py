@@ -2,6 +2,9 @@
 
     python3 evals/build_human_set.py            # reads ../Test-Statements-Human.md, writes evals/human-set.jsonl
 
+The crisis statements C01-C05 go to the git-ignored evals/private/crisis.jsonl instead (12 Oct 2026;
+see evals/sets.py), replacing the human rows there and keeping the agent ones.
+
 Same record shape as evals/agent-set.jsonl: id, set, part, life_area, borderline, text.
 H01-H32 are all held out (decided 9 Oct 2026); C01-C05 are crisis; L01-L05 are look-alikes.
 Life areas are Claude's reading of each statement, using the agent set's 11 areas, so the
@@ -14,6 +17,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 SRC = HERE.parent.parent / "Test-Statements-Human.md"
 OUT = HERE / "human-set.jsonl"
+PRIVATE = HERE / "private" / "crisis.jsonl"
 
 PART = {"H": "held-out", "C": "crisis", "L": "look-alike"}
 LIFE_AREA = {
@@ -66,6 +70,12 @@ if __name__ == "__main__":
     recs = parse(SRC.read_text(encoding="utf-8"))
     with OUT.open("w", encoding="utf-8") as f:
         for r in recs:
+            if r["part"] != "crisis":
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    keep = [json.loads(l) for l in PRIVATE.read_text(encoding="utf-8").splitlines() if l.strip()] if PRIVATE.exists() else []
+    PRIVATE.parent.mkdir(exist_ok=True)
+    with PRIVATE.open("w", encoding="utf-8") as f:
+        for r in [r for r in recs if r["part"] == "crisis"] + [r for r in keep if r["set"] != "human"]:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     from collections import Counter
     print(f"wrote {len(recs)} records to {OUT.relative_to(HERE.parent)}:", dict(Counter(r['part'] for r in recs)),
