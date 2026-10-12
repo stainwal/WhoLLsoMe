@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~16:00 IST (session 7: public prep — licence, crisis statements private, two corrections, history re-scanned).*
+*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~18:00 IST (session 8: clean history on a new repo, old commits 404, viv04-031-p02 hidden from distress).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–15, and Day 16 in part (`logs/D16.md`). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–15, and Day 16 in part (`logs/D16.md`, sessions 6–8). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -18,13 +18,14 @@
   - Day 16, part (`logs/D16.md`): the 103 plain versions judged 3 or lower rewritten to keep the conclusion; blind side-by-side re-judge: new 95 fives, 8 fours, 0 at 3 or lower. Six suicide-naming passages confirmed hidden from distress. 28 of 34 AI letter fixes confirmed against a second copy and kept, 6 reverted; all 54 punctuation fixes kept.
   - Repo prepared to go public (12 Oct): private archive `stainwal/WhoLLsoMe-archive`; the three restricted sources (Way of Perfection, Brother Lawrence, Sivananda Gita) and `evals/agent-set-provenance.md` out of git and out of history, still on disk (`pipeline/restricted.py`, pre-commit hook); history rewritten and force-pushed; gitleaks clean; README committed. **`stainwal/WhoLLsoMe` is still private.**
   - Public prep, session 7 (12 Oct, `logs/D16.md` second entry): `LICENSE` MIT and README licence note; the 13 crisis statements moved to git-ignored `evals/private/crisis.jsonl` (read via `evals/sets.py`), purged from history, blocked by the pre-commit hook, force-pushed; two print-confirmed corrections applied as overrides. History scan: 21 commits, 6,429 file versions, 0 crisis text, 0 restricted text, gitleaks clean. **Still private; one blocker: GitHub still serves the replaced commits by SHA** (section 3).
+  - Session 8 (12 Oct, `logs/D16.md` third entry): old repo renamed `stainwal/WhoLLsoMe-old` (private, keep private for good); clean `main` (23 commits, head `cf19ba5`) pushed alone to a new `stainwal/WhoLLsoMe`; **`d4c50ae` and `d2eb907` return 404 there**. Pre-push scan of 6,432 file versions: 0 restricted, 0 crisis; gitleaks clean. Showcase item 2 cleared: **no checklist item blocks the repo; it stays private** pending the timing decision. viv04-031-p02 hidden from distress (63 hidden in all).
 - **Not started:** retrieval (rest of Day 16 on), app code.
 
 ## 2. Next session
 
-1. **Shailesh:** the decisions in section 3 (old commits before going public; viv04-031-p02; embeddings option).
+1. **Shailesh:** push the pre-purge backup to `WhoLLsoMe-archive` (blocked for Claude; command in the session 8 report); the decisions in section 3.
 2. **Day 16, rest, Claude:** create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
-3. **Before the visibility switch:** clear Showcase checklist item 2 (old commits still served by SHA); re-run gitleaks.
+3. **Before the visibility switch:** re-run the history scan and gitleaks if more commits land.
 4. **Day 17:** eval harness, reading the sets through `evals/sets.py`; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
 
 ## 3. Open decisions
@@ -32,8 +33,7 @@
 | Day | Decision | Where |
 | --- | --- | --- |
 | 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
-| 16 | Old commits still served by SHA: A new public repo from the clean history (recommended), B GitHub Support purge, C switch anyway | `logs/D16.md` session 7, section 4 |
-| 16 | viv04-031-p02 ("Can I kill myself?"): hide from distress (recommended) or keep | `logs/D16.md` session 7, section 3 |
+| 16 | When to make `stainwal/WhoLLsoMe` public: A at launch, as Showcase section 6 plans (recommended), B now | `logs/D16.md` session 8, section 4 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
@@ -43,7 +43,8 @@
 - **Plain-version faithfulness (Day 15, `logs/D15.md`):** 5,540 of 5,540 plain versions judged by Opus 5.5 in a separate pass. Score 5: 4,668 (84.3%); 4: 769; 3: 96; 2: 6; 1: 1. **98.1% at 4 or 5**, mean 4.82, 0 flagged for adding advice. The judge is the writer's model family and is sensitive to its wording (0 vs 17 threes on the same 200 items with and without "be exacting"); the 10 weakest go to Shailesh on Day 16.
 - **Enrichment (Day 15):** quotability 1/2/3/4/5 = 48 / 1,137 / 2,415 / 1,405 / 535; Surprise-me pool (4–5, keep) 1,929. 28 passages extended verbatim for completeness; 88 display fixes accepted, 26 rejected by the checks (`corpus/passages/bulk/enrich-report.md`).
 - **New sources (Day 15):** 613 passages, 613 verbatim, 0 tag problems. Sand and Foam 252 and Stray Birds 149 passages, median 15–19 words, about 75% secular.
-- **Corpus after Day 15 (`corpus/passages/stats.md`):** 5,642 extracted; 5,484 keep, 56 no-distress, 18 cut, 84 dup; **5,540 shown**. Median 51 words. Secular 52%. All 37 themes used.
+- **Corpus now (`corpus/passages/stats.md`, 12 Oct):** 5,477 keep, 63 no-distress, 5,540 shown.
+- **Corpus after Day 15:** 5,642 extracted; 5,484 keep, 56 no-distress, 18 cut, 84 dup; **5,540 shown**. Median 51 words. Secular 52%. All 37 themes used.
 - **Corpus after dedup (Days 12–13):** 5,029 extracted; 4,882 keep, 47 no-distress, 16 cut, 84 dup; 4,929 shown. Median 53 words. Secular 51%. "Losing a pet" was the one situation with no passage.
 - **Full corpus run (Days 7–11, `logs/D07.md`):**
   - Verbatim check: 5,029 of 5,036 exact (99.86%); 7 rejected and logged.
