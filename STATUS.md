@@ -1,6 +1,6 @@
 # Status
 
-*Updated at the end of every session. Last update: Sun 12 Oct 2026, 15:30 IST (session 6: Day 16 decisions applied; repo prepared to go public).*
+*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~16:00 IST (session 7: public prep — licence, crisis statements private, two corrections, history re-scanned).*
 
 ## 1. Where we are
 
@@ -17,23 +17,23 @@
   - Day 15 (`logs/D15.md`): six Tagore and Gibran works licence-checked, fetched, extracted and tagged (613 passages; the Gracián dropped, no clean text). **5,540 passages can be shown across 39 sources.** Every shown passage enriched (plain version, core idea, quotability, completeness, display fixes) and every plain version AI-judged: 98.1% scored 4 or 5 of 5.
   - Day 16, part (`logs/D16.md`): the 103 plain versions judged 3 or lower rewritten to keep the conclusion; blind side-by-side re-judge: new 95 fives, 8 fours, 0 at 3 or lower. Six suicide-naming passages confirmed hidden from distress. 28 of 34 AI letter fixes confirmed against a second copy and kept, 6 reverted; all 54 punctuation fixes kept.
   - Repo prepared to go public (12 Oct): private archive `stainwal/WhoLLsoMe-archive`; the three restricted sources (Way of Perfection, Brother Lawrence, Sivananda Gita) and `evals/agent-set-provenance.md` out of git and out of history, still on disk (`pipeline/restricted.py`, pre-commit hook); history rewritten and force-pushed; gitleaks clean; README committed. **`stainwal/WhoLLsoMe` is still private.**
+  - Public prep, session 7 (12 Oct, `logs/D16.md` second entry): `LICENSE` MIT and README licence note; the 13 crisis statements moved to git-ignored `evals/private/crisis.jsonl` (read via `evals/sets.py`), purged from history, blocked by the pre-commit hook, force-pushed; two print-confirmed corrections applied as overrides. History scan: 21 commits, 6,429 file versions, 0 crisis text, 0 restricted text, gitleaks clean. **Still private; one blocker: GitHub still serves the replaced commits by SHA** (section 3).
 - **Not started:** retrieval (rest of Day 16 on), app code.
 
 ## 2. Next session
 
-1. **Shailesh:** the decisions in section 3 (crisis statements and licence before the repo goes public; two print-confirmed corrections; embeddings option).
+1. **Shailesh:** the decisions in section 3 (old commits before going public; viv04-031-p02; embeddings option).
 2. **Day 16, rest, Claude:** create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
-3. **Before the visibility switch:** clear Showcase checklist items 5 (licence, credits) and 6 (crisis statements); re-run gitleaks.
-4. **Day 17:** eval harness; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
+3. **Before the visibility switch:** clear Showcase checklist item 2 (old commits still served by SHA); re-run gitleaks.
+4. **Day 17:** eval harness, reading the sets through `evals/sets.py`; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
 | 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
-| 16 | Crisis statements out of the public repo (A: git-ignored file plus history scrub, recommended; B: publish) | `logs/D16.md` section 4 |
-| 16 | Code licence: MIT (recommended) or Apache 2.0, plus README credits | `logs/D16.md` section 4 |
-| 16 | Apply two print-confirmed corrections as overrides (small; recommended yes) | `logs/D16.md` section 3 |
+| 16 | Old commits still served by SHA: A new public repo from the clean history (recommended), B GitHub Support purge, C switch anyway | `logs/D16.md` session 7, section 4 |
+| 16 | viv04-031-p02 ("Can I kill myself?"): hide from distress (recommended) or keep | `logs/D16.md` session 7, section 3 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
