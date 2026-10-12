@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~18:00 IST (session 8: clean history on a new repo, old commits 404, viv04-031-p02 hidden from distress).*
+*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~22:50 IST (session 9: Day 16 done; Supabase loaded, baseline embeddings; showcase framing removed; repo is public).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–15, and Day 16 in part (`logs/D16.md`, sessions 6–8). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–16 (`logs/D16.md`, sessions 6–9). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -19,25 +19,24 @@
   - Repo prepared to go public (12 Oct): private archive `stainwal/WhoLLsoMe-archive`; the three restricted sources (Way of Perfection, Brother Lawrence, Sivananda Gita) and `evals/agent-set-provenance.md` out of git and out of history, still on disk (`pipeline/restricted.py`, pre-commit hook); history rewritten and force-pushed; gitleaks clean; README committed. **`stainwal/WhoLLsoMe` is still private.**
   - Public prep, session 7 (12 Oct, `logs/D16.md` second entry): `LICENSE` MIT and README licence note; the 13 crisis statements moved to git-ignored `evals/private/crisis.jsonl` (read via `evals/sets.py`), purged from history, blocked by the pre-commit hook, force-pushed; two print-confirmed corrections applied as overrides. History scan: 21 commits, 6,429 file versions, 0 crisis text, 0 restricted text, gitleaks clean. **Still private; one blocker: GitHub still serves the replaced commits by SHA** (section 3).
   - Session 8 (12 Oct, `logs/D16.md` third entry): old repo renamed `stainwal/WhoLLsoMe-old` (private, keep private for good); clean `main` (23 commits, head `cf19ba5`) pushed alone to a new `stainwal/WhoLLsoMe`; **`d4c50ae` and `d2eb907` return 404 there**. Pre-push scan of 6,432 file versions: 0 restricted, 0 crisis; gitleaks clean. Showcase item 2 cleared: **no checklist item blocks the repo; it stays private** pending the timing decision. viv04-031-p02 hidden from distress (63 hidden in all).
-- **Not started:** retrieval (rest of Day 16 on), app code.
+  - Session 9 (12 Oct, `logs/D16.md` fourth entry): name spelled WhoLLsoMe everywhere; GitHub description and topics; README as a personal project; `docs/Showcase.md` cut to `docs/Publication-Checklist.md` (case-study material in the private archive); both scanners recurse into folders (`pipeline/test_scanners.py`). **Supabase loaded:** pgvector 0.8.2, 39 sources, 5,540 passages (0 differ from files), RLS on, 47 MB. **Baseline embeddings:** Voyage `voyage-4-lite`, 1024 dims, passage text + plain version, 5,540 vectors, 603,619 tokens, $0 (free allowance). **`stainwal/WhoLLsoMe` is public** (Shailesh).
+- **Not started:** eval harness and retrieval scoring (Day 17), app code.
 
 ## 2. Next session
 
-1. **Shailesh:** push the pre-purge backup to `WhoLLsoMe-archive` (blocked for Claude; command in the session 8 report); the decisions in section 3.
-2. **Day 16, rest, Claude:** create the Supabase project; load the 5,540 passages with plain versions, quotability and tags; baseline embeddings.
-3. **Before the visibility switch:** re-run the history scan and gitleaks if more commits land.
-4. **Day 17:** eval harness, reading the sets through `evals/sets.py`; AI judge labels acceptable passages for both test sets; Shailesh spot-checks 8 human statements; baseline scores.
+1. **Shailesh:** if not done yet, push the pre-purge backup to `WhoLLsoMe-archive` (command in the session 8 report).
+2. **Day 17, Claude:** eval harness reading the sets through `evals/sets.py`; queries embedded with `voyage-4-lite`, `input_type` query; AI judge labels acceptable passages for both test sets by pooling (heavy run: budget first); Shailesh spot-checks 8 human statements; baseline hit@3, hit@10, MRR for `voyage-4-lite/text+plain`.
+3. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 16 | Embeddings option: hosted API vs a free model | Plan section 5.3 |
-| 16 | When to make `stainwal/WhoLLsoMe` public: A at launch, as Showcase section 6 plans (recommended), B now | `logs/D16.md` session 8, section 4 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Baseline embeddings (Day 16, `logs/D16.md` session 9):** `voyage-4-lite/text+plain`, 5,540 of 5,540 embedded. No eval scores yet (Day 17). Two sample searches: a comparison-with-friends statement gets three well-matched Seneca and Schopenhauer passages; a layoff statement gets Job and Jeremiah on shame and abandonment, not work.
 - **Plain-version rewrite (Day 16, `logs/D16.md`):** the 103 judged ≤ 3 rewritten. Blind side-by-side judge on the same 103: old mean 3.86 (21 at ≤ 3), new mean 4.92 (95 fives, 8 fours, 0 at ≤ 3). Corpus now 4,763 fives, 777 fours: **100% at 4 or 5**, mean 4.86. The judge drifts between days (Day 15 gave the same old versions a mean of 2.92).
 - **Display fixes (Day 16):** 82 applied (28 letter fixes confirmed against a printed edition or independent transcription, 54 punctuation); 6 reverted (`evals/letter-fix-check.json`).
 - **Plain-version faithfulness (Day 15, `logs/D15.md`):** 5,540 of 5,540 plain versions judged by Opus 5.5 in a separate pass. Score 5: 4,668 (84.3%); 4: 769; 3: 96; 2: 6; 1: 1. **98.1% at 4 or 5**, mean 4.82, 0 flagged for adding advice. The judge is the writer's model family and is sensitive to its wording (0 vs 17 threes on the same 200 items with and without "be exacting"); the 10 weakest go to Shailesh on Day 16.
@@ -113,10 +112,10 @@ Checked 7 Oct 2026 on the official pricing and docs pages. Check again before la
 | Limit | Value | What it means for us |
 | --- | --- | --- |
 | Projects | 2 per organisation (paused projects don't count) | One is enough |
-| Database | 500 MB per project | Enough for the corpus plus embeddings at modest dimensions; size gets checked on Day 15 |
+| Database | 500 MB per project | **12 Oct:** 47 MB with 5,540 passages and one 1024-dim embedding setup; room for several more setups |
 | Storage / egress | 1 GB / 5 GB per month | Fine at hobby scale |
 | Edge functions | 500,000 invocations per month | Not used; the API runs on Vercel |
-| pgvector | Can be enabled (Dashboard → Database → Extensions). The docs don't say it's paid-only | Confirm when we enable it on Day 15 |
+| pgvector | Can be enabled (Dashboard → Database → Extensions). The docs don't say it's paid-only | **Confirmed 12 Oct:** pgvector 0.8.2 enabled on the free plan |
 | **Inactivity pause** | Paused after about 7 days of low activity. Data is kept; resume from the dashboard. Treat the restore window as 90 days (docs say 1 year, changelog says 90) | **Needs a keep-alive** once the app is live; until then, pause is harmless |
 | **Backups** | None on Free | Keep our own `supabase db dump` exports in the repo |
 

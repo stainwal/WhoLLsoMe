@@ -34,7 +34,7 @@ create table if not exists passages (
 create index if not exists passages_source on passages (source_id);
 
 -- Embeddings kept apart from passages so experiments (Plan section 4.4) can store several setups side by
--- side: 'setup' names the model and what was embedded, e.g. 'voyage-3.5-lite/text+plain'.
+-- side: 'setup' names the model and what was embedded, e.g. 'voyage-4-lite/text+plain'.
 create table if not exists passage_embeddings (
   pid        text not null references passages(pid) on delete cascade,
   setup      text not null,

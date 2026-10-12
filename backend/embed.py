@@ -2,8 +2,8 @@
 
     .venv/bin/python backend/embed.py [--limit N] [--tpm 10000] [--rpm 3]
 
-Embeds each passage's verbatim text plus its plain version with Voyage voyage-3.5-lite (1024 dimensions,
-input_type 'document'), stored under setup 'voyage-3.5-lite/text+plain'. Resumable: passages already
+Embeds each passage's verbatim text plus its plain version with Voyage voyage-4-lite (1024 dimensions,
+input_type 'document'), stored under setup 'voyage-4-lite/text+plain'. Resumable: passages already
 embedded for the setup are skipped, so an interrupted run picks up where it stopped. Paced to stay under
 the account's rate limits (defaults: Voyage's limits for an account with no payment method); a 429
 backs off and retries. Reads DATABASE_URL and VOYAGE_API_KEY from .env.
@@ -22,7 +22,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import load  # noqa: E402  (connect, .env)
 
-MODEL, DIM = "voyage-3.5-lite", 1024
+MODEL, DIM = "voyage-4-lite", 1024
 SETUP = f"{MODEL}/text+plain"
 URL = "https://api.voyageai.com/v1/embeddings"
 
