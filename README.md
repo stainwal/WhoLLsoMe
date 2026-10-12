@@ -112,4 +112,4 @@ Full log: [`docs/Decisions.md`](docs/Decisions.md).
 
 ## 10. About
 
-Built by Shailesh ([@stainwal](https://github.com/stainwal)), a technical product and program manager, as a public demonstration of AI-first product delivery. Built with Claude (Cowork and Claude Code).
+Built by Shailesh ([@stainwal](https://github.com/stainwal)).
