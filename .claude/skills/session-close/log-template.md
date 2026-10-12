@@ -28,7 +28,7 @@
 
 - Next session's task (plan day) and anything left running unattended
 
-## 6. Showcase note
+## 6. Lessons
 
-- One line on anything worth telling in the case study: a surprise, a mistake caught, a number that moved, a decision and its reason
+- One line on a surprise, a mistake caught, a number that moved, or a decision and its reason
 - "None" if nothing stands out

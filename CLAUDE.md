@@ -11,7 +11,7 @@ A web app for people who turn to AI for reflection. The user types (or voice-typ
 
 ## 2. Goal and constraints
 
-1. **Goal:** a live, public, demonstrable product for Shailesh's resume, with published eval results. Business potential is secondary.
+1. **Goal:** a live, public product with published eval results. Business potential is secondary.
 2. **Web first.** Next.js on Vercel. Mobile (Android, then iOS) comes after the web launch; the corpus, database and API carry over unchanged.
 3. **Full corpus in v1:** all 33 sources in `corpus/source/`.
 4. **Budget is small.** Prefer free tiers; every API key has a hard monthly spend cap.
@@ -82,7 +82,7 @@ Bulk extraction and tagging run in subagents on **Opus 5.5** at medium effort, t
 | `logs/` | Session logs (`D01.md` …) and phase reports (section 4.2) |
 | `.claude/skills/session-close/` | Session-close skill: steps (`SKILL.md`) and log format (`log-template.md`) |
 | `logs/Reviews.md` | Reviews of each session by the Cowork reviewer. Read; don't edit |
-| `docs/Showcase.md` | Case-study material and the publication checklist, kept by the Cowork reviewer. Read; don't edit |
+| `docs/Publication-Checklist.md` | What must be true before anything is published; status per item |
 | `pipeline/` | Extraction and tagging code |
 | `backend/` | Supabase database: schema, migrations, search functions |
 | `app/` | Next.js web app, including its API routes (crisis check, retrieval, bridging sentence) |

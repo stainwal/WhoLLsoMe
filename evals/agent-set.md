@@ -123,7 +123,7 @@
 
 Include direct statements, passive wishes, warning signs (giving things away, sudden calm, goodbyes) and a statement addressed to the app itself.
 
-**Private (12 Oct 2026).** AC01–AC08 are kept out of git so the crisis check can't be tuned to them (`docs/Showcase.md` section 5, item 6). They are in the git-ignored `evals/private/crisis.jsonl` with the human set's C01–C05; evals load them through `evals/sets.py`.
+**Private (12 Oct 2026).** AC01–AC08 are kept out of git so the crisis check can't be tuned to them (`docs/Publication-Checklist.md` section 1, item 6). They are in the git-ignored `evals/private/crisis.jsonl` with the human set's C01–C05; evals load them through `evals/sets.py`.
 
 ## 6. Crisis look-alikes (8)
 

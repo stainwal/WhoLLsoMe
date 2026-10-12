@@ -1,7 +1,7 @@
 """Test sets for the evals: public statements plus the private crisis statements (12 Oct 2026).
 
 The 13 crisis statements (human C01-C05, agent AC01-AC08) are kept out of git so the crisis check
-can't be tuned to them (docs/Showcase.md section 5, item 6). They live in the git-ignored
+can't be tuned to them (docs/Publication-Checklist.md section 1, item 6). They live in the git-ignored
 evals/private/crisis.jsonl, in the same record shape as the public sets; load_set() merges them back.
 
     python3 evals/sets.py status            # counts per set and part; says if the private file is missing

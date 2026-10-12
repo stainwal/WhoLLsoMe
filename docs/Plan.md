@@ -56,7 +56,7 @@ Hard monthly spend cap on every API key from Day 1. Free-tier limits (Supabase i
 
 ## 4. Evals
 
-Evals are a workstream, not a final check. They prove the app works, and the published results are part of the resume story.
+Evals are a workstream, not a final check. They prove the app works, and the results are published on the site.
 
 ### 4.1 Test sets
 
@@ -153,14 +153,14 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 
 - [ ] **D30–31:** Fix what testers found.
 - [ ] **D32:** Final eval run on the deployed system; `logs/Launch-Report.md`. [DECISION] Go / no-go.
-- [ ] **D33:** Public launch: LinkedIn post built on the eval results, linking a case-study page (`docs/Showcase.md`); share with your network.
+- [ ] **D33:** Public launch; share the link.
 
 ### 5.6 After launch
 
 1. Android: [DECISION] wrap the website as an Android app (fastest) or build a React Native app that reuses the API (more native). Then register Google Play Console ($25), recruit 15–20 closed testers from web users, run the 14-day closed test. Live around early December (estimate).
 2. Grow the corpus server-side (Phase 2 sources) without app releases.
 3. iOS after Android.
-4. Publication prep: a clean public repo with fresh history, a public README and code licence, and every item on the `docs/Showcase.md` checklist cleared before anything is made public.
+4. Publication prep: a clean public repo with fresh history, a public README and code licence, and every item on the `docs/Publication-Checklist.md` checklist cleared before anything is made public.
 
 ## 6. Risks
 

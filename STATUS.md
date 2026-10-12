@@ -124,7 +124,7 @@ Checked 7 Oct 2026 on the official pricing and docs pages. Check again before la
 
 | Limit | Value | What it means for us |
 | --- | --- | --- |
-| Use | Non-commercial only. Ads, payments or a paid collaborator make it commercial | Fine for a resume project; Pro is $20/month if that changes |
+| Use | Non-commercial only. Ads, payments or a paid collaborator make it commercial | Fine for a personal, non-commercial project; Pro is $20/month if that changes |
 | Function invocations | 1,000,000 per month | Ample |
 | Active CPU / memory | 4 CPU-hours / 360 GB-hours per month | Ample: our functions mostly wait on API calls |
 | Function duration | 300 s (Fluid compute, the default) | Ample |

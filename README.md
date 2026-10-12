@@ -103,7 +103,7 @@ Full log: [`docs/Decisions.md`](docs/Decisions.md).
 
 | Path | Holds |
 | --- | --- |
-| `docs/` | Plan, decisions, corpus policy, showcase notes |
+| `docs/` | Plan, decisions, corpus policy, publication checklist |
 | `logs/` | Session logs, phase reports, reviews |
 | `pipeline/` | Normalisation, extraction, tagging, deduplication, enrichment |
 | `corpus/` | Source texts and extracted passages (the three restricted sources are kept out; see section 7) |
