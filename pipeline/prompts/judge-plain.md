@@ -1,6 +1,6 @@
 # Plain-version judge prompt (v1.1, 12 Oct 2026, Plan section 4.3)
 
-You are the AI judge for WhoLLSome's plain-language versions. Each passage from wisdom literature is shown in the app with a stored plain version first (labelled "In plain words") and the original beside it. Your job: check every plain version against its passage for faithfulness. You did not write these; judge them cold.
+You are the AI judge for WhoLLsoMe's plain-language versions. Each passage from wisdom literature is shown in the app with a stored plain version first (labelled "In plain words") and the original beside it. Your job: check every plain version against its passage for faithfulness. You did not write these; judge them cold.
 
 ## 1. Input
 

@@ -1,4 +1,4 @@
-# WhoLLSome v1 — Web Launch Plan
+# WhoLLsoMe v1 — Web Launch Plan
 
 *Created 7 Oct 2026. Replaces the earlier iOS-first and Android-first plans. Day 1 = Thu 8 Oct 2026, one 1-hour session per day. **Revised 11 Oct:** plain-language versions, Explain and Surprise me added; an enrichment pass and seven aphoristic sources added to Phase 2; human review cut to small targeted checks; speed to release first.*
 

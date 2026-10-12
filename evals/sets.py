@@ -5,7 +5,8 @@ can't be tuned to them (docs/Showcase.md section 5, item 6). They live in the gi
 evals/private/crisis.jsonl, in the same record shape as the public sets; load_set() merges them back.
 
     python3 evals/sets.py status            # counts per set and part; says if the private file is missing
-    python3 evals/sets.py scan [PATH ...]   # which files hold crisis text (default: all tracked files)
+    python3 evals/sets.py scan [PATH ...]   # which files hold crisis text (default: all tracked files;
+                                            # a folder is scanned recursively)
     python3 evals/sets.py check             # pre-commit: fail if any staged file holds crisis text
 
 Every eval reads the sets through load_set(); never open the public .jsonl files directly, or the
@@ -61,17 +62,33 @@ def hits(text, runs):
     return sorted({runs[k] for i in range(len(w) - RUN + 1) if (k := " ".join(w[i:i + RUN])) in runs})
 
 
+def expand(paths):
+    """Files to scan: a folder is read recursively (.git skipped), never silently passed over;
+    a path that doesn't exist stops the scan rather than counting as clean."""
+    out = []
+    for p in paths:
+        f = ROOT / p
+        if f.is_dir():
+            for x in sorted(f.rglob("*")):
+                if x.is_file() and ".git" not in x.relative_to(f).parts:
+                    out.append(str(x.relative_to(ROOT)) if x.is_relative_to(ROOT) else str(x))
+        elif f.is_file():
+            out.append(p)
+        else:
+            sys.exit(f"no such file or folder: {p}")
+    return out
+
+
 def scan(paths, staged=False):
     runs, found = fingerprints(), {}
-    for p in paths:
+    for p in (paths if staged else expand(paths)):
         if (ROOT / p).resolve() == PRIVATE.resolve():
             continue
         if staged:
             r = subprocess.run(["git", "show", f":{p}"], cwd=ROOT, capture_output=True)
             data = r.stdout if r.returncode == 0 else b""
         else:
-            f = ROOT / p
-            data = f.read_bytes() if f.is_file() else b""
+            data = (ROOT / p).read_bytes()
         ids = hits(data.decode("utf-8", "ignore"), runs)
         if ids:
             found[p] = ids

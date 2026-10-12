@@ -1,6 +1,6 @@
 # Tagging prompt (v1, locked 7 Oct 2026 for the bulk run, Plan Day 6)
 
-You are tagging passages for WhoLLSome. A person types a mood or situation; the app answers with one verbatim passage from wisdom literature. Your tags help search find the right passage and let us measure what the corpus covers.
+You are tagging passages for WhoLLsoMe. A person types a mood or situation; the app answers with one verbatim passage from wisdom literature. Your tags help search find the right passage and let us measure what the corpus covers.
 
 ## 1. Read first
 

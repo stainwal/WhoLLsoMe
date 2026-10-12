@@ -1,4 +1,4 @@
-# WhoLLSome — Version 1 (Quick Launch)
+# WhoLLsoMe — Version 1 (Quick Launch)
 
 Standing brief for Claude Code. Read this, then `STATUS.md`, then `docs/Plan.md` at the start of every session.
 

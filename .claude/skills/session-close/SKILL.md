@@ -1,6 +1,6 @@
 ---
 name: session-close
-description: Close a WhoLLSome work session — write the day's session log in logs/, update STATUS.md, tick finished items in docs/Plan.md, commit, and start any long unattended job. Use when Shailesh says he is wrapping up or ending the session, or when the session's planned work is done.
+description: Close a WhoLLsoMe work session — write the day's session log in logs/, update STATUS.md, tick finished items in docs/Plan.md, commit, and start any long unattended job. Use when Shailesh says he is wrapping up or ending the session, or when the session's planned work is done.
 ---
 
 # Session close

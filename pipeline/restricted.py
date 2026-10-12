@@ -7,7 +7,8 @@ Sources marked `restricted = true` in pipeline/sources.toml are copyrighted or o
     helper batches, reports). The public file holds everything else; readers merge the two.
 
     python3 pipeline/restricted.py split            # move restricted items out of mixed files
-    python3 pipeline/restricted.py scan [PATH ...]  # which files hold restricted text (default: all tracked)
+    python3 pipeline/restricted.py scan [PATH ...]  # which files hold restricted text (default: all tracked;
+                                                    # a folder is scanned recursively)
     python3 pipeline/restricted.py check            # pre-commit: fail if any staged file holds restricted text
 
 The scan fingerprints every restricted source as overlapping 8-word runs and reports any file sharing
@@ -215,17 +216,34 @@ def git(*args):
     return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, check=True).stdout
 
 
+def expand(paths):
+    """Files to scan: a folder is read recursively (.git skipped), never silently passed over;
+    a path that doesn't exist stops the scan rather than counting as clean."""
+    out = []
+    for p in paths:
+        f = ROOT / p
+        if f.is_dir():
+            for x in sorted(f.rglob("*")):
+                if x.is_file() and ".git" not in x.relative_to(f).parts:
+                    out.append(str(x.relative_to(ROOT)) if x.is_relative_to(ROOT) else str(x))
+        elif f.is_file():
+            out.append(p)
+        else:
+            sys.exit(f"no such file or folder: {p}")
+    return out
+
+
 def scan(paths=None, staged=False):
     fp = fingerprints()
     if staged:
         paths = [p for p in git("diff", "--cached", "--name-only", "--diff-filter=ACMR").splitlines()]
-    elif not paths:
-        paths = git("ls-files").splitlines()
+    else:
+        paths = expand(paths or git("ls-files").splitlines())
     bad = {}
     for p in paths:
         try:
             text = git("show", f":{p}") if staged else (ROOT / p).read_text(encoding="utf-8", errors="replace")
-        except (subprocess.CalledProcessError, IsADirectoryError, FileNotFoundError):
+        except subprocess.CalledProcessError:
             continue
         h = {k: v for k, v in hits(text, fp).items() if v >= MIN_RUNS}
         if h:

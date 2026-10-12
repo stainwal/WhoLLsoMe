@@ -1,6 +1,6 @@
 # Plain-version rewrite prompt (v1, 12 Oct 2026, Plan Day 16)
 
-You are rewriting weak plain-language versions for WhoLLSome. A person types a mood or situation; the app answers with verbatim passages from wisdom literature, each shown with a stored plain version first (labelled "In plain words"). An AI judge scored the current plain version of each passage below 4 of 5 for faithfulness. Write a new one.
+You are rewriting weak plain-language versions for WhoLLsoMe. A person types a mood or situation; the app answers with verbatim passages from wisdom literature, each shown with a stored plain version first (labelled "In plain words"). An AI judge scored the current plain version of each passage below 4 of 5 for faithfulness. Write a new one.
 
 ## 1. Input
 

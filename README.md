@@ -1,4 +1,4 @@
-# WhoLLSome
+# WhoLLsoMe
 
 **A reflection app that answers only in wisdom literature: no chatbot flattery, no invented advice.** You describe what you're going through; it answers with real passages from the Gita, the Dhammapada, the Stoics, the Psalms, Rumi, Tagore and 30-odd other sources, each with a plain-language version and an explanation on request.
 
@@ -6,7 +6,7 @@
 
 ## 1. The product
 
-General-purpose chatbots tend to agree with you and keep you talking. WhoLLSome makes a different promise: everything it shows you was written by someone else, centuries ago, and is quoted word for word. The constraint is the product.
+General-purpose chatbots tend to agree with you and keep you talking. WhoLLsoMe makes a different promise: everything it shows you was written by someone else, centuries ago, and is quoted word for word. The constraint is the product.
 
 1. **You type (or voice-type) a situation:** "I just got laid off and I don't know how to tell anyone."
 2. **You get the 10 best-matching passages, one at a time**, each with its plain-language version first ("In plain words") and the original beside it, credited to its source and translator.
@@ -14,9 +14,9 @@ General-purpose chatbots tend to agree with you and keep you talking. WhoLLSome 
 4. **Surprise me** shows a random, highly quotable passage, for anyone who just wants to try it.
 5. **Not therapy.** Any sign of risk of harm, to yourself or others, goes straight to a crisis screen with helplines.
 
-## 2. Why this repository is public
+## 2. About this repository
 
-This is a working showcase of how I run a product: an AI-built application taken from idea to launch at about one hour of my time a day. The interesting parts are not only the code. They are the decisions, the evals and the operating system that let AI agents do most of the work while a human keeps judgement where it matters. Every decision, session log and review is in the repo, in the order it happened.
+A personal project, built mostly by AI agents at about one hour of my time a day. Alongside the code, the repository keeps the plan, every decision, the eval sets and the session logs, in the order they happened.
 
 ## 3. Progress so far
 
@@ -42,7 +42,7 @@ Numbers trace to the session logs in [`logs/`](logs/).
 | **Claude in Cowork (lead and reviewer)** | Plans, writes the plan and policies, reviews every session's output against its evidence, flags risks |
 | **Claude Code (builder)** | Builds the pipeline and app, runs the heavy jobs unattended, writes a session log with evidence, commits |
 
-### 4.2 The operating system
+### 4.2 Working files
 
 - [`CLAUDE.md`](CLAUDE.md): the standing brief every session starts from: goal, roles, rules, the one-hour session protocol.
 - [`STATUS.md`](STATUS.md): one page on where things stand, updated at every session close.
@@ -70,12 +70,12 @@ Evals are a workstream from day one, not a final check.
 - **Go/no-go gate:** at least 70% of my held-out statements get an acceptable passage in the top 3, every crisis statement caught, at most one false alarm per set, and Explain passing its rubric 90% of the time.
 - **Published results:** the launched site will carry an Evals page comparing every setup tried (embedding models, what gets embedded, ranking boosts), with the method and its limits stated.
 
-## 6. Decisions worth reading
+## 6. Key decisions
 
 | Date | Decision | Why |
 | --- | --- | --- |
 | 7 Oct | Web first, not iOS or Android | App-store review and Google Play's 14-day closed test were on the critical path; a link is also an easier demo |
-| 7 Oct | Full 33-source corpus rather than a quick 8-source cut | "Make sure it actually works" mattered more than speed |
+| 7 Oct | Full 33-source corpus (later 39) rather than a quick 8-source cut | "Make sure it actually works" mattered more than speed |
 | 7 Oct | Opus over Sonnet for extraction | A pilot showed equal cost and more passages found |
 | 8 Oct | Two test sets, human and AI-researched, scored separately | More coverage without letting AI-written tests flatter an AI-built system |
 | 11 Oct | Plain-language versions, Explain and Surprise me | A 40-passage human review showed that short, graspable wisdom lands and dense passages don't |
@@ -96,7 +96,7 @@ Full log: [`docs/Decisions.md`](docs/Decisions.md).
 
 1. **Phase 2:** retrieval and evals (embeddings, Supabase, experiments, the gate).
 2. **Phase 3:** the Next.js web app on Vercel.
-3. **Phase 4:** launch, with the Evals page and a case study.
+3. **Phase 4:** launch, with the Evals page.
 4. **Then:** Android, iOS, and a growing corpus.
 
 ## 9. Repository map

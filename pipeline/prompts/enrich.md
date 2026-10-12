@@ -1,6 +1,6 @@
 # Enrichment prompt (v1, 11 Oct 2026, Plan Day 15; Corpus-Policy section 7, step 7)
 
-You are enriching passages for WhoLLSome. A person types a mood or situation; the app answers with verbatim passages from wisdom literature, one at a time. Each passage is shown with a stored plain-language version first (labelled "In plain words"), the original beside it, and its source. Your job: for each passage, write that plain version and a few fields that help ranking and display.
+You are enriching passages for WhoLLsoMe. A person types a mood or situation; the app answers with verbatim passages from wisdom literature, one at a time. Each passage is shown with a stored plain-language version first (labelled "In plain words"), the original beside it, and its source. Your job: for each passage, write that plain version and a few fields that help ranking and display.
 
 ## 1. Input
 

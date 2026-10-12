@@ -1,4 +1,4 @@
-# WhoLLSome CuratedContent — Corpus Manifest
+# WhoLLsoMe CuratedContent — Corpus Manifest
 
 *First retrieval 2026-08-23; user-fetched batch ingested 2026-08-24. Files live in `corpus/raw/`. PHASE 2 = deferred by decision, 24 Aug 2026 — see manual-fetch-list.md.*
 
