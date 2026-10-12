@@ -51,15 +51,17 @@ Updated at each review.
 
 ## 5. Publication checklist
 
-Clear every item before anything goes public.
+Clear every item before anything goes public. Status as of 12 Oct 2026 (Day 16, `logs/D16.md`).
 
-1. **Copyrighted editions:** *Way of Perfection* (Peers, 1964) and *Brother Lawrence* (Lightheart, 2002) are kept on Shailesh's call. They cannot ship in a public repo or on a public site without permission or replacement. Same for the Sivananda Gita (Tier B GRAY).
-2. **Clean public repo:** publish from a new repository with fresh history; the private repo's history contains the texts above.
-3. **Personal details:** the first commit carries the Mac's local email; logs mention the GitHub account and usage readings. Review before release.
-4. **Secrets scan** across everything published.
-5. **Licences and credits:** choose a code licence (MIT or Apache 2.0); credit Kulp's Pirkei Avot (CC-BY) and the World English Bible per their terms; list every translator.
-6. **Crisis test sets and source links:** keep the crisis statements private so the safety check can't be gamed. Never publish `evals/agent-set-provenance.md` (links to real people's posts).
-7. **Claims check:** every number in the case study traces to a log, a review or an eval result.
+| # | Item | Status |
+| --- | --- | --- |
+| 1 | **Copyrighted editions:** *Way of Perfection* (Peers, 1964) and *Brother Lawrence* (Lightheart, 2002) are kept on Shailesh's call. They cannot ship in a public repo or on a public site without permission or replacement. Same for the Sivananda Gita (Tier B GRAY). | **Repo: cleared.** All three are out of git and out of every commit (filter-repo, 12 Oct); a scan of all 6,414 file versions in history found no restricted text. They stay on disk for the pipeline (`restricted = true` in `pipeline/sources.toml`); a pre-commit hook and a session-close step block them from coming back. **Public site: open.** 147 of the 5,540 shown passages come from them. |
+| 2 | **Clean public repo:** publish from a new repository with fresh history; the private repo's history contains the texts above. | **Cleared another way** (Shailesh, 12 Oct): history rewritten in place rather than a new repo. The full pre-rewrite history is kept in the private `stainwal/WhoLLsoMe-archive`. |
+| 3 | **Personal details:** the first commit carries the Mac's local email; logs mention the GitHub account and usage readings. Review before release. | **Cleared.** First commit's author and committer set to the GitHub no-reply address; all 17 commits now carry it. History search found no other email or local path. The GitHub account and usage readings stay in the logs as part of the story. |
+| 4 | **Secrets scan** across everything published. | **Cleared.** gitleaks 8.30.1 over all 17 commits of the rewritten history: no leaks. Run again before the visibility switch if more commits land. |
+| 5 | **Licences and credits:** choose a code licence (MIT or Apache 2.0); credit Kulp's Pirkei Avot (CC-BY) and the World English Bible per their terms; list every translator. | **Open.** No `LICENSE` file yet; credits are in `docs/Corpus-Policy.md` but not yet surfaced in the README. |
+| 6 | **Crisis test sets and source links:** keep the crisis statements private so the safety check can't be gamed. Never publish `evals/agent-set-provenance.md` (links to real people's posts). | **Partly cleared.** `agent-set-provenance.md` is out of git and history. **Open:** the 13 crisis statements are still in `evals/human-set.jsonl` (5) and `evals/agent-set.jsonl` (8). |
+| 7 | **Claims check:** every number in the case study traces to a log, a review or an eval result. | **README checked** 12 Oct: every figure traced; six corrected. Case study not yet written. |
 
 ## 6. Publication plan
 
