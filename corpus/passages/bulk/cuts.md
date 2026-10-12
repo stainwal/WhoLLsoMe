@@ -226,10 +226,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 29. vivekananda
 
-764 tagged; 0 cut; 5 kept but hidden from distress.
+764 tagged; 0 cut; 6 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
+| viv04-031-p02 | Jnana-Yoga: Chapter XIII. The Atman | decided: no-distress | Transcription error 'an gods' corrected to 'all gods', confirmed against the printed Complete Works Vol. II (archive.org in.ernet.dli.2015.6137); verbatim text unchanged (Shailesh, 12 Oct 2026); names suicide (rhetorically: in oneness, whom could I harm?), hidden from distress by the 8 Oct 2026 precedent (Shailesh, 12 Oct 2026) | When man has seen himself as one with the Infinite Being of the universe,… |
 | viv06-002-p03 | Para-Bhakti or Supreme Devotion: Chapter V. Universal Love And How It Leads To Self-Surrender | welcomes-death | Holds up welcoming death with a smile as the ideal of perfect surrender. | As a result of this kind of intense all-absorbing love, comes the feeling of… |
 | viv06-002-p04 | Para-Bhakti or Supreme Devotion: Chapter V. Universal Love And How It Leads To Self-Surrender | welcomes-death | Calls those whose bodies are destroyed in service blessed and says it is better the body dies for a good cause. | We may all manage to maintain our bodies more or less satisfactorily and for… |
 | viv06-003-p03 | Para-Bhakti or Supreme Devotion: Chapter V. Universal Love And How It Leads To Self-Surrender | welcomes-death | Praises the moth that falls into the fire and dies as the highest form of unrequited love. | Ordinarily human love is seen to flourish only in places where it is returned;… |

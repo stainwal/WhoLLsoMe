@@ -7,8 +7,8 @@
 | Measure | Value |
 | --- | --- |
 | Passages extracted and tagged | 5,642 |
-| Shown normally (keep) | 5,478 |
-| Kept but hidden from distress (no-distress) | 62 |
+| Shown normally (keep) | 5,477 |
+| Kept but hidden from distress (no-distress) | 63 |
 | Cut by the safety field | 18 |
 | Duplicates (status dup) | 84 |
 | **Shown passages (keep + no-distress)** | **5,540** |
@@ -28,7 +28,7 @@ Yield is shown passages per 1,000 words read. Secular is the share of passages t
 | Source | Tradition | Translator | Words read | Extracted | Shown | Hidden | Cut | Dup | Yield | Median words | Secular | Top themes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | bible-web | Christianity / Judaism | WEB | 842,907 | 988 | 987 | 6 | 1 | 0 | 1.17 | 37 | 29% | faith and the sacred, compassion and kindness, truth and integrity |
-| vivekananda | Hinduism | Vivekananda (original English) | 540,270 | 764 | 763 | 5 | 0 | 1 | 1.41 | 59 | 44% | the true self, faith and the sacred, wisdom and understanding |
+| vivekananda | Hinduism | Vivekananda (original English) | 540,270 | 764 | 763 | 6 | 0 | 1 | 1.41 | 59 | 44% | the true self, faith and the sacred, wisdom and understanding |
 | suttacentral-sujato | Buddhism | Bhikkhu Sujato, 2018 | 1,293,581 | 750 | 666 | 3 | 1 | 83 | 0.51 | 46 | 46% | character and growth, self-mastery, desire and attachment |
 | seneca-letters-gummere | Stoicism | Richard Gummere, 1917–25 | 208,335 | 479 | 467 | 13 | 12 | 0 | 2.24 | 70 | 94% | character and growth, death and mortality, wisdom and understanding |
 | emerson-essays | Modern West | Emerson (original English) | 132,470 | 257 | 256 | 3 | 1 | 0 | 1.93 | 65 | 77% | truth and integrity, friendship, character and growth |
@@ -66,7 +66,7 @@ Yield is shown passages per 1,000 words read. Secular is the share of passages t
 | upanishads-paramananda | Hinduism | Swami Paramananda, 1919 | 5,664 | 15 | 15 | 0 | 0 | 0 | 2.65 | 40 | 7% | desire and attachment, the true self, wisdom and understanding |
 | japji-macauliffe | Sikhism | M.A. Macauliffe, 1900 | 4,169 | 11 | 11 | 0 | 0 | 0 | 2.64 | 57 | 0% | faith and the sacred, spiritual practice, humility and pride |
 | plato-apology-jowett | Greek philosophy | Benjamin Jowett | 11,348 | 10 | 10 | 3 | 0 | 0 | 0.88 | 66 | 70% | death and mortality, truth and integrity, wisdom and understanding |
-| **Total** | | | **4,172,016** | **5,642** | **5,540** | **62** | **18** | **84** | **1.33** | **51** | **52%** | |
+| **Total** | | | **4,172,016** | **5,642** | **5,540** | **63** | **18** | **84** | **1.33** | **51** | **52%** | |
 
 ## 3. By theme
 
