@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Tue 13 Oct 2026, ~19:40 IST (session 10: Day 17 built, baseline scored; waiting on Shailesh's 8-item spot check).*
+*Updated at the end of every session. Last update: Tue 13 Oct 2026, ~21:30 IST (session 11: Day 17 closed; Days 18–19 experiments done; retrieval setup decision waiting).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–16; Day 17 built, pending the spot check (`logs/D17.md`, session 10). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–19 (`logs/D18.md`, session 11). Days 18–19 finished on 13 Oct, 9 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -21,24 +21,31 @@
   - Session 8 (12 Oct, `logs/D16.md` third entry): old repo renamed `stainwal/WhoLLsoMe-old` (private, keep private for good); clean `main` (23 commits, head `cf19ba5`) pushed alone to a new `stainwal/WhoLLsoMe`; **`d4c50ae` and `d2eb907` return 404 there**. Pre-push scan of 6,432 file versions: 0 restricted, 0 crisis; gitleaks clean. Showcase item 2 cleared: **no checklist item blocks the repo; it stays private** pending the timing decision. viv04-031-p02 hidden from distress (63 hidden in all).
   - Session 9 (12 Oct, `logs/D16.md` fourth entry): name spelled WhoLLsoMe everywhere; GitHub description and topics; README as a personal project; `docs/Showcase.md` cut to `docs/Publication-Checklist.md` (case-study material in the private archive); both scanners recurse into folders (`pipeline/test_scanners.py`). **Supabase loaded:** pgvector 0.8.2, 39 sources, 5,540 passages (0 differ from files), RLS on, 47 MB. **Baseline embeddings:** Voyage `voyage-4-lite`, 1024 dims, passage text + plain version, 5,540 vectors, 603,619 tokens, $0 (free allowance). **`stainwal/WhoLLsoMe` is public** (Shailesh).
   - Session 10 (13 Oct, `logs/D17.md`): `public_passages` view, the only thing the public key can read (16 of 16 checks, database and REST API); deny rules for hook-bypassing git commands; pause plan in section 7.1. Eval harness `evals/retrieval.py`; 3,074 pooled pairs AI-judged; baseline scored (section 4); 10% consistency re-judge.
-- **Not started:** experiments (Days 18–19), app code.
+  - Session 11 (13 Oct, `logs/D18.md`): spot check 7 of 8, labels stand; 5 harsh passages hidden from distress (68 in all); top-1 metrics; commits pushed through `6b8df0b`; Opus vs Fable cross-check; 24 retrieval setups scored, every top 10 judged (6,610 labels).
+- **Not started:** Explain and experiment 5 (Day 20), app code.
 
 ## 2. Next session
 
-1. **Shailesh (~10 min):** mark `evals/judge-spot-check.md` agree / disagree. 6 of 8 or more → the judge's labels stand and Day 17 is done. And decide on the passages that land badly (section 3).
-2. **Days 18–19, Claude:** experiments 1–4, 6 and 7 on the agent golden set (Plan section 4.4). A new setup's unjudged top-10 passages are judged first (`evals/retrieval.py batches` → judge → `verify` → `score`); small heavy runs, budget each.
-3. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch.
+1. **Shailesh:** the three decisions in section 3 (retrieval setup; judge prompt v2; dropping unused embeddings). And create the Anthropic API account (prepaid, hard spend cap) for Day 20.
+2. **Day 20, Claude:** Explain prompt, rubric and judge; experiment 5 (Haiku vs Sonnet), including runtime query rewrites compared with `evals/rewrites/opus-v1.json`; Shailesh spot-checks 5 explanations.
+3. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch. Session 11's close commit is **not pushed**.
 4. **App, when built:** read passages through `public_passages` only; `SUPABASE_URL` and the publishable key are in `.env`.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 17 | Passages that land badly (e.g. Seneca "replace your friend" shown first for a pet's death): hide now, fix in ranking, or both | `logs/D17.md` section 4 |
+| 19 | Retrieval setup: A `when+tone/0.1` (no runtime model call), B A + query rewriting if Haiku matches on Day 20, C baseline. Recommend A now, test B | `logs/D18.md` section 4 |
+| 19 | Judge prompt v2: no credit for a passage that only restates the problem (Shailesh's H03 disagreement); re-judge the chosen setup before the gate. Recommend yes | `logs/D18.md` section 4 |
+| 19 | Drop the 3 unused embedding setups (174 → about 100 MB) once the setup is chosen | `logs/D18.md` section 4 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Experiments (Days 18–19, `evals/results/experiments-d18.md`):** each value is top-1 acceptable / top-1 graded 0 / hit@3. Baseline after the hides: golden 31 / 11 / 50, agent held-out 9 / 4 / 12, human held-out 21 / 4 / 29. **`when+tone/0.1`** (embed passage + plain + when-helps; tone prior): 37 / 6 / 53; 11 / 5 / 16; **23 / 2 / 30**. **`when+rewrite-concat+tone/0.2`** (needs a runtime rewrite): 39 / 5 / 52; 11 / 1 / 18; 19 / 1 / 29. Hybrid search hurts (golden 21 / 18 / 39); quotability, faith framing and `voyage-4` don't help.
+- **Opus vs Fable (Day 18, `evals/judge-cross-model.md`):** 375 baseline top-3 pairs. Acceptable/not agreement: human 83.8%, agent 85.6%; exact grade 59.5% and 61.7%. Fable is more lenient, especially on tone: top-1 graded 0 is 12 of 125 under Fable and 26 under Opus. hit@3 is about the same (105 vs 103 of 125). Opus stays the judge of record.
+- **Spot check (Day 17):** Shailesh agreed with 7 of 8; the labels stand.
+- **Top-1 metrics, Day 17 baseline:** human held-out top-1 acceptable 19 of 32 (59%), graded 0 6 (19%).
 - **Baseline retrieval (Day 17, `logs/D17.md`):** `voyage-4-lite/text+plain`, AI-judged pooled labels (3,074 pairs, 24% acceptable). **Human held-out hit@3 29 of 32 (91%)**, hit@10 100%, MRR 0.755. Agent held-out hit@3 12 of 20 (60%), hit@10 85%, MRR 0.557. Agent golden hit@3 83%. Look-alikes: human 5 of 5, agent 7 of 8. Keyword search alone: human held-out 44%. 26 of 125 statements would open on a passage graded 0. Labels stand only if Shailesh agrees with 6 of 8 spot-check items.
 - **Judge consistency (Day 17):** 307 pairs (10%) re-judged blind: exact grade 70.4%, within one grade 100%, acceptable/not 88.6% (kappa 0.70); the second pass slightly more lenient (28% vs 23% acceptable).
 - **Baseline embeddings (Day 16, `logs/D16.md` session 9):** `voyage-4-lite/text+plain`, 5,540 of 5,540 embedded. No eval scores yet (Day 17). Two sample searches: a comparison-with-friends statement gets three well-matched Seneca and Schopenhauer passages; a layoff statement gets Job and Jeremiah on shame and abandonment, not work.
@@ -86,6 +93,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   - **Readings:** Claude reads both bars through the app's usage API, so no screenshots are needed.
 - **Enrichment and judge (Day 15, measured):** about **9% of the weekly limit** for one pass over 5,540 passages (plain version plus judge) together with 75k words of extraction and tagging: roughly 1.5% per 1,000 passages enriched and judged. The 5-hour window moved about 35 points over the run, so one window holds a pass of this size with room to spare.
 - **Relevance judging (Day 17, measured):** 3,074 + 307 judgements took about **2% of the weekly limit** (cap agreed 10%, estimate 2–4%): about 0.6% per 1,000 judgements, 8 + 2 helpers of about 170k tokens each, mostly cached.
+- **Experiments (Days 18–19, measured):** 3,536 judgements, 125 rewrites and Fable's 375 took about **3% of the weekly limit** (cap agreed 15%): about 0.8% per 1,000 judgements. Fable has its own weekly bar (moved 2 points).
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
@@ -111,6 +119,9 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Day 17 start, 13 Oct ~16:00 | 2% | 39% |
   | Day 17 judge run done | 9% (new window) | 41% |
   | Day 17 re-judge done, ~19:25 | 10% | 41% |
+  | Session 11 start | 11% | 41% (Fable 45%) |
+  | After Fable check, experiment round 1 | 19% | 42% (Fable 47%) |
+  | Session 11 close | 27% | 44% (Fable 47%) |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits
@@ -122,7 +133,7 @@ Checked 7 Oct 2026 on the official pricing and docs pages. Check again before la
 | Limit | Value | What it means for us |
 | --- | --- | --- |
 | Projects | 2 per organisation (paused projects don't count) | One is enough |
-| Database | 500 MB per project | **12 Oct:** 47 MB with 5,540 passages and one 1024-dim embedding setup; room for several more setups |
+| Database | 500 MB per project | **13 Oct:** 174 MB with 6 embedding setups (about 25 MB each); drop the unused ones once the setup is chosen |
 | Storage / egress | 1 GB / 5 GB per month | Fine at hobby scale |
 | Edge functions | 500,000 invocations per month | Not used; the API runs on Vercel |
 | pgvector | Can be enabled (Dashboard → Database → Extensions). The docs don't say it's paid-only | **Confirmed 12 Oct:** pgvector 0.8.2 enabled on the free plan |

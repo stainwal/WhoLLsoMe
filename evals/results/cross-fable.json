@@ -1,0 +1,226 @@
+{
+ "model": "fable",
+ "setup": "voyage-4-lite/text+plain@d17",
+ "checked_at": "2026-10-13 19:53",
+ "by_set": {
+  "human": {
+   "statements": 37,
+   "pairs": 111,
+   "exact_grade_agreement": 0.595,
+   "within_one_grade": 0.982,
+   "acceptable_agreement": 0.838,
+   "acceptable_rate_opus": 0.523,
+   "acceptable_rate_second": 0.613,
+   "opus_labels": {
+    "hit@3": 34,
+    "top1_acceptable": 23,
+    "top1_graded_0": 7
+   },
+   "second_labels": {
+    "hit@3": 34,
+    "top1_acceptable": 23,
+    "top1_graded_0": 5
+   }
+  },
+  "agent": {
+   "statements": 88,
+   "pairs": 264,
+   "exact_grade_agreement": 0.617,
+   "within_one_grade": 0.992,
+   "acceptable_agreement": 0.856,
+   "acceptable_rate_opus": 0.417,
+   "acceptable_rate_second": 0.477,
+   "opus_labels": {
+    "hit@3": 69,
+    "top1_acceptable": 43,
+    "top1_graded_0": 19
+   },
+   "second_labels": {
+    "hit@3": 71,
+    "top1_acceptable": 48,
+    "top1_graded_0": 7
+   }
+  },
+  "all": {
+   "statements": 125,
+   "pairs": 375,
+   "exact_grade_agreement": 0.611,
+   "within_one_grade": 0.989,
+   "acceptable_agreement": 0.851,
+   "acceptable_rate_opus": 0.448,
+   "acceptable_rate_second": 0.517,
+   "opus_labels": {
+    "hit@3": 103,
+    "top1_acceptable": 66,
+    "top1_graded_0": 26
+   },
+   "second_labels": {
+    "hit@3": 105,
+    "top1_acceptable": 71,
+    "top1_graded_0": 12
+   }
+  }
+ },
+ "biggest_disagreements": [
+  {
+   "id": "H01",
+   "pid": "meditations-002-p05",
+   "rank": 1,
+   "opus": {
+    "grade": 1,
+    "reason": "Activity without aim; relevant but calls such people triflers.",
+    "batch": "b12"
+   },
+   "second": {
+    "id": "H01",
+    "pid": "meditations-002-p05",
+    "grade": 3,
+    "reason": "Whirled around with no object to direct every movement; exact."
+   }
+  },
+  {
+   "id": "AS14",
+   "pid": "dn-069-p01",
+   "rank": 1,
+   "opus": {
+    "grade": 0,
+    "reason": "Resentment; not her feeling.",
+    "batch": "b03"
+   },
+   "second": {
+    "id": "AS14",
+    "pid": "dn-069-p01",
+    "grade": 2,
+    "reason": "He wronged me, what can I do; a way to release resentment."
+   }
+  },
+  {
+   "id": "H06",
+   "pid": "viv09-001-p02",
+   "rank": 3,
+   "opus": {
+    "grade": 1,
+    "reason": "Clinging to what failed; partly relevant.",
+    "batch": "b12"
+   },
+   "second": {
+    "id": "H06",
+    "pid": "viv09-001-p02",
+    "grade": 3,
+    "reason": "Sorrow of pouring all energy into something that fails and being unable to let go."
+   }
+  },
+  {
+   "id": "AS51",
+   "pid": "enchiridion-001-p06",
+   "rank": 3,
+   "opus": {
+    "grade": 1,
+    "reason": "Estate taken, restored; detached, mentions dead child.",
+    "batch": "b08"
+   },
+   "second": {
+    "id": "AS51",
+    "pid": "enchiridion-001-p06",
+    "grade": 3,
+    "reason": "Loss taken by a bad man is only restored; speaks straight to the theft."
+   }
+  },
+  {
+   "id": "L05",
+   "pid": "epictetus-discourses-long-025-p07",
+   "rank": 1,
+   "opus": {
+    "grade": 2,
+    "reason": "The foot is the measure of the shoe; wry fit for heels.",
+    "batch": "b16"
+   },
+   "second": {
+    "id": "L05",
+    "pid": "epictetus-discourses-long-025-p07",
+    "grade": 1,
+    "reason": "Shoes beyond the foot's need; a wry nod to high heels at best."
+   }
+  },
+  {
+   "id": "L04",
+   "pid": "bib-psa-001-p06",
+   "rank": 1,
+   "opus": {
+    "grade": 2,
+    "reason": "Weary with groaning; gives voice to it.",
+    "batch": "b16"
+   },
+   "second": {
+    "id": "L04",
+    "pid": "bib-psa-001-p06",
+    "grade": 1,
+    "reason": "Weary with groaning, but about grief and enemies, not tiredness."
+   }
+  },
+  {
+   "id": "H19",
+   "pid": "viv04-005-p04",
+   "rank": 1,
+   "opus": {
+    "grade": 1,
+    "reason": "Don't condemn the world; partly reproachful.",
+    "batch": "b14"
+   },
+   "second": {
+    "id": "H19",
+    "pid": "viv04-005-p04",
+    "grade": 2,
+    "reason": "Don't condemn the world's wickedness, help it; relevant, slightly chiding."
+   }
+  },
+  {
+   "id": "H16",
+   "pid": "seneca-012-p05",
+   "rank": 1,
+   "opus": {
+    "grade": 1,
+    "reason": "Be ready for death anywhere; grim for this worry.",
+    "batch": "b13"
+   },
+   "second": {
+    "id": "H16",
+    "pid": "seneca-012-p05",
+    "grade": 2,
+    "reason": "Years are not counted out in advance; be ready. Relevant but death-forward."
+   }
+  },
+  {
+   "id": "H12",
+   "pid": "viv07-028-p02",
+   "rank": 1,
+   "opus": {
+    "grade": 2,
+    "reason": "Isolation hurts, reaching out helps; relevant though 'selfish' may sting.",
+    "batch": "b13"
+   },
+   "second": {
+    "id": "H12",
+    "pid": "viv07-028-p02",
+    "grade": 1,
+    "reason": "Calls the isolated person selfish; they already try to reach out."
+   }
+  },
+  {
+   "id": "AS71",
+   "pid": "emerson-essays-034-p02",
+   "rank": 1,
+   "opus": {
+    "grade": 1,
+    "reason": "Falseness in church and everywhere; partly relevant.",
+    "batch": "b10"
+   },
+   "second": {
+    "id": "AS71",
+    "pid": "emerson-essays-034-p02",
+    "grade": 2,
+    "reason": "Why leave church, the street is as false; on staying despite distrust."
+   }
+  }
+ ]
+}

@@ -1,9 +1,10 @@
 """Embed passages into passage_embeddings (Day 16, 12 Oct 2026). Baseline: Plan section 4.4, experiment 2.
 
-    .venv/bin/python backend/embed.py [--limit N] [--tpm 10000] [--rpm 3]
+    .venv/bin/python backend/embed.py [--model voyage-4-lite] [--what text+plain] [--limit N] [--tpm 10000] [--rpm 3]
 
-Embeds each passage's verbatim text plus its plain version with Voyage voyage-4-lite (1024 dimensions,
-input_type 'document'), stored under setup 'voyage-4-lite/text+plain'. Resumable: passages already
+Embeds each passage with a Voyage model (1024 dimensions, input_type 'document'), stored under setup
+'<model>/<what>'. What gets embedded (Plan section 4.4, experiment 2): text+plain (the baseline: verbatim
+text plus plain version), text, plain, or text+plain+when (adds the "when this helps" line). Resumable: passages already
 embedded for the setup are skipped, so an interrupted run picks up where it stopped. Paced to stay under
 the account's rate limits (defaults: Voyage's limits for an account with no payment method); a 429
 backs off and retries. Reads DATABASE_URL and VOYAGE_API_KEY from .env.
@@ -22,13 +23,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import load  # noqa: E402  (connect, .env)
 
-MODEL, DIM = "voyage-4-lite", 1024
-SETUP = f"{MODEL}/text+plain"
+DIM = 1024
+MODEL, WHAT = "voyage-4-lite", "text+plain"     # defaults; set from the command line in main()
 URL = "https://api.voyageai.com/v1/embeddings"
 
 
-def embed_text(display_text, plain):
-    return f"{display_text}\n\n{plain}"
+def embed_text(display_text, plain, when="", what="text+plain"):
+    return {"text+plain": f"{display_text}\n\n{plain}", "text": display_text, "plain": plain,
+            "text+plain+when": f"{display_text}\n\n{plain}\n\n{when}"}[what]
 
 
 def call(texts, key):
@@ -49,29 +51,33 @@ def call(texts, key):
 
 
 def main():
+    global MODEL
     ap = argparse.ArgumentParser()
+    ap.add_argument("--model", default=MODEL)
+    ap.add_argument("--what", default=WHAT, choices=["text+plain", "text", "plain", "text+plain+when"])
     ap.add_argument("--limit", type=int, help="embed at most N passages (a trial run)")
     ap.add_argument("--tpm", type=int, default=10_000, help="tokens per minute to stay under")
     ap.add_argument("--rpm", type=int, default=3, help="requests per minute to stay under")
     a = ap.parse_args()
+    MODEL, setup = a.model, f"{a.model}/{a.what}"
     load.load_dotenv(load.ROOT / ".env")
     key = os.environ.get("VOYAGE_API_KEY")
     if not key:
         sys.exit("VOYAGE_API_KEY is not set in .env")
 
     with load.connect() as db:
-        todo = db.execute("""select pid, display_text, plain from passages p
+        todo = db.execute("""select pid, display_text, plain, tags->>'when_helps' from passages p
                              where not exists (select 1 from passage_embeddings e where e.pid = p.pid and e.setup = %s)
-                             order by pid""", (SETUP,)).fetchall()
+                             order by pid""", (setup,)).fetchall()
         if a.limit:
             todo = todo[:a.limit]
-        print(f"{SETUP}: {len(todo):,} passages to embed", flush=True)
+        print(f"{setup}: {len(todo):,} passages to embed", flush=True)
         budget = int(a.tpm * 0.85)          # a request's tokens, estimated at 4 characters each, kept under this
         sent, total, done, i = deque(), 0, 0, 0   # sent: (time, tokens) of requests in the last minute
         while i < len(todo):
             batch, est = [], 0
             while i < len(todo) and len(batch) < 1000:
-                t = embed_text(todo[i][1], todo[i][2])
+                t = embed_text(todo[i][1], todo[i][2], todo[i][3] or "", a.what)
                 if batch and est + len(t) // 4 > budget:
                     break
                 batch.append((todo[i][0], t)); est += len(t) // 4; i += 1
@@ -88,7 +94,7 @@ def main():
             with db.cursor() as cur:
                 cur.executemany("insert into passage_embeddings (pid, setup, embedding) values (%s, %s, %s::vector) "
                                 "on conflict (pid, setup) do update set embedding = excluded.embedding",
-                                [(pid, SETUP, str(v)) for (pid, _), v in zip(batch, vecs)])
+                                [(pid, setup, str(v)) for (pid, _), v in zip(batch, vecs)])
             db.commit()
             total += used; done += len(batch)
             print(f"  {done:,}/{len(todo):,} passages, {total:,} tokens", flush=True)

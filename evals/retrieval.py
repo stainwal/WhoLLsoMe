@@ -79,14 +79,17 @@ def dedupe(rows, n):
 
 # ---- setups -------------------------------------------------------------------------------------------
 
-def embed_queries(texts):
-    """Voyage query embeddings, cached by statement text so re-runs cost nothing."""
-    cache = jload(CACHE, {})
-    todo = [t for t in texts if t not in cache]
+def embed_queries(texts, model="voyage-4-lite"):
+    """Voyage query embeddings, cached so re-runs cost nothing. Returns {text: vector}; the cache key is the
+    text for the baseline model and "<model>|<text>" for any other."""
+    full = jload(CACHE, {})
+    key = (lambda t: t) if model == "voyage-4-lite" else (lambda t: f"{model}|{t}")
+    cache = {t: full[key(t)] for t in texts if key(t) in full}
+    todo = [t for t in dict.fromkeys(texts) if t not in cache]
     tokens = 0
     if todo:
         load.load_dotenv(ROOT / ".env")
-        body = json.dumps({"input": todo, "model": "voyage-4-lite", "input_type": "query",
+        body = json.dumps({"input": todo, "model": model, "input_type": "query",
                            "output_dimension": 1024}).encode()
         req = urllib.request.Request("https://api.voyageai.com/v1/embeddings", body,
                                      {"Authorization": f"Bearer {os.environ['VOYAGE_API_KEY']}",
@@ -97,8 +100,8 @@ def embed_queries(texts):
         print(f"  embedded {len(todo)} statements in {time.time() - t0:.1f}s, {out['usage']['total_tokens']:,} tokens")
         tokens = out["usage"]["total_tokens"]
         for t, d in zip(todo, sorted(out["data"], key=lambda d: d["index"])):
-            cache[t] = d["embedding"]
-        jsave(CACHE, cache)
+            cache[t] = full[key(t)] = d["embedding"]
+        jsave(CACHE, full)
     return cache, tokens
 
 
