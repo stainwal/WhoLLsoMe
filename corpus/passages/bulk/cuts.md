@@ -83,10 +83,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 12. epictetus-discourses-long
 
-113 tagged; 1 cut; 0 kept but hidden from distress.
+113 tagged; 1 cut; 1 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
+| epictetus-discourses-long-003-p04 | Discourses selection 11 | decided: no-distress | Lands harshly on a person in pain: mocks 'everybody hates me': 'who would not hate such a man?' (graded 0 for both statements); Day 17 relevance judge; hidden from distress by Shailesh's decision, 13 Oct 2026. Still shown outside distress (e.g. Surprise me) | I have pain in the head. Do not say, Alas! I have pain in… |
 | epictetus-discourses-long-013-p01 | Discourses selection 42 | decided: cut | Day 5 review, S40: too philosophical to apply in a general situation (Shailesh, 11 Oct 2026) | Such as is a dish of water, such is the soul. Such as is… |
 
 ## 13. japji-macauliffe
@@ -127,10 +128,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 20. emerson-essays
 
-257 tagged; 1 cut; 3 kept but hidden from distress.
+257 tagged; 1 cut; 4 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
+| emerson-essays-010-p09 | Experience | decided: no-distress | Lands harshly on a person in pain: says his son's death does not touch him and leaves no scar (graded 0 for 5 of 7 grief statements); Day 17 relevance judge; hidden from distress by Shailesh's decision, 13 Oct 2026. Still shown outside distress (e.g. Surprise me) | In the death of my son, now more than two years ago, I seem… |
 | emerson-essays-019-p05 | Heroism | welcomes-death | Envies the dead as safe from suffering and speaks of awaiting one's own end with complacency. | In the gloom of our ignorance of what shall be, in the hour when… |
 | emerson-essays-042-p02 | Prudence | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | Every violation of truth is not only a sort of suicide in the liar,… |
 | emerson-essays-043-p05 | Self-Reliance | decided: no-distress | Names suicide (figuratively or arguing against it); hidden from distress by the 8 Oct 2026 precedent for MN 144 and Walden; applied 11 Oct, Shailesh to confirm; confirmed by Shailesh, 12 Oct 2026 | There is a time in every man’s education when he arrives at the conviction… |
@@ -194,7 +196,7 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 28. seneca-letters-gummere
 
-479 tagged; 12 cut; 13 kept but hidden from distress.
+479 tagged; 12 cut; 15 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
@@ -208,6 +210,8 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 | seneca-026-p01 | Letter 58 | endorses-suicide | Approves taking one's own life if pain must always be endured. | I shall not avoid illness by seeking death, as long as the illness is… |
 | seneca-027-p03 | Letter 61 | welcomes-death | Equates dying well with dying gladly, which could read as longing for death to a distressed reader. | Before I became old I tried to live well; now that I am old,… |
 | seneca-027-p05 | Letter 61 | welcomes-death | Closes with having had one's fill and awaiting death, which reads as readiness to die. | We must make ready for death before we make ready for life. Life is… |
+| seneca-027-p14 | Letter 63 | decided: no-distress | Lands harshly on a person in pain: 'better to replace your friend than to weep for him' (graded 0 for 7 of 10 statements, all bereavements); Day 17 relevance judge; hidden from distress by Shailesh's decision, 13 Oct 2026. Still shown outside distress (e.g. Surprise me) | You have buried one whom you loved; look about for someone to love. It… |
+| seneca-027-p15 | Letter 63 | decided: no-distress | Lands harshly on a person in pain: calls growing weary of sorrow shameful and urges stopping grief soon (graded 0 for fresh bereavements); Day 17 relevance judge; hidden from distress by Shailesh's decision, 13 Oct 2026. Still shown outside distress (e.g. Surprise me) | What I am about to add is, I know, a very hackneyed remark, but… |
 | seneca-029-p01 | Letter 65 | welcomes-death | Says death will leave one less cramped than now, presenting it as a release. | Let us be brave in the face of hazards. Let us not fear wrongs,… |
 | seneca-032-p07 | Letter 70 | welcomes-death | Portrays death as a welcome harbour and an early arrival as nothing to complain about. | We have sailed past life, Lucilius, as if we were on a voyage, and… |
 | seneca-032-p08 | Letter 70 | endorses-suicide | Says it matters not whether one dies earlier and that dying is escape from living ill, implying suicide is acceptable. | It is not a question of dying earlier or later, but of dying well… |
@@ -226,10 +230,11 @@ Written by `pipeline/bulk.py merge`. Passages tagged `endorses-suicide`, `sexual
 
 ## 29. vivekananda
 
-764 tagged; 0 cut; 6 kept but hidden from distress.
+764 tagged; 0 cut; 7 kept but hidden from distress.
 
 | Id | Location | Safety | Reason | Opening words |
 | --- | --- | --- | --- | --- |
+| viv04-027-p01 | Jnana-Yoga: The Microcosm | decided: no-distress | Lands harshly on a person in pain: tells the reader their misery is their own doing (graded 0 for 6 of 8 statements, e.g. a layoff); Day 17 relevance judge; hidden from distress by Shailesh's decision, 13 Oct 2026. Still shown outside distress (e.g. Surprise me) | Say, “This misery that I am suffering is of my own doing, and that… |
 | viv04-031-p02 | Jnana-Yoga: Chapter XIII. The Atman | decided: no-distress | Transcription error 'an gods' corrected to 'all gods', confirmed against the printed Complete Works Vol. II (archive.org in.ernet.dli.2015.6137); verbatim text unchanged (Shailesh, 12 Oct 2026); names suicide (rhetorically: in oneness, whom could I harm?), hidden from distress by the 8 Oct 2026 precedent (Shailesh, 12 Oct 2026) | When man has seen himself as one with the Infinite Being of the universe,… |
 | viv06-002-p03 | Para-Bhakti or Supreme Devotion: Chapter V. Universal Love And How It Leads To Self-Surrender | welcomes-death | Holds up welcoming death with a smile as the ideal of perfect surrender. | As a result of this kind of intense all-absorbing love, comes the feeling of… |
 | viv06-002-p04 | Para-Bhakti or Supreme Devotion: Chapter V. Universal Love And How It Leads To Self-Surrender | welcomes-death | Calls those whose bodies are destroyed in service blessed and says it is better the body dies for a good cause. | We may all manage to maintain our bodies more or less satisfactorily and for… |

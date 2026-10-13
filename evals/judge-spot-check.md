@@ -16,7 +16,7 @@ Grades: 3 strong match, 2 acceptable, 1 loosely related, 0 off-topic or unsuitab
 
 **Judge:** grade 3, ACCEPTABLE. Fresh wound from the sudden wrench of living together; exact.
 
-**Your call:** agree / disagree
+**Your call:** **disagree**. There is no wisdom or guidance here, just a restatement of the user's problem.
 
 ## 2. H04
 
@@ -30,7 +30,7 @@ Grades: 3 strong match, 2 acceptable, 1 loosely related, 0 off-topic or unsuitab
 
 **Judge:** grade 2, ACCEPTABLE. Resolving again, caught again like a bird; mirrors the cycle.
 
-**Your call:** agree / disagree
+**Your call:** **agree**. Although the passage offers no remedy, it acknowledges the circular nature of the issue.
 
 ## 3. H05
 
@@ -44,7 +44,7 @@ Grades: 3 strong match, 2 acceptable, 1 loosely related, 0 off-topic or unsuitab
 
 **Judge:** grade 2, ACCEPTABLE. Not alone in heaviness of mind.
 
-**Your call:** agree / disagree
+**Your call:** agree.
 
 ## 4. H07
 
@@ -58,7 +58,7 @@ Grades: 3 strong match, 2 acceptable, 1 loosely related, 0 off-topic or unsuitab
 
 **Judge:** grade 0, NOT acceptable. Replace your friend rather than weep; would land badly.
 
-**Your call:** agree / disagree
+**Your call:** agree.
 
 ## 5. H10
 
@@ -74,7 +74,7 @@ If I say something, she twists it, turns it around, and makes it into something 
 
 **Judge:** grade 0, NOT acceptable. Despair at the Great Spirit; unrelated and bleak.
 
-**Your call:** agree / disagree
+**Your call:** agree.
 
 ## 6. H14
 
@@ -88,7 +88,7 @@ If I say something, she twists it, turns it around, and makes it into something 
 
 **Judge:** grade 2, ACCEPTABLE. Revealing a friend's secret destroys friendship; names one side of the cost.
 
-**Your call:** agree / disagree
+**Your call:** agree.
 
 ## 7. H15
 
@@ -102,7 +102,7 @@ If I say something, she twists it, turns it around, and makes it into something 
 
 **Judge:** grade 0, NOT acceptable. Excuses for not working; implies laziness.
 
-**Your call:** agree / disagree
+**Your call:** agree.
 
 ## 8. H16
 
@@ -116,4 +116,4 @@ If I say something, she twists it, turns it around, and makes it into something 
 
 **Judge:** grade 1, NOT acceptable. Be ready for death anywhere; grim for this worry.
 
-**Your call:** agree / disagree
+**Your call:** agree.

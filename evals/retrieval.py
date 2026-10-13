@@ -6,6 +6,8 @@
     .venv/bin/python evals/retrieval.py score [SETUP ...]    # hit@3, hit@10, MRR per set and part -> evals/results/
     .venv/bin/python evals/retrieval.py spotcheck N          # N human statements for Shailesh -> evals/judge-spot-check.md
     .venv/bin/python evals/retrieval.py recheck PCT SIZE     # random PCT% of labelled pairs, for a fresh judge -> evals/judge-in/rNN.jsonl
+    .venv/bin/python evals/retrieval.py xbatches SETUP K NAME  # every statement's top K for a second model -> evals/judge-in/xNAME-NN.jsonl
+    .venv/bin/python evals/retrieval.py xcompare NAME SETUP    # second model (evals/judge/xNAME-NN.json) vs labels -> evals/results/cross-NAME.json
     .venv/bin/python evals/retrieval.py consistency          # second judge (evals/judge/rNN.json) vs labels -> evals/results/judge-consistency.json
 
 Which statements are scored: every statement except the crisis part (those must route to helplines, and
@@ -252,6 +254,69 @@ def recheck(pct, size):
     print(f"recheck: {len(pick)} of {len(pairs):,} pairs ({pct}%), {len(ids)} statements, {n} files r01-r{n:02d}")
 
 
+def xbatches(setup, k, name, size=45):
+    """A second judge model re-grades every statement's top K of one setup (Opus stays judge of record)."""
+    run = jload(RUNS / f"{setup.replace('/', '__')}.json")
+    by_id = {s["id"]: s for s in scored_statements()}
+    with load.connect() as db:
+        text = {pid: (dt, pl) for pid, dt, pl in db.execute("select pid, display_text, plain from passages")}
+    rng, ids = random.Random(1813), sorted(by_id)
+    for n, i in enumerate(range(0, len(ids), size), 1):
+        lines = []
+        for sid in ids[i:i + size]:
+            cands = [pid for pid, _ in run["ranked"][sid][:k]]
+            rng.shuffle(cands)
+            lines.append({"id": sid, "statement": by_id[sid]["text"],
+                          "passages": [{"pid": p, "text": text[p][0], "plain": text[p][1]} for p in cands]})
+        (JUDGE_IN / f"x{name}-{n:02d}.jsonl").write_text(
+            "".join(json.dumps(l, ensure_ascii=False) + "\n" for l in lines), encoding="utf-8")
+        print(f"x{name}-{n:02d}.jsonl: {len(lines)} statements, {sum(len(l['passages']) for l in lines)} pairs")
+
+
+def xcompare(name, setup):
+    labels, run = jload(LABELS, {}), jload(RUNS / f"{setup.replace('/', '__')}.json")
+    second = {}
+    for f in sorted(JUDGE.glob(f"x{name}-*.json")):
+        want = {(l["id"], p["pid"]) for l in map(json.loads, (JUDGE_IN / f"{f.stem}.jsonl").read_text().splitlines())
+                for p in l["passages"]}
+        got = {(j["id"], j["pid"]): j for j in jload(f)["judgements"]}
+        if set(got) != want:
+            sys.exit(f"{f.name}: judged pairs don't match its input ({len(want ^ set(got))} differ)")
+        second.update(got)
+    sets_of = {s["id"]: s for s in scored_statements()}
+    out = {"model": name, "setup": setup, "checked_at": time.strftime("%Y-%m-%d %H:%M"), "by_set": {}}
+    for name_set in ("human", "agent", "all"):
+        pairs = [(labels[sid][pid]["grade"], j["grade"]) for (sid, pid), j in second.items()
+                 if name_set == "all" or sets_of[sid]["set"] == name_set]
+        sids = [sid for sid in sets_of if name_set == "all" or sets_of[sid]["set"] == name_set]
+        def top(lab_of):
+            hit3 = sum(any(lab_of(sid, p) >= ACCEPT for p, _ in run["ranked"][sid][:3]) for sid in sids)
+            t1ok = sum(lab_of(sid, run["ranked"][sid][0][0]) >= ACCEPT for sid in sids)
+            t1zero = sum(lab_of(sid, run["ranked"][sid][0][0]) == 0 for sid in sids)
+            return {"hit@3": hit3, "top1_acceptable": t1ok, "top1_graded_0": t1zero}
+        n = len(pairs)
+        out["by_set"][name_set] = {
+            "statements": len(sids), "pairs": n,
+            "exact_grade_agreement": round(sum(a == b for a, b in pairs) / n, 3),
+            "within_one_grade": round(sum(abs(a - b) <= 1 for a, b in pairs) / n, 3),
+            "acceptable_agreement": round(sum((a >= ACCEPT) == (b >= ACCEPT) for a, b in pairs) / n, 3),
+            "acceptable_rate_opus": round(sum(a >= ACCEPT for a, _ in pairs) / n, 3),
+            "acceptable_rate_second": round(sum(b >= ACCEPT for _, b in pairs) / n, 3),
+            "opus_labels": top(lambda sid, p: labels[sid][p]["grade"]),
+            "second_labels": top(lambda sid, p: second[(sid, p)]["grade"])}
+    # biggest disagreements: grade gap, then whether they split on acceptable, then rank shown
+    rank = {(sid, pid): i + 1 for sid in sets_of for i, (pid, _) in enumerate(run["ranked"][sid][:3])}
+    dis = sorted(((abs(labels[sid][pid]["grade"] - j["grade"]),
+                   (labels[sid][pid]["grade"] >= ACCEPT) != (j["grade"] >= ACCEPT), -rank[(sid, pid)], sid, pid)
+                  for (sid, pid), j in second.items()), reverse=True)
+    out["biggest_disagreements"] = [
+        {"id": sid, "pid": pid, "rank": -r, "opus": labels[sid][pid], "second": second[(sid, pid)]}
+        for gap, split, r, sid, pid in dis[:10] if gap > 0]
+    jsave(RESULTS / f"cross-{name}.json", out)
+    print(json.dumps(out["by_set"], indent=1))
+    return out
+
+
 def consistency():
     labels = jload(LABELS, {})
     pairs = []
@@ -282,6 +347,17 @@ def consistency():
 
 # ---- scoring ------------------------------------------------------------------------------------------
 
+def table(summary, groups=None):
+    """Plain-text results table: the two top-1 metrics first, then hit@3, hit@10, MRR."""
+    pct = lambda v, k: f"{v[k]:>3} ({v[k] / v['n']:>4.0%})"
+    out = [f"{'group':18} {'n':>3}  {'top-1 ok':>10}  {'top-1 = 0':>10}  {'hit@3':>10}  {'hit@10':>10}  {'MRR':>5}"]
+    for k, v in summary.items():
+        if groups is None or k in groups:
+            out.append(f"{k:18} {v['n']:>3}  {pct(v, 'top1_ok')}  {pct(v, 'top1_zero')}  {pct(v, 'hit@3')}  "
+                       f"{pct(v, 'hit@10')}  {v['mrr']:>5.3f}")
+    return "\n".join(out)
+
+
 def score(setups):
     labels = jload(LABELS, {})
     statements = scored_statements()
@@ -298,15 +374,19 @@ def score(setups):
             ranked = [pid for pid, _ in run["ranked"][s["id"]][:TOP]]
             lab = labels.get(s["id"], {})
             first = next((i + 1 for i, pid in enumerate(ranked) if lab.get(pid, {}).get("grade", 0) >= ACCEPT), None)
-            rows[s["id"]] = {"set": s["set"], "part": s["part"], "first_acceptable": first, "top3": ranked[:3]}
+            rows[s["id"]] = {"set": s["set"], "part": s["part"], "first_acceptable": first,
+                             "top1_grade": lab[ranked[0]]["grade"], "top3": ranked[:3]}
         groups = {}
         for sid, r in rows.items():
             for key in (f"{r['set']}/{r['part']}", f"{r['set']}/all"):
-                groups.setdefault(key, []).append(r["first_acceptable"])
+                groups.setdefault(key, []).append((r["first_acceptable"], r["top1_grade"]))
+        # Main targets (Shailesh, 13 Oct): top-1 acceptable and top-1 graded 0 (what a user sees first), with hit@3.
         summary = {k: {"n": len(v),
-                       "hit@3": sum(1 for x in v if x and x <= 3),
-                       "hit@10": sum(1 for x in v if x),
-                       "mrr": round(sum(1 / x for x in v if x) / len(v), 3)}
+                       "top1_ok": sum(1 for x, _ in v if x == 1),
+                       "top1_zero": sum(1 for _, g in v if g == 0),
+                       "hit@3": sum(1 for x, _ in v if x and x <= 3),
+                       "hit@10": sum(1 for x, _ in v if x),
+                       "mrr": round(sum(1 / x for x, _ in v if x) / len(v), 3)}
                    for k, v in sorted(groups.items())}
         cost = run.get("query_tokens", 0) / max(len(statements), 1) * 1000 / 1e6 * VOYAGE_PRICE
         out = {"setup": setup, "scored_at": time.strftime("%Y-%m-%d %H:%M"), "statements": len(statements),
@@ -315,10 +395,7 @@ def score(setups):
         jsave(RESULTS / f"{setup.replace('/', '__')}.json", out)
         print(f"\n{setup}  (embed cost ${cost:.4f} per 1,000 queries; "
               f"search {run.get('db_ms_median')} ms median)")
-        print(f"{'group':22} {'n':>3}  {'hit@3':>12}  {'hit@10':>12}  {'MRR':>5}")
-        for k, v in summary.items():
-            print(f"{k:22} {v['n']:>3}  {v['hit@3']:>3} ({v['hit@3'] / v['n']:>4.0%})  "
-                  f"{v['hit@10']:>3} ({v['hit@10'] / v['n']:>4.0%})  {v['mrr']:>5.3f}")
+        print(table(summary))
 
 
 # ---- spot check ---------------------------------------------------------------------------------------
@@ -375,6 +452,10 @@ if __name__ == "__main__":
         score(args)
     elif cmd == "recheck":
         recheck(float(args[0]) if args else 10, int(args[1]) if len(args) > 1 else 60)
+    elif cmd == "xbatches":
+        xbatches(args[0], int(args[1]), args[2])
+    elif cmd == "xcompare":
+        xcompare(args[0], args[1])
     elif cmd == "consistency":
         consistency()
     elif cmd == "spotcheck":

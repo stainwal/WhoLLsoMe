@@ -1,14 +1,14 @@
 # Corpus statistics
 
-*Written by `pipeline/stats.py` on 12 Oct 2026. Counts are over the 5,540 passages a user can be shown (status keep or no-distress); cut and duplicate passages are excluded.*
+*Written by `pipeline/stats.py` on 13 Oct 2026. Counts are over the 5,540 passages a user can be shown (status keep or no-distress); cut and duplicate passages are excluded.*
 
 ## 1. Totals
 
 | Measure | Value |
 | --- | --- |
 | Passages extracted and tagged | 5,642 |
-| Shown normally (keep) | 5,477 |
-| Kept but hidden from distress (no-distress) | 63 |
+| Shown normally (keep) | 5,472 |
+| Kept but hidden from distress (no-distress) | 68 |
 | Cut by the safety field | 18 |
 | Duplicates (status dup) | 84 |
 | **Shown passages (keep + no-distress)** | **5,540** |
@@ -28,10 +28,10 @@ Yield is shown passages per 1,000 words read. Secular is the share of passages t
 | Source | Tradition | Translator | Words read | Extracted | Shown | Hidden | Cut | Dup | Yield | Median words | Secular | Top themes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | bible-web | Christianity / Judaism | WEB | 842,907 | 988 | 987 | 6 | 1 | 0 | 1.17 | 37 | 29% | faith and the sacred, compassion and kindness, truth and integrity |
-| vivekananda | Hinduism | Vivekananda (original English) | 540,270 | 764 | 763 | 6 | 0 | 1 | 1.41 | 59 | 44% | the true self, faith and the sacred, wisdom and understanding |
+| vivekananda | Hinduism | Vivekananda (original English) | 540,270 | 764 | 763 | 7 | 0 | 1 | 1.41 | 59 | 44% | the true self, faith and the sacred, wisdom and understanding |
 | suttacentral-sujato | Buddhism | Bhikkhu Sujato, 2018 | 1,293,581 | 750 | 666 | 3 | 1 | 83 | 0.51 | 46 | 46% | character and growth, self-mastery, desire and attachment |
-| seneca-letters-gummere | Stoicism | Richard Gummere, 1917–25 | 208,335 | 479 | 467 | 13 | 12 | 0 | 2.24 | 70 | 94% | character and growth, death and mortality, wisdom and understanding |
-| emerson-essays | Modern West | Emerson (original English) | 132,470 | 257 | 256 | 3 | 1 | 0 | 1.93 | 65 | 77% | truth and integrity, friendship, character and growth |
+| seneca-letters-gummere | Stoicism | Richard Gummere, 1917–25 | 208,335 | 479 | 467 | 15 | 12 | 0 | 2.24 | 70 | 94% | character and growth, death and mortality, wisdom and understanding |
+| emerson-essays | Modern West | Emerson (original English) | 132,470 | 257 | 256 | 4 | 1 | 0 | 1.93 | 65 | 77% | truth and integrity, friendship, character and growth |
 | gibran-sand-and-foam | Sufism-adjacent | Kahlil Gibran (original English), 1926 | 7,372 | 252 | 252 | 4 | 0 | 0 | 34.18 | 19 | 76% | compassion and kindness, wisdom and understanding, humility and pride |
 | imitation-of-christ-benham | Christianity | William Benham, 1874 | 58,849 | 187 | 187 | 0 | 0 | 0 | 3.18 | 77 | 4% | faith and the sacred, humility and pride, patience and perseverance |
 | chuang-tzu-giles | Taoism | Herbert Giles, 1889 | 85,090 | 165 | 165 | 3 | 0 | 0 | 1.94 | 48 | 75% | wisdom and understanding, acceptance and surrender, humility and pride |
@@ -40,7 +40,7 @@ Yield is shown passages per 1,000 words read. Secular is the share of passages t
 | walden-thoreau | Modern West | Thoreau (original English) | 115,574 | 147 | 147 | 1 | 0 | 0 | 1.27 | 54 | 90% | nature, simplicity and enough, freedom and self-reliance |
 | augustine-confessions-pusey | Christianity | Edward Pusey, 1838 | 111,772 | 144 | 144 | 0 | 0 | 0 | 1.29 | 56 | 20% | faith and the sacred, desire and attachment, love |
 | rumi-masnavi-whinfield | Sufism | E.H. Whinfield, 1887 | 61,563 | 125 | 124 | 1 | 1 | 0 | 2.01 | 47 | 29% | faith and the sacred, wisdom and understanding, the true self |
-| epictetus-discourses-long | Stoicism | George Long, 1877 | 60,257 | 113 | 112 | 0 | 1 | 0 | 1.86 | 69 | 91% | acceptance and surrender, the mind and thoughts, character and growth |
+| epictetus-discourses-long | Stoicism | George Long, 1877 | 60,257 | 113 | 112 | 1 | 1 | 0 | 1.86 | 69 | 91% | acceptance and surrender, the mind and thoughts, character and growth |
 | schopenhauer-counsels-maxims | Modern West | T. Bailey Saunders, 1890 | 42,511 | 107 | 107 | 1 | 0 | 0 | 2.52 | 75 | 99% | wisdom and understanding, the mind and thoughts, time and the present |
 | tagore-sadhana | Modern India | Rabindranath Tagore (original English), 1913 | 36,723 | 93 | 93 | 2 | 0 | 0 | 2.53 | 79 | 31% | the true self, desire and attachment, purpose and meaning |
 | aristotle-ethics | Greek philosophy | D.P. Chase, 1847 | 91,741 | 77 | 77 | 1 | 0 | 0 | 0.84 | 83 | 99% | friendship, character and growth, wisdom and understanding |
@@ -66,7 +66,7 @@ Yield is shown passages per 1,000 words read. Secular is the share of passages t
 | upanishads-paramananda | Hinduism | Swami Paramananda, 1919 | 5,664 | 15 | 15 | 0 | 0 | 0 | 2.65 | 40 | 7% | desire and attachment, the true self, wisdom and understanding |
 | japji-macauliffe | Sikhism | M.A. Macauliffe, 1900 | 4,169 | 11 | 11 | 0 | 0 | 0 | 2.64 | 57 | 0% | faith and the sacred, spiritual practice, humility and pride |
 | plato-apology-jowett | Greek philosophy | Benjamin Jowett | 11,348 | 10 | 10 | 3 | 0 | 0 | 0.88 | 66 | 70% | death and mortality, truth and integrity, wisdom and understanding |
-| **Total** | | | **4,172,016** | **5,642** | **5,540** | **63** | **18** | **84** | **1.33** | **51** | **52%** | |
+| **Total** | | | **4,172,016** | **5,642** | **5,540** | **68** | **18** | **84** | **1.33** | **51** | **52%** | |
 
 ## 3. By theme
 
