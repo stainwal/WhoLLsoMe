@@ -79,6 +79,8 @@ Two independent sets of the same shape, scored separately and never pooled (deci
 - **Agent split:** the compiled agent statements are divided into golden and held-out at random.
 - **Final files:** compiled sets go to `evals/`. Source links from the agent research stay private and never ship.
 - **Labelling (Day 17, revised 11 Oct for speed):** acceptable passages are labelled by pooling: the top candidates from several retrieval setups. An AI judge labels both sets. Shailesh spot-checks the judge on 8 human statements; if he agrees with at least 6 of 8, the judge's labels stand. The Evals page says labels are AI-judged with a human spot-check.
+- **Unjudged passages (added 13 Oct):** a passage that a later experiment retrieves but the pool never judged is judged by the same AI judge before that experiment is scored. It is never counted as a miss by default; the harness (`evals/retrieval.py`) refuses to score a setup while any passage in its top 10 is unjudged.
+- **Judge consistency (added 13 Oct):** a random 10% of judged pairs is re-judged in a separate pass with fresh context; exact-grade and acceptable/not agreement are reported on the Evals page.
 
 ### 4.2 Retrieval metrics
 

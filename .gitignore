@@ -52,3 +52,6 @@ evals/agent-set-provenance.md
 # Crisis test statements (publication checklist item 6): private so the crisis check can't be tuned to them.
 # Read through evals/sets.py; the pre-commit hook blocks their text anywhere else.
 evals/private/
+
+# Query embedding cache for the retrieval evals (rebuilt on demand by evals/retrieval.py)
+evals/cache/

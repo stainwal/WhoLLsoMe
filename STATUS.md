@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Sun 12 Oct 2026, ~22:50 IST (session 9: Day 16 done; Supabase loaded, baseline embeddings; showcase framing removed; repo is public).*
+*Updated at the end of every session. Last update: Tue 13 Oct 2026, ~19:40 IST (session 10: Day 17 built, baseline scored; waiting on Shailesh's 8-item spot check).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–16 (`logs/D16.md`, sessions 6–9). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–16; Day 17 built, pending the spot check (`logs/D17.md`, session 10). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -20,22 +20,27 @@
   - Public prep, session 7 (12 Oct, `logs/D16.md` second entry): `LICENSE` MIT and README licence note; the 13 crisis statements moved to git-ignored `evals/private/crisis.jsonl` (read via `evals/sets.py`), purged from history, blocked by the pre-commit hook, force-pushed; two print-confirmed corrections applied as overrides. History scan: 21 commits, 6,429 file versions, 0 crisis text, 0 restricted text, gitleaks clean. **Still private; one blocker: GitHub still serves the replaced commits by SHA** (section 3).
   - Session 8 (12 Oct, `logs/D16.md` third entry): old repo renamed `stainwal/WhoLLsoMe-old` (private, keep private for good); clean `main` (23 commits, head `cf19ba5`) pushed alone to a new `stainwal/WhoLLsoMe`; **`d4c50ae` and `d2eb907` return 404 there**. Pre-push scan of 6,432 file versions: 0 restricted, 0 crisis; gitleaks clean. Showcase item 2 cleared: **no checklist item blocks the repo; it stays private** pending the timing decision. viv04-031-p02 hidden from distress (63 hidden in all).
   - Session 9 (12 Oct, `logs/D16.md` fourth entry): name spelled WhoLLsoMe everywhere; GitHub description and topics; README as a personal project; `docs/Showcase.md` cut to `docs/Publication-Checklist.md` (case-study material in the private archive); both scanners recurse into folders (`pipeline/test_scanners.py`). **Supabase loaded:** pgvector 0.8.2, 39 sources, 5,540 passages (0 differ from files), RLS on, 47 MB. **Baseline embeddings:** Voyage `voyage-4-lite`, 1024 dims, passage text + plain version, 5,540 vectors, 603,619 tokens, $0 (free allowance). **`stainwal/WhoLLsoMe` is public** (Shailesh).
-- **Not started:** eval harness and retrieval scoring (Day 17), app code.
+  - Session 10 (13 Oct, `logs/D17.md`): `public_passages` view, the only thing the public key can read (16 of 16 checks, database and REST API); deny rules for hook-bypassing git commands; pause plan in section 7.1. Eval harness `evals/retrieval.py`; 3,074 pooled pairs AI-judged; baseline scored (section 4); 10% consistency re-judge.
+- **Not started:** experiments (Days 18–19), app code.
 
 ## 2. Next session
 
-1. **Shailesh:** if not done yet, push the pre-purge backup to `WhoLLsoMe-archive` (command in the session 8 report).
-2. **Day 17, Claude:** eval harness reading the sets through `evals/sets.py`; queries embedded with `voyage-4-lite`, `input_type` query; AI judge labels acceptable passages for both test sets by pooling (heavy run: budget first); Shailesh spot-checks 8 human statements; baseline hit@3, hit@10, MRR for `voyage-4-lite/text+plain`.
+1. **Shailesh (~10 min):** mark `evals/judge-spot-check.md` agree / disagree. 6 of 8 or more → the judge's labels stand and Day 17 is done. And decide on the passages that land badly (section 3).
+2. **Days 18–19, Claude:** experiments 1–4, 6 and 7 on the agent golden set (Plan section 4.4). A new setup's unjudged top-10 passages are judged first (`evals/retrieval.py batches` → judge → `verify` → `score`); small heavy runs, budget each.
 3. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch.
+4. **App, when built:** read passages through `public_passages` only; `SUPABASE_URL` and the publishable key are in `.env`.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
+| 17 | Passages that land badly (e.g. Seneca "replace your friend" shown first for a pet's death): hide now, fix in ranking, or both | `logs/D17.md` section 4 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Baseline retrieval (Day 17, `logs/D17.md`):** `voyage-4-lite/text+plain`, AI-judged pooled labels (3,074 pairs, 24% acceptable). **Human held-out hit@3 29 of 32 (91%)**, hit@10 100%, MRR 0.755. Agent held-out hit@3 12 of 20 (60%), hit@10 85%, MRR 0.557. Agent golden hit@3 83%. Look-alikes: human 5 of 5, agent 7 of 8. Keyword search alone: human held-out 44%. 26 of 125 statements would open on a passage graded 0. Labels stand only if Shailesh agrees with 6 of 8 spot-check items.
+- **Judge consistency (Day 17):** 307 pairs (10%) re-judged blind: exact grade 70.4%, within one grade 100%, acceptable/not 88.6% (kappa 0.70); the second pass slightly more lenient (28% vs 23% acceptable).
 - **Baseline embeddings (Day 16, `logs/D16.md` session 9):** `voyage-4-lite/text+plain`, 5,540 of 5,540 embedded. No eval scores yet (Day 17). Two sample searches: a comparison-with-friends statement gets three well-matched Seneca and Schopenhauer passages; a layoff statement gets Job and Jeremiah on shame and abandonment, not work.
 - **Plain-version rewrite (Day 16, `logs/D16.md`):** the 103 judged ≤ 3 rewritten. Blind side-by-side judge on the same 103: old mean 3.86 (21 at ≤ 3), new mean 4.92 (95 fives, 8 fours, 0 at ≤ 3). Corpus now 4,763 fives, 777 fours: **100% at 4 or 5**, mean 4.86. The judge drifts between days (Day 15 gave the same old versions a mean of 2.92).
 - **Display fixes (Day 16):** 82 applied (28 letter fixes confirmed against a printed edition or independent transcription, 54 punctuation); 6 reverted (`evals/letter-fix-check.json`).
@@ -67,6 +72,7 @@ Ideas raised but out of v1 scope. Add here; don't build.
 - Re-run of the `<j>`-skipped SuttaCentral chunks and the three early-filtered helper packs (declined 8 Oct; listed in case the freeze is extended)
 - Gracián, *The Art of Worldly Wisdom* (Jacobs 1892): public domain but only OCR scans exist; needs a clean transcription before it can be added (dropped 11 Oct)
 - A second, independent judge model for the plain versions (the Day 15 judge is the writer's own model family)
+- A second judge model for retrieval labels (Day 17 used one model, checked against itself and by Shailesh's spot check)
 
 ## 6. Token budget
 
@@ -79,6 +85,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   - **Superseded:** the Day 4 estimate (1.4% per 100k words for extraction alone) was about 3 times too high.
   - **Readings:** Claude reads both bars through the app's usage API, so no screenshots are needed.
 - **Enrichment and judge (Day 15, measured):** about **9% of the weekly limit** for one pass over 5,540 passages (plain version plus judge) together with 75k words of extraction and tagging: roughly 1.5% per 1,000 passages enriched and judged. The 5-hour window moved about 35 points over the run, so one window holds a pass of this size with room to spare.
+- **Relevance judging (Day 17, measured):** 3,074 + 307 judgements took about **2% of the weekly limit** (cap agreed 10%, estimate 2–4%): about 0.6% per 1,000 judgements, 8 + 2 helpers of about 170k tokens each, mostly cached.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
@@ -101,6 +108,9 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Day 15 run complete, 12 Oct 00:52 | 48% | 32% |
   | Day 16 start, 12 Oct ~14:20 | 4% | 33% |
   | Day 16 close, 15:25 | 8% | 34% |
+  | Day 17 start, 13 Oct ~16:00 | 2% | 39% |
+  | Day 17 judge run done | 9% (new window) | 41% |
+  | Day 17 re-judge done, ~19:25 | 10% | 41% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits

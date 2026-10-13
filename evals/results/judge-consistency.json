@@ -1,0 +1,22 @@
+{
+ "checked_at": "2026-10-13 19:23",
+ "pairs": 307,
+ "exact_grade_agreement": 0.704,
+ "within_one_grade": 1.0,
+ "acceptable_agreement": 0.886,
+ "acceptable_kappa": 0.701,
+ "acceptable_rate_first": 0.231,
+ "acceptable_rate_second": 0.28,
+ "first_to_second_grade_counts": {
+  "0->0": 86,
+  "0->1": 36,
+  "1->0": 9,
+  "1->1": 80,
+  "1->2": 25,
+  "2->1": 10,
+  "2->2": 38,
+  "2->3": 4,
+  "3->2": 7,
+  "3->3": 12
+ }
+}
