@@ -116,8 +116,8 @@ Checked 7 Oct 2026 on the official pricing and docs pages. Check again before la
 | Storage / egress | 1 GB / 5 GB per month | Fine at hobby scale |
 | Edge functions | 500,000 invocations per month | Not used; the API runs on Vercel |
 | pgvector | Can be enabled (Dashboard → Database → Extensions). The docs don't say it's paid-only | **Confirmed 12 Oct:** pgvector 0.8.2 enabled on the free plan |
-| **Inactivity pause** | Paused after about 7 days of low activity. Data is kept; resume from the dashboard. Treat the restore window as 90 days (docs say 1 year, changelog says 90) | **Needs a keep-alive** once the app is live; until then, pause is harmless |
-| **Backups** | None on Free | Keep our own `supabase db dump` exports in the repo |
+| **Inactivity pause** | Paused after about 7 days of low activity. Data is kept; resume from the dashboard. Treat the restore window as 90 days (docs say 1 year, changelog says 90) | **Plan (13 Oct):** until launch, every eval run queries the database, so it stays awake while we work; after a gap of 7+ days, Shailesh resumes it from the dashboard (a minute; nothing lost). **At launch (Day 31–32):** a daily Vercel cron job calls a small `/api/health` route that runs one read query, which keeps the project active; launch checklist item. If a pause still happens, the app shows a friendly "resting, back soon" screen, not an error |
+| **Backups** | None on Free | Keep our own `supabase db dump` exports, but **not in this repo**: it is public and the database holds the 147 restricted passages. Dumps go to a git-ignored folder or the private archive. The files in `corpus/passages/` can rebuild the database anyway (`backend/load.py`, `backend/embed.py`) |
 
 ### 7.2 Vercel (Hobby)
 

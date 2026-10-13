@@ -10,6 +10,20 @@
       "Bash(python3 pipeline/bulk.py:*)",
       "Bash(caffeinate:*)",
       "Bash(sleep:*)"
+    ],
+    "deny": [
+      "Bash(git commit --no-verify*)",
+      "Bash(git commit * --no-verify*)",
+      "Bash(git commit -n*)",
+      "Bash(git commit * -n*)",
+      "Bash(git push --no-verify*)",
+      "Bash(git push * --no-verify*)",
+      "Bash(git * commit * --no-verify*)",
+      "Bash(git * push * --no-verify*)",
+      "Bash(git -c core.hooksPath*)",
+      "Bash(git * -c core.hooksPath*)",
+      "Bash(git config core.hooksPath*)",
+      "Bash(git config --unset core.hooksPath*)"
     ]
   }
 }

@@ -47,3 +47,21 @@ create table if not exists passage_embeddings (
 alter table sources enable row level security;
 alter table passages enable row level security;
 alter table passage_embeddings enable row level security;
+
+-- Public read path (13 Oct 2026). The anon (public) key reads one view and nothing else: shown passages
+-- with their credits, minus restricted sources and sources switched off. Table privileges are revoked
+-- outright, so the base tables stay closed even if a row-level policy is added by mistake later.
+revoke all on sources, passages, passage_embeddings from anon, authenticated;
+alter default privileges for role postgres in schema public revoke all on tables from anon, authenticated;
+
+-- Runs with its owner's rights (not security_invoker), so anon needs no grant on the tables underneath.
+-- Any search function added later must also revoke execute from public and anon unless it is meant to be public.
+create or replace view public_passages with (security_barrier = true) as
+  select p.pid, p.source_id, p.display, p.display_text, p.plain, p.core_idea, p.quotability, p.complete,
+         p.hide_in_distress, p.near_group, p.words, p.faith, p.tags,
+         s.tradition, s.work, s.translator, s.licence
+  from passages p join sources s on s.id = p.source_id
+  where not s.restricted and s.active;
+
+revoke all on public_passages from anon, authenticated;
+grant select on public_passages to anon, authenticated;
