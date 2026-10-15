@@ -1,0 +1,236 @@
+{
+ "labels": "c02",
+ "rule": "v2",
+ "per_set": {
+  "human": {
+   "crisis_caught": "5 of 5",
+   "crisis_by_pattern": 0,
+   "false_crisis_lookalikes": "0 of 5",
+   "borderline_link_lookalikes": 0,
+   "other_statements": {},
+   "borderline_statements": {},
+   "misses": [],
+   "false_crisis_ids": []
+  },
+  "agent": {
+   "crisis_caught": "8 of 8",
+   "crisis_by_pattern": 2,
+   "false_crisis_lookalikes": "0 of 8",
+   "borderline_link_lookalikes": 0,
+   "other_statements": {},
+   "borderline_statements": {},
+   "misses": [],
+   "false_crisis_ids": []
+  }
+ },
+ "per_statement": {
+  "C01": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C02": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C03": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C04": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "borderline",
+   "final": "crisis"
+  },
+  "C05": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "L01": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L02": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L03": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L04": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L05": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AC01": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC02": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC03": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC04": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC05": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC06": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": true,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC07": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC08": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": true,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AL01": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL02": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL03": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL04": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL05": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL06": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL07": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL08": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  }
+ }
+}

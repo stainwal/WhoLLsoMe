@@ -1,0 +1,19 @@
+{
+ "writers": {
+  "sonnet-api-v2": {
+   "judged": 40,
+   "rubric_pass": 23,
+   "rubric_pass_rate": 0.575,
+   "mean_score": 3.38,
+   "fails_by_check": {
+    "true_to_passage": 2,
+    "relevant": 1,
+    "no_advice": 0,
+    "no_claims": 0,
+    "short": 15
+   },
+   "words_median": 66.0
+  }
+ },
+ "pairs": 40
+}

@@ -2,7 +2,14 @@
 
 *Written 15 Oct 2026 (session 12), six days ahead of the planned 22 Oct. Covers Days 15–21: enrichment, retrieval, evals, Explain. The gate decision is Shailesh's (Plan section 5.3, D21).*
 
-## 1. Recommendation
+## 0. Update, 15 Oct (session 13): improvement day on the crisis check
+
+- **Crisis check: passes.** "Borderline" now routes to the helpline screen with a "Continue to passages" option (Shailesh's decision), and the phrase list no longer fires on an obvious accident ("cut myself slicing onions"). A fresh Haiku run on the 13 crisis statements and both look-alike sets: **crisis 13 of 13; false crisis 0 of 5 human, 0 of 8 agent** (`evals/results/crisis-c02-rule-v2.json`). Re-scoring the earlier run over all 138 statements under the new rule: crisis 13 of 13; false crisis 1 of 5 human (an "I could just die" from tiredness), 0 of 8 agent; 2 ordinary statements (H11, AS70) would also see the helpline screen first, with the option to continue.
+- **Explain: does not pass at 70 words.** Explain prompt v2 (at most 70 words, no guessing at feelings), 40 pairs through the real API on Sonnet 5.5 ($0.1185), Opus judging against rubric v1.1: **23 of 40 (57.5%)**, bar 90%. Content is sound: 37 of 40 (92.5%) pass all four content checks, and no note guessed at feelings (was 1 of 5). The failures are length: Sonnet writes a median 66 words and 13 of 40 go over 70 (at most 81); 5 run to four sentences. Under the v1 length rule (at most 90 words, 4 sentences) the same notes pass 37 of 40 (92.5%).
+- **Judge v2 is stricter** (Shailesh asked for this note): on the chosen setup, human held-out first passage acceptable is **15 of 32 under v2 vs 24 of 32 under v1**, because passages that only restate the problem lose credit; first passage graded 0 is **0 of 32**; hit@3 29 vs 30.
+- **Gate status:** retrieval passes; crisis passes; Explain passes on content but not on the 70-word limit. Phase 2 stays open pending Shailesh's call on the length rule (`logs/D21.md` section 4).
+
+## 1. Recommendation (14–15 Oct, before the improvement day)
 
 **Pass on retrieval and Explain; do not pass on the crisis check yet.** Retrieval clears its bar by a wide margin and Explain clears it on the subscription test. The crisis check caught 12 of 13 crisis statements, one short of the bar of 13. Recommend spending **one** of the three allowed improvement days on the crisis check only (see section 4), then re-running the crisis eval once, on fresh statements as well as the 13. Everything else can move on to Phase 3.
 

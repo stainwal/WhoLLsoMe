@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Thu 15 Oct 2026 (session 12: Day 20 done; gate metrics in; crisis check 12 of 13; gate decision waiting).*
+*Updated at the end of every session. Last update: Thu 15 Oct 2026 (session 13: crisis check passes 13 of 13; Explain misses the gate at 70 words, 23 of 40; length decision waiting).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–20 (`logs/D20.md`, session 12); Day 21 gate prepared (`logs/Phase-2-Report.md`), decision pending. About 6 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–20; Day 21 in progress (`logs/D21.md`, session 13): retrieval and crisis pass, Explain length decision pending. About 6 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -23,27 +23,30 @@
   - Session 10 (13 Oct, `logs/D17.md`): `public_passages` view, the only thing the public key can read (16 of 16 checks, database and REST API); deny rules for hook-bypassing git commands; pause plan in section 7.1. Eval harness `evals/retrieval.py`; 3,074 pooled pairs AI-judged; baseline scored (section 4); 10% consistency re-judge.
   - Session 11 (13 Oct, `logs/D18.md`): spot check 7 of 8, labels stand; 5 harsh passages hidden from distress (68 in all); top-1 metrics; commits pushed through `6b8df0b`; Opus vs Fable cross-check; 24 retrieval setups scored, every top 10 judged (6,610 labels).
   - Session 12 (15 Oct, `logs/D20.md`): Setup A, judge v2 and embedding clean-up decided and done; API key works; Explain built (Sonnet 5.5) with guards and an end-to-end test; experiment 5 decided Sonnet for Explain and Setup B with Haiku rewrites; crisis check built (12 of 13); gate re-judged with v2. API spend $0.0195.
-- **Not started:** web app pages (Days 23–24); Day 22 routes beyond Explain.
+  - Session 13 (15 Oct, `logs/D21.md`): Explain spot check 5 of 5 agree; borderline routes to the helpline screen; crisis re-test 13 of 13, false crisis 0 of 5 and 0 of 8; Explain prompt v2 through the API 23 of 40 (content 37 of 40). API spend $0.1185.
+- **Not started:** Phase 3 (Days 22–29).
 
 ## 2. Next session
 
-1. **Shailesh (~10 min):** mark `evals/explain-spot-check.md`; the three decisions in section 3.
-2. **Day 21:** gate decision; if chosen, one improvement day on the crisis check (re-test on new statements as well as the 13).
-3. **Day 22, Claude:** routes for crisis check → rewrite → retrieval → up to 10 passages; Surprise me; shared rate-limit store; crisis check inside `/api/explain` too.
-4. **Spend guards:** the app's per-visitor limits and Turnstile protect the endpoints; **the Console's monthly spend limit on the Anthropic account is the final backstop** ($5 prepaid). API calls only for the purposes Shailesh allows; every call goes into `evals/results/api-spend.jsonl`.
-5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch.
+1. **Shailesh:** the Explain length decision (section 3). If A, Phase 2 closes and Day 21 is ticked at the start of the next session.
+2. **Before Phase 3, Shailesh** (full list in `logs/D21.md` section 5): Vercel project from the repo with root `app/`; a separate production Anthropic key with a Console monthly spend limit; Vercel environment variables; a Cloudflare account for Turnstile (by Day 26); three small decisions (helpline countries, where reports go, Save on device only).
+3. **Day 22, Claude (after the go-ahead):** routes for crisis check → rewrite → retrieval → up to 10 passages; Surprise me; shared rate-limit store; crisis check inside `/api/explain`.
+4. **Spend guards:** per-visitor limits and Turnstile protect the endpoints; **the Console's monthly spend limit on the Anthropic account is the final backstop**. Every real API call goes into `evals/results/api-spend.jsonl`.
+5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch. Session 13's commit is **not pushed**.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 21 | Gate: pass retrieval and Explain, one improvement day on the crisis check (recommended); or pass all now; or hold | `logs/D20.md` section 4, `logs/Phase-2-Report.md` |
-| 21 | Crisis fix: crisis screen for "borderline" too, with a continue choice (recommended); or Sonnet; or both | `logs/D20.md` section 4 |
-| 21 | Explain: tighten to 70 words and re-run the 40 through the API (about $0.13). Recommend yes | `logs/D20.md` section 4 |
+| 21 | Explain length rule for the gate: A gate on content and 90 words (37 of 40 pass now, recommended); B enforce 70 with a retry; C ask for 55 and re-measure | `logs/D21.md` section 4 |
+| 22 | Helpline countries on the crisis screen (recommend India, US, UK + international link) | `logs/D21.md` section 5 |
+| 22 | Where "Report this response" goes (recommend a Supabase table: passage id, reason, time; never the user's words) | `logs/D21.md` section 5 |
+| 23 | "Save" on the visitor's device only (recommended) | `logs/D21.md` section 5 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Day 21 improvement day (`logs/D21.md`):** crisis check with borderline routed to the helpline screen: **13 of 13**, false crisis **0 of 5** human, **0 of 8** agent (fresh run). Explain prompt v2 through the API, Sonnet 5.5, 40 pairs: rubric **23 of 40 (57.5%)**, bar 90%; content checks 37 of 40; length is the only gap (13 over 70 words). Under the 90-word rule: 37 of 40 (92.5%).
 - **Gate (Day 21 prep, `logs/Phase-2-Report.md`):** Setup B, judge v2. Human held-out hit@3 **29 of 32 (91%)** (bar 23), hit@10 32, MRR 0.676, first acceptable 15, first graded 0 **0**. Crisis **12 of 13** (bar 13; C04 → borderline). False crisis: human 0 of 5, agent 1 of 8 (bar 1 each). Explain rubric **97.5%** on the subscription (bar 90%); API sample 3 of 5.
 - **Experiment 5 (Day 20, `logs/D20.md`):** Explain rubric pass Sonnet 39 of 40, Haiku 34 of 40. Setup B with Haiku rewrites vs A (first acceptable / first graded 0 / hit@3): golden 39 / 3 / 53 vs 37 / 6 / 53; human held-out 24 / 1 / 30 vs 23 / 2 / 30.
 - **Judge v1 vs v2 (Day 20):** 1,250 pairs, acceptable 52.2% → 45.8%; 82.9% agree on acceptable/not.
@@ -100,7 +103,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
 - **Relevance judging (Day 17, measured):** 3,074 + 307 judgements took about **2% of the weekly limit** (cap agreed 10%, estimate 2–4%): about 0.6% per 1,000 judgements, 8 + 2 helpers of about 170k tokens each, mostly cached.
 - **Experiments (Days 18–19, measured):** 3,536 judgements, 125 rewrites and Fable's 375 took about **3% of the weekly limit** (cap agreed 15%): about 0.8% per 1,000 judgements. Fable has its own weekly bar (moved 2 points).
 - **Day 20 (measured):** 80 Explains and 250 rewrites on Haiku/Sonnet subagents, 1,440 Opus judgements, 80 Explain judgements: about **1% of the weekly limit**. Haiku and Sonnet subagents cost little against the weekly bar.
-- **API spend (real money):** $0.0195 on Day 20 (12 calls). Measured: Explain on Sonnet $3.16 per 1,000; rewrite on Haiku $0.10 per 1,000.
+- **API spend (real money):** $0.0195 on Day 20 (12 calls); $0.1185 on Day 21 (40 calls); $0.1379 in all. Measured: Explain on Sonnet $3.16 per 1,000; rewrite on Haiku $0.10 per 1,000.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
@@ -131,6 +134,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Session 11 close | 27% | 44% (Fable 47%) |
   | Session 12 start, 15 Oct (new week) | 6% | 2% (Fable 0%) |
   | Session 12 close | 14% | 3% |
+  | Session 13 start | 18% | 4% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits

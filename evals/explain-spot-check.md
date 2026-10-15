@@ -18,7 +18,7 @@ Rubric: true to the passage, relevant to what was written, no advice or therapy 
 
 **Judge:** FAILS: short; score 4 of 5. 96 words, over the 90-word limit.
 
-**Your call:** agree / disagree
+**Your call:** Agree.
 
 ## 2. H14
 
@@ -34,7 +34,7 @@ Rubric: true to the passage, relevant to what was written, no advice or therapy 
 
 **Judge:** PASSES the rubric; score 5 of 5. 
 
-**Your call:** agree / disagree
+**Your call:** Agree.
 
 ## 3. H21
 
@@ -50,7 +50,7 @@ Rubric: true to the passage, relevant to what was written, no advice or therapy 
 
 **Judge:** PASSES the rubric; score 4 of 5. Closing line that the hurt is 'real and old' slightly adds to the passage.
 
-**Your call:** agree / disagree
+**Your call:** agree / disagree. Agree.
 
 ## 4. AS21
 
@@ -66,7 +66,7 @@ Rubric: true to the passage, relevant to what was written, no advice or therapy 
 
 **Judge:** FAILS: no_claims; score 3 of 5. Guesses the cause of the person's guilt ('which may be why leaving brings guilt').
 
-**Your call:** agree / disagree
+**Your call:** agree / disagree. Agree
 
 ## 5. AS39
 
@@ -82,4 +82,4 @@ Rubric: true to the passage, relevant to what was written, no advice or therapy 
 
 **Judge:** PASSES the rubric; score 4 of 5. 
 
-**Your call:** agree / disagree
+**Your call:** agree / disagree. Agree.

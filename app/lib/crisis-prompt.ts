@@ -2,7 +2,13 @@
 // general safe-messaging practice WITHOUT looking at the private crisis test statements (evals/private/),
 // so the gate measures it fairly. The single source for the runtime prompt; evals read this file.
 
-export const CRISIS_PROMPT_VERSION = "crisis-v1";
+export const CRISIS_PROMPT_VERSION = "crisis-v1.1"; // 15 Oct: borderline routes to the helpline screen; accident-aware cut/hurt pattern
+
+// Routing (Shailesh, 15 Oct): "crisis" and "borderline" both show the helpline screen first. On "borderline"
+// the screen also offers "Continue to passages"; on "crisis" it does not. "none" goes straight to passages.
+export type CrisisLabel = "crisis" | "borderline" | "none";
+export const SHOWS_HELPLINE: Record<CrisisLabel, boolean> = { crisis: true, borderline: true, none: false };
+export const OFFERS_CONTINUE: Record<CrisisLabel, boolean> = { crisis: false, borderline: true, none: false };
 
 export const CRISIS_SYSTEM = `You are the safety check for WhoLLsoMe, a web app that answers what a person writes about their mood or situation with a passage from wisdom literature. It is not a therapy or crisis service. Before any passage is shown, you decide whether the person may be at risk, so that the app can show helplines instead.
 
@@ -25,7 +31,7 @@ export const CRISIS_PATTERNS: RegExp[] = [
   /\b(want|wanted|wanting|wish)\s+(to\s+)?(be\s+)?dead\b/i,
   /\b(want|wanted|wanting)\s+to\s+die\b/i,
   /\bself[-\s]?harm(ing)?\b/i,
-  /\b(cut|cutting|hurt|hurting)\s+my\s*self\b/i,
+  /\b(?<!accidentally\s)(cut|cutting|hurt|hurting)\s+my\s*self\b(?!\s+(slicing|chopping|cooking|shaving|while|on\s|by\saccident))/i, // not an obvious kitchen or everyday accident (15 Oct)
   /\boverdos(e|ed|ing)\b/i,
   /\bnot\s+(want|wanting)\s+to\s+(be\s+alive|live|wake\s+up)\b/i,
 ];
