@@ -138,7 +138,7 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 - [x] **D16:** You (~10 min): read the 10 plain versions the judge rated least faithful; fix or hide. [DECISION] Embeddings option (hosted API vs a free model). Create the Supabase project; load passages; baseline embeddings.
 - [x] **D17:** Eval harness. AI judge labels acceptable passages for both test sets; you spot-check it on 8 human statements (~10 min). Baseline scores.
 - [x] **D18–19:** Experiments 1–4, 6 and 7 (section 4.4).
-- [ ] **D20:** Create the Anthropic API account (prepaid, hard spend cap). Explain prompt, rubric and judge; experiment 5. You spot-check 5 explanations (~5 min).
+- [x] **D20:** Create the Anthropic API account (prepaid, hard spend cap). Explain prompt, rubric and judge; experiment 5. You spot-check 5 explanations (~5 min).
 - [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Bar (decided 9 Oct; the bridge rubric now applies to Explain): human held-out hit@3 ≥ 70% (23 of 32); crisis 13 of 13 across both sets, borderline statements correct either way; false crisis at most 1 of 5 human and 1 of 8 agent; Explain rubric pass ≥ 90%; hit@10, MRR and agent held-out reported with no bar. [DECISION] Pass, or spend up to 3 days improving.
 
 ### 5.4 Phase 3 — Web app (Days 22–29, 29 Oct–5 Nov)

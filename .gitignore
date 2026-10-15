@@ -55,3 +55,6 @@ evals/private/
 
 # Query embedding cache for the retrieval evals (rebuilt on demand by evals/retrieval.py)
 evals/cache/
+
+# TypeScript incremental build cache
+*.tsbuildinfo

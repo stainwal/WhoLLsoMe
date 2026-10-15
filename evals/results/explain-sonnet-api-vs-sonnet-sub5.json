@@ -1,0 +1,80 @@
+{
+ "writers": {
+  "sonnet-api": {
+   "judged": 5,
+   "rubric_pass": 3,
+   "rubric_pass_rate": 0.6,
+   "mean_score": 4,
+   "fails_by_check": {
+    "true_to_passage": 0,
+    "relevant": 0,
+    "no_advice": 0,
+    "no_claims": 1,
+    "short": 1
+   },
+   "words_median": 81
+  },
+  "sonnet-sub5": {
+   "judged": 5,
+   "rubric_pass": 5,
+   "rubric_pass_rate": 1.0,
+   "mean_score": 4,
+   "fails_by_check": {
+    "true_to_passage": 0,
+    "relevant": 0,
+    "no_advice": 0,
+    "no_claims": 0,
+    "short": 0
+   },
+   "words_median": 54
+  }
+ },
+ "pairs": 40,
+ "biggest_gaps": [
+  {
+   "id": "AS21",
+   "sonnet-api_score": 3,
+   "sonnet-sub5_score": 4,
+   "sonnet-api_issue": "Guesses the cause of the person's guilt ('which may be why leaving brings guilt').",
+   "sonnet-sub5_issue": "Accurate but a little flat.",
+   "sonnet-api_note": "The passage speaks to the part of what you wrote about owing your family everything. It says the best things we have, our clothes, our meals, our beds, come from other people's hands, and it asks how anyone could be separate from them. Read beside your situation, it describes a life already woven with your family's, which may be why leaving brings guilt. It doesn't speak to how to become independent or to your mother's question, only to how deeply people are bound to each other.",
+   "sonnet-sub5_note": "Gibran lists the clothes, meals and beds that come from other people's hands, and asks how anyone can separate from others. That speaks to the sense of owing your family a great deal. It is a statement about how bound people are to each other. It does not address becoming independent or guilt."
+  },
+  {
+   "id": "H14",
+   "sonnet-api_score": 5,
+   "sonnet-sub5_score": 4,
+   "sonnet-api_issue": "",
+   "sonnet-sub5_issue": "",
+   "sonnet-api_note": "The passage speaks to the half of your dilemma that is about your friend. It says that revealing a friend's secrets destroys the friendship, like a bird let loose that can't be caught again, and that this betrayal is worse than a wound or an insult, which can be mended. It says nothing about a secret like this one, where someone else is being wronged, so it doesn't settle the other half, your care for her.",
+   "sonnet-sub5_note": "The passage is about keeping faith with a friend, and says that revealing his secrets destroys the friendship. That speaks to one side of your dilemma, the worry about betraying your friend. It says nothing about the wife or what might be owed to her, so it covers only half of what you describe."
+  },
+  {
+   "id": "AS39",
+   "sonnet-api_score": 4,
+   "sonnet-sub5_score": 4,
+   "sonnet-api_issue": "",
+   "sonnet-sub5_issue": "",
+   "sonnet-api_note": "The passage begins with the very thing you describe: money wringing tears out of a person, and it says so plainly. It speaks mostly of the worry that comes with wealth and the ache of loss, so it touches only part of your situation. It doesn't address debt or doing things \"right,\" though its opening line, \"What tears and toil does money wring from us,\" names what happened in your car.",
+   "sonnet-sub5_note": "The passage says money wrings tears and toil from people, and that owning wealth brings its own worry. It speaks to the tears over money you describe. Its subject is greed and the anxieties of those who hold riches, not debt that grows despite careful living, so it fits only part of what you wrote."
+  },
+  {
+   "id": "H07",
+   "sonnet-api_score": 4,
+   "sonnet-sub5_score": 4,
+   "sonnet-api_issue": "96 words, over the 90-word limit.",
+   "sonnet-sub5_issue": "",
+   "sonnet-api_note": "The passage is Augustine writing about the death of a close friend, and it speaks to what you described: a companion who was your reason to come home, now gone. It says that after the loss, the places and things once shared became painful because he was missing from them, and that no place could say \"he is coming\" anymore. It also admits that the grief left him a riddle to himself, with no answer for why he was so sad. The passage speaks of a friend, and it doesn't mention the loss of an animal.",
+   "sonnet-sub5_note": "The passage describes grief at the loss of a dear friend: everything darkened, every place hated for lacking him, eyes searching everywhere. That speaks to losing your dog, whom you call your closest friend and your reason to come home each day. The passage names the grief rather than offering a way through it."
+  },
+  {
+   "id": "H21",
+   "sonnet-api_score": 4,
+   "sonnet-sub5_score": 4,
+   "sonnet-api_issue": "Closing line that the hurt is 'real and old' slightly adds to the passage.",
+   "sonnet-sub5_issue": "Accurate and honest about limits but somewhat flat.",
+   "sonnet-api_note": "The passage names the exact wound you describe: a close friend, someone trusted enough to share a table with, who turns against the one who trusted her. You told her something in confidence, and the passage speaks to how sharp it is when the betrayal comes from the person nearest to you. It doesn't explain why she did it, and it doesn't answer your question about her reasons. It only says plainly that this kind of hurt is real and old.",
+   "sonnet-sub5_note": "The passage says a close friend, someone trusted who shared bread, has turned against the speaker. That speaks to your best friend telling your boyfriend after you confided in her. It doesn't say why such a betrayal happens, so it doesn't answer your question about why she did it."
+  }
+ ]
+}

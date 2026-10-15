@@ -1,0 +1,12 @@
+{"judgements": [
+  {"id": "E001", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": "Closing line that the hurt is 'real and old' slightly adds to the passage."},
+  {"id": "E002", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": "Accurate and honest about limits but somewhat flat."},
+  {"id": "E003", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": ""},
+  {"id": "E004", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": false, "short": true, "score": 3, "issue": "Guesses the cause of the person's guilt ('which may be why leaving brings guilt')."},
+  {"id": "E005", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": false, "score": 4, "issue": "96 words, over the 90-word limit."},
+  {"id": "E006", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": ""},
+  {"id": "E007", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 5, "issue": ""},
+  {"id": "E008", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": ""},
+  {"id": "E009", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": "Accurate but a little flat."},
+  {"id": "E010", "true_to_passage": true, "relevant": true, "no_advice": true, "no_claims": true, "short": true, "score": 4, "issue": ""}
+]}

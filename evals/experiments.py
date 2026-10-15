@@ -196,6 +196,9 @@ SETUPS = {
     "when+tone/0.2": lambda c, st: s_tone(c, st, 0.2, lambda c, st: s_dense(c, st, WHEN)),
     "when+rewrite-concat": lambda c, st: s_rewrite(c, st, "concat", setup=WHEN),
     "when+rewrite-concat+tone/0.2": lambda c, st: s_tone(c, st, 0.2, lambda c, st: s_rewrite(c, st, "concat", setup=WHEN)),
+    # Setup B with runtime-model rewrites (experiment 5, Day 20)
+    "B/haiku": lambda c, st: s_tone(c, st, 0.2, lambda c, st: s_rewrite(c, st, "concat", "haiku-v1", WHEN)),
+    "B/sonnet": lambda c, st: s_tone(c, st, 0.2, lambda c, st: s_rewrite(c, st, "concat", "sonnet-v1", WHEN)),
     "faith/0.03": lambda c, st: s_faith(c, st, 0.03),
     "faith/0.06": lambda c, st: s_faith(c, st, 0.06),
 }

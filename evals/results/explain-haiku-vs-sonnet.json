@@ -1,0 +1,80 @@
+{
+ "writers": {
+  "haiku": {
+   "judged": 40,
+   "rubric_pass": 34,
+   "rubric_pass_rate": 0.85,
+   "mean_score": 3.42,
+   "fails_by_check": {
+    "true_to_passage": 4,
+    "relevant": 2,
+    "no_advice": 0,
+    "no_claims": 1,
+    "short": 0
+   },
+   "words_median": 60.0
+  },
+  "sonnet": {
+   "judged": 40,
+   "rubric_pass": 39,
+   "rubric_pass_rate": 0.975,
+   "mean_score": 3.6,
+   "fails_by_check": {
+    "true_to_passage": 0,
+    "relevant": 1,
+    "no_advice": 0,
+    "no_claims": 0,
+    "short": 0
+   },
+   "words_median": 54.0
+  }
+ },
+ "pairs": 40,
+ "biggest_gaps": [
+  {
+   "id": "AS39",
+   "haiku_score": 2,
+   "sonnet_score": 4,
+   "haiku_issue": "Attributes anxiety not stated; passage is about riches, not debt, unflagged.",
+   "sonnet_issue": "",
+   "haiku_note": "The passage speaks to money as a source of toil and tears. It says that possessions bring worry in proportion to gain, and that losses hurt more than they should. It describes the anxiety you mention about money, but it does not speak to debt, budgeting, or whether your efforts are working.",
+   "sonnet_note": "The passage says money wrings tears and toil from people, and that owning wealth brings its own worry. It speaks to the tears over money you describe. Its subject is greed and the anxieties of those who hold riches, not debt that grows despite careful living, so it fits only part of what you wrote."
+  },
+  {
+   "id": "AS16",
+   "haiku_score": 3,
+   "sonnet_score": 4,
+   "haiku_issue": "Passage about a brother; fit to parental blame is weak.",
+   "sonnet_issue": "",
+   "haiku_note": "The passage speaks of a brother's injustice and says it can be carried by one handle and not by the other. It says to take hold of the wrong by the fact of kinship and shared upbringing rather than by the injustice itself. It speaks to the blame you describe only in that way and does not mention favouritism, shouting, or the label of attention seeking.",
+   "sonnet_note": "The passage says everything has two handles, and that when a brother acts unjustly one may hold the matter by the fact that he is a brother, raised alongside. It speaks only to the sibling side of what you describe. It says nothing about your parents blaming you or shouting when you raise it."
+  },
+  {
+   "id": "AS20",
+   "haiku_score": 2,
+   "sonnet_score": 3,
+   "haiku_issue": "Treats religious sisters' wishes as family's wishes; risky given his sister.",
+   "sonnet_issue": "Passage is counsel to religious sisters; fit to family conflict is strained.",
+   "haiku_note": "The passage speaks to the family's wishes. It says to forget your own interests for theirs, even when nature rebels, and to take some burden upon yourself to ease others. It does not address the move abroad, and it speaks from a faith that the passage presents as its own counsel.",
+   "sonnet_note": "This passage is written to sisters in a religious community about love of neighbour. It counsels giving way to others' wishes and putting their interests ahead of one's own, even at some cost. It speaks to the strain between you and your family. It does not say whether to move or how to keep the relationships intact."
+  },
+  {
+   "id": "AS21",
+   "haiku_score": 4,
+   "sonnet_score": 3,
+   "haiku_issue": "",
+   "sonnet_issue": "Passage may deepen guilt; connection is general.",
+   "haiku_note": "The passage speaks to how much of a life is woven from others: its clothes, meals and beds all belong to other people. It asks how a person can separate themselves from others, which speaks to the sense of owing your family everything. It does not speak to moving out, to what your mother will face, or to how independence is reached.",
+   "sonnet_note": "Gibran lists the clothes, meals and beds that come from other people's hands, and asks how anyone can separate from others. That speaks to the sense of owing your family a great deal. It is a statement about how bound people are to each other. It does not address becoming independent or guilt."
+  },
+  {
+   "id": "AS30",
+   "haiku_score": 2,
+   "sonnet_score": 3,
+   "haiku_issue": "Says the passage does not fit; no real connection made.",
+   "sonnet_issue": "Passage is about one's own speech; applied to manager is a stretch.",
+   "haiku_note": "The passage speaks to how a person's own words should be used: left unsaid when false or useless, and spoken at the right time when true and helpful. It does not speak to being criticised in public or to the choice between staying and leaving. It fits the question of speech, not the experience you describe.",
+   "sonnet_note": "The passage is about the speaker's own words, including sharp words said to someone's face. It says that if they are untrue or pointless they should not be spoken, and that even true ones need the right time. That bears on how your manager speaks to you. It does not address pushing through or leaving, or your racing heart."
+  }
+ ]
+}

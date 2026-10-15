@@ -44,6 +44,13 @@ import sets  # noqa: E402
 
 RUNS, JUDGE_IN, JUDGE, RESULTS = HERE / "runs", HERE / "judge-in", HERE / "judge", HERE / "results"
 LABELS, CACHE = HERE / "labels.json", HERE / "cache" / "query-embeddings.json"
+# Judge prompt v2 (15 Oct; evals/judge-relevance-v2.md): JUDGE_VERSION=v2 keeps its own labels file and
+# batch prefix, and ONLY_SETUP limits the pool to one setup's top 10 (the Day 21 gate run).
+JUDGE_VERSION = os.environ.get("JUDGE_VERSION", "v1")
+BATCH = "b" if JUDGE_VERSION == "v1" else "v"
+if JUDGE_VERSION != "v1":
+    LABELS = HERE / f"labels-{JUDGE_VERSION}.json"
+ONLY_SETUP = os.environ.get("ONLY_SETUP")
 TOP, ACCEPT = 10, 2                                   # a user can step through 10; grade >= 2 is acceptable
 POOL = {"voyage-4-lite/text+plain": 15, "keyword/fts": 10}   # pooling setups and how deep each is judged
 VOYAGE_PRICE = 0.02                                   # USD per 1M tokens, voyage-4-lite (list price, 13 Oct 2026)
@@ -157,6 +164,8 @@ def pooled_pairs():
     pairs = {}
     for f in sorted(RUNS.glob("*.json")):
         r = jload(f)
+        if ONLY_SETUP and r["setup"] != ONLY_SETUP:
+            continue
         for sid, ranked in r["ranked"].items():
             pairs.setdefault(sid, set()).update(pid for pid, _ in ranked[:POOL.get(r["setup"], TOP)])
     return pairs
@@ -167,7 +176,7 @@ def pooled_pairs():
 def batches(size):
     labels = jload(LABELS, {})
     claimed = set()
-    for f in JUDGE_IN.glob("b*.jsonl"):
+    for f in JUDGE_IN.glob(f"{BATCH}*.jsonl"):
         if not (JUDGE / f"{f.stem}.json").exists():
             claimed |= {json.loads(l)["id"] for l in f.read_text().splitlines() if l.strip()}
     pairs = pooled_pairs()
@@ -176,7 +185,7 @@ def batches(size):
     by_id = {s["id"]: s for s in scored_statements()}
     with load.connect() as db:
         text = {pid: (dt, pl) for pid, dt, pl in db.execute("select pid, display_text, plain from passages")}
-    n = max([int(f.stem[1:]) for f in JUDGE_IN.glob("b*.jsonl")] or [0])
+    n = max([int(f.stem[1:]) for f in JUDGE_IN.glob(f"{BATCH}*.jsonl")] or [0])
     ids = sorted(todo)
     rng = random.Random(17)
     made = []
@@ -188,7 +197,7 @@ def batches(size):
             rng.shuffle(cands)              # the judge never sees rank or setup
             lines.append({"id": sid, "statement": by_id[sid]["text"],
                           "passages": [{"pid": p, "text": text[p][0], "plain": text[p][1]} for p in cands]})
-        path = JUDGE_IN / f"b{n:02d}.jsonl"
+        path = JUDGE_IN / f"{BATCH}{n:02d}.jsonl"
         path.parent.mkdir(exist_ok=True)
         path.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in lines), encoding="utf-8")
         made.append((path.name, len(lines), sum(len(l["passages"]) for l in lines),
@@ -202,7 +211,7 @@ def batches(size):
 def verify():
     labels = jload(LABELS, {})
     added, problems = 0, []
-    for f in sorted(JUDGE_IN.glob("b*.jsonl")):
+    for f in sorted(JUDGE_IN.glob(f"{BATCH}*.jsonl")):
         out = JUDGE / f"{f.stem}.json"
         if not out.exists():
             continue
@@ -395,7 +404,9 @@ def score(setups):
         out = {"setup": setup, "scored_at": time.strftime("%Y-%m-%d %H:%M"), "statements": len(statements),
                "embed_cost_per_1000_queries_usd": round(cost, 4),
                "db_ms_median": run.get("db_ms_median"), "summary": summary, "per_statement": rows}
-        jsave(RESULTS / f"{setup.replace('/', '__')}.json", out)
+        out["judge"] = JUDGE_VERSION
+        suffix = "" if JUDGE_VERSION == "v1" else f"@judge-{JUDGE_VERSION}"
+        jsave(RESULTS / f"{setup.replace('/', '__')}{suffix}.json", out)
         print(f"\n{setup}  (embed cost ${cost:.4f} per 1,000 queries; "
               f"search {run.get('db_ms_median')} ms median)")
         print(table(summary))

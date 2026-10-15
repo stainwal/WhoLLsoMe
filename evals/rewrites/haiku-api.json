@@ -1,0 +1,24 @@
+{
+ "rewrites": [
+  {
+   "id": "H02",
+   "query": "Losing work through no fault of one's own, after years of faithful effort; sudden shock and grief; shame and feeling unworthy; doubt about justice and one's own worth; dread of telling loved ones; wisdom that a person's worth is not measured by fortune or by employment, and that hardship comes to the diligent as well as the idle, with steadiness of mind in loss."
+  },
+  {
+   "id": "H07",
+   "query": "grief over the death of a faithful companion animal who was one's closest friend and daily comfort; loneliness and emptiness at coming home to no one; love as the price of mourning; accepting loss, impermanence of what we hold dear, gratitude for long years of devoted friendship"
+  },
+  {
+   "id": "AL01",
+   "query": "minor injury during ordinary work, bleeding but carrying on with the day's tasks; the quiet resilience of continuing despite small pains and mishaps, not letting a minor wound stop the necessary things, equanimity about everyday hardship, steady perseverance through small discomforts and imperfections in ordinary labor"
+  },
+  {
+   "id": "AS02",
+   "query": "grief at the death of a loyal companion animal, compounded by renewed sorrow over a sibling's earlier death; feeling that the last link to a lost loved one is gone; sadness, loneliness, and tenderness toward a faithful creature; wisdom on love and loss as intertwined, mourning as the price of affection, and the enduring traces of those we have lost"
+  },
+  {
+   "id": "AS40",
+   "query": "financial hardship forcing a painful choice between health needs and necessary repairs, feelings of anxiety, helplessness and resentment at scarcity, wisdom on enduring poverty with dignity, the limits of what one can control, and trust that care and provision come even in lean times"
+  }
+ ]
+}

@@ -1,0 +1,1443 @@
+{
+ "setup": "B/haiku",
+ "scored_at": "2026-10-15 16:00",
+ "statements": 125,
+ "embed_cost_per_1000_queries_usd": 0.0,
+ "db_ms_median": null,
+ "summary": {
+  "agent/all": {
+   "n": 88,
+   "top1_ok": 42,
+   "top1_zero": 5,
+   "hit@3": 72,
+   "hit@10": 88,
+   "mrr": 0.661
+  },
+  "agent/golden": {
+   "n": 60,
+   "top1_ok": 29,
+   "top1_zero": 3,
+   "hit@3": 50,
+   "hit@10": 60,
+   "mrr": 0.659
+  },
+  "agent/held-out": {
+   "n": 20,
+   "top1_ok": 7,
+   "top1_zero": 2,
+   "hit@3": 15,
+   "hit@10": 20,
+   "mrr": 0.59
+  },
+  "agent/look-alike": {
+   "n": 8,
+   "top1_ok": 6,
+   "top1_zero": 0,
+   "hit@3": 7,
+   "hit@10": 8,
+   "mrr": 0.844
+  },
+  "human/all": {
+   "n": 37,
+   "top1_ok": 19,
+   "top1_zero": 1,
+   "hit@3": 34,
+   "hit@10": 37,
+   "mrr": 0.706
+  },
+  "human/held-out": {
+   "n": 32,
+   "top1_ok": 15,
+   "top1_zero": 0,
+   "hit@3": 29,
+   "hit@10": 32,
+   "mrr": 0.676
+  },
+  "human/look-alike": {
+   "n": 5,
+   "top1_ok": 4,
+   "top1_zero": 1,
+   "hit@3": 5,
+   "hit@10": 5,
+   "mrr": 0.9
+  }
+ },
+ "per_statement": {
+  "H01": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv13-009-p01",
+    "meditations-002-p05",
+    "walden-thoreau-023-p02"
+   ]
+  },
+  "H02": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-035-p03",
+    "bib-isaiah-011-p03",
+    "bib-job-003-p06"
+   ]
+  },
+  "H03": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "bib-job-003-p06",
+    "augustine-confessions-pusey-027-p01",
+    "seneca-066-p05"
+   ]
+  },
+  "H04": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "chuang-tzu-giles-012-p03",
+    "teresa-interior-castle-004-p01",
+    "viv07-029-p02"
+   ]
+  },
+  "H05": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "walden-thoreau-016-p01",
+    "aristotle-ethics-035-p02",
+    "aristotle-ethics-035-p01"
+   ]
+  },
+  "H06": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "bib-job-003-p06",
+    "gibran-sand-and-foam-001-p56",
+    "emerson-essays-035-p03"
+   ]
+  },
+  "H07": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-008-p01",
+    "seneca-066-p05",
+    "augustine-confessions-pusey-027-p01"
+   ]
+  },
+  "H08": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "aristotle-ethics-007-p03",
+    "gibran-sand-and-foam-003-p56",
+    "viv02-005-p03"
+   ]
+  },
+  "H09": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-035-p08",
+    "seneca-007-p01",
+    "seneca-070-p04"
+   ]
+  },
+  "H10": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "emerson-essays-040-p02",
+    "epictetus-discourses-long-025-p09",
+    "enchiridion-003-p05"
+   ]
+  },
+  "H11": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "mn-090-p01",
+    "seneca-059-p02",
+    "tagore-sadhana-005-p03"
+   ]
+  },
+  "H12": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "viv07-028-p02",
+    "walden-thoreau-019-p02",
+    "emerson-essays-016-p05"
+   ]
+  },
+  "H13": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "bib-jeremiah-015-p01",
+    "viv04-023-p03",
+    "bib-psa-003-p06"
+   ]
+  },
+  "H14": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "bib-psa-005-p05",
+    "bib-sirach-006-p05",
+    "aristotle-ethics-031-p01"
+   ]
+  },
+  "H15": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 6,
+   "top1_grade": 1,
+   "top3": [
+    "schopenhauer-wisdom-of-life-002-p02",
+    "viv02-006-p04",
+    "seneca-019-p03"
+   ]
+  },
+  "H16": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "schopenhauer-counsels-maxims-016-p07",
+    "seneca-058-p05",
+    "schopenhauer-counsels-maxims-015-p02"
+   ]
+  },
+  "H17": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "walden-thoreau-016-p01",
+    "tao-001-p06",
+    "walden-thoreau-001-p04"
+   ]
+  },
+  "H18": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "viv12-001-p04",
+    "viv13-025-p05",
+    "gibran-sand-and-foam-001-p61"
+   ]
+  },
+  "H19": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv04-020-p05",
+    "bib-matthew-008-p02",
+    "teresa-interior-castle-007-p02"
+   ]
+  },
+  "H20": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "teresa-interior-castle-005-p03",
+    "viv01-003-p03",
+    "viv13-009-p05"
+   ]
+  },
+  "H21": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "bib-psa-005-p05",
+    "bib-sirach-006-p05",
+    "epictetus-discourses-long-011-p03"
+   ]
+  },
+  "H22": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-034-p02",
+    "viv03-019-p01",
+    "viv05-006-p03"
+   ]
+  },
+  "H23": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "dn-069-p01",
+    "bib-genesis-013-p02",
+    "bib-psa-003-p03"
+   ]
+  },
+  "H24": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-057-p04",
+    "bib-1peter-001-p02",
+    "tagore-stray-birds-001-p12"
+   ]
+  },
+  "H25": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "meditations-012-p06",
+    "gibran-sand-and-foam-001-p58",
+    "mn-096-p02"
+   ]
+  },
+  "H26": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "schopenhauer-wisdom-of-life-015-p02",
+    "emerson-essays-044-p02",
+    "seneca-042-p06"
+   ]
+  },
+  "H27": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-048-p02",
+    "emerson-essays-006-p03",
+    "emerson-essays-048-p01"
+   ]
+  },
+  "H28": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-040-p02",
+    "epictetus-discourses-long-025-p09",
+    "bib-matthew-006-p03"
+   ]
+  },
+  "H29": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 7,
+   "top1_grade": 1,
+   "top3": [
+    "epictetus-discourses-long-024-p09",
+    "gibran-sand-and-foam-003-p54",
+    "enchiridion-002-p02"
+   ]
+  },
+  "H30": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "epictetus-discourses-long-015-p06",
+    "seneca-007-p06",
+    "viv06-002-p01"
+   ]
+  },
+  "H31": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 7,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-008-p01",
+    "viv12-003-p03",
+    "bib-sirach-008-p06"
+   ]
+  },
+  "H32": {
+   "set": "human",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "bib-isaiah-014-p01",
+    "tagore-stray-birds-001-p18",
+    "bib-luke-001-p01"
+   ]
+  },
+  "L01": {
+   "set": "human",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "bib-sirach-004-p06",
+    "seneca-071-p05",
+    "an-092-p01"
+   ]
+  },
+  "L02": {
+   "set": "human",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "tagore-sadhana-005-p05",
+    "teresa-interior-castle-006-p01",
+    "chuang-tzu-giles-012-p03"
+   ]
+  },
+  "L03": {
+   "set": "human",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "viv08-001-p03",
+    "chuang-tzu-giles-004-p07",
+    "viv12-002-p05"
+   ]
+  },
+  "L04": {
+   "set": "human",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "chuang-tzu-giles-015-p01",
+    "american-indian-stories-zitkala-006-p03",
+    "chuang-tzu-giles-002-p01"
+   ]
+  },
+  "L05": {
+   "set": "human",
+   "part": "look-alike",
+   "first_acceptable": 2,
+   "top1_grade": 0,
+   "top3": [
+    "chuang-tzu-giles-002-p01",
+    "seneca-084-p01",
+    "american-indian-stories-zitkala-006-p03"
+   ]
+  },
+  "AS01": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "bib-sirach-008-p06",
+    "augustine-confessions-pusey-008-p01",
+    "sn-040-p01"
+   ]
+  },
+  "AS02": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-027-p01",
+    "seneca-066-p05",
+    "an-068-p02"
+   ]
+  },
+  "AS03": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-027-p01",
+    "augustine-confessions-pusey-008-p01",
+    "tagore-gitanjali-005-p02"
+   ]
+  },
+  "AS04": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 6,
+   "top1_grade": 1,
+   "top3": [
+    "american-indian-stories-zitkala-008-p02",
+    "bib-genesis-011-p01",
+    "american-indian-stories-zitkala-007-p01"
+   ]
+  },
+  "AS05": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-027-p01",
+    "seneca-066-p05",
+    "an-068-p02"
+   ]
+  },
+  "AS06": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 10,
+   "top1_grade": 1,
+   "top3": [
+    "an-017-p02",
+    "bib-psa-004-p06",
+    "american-indian-stories-zitkala-003-p01"
+   ]
+  },
+  "AS07": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "enchiridion-001-p09",
+    "seneca-027-p08",
+    "epictetus-discourses-long-024-p01"
+   ]
+  },
+  "AS08": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "tagore-stray-birds-002-p36",
+    "schopenhauer-counsels-maxims-011-p02",
+    "seneca-066-p05"
+   ]
+  },
+  "AS09": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 8,
+   "top1_grade": 1,
+   "top3": [
+    "bib-psa-005-p05",
+    "augustine-confessions-pusey-016-p03",
+    "tagore-stray-birds-002-p77"
+   ]
+  },
+  "AS10": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "sn-118-p05",
+    "an-068-p02",
+    "emerson-essays-026-p03"
+   ]
+  },
+  "AS11": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "viv12-001-p01",
+    "viv09-001-p08",
+    "emerson-essays-053-p03"
+   ]
+  },
+  "AS12": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 4,
+   "top1_grade": 1,
+   "top3": [
+    "walden-thoreau-019-p02",
+    "walden-thoreau-018-p04",
+    "bib-genesis-001-p01"
+   ]
+  },
+  "AS13": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv07-007-p01",
+    "epictetus-discourses-long-015-p02",
+    "sn-048-p04"
+   ]
+  },
+  "AS14": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 4,
+   "top1_grade": 1,
+   "top3": [
+    "viv09-001-p08",
+    "dhp-002-p21",
+    "dn-069-p01"
+   ]
+  },
+  "AS15": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 5,
+   "top1_grade": 0,
+   "top3": [
+    "augustine-confessions-pusey-016-p03",
+    "dn-069-p01",
+    "augustine-confessions-pusey-027-p01"
+   ]
+  },
+  "AS16": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 6,
+   "top1_grade": 1,
+   "top3": [
+    "epictetus-discourses-long-025-p09",
+    "enchiridion-003-p05",
+    "epictetus-discourses-long-024-p13"
+   ]
+  },
+  "AS17": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "an-065-p02",
+    "sn-119-p02",
+    "tagore-stray-birds-002-p58"
+   ]
+  },
+  "AS18": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 6,
+   "top1_grade": 1,
+   "top3": [
+    "bib-sirach-001-p04",
+    "sn-017-p01",
+    "schopenhauer-counsels-maxims-018-p03"
+   ]
+  },
+  "AS19": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "bib-psa-003-p06",
+    "epictetus-discourses-long-024-p09",
+    "augustine-confessions-pusey-027-p01"
+   ]
+  },
+  "AS20": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "teresa-interior-castle-012-p02",
+    "bib-jeremiah-015-p01",
+    "epictetus-discourses-long-025-p09"
+   ]
+  },
+  "AS21": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "viv02-005-p03",
+    "an-008-p01",
+    "gibran-sand-and-foam-002-p07"
+   ]
+  },
+  "AS22": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "bib-deuteronomy-001-p01",
+    "bib-exodus-006-p01",
+    "bib-psa-006-p07"
+   ]
+  },
+  "AS23": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-016-p05",
+    "bib-job-003-p07",
+    "seneca-066-p05"
+   ]
+  },
+  "AS24": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "seneca-003-p07",
+    "epictetus-discourses-long-011-p03",
+    "emerson-essays-016-p05"
+   ]
+  },
+  "AS25": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-066-p05",
+    "seneca-023-p05",
+    "seneca-027-p13"
+   ]
+  },
+  "AS26": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-017-p03",
+    "aristotle-ethics-034-p02",
+    "seneca-003-p07"
+   ]
+  },
+  "AS27": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-015-p03",
+    "seneca-070-p06",
+    "bib-job-003-p07"
+   ]
+  },
+  "AS28": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 8,
+   "top1_grade": 1,
+   "top3": [
+    "an-176-p01",
+    "seneca-066-p05",
+    "seneca-023-p05"
+   ]
+  },
+  "AS29": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-067-p01",
+    "emerson-essays-015-p07",
+    "seneca-012-p06"
+   ]
+  },
+  "AS30": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "bib-ecc-002-p08",
+    "mn-018-p02",
+    "schopenhauer-counsels-maxims-010-p02"
+   ]
+  },
+  "AS31": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "viv04-015-p10",
+    "meditations-006-p07",
+    "chuang-tzu-giles-012-p03"
+   ]
+  },
+  "AS32": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "seneca-005-p08",
+    "epictetus-discourses-long-009-p01",
+    "seneca-011-p02"
+   ]
+  },
+  "AS33": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "meditations-006-p06",
+    "tagore-stray-birds-001-p46",
+    "seneca-043-p02"
+   ]
+  },
+  "AS34": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "an-089-p01",
+    "seneca-016-p03",
+    "emerson-essays-048-p01"
+   ]
+  },
+  "AS35": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-007-p01",
+    "tagore-gitanjali-003-p01",
+    "emerson-essays-048-p01"
+   ]
+  },
+  "AS36": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 4,
+   "top1_grade": 1,
+   "top3": [
+    "chuang-tzu-giles-012-p03",
+    "an-114-p01",
+    "seneca-002-p10"
+   ]
+  },
+  "AS37": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-016-p03",
+    "walden-thoreau-046-p04",
+    "tagore-gitanjali-002-p02"
+   ]
+  },
+  "AS38": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "bib-psa-001-p08",
+    "bib-deuteronomy-011-p01",
+    "bib-psa-006-p10"
+   ]
+  },
+  "AS39": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 0,
+   "top3": [
+    "seneca-078-p01",
+    "viv11-031-p02",
+    "bib-haggai-001-p01"
+   ]
+  },
+  "AS40": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 5,
+   "top1_grade": 1,
+   "top3": [
+    "seneca-064-p06",
+    "bib-matthew-003-p01",
+    "epictetus-discourses-long-014-p03"
+   ]
+  },
+  "AS41": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv11-031-p02",
+    "bib-matthew-002-p06",
+    "emerson-essays-035-p04"
+   ]
+  },
+  "AS42": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "schopenhauer-counsels-maxims-009-p03",
+    "bib-2corinthians-002-p02",
+    "aristotle-ethics-034-p02"
+   ]
+  },
+  "AS43": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 0,
+   "top3": [
+    "chuang-tzu-giles-027-p04",
+    "viv02-005-p03",
+    "seneca-012-p01"
+   ]
+  },
+  "AS44": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "bib-psa-004-p13",
+    "enchiridion-001-p04",
+    "seneca-040-p05"
+   ]
+  },
+  "AS45": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-012-p01",
+    "seneca-041-p05",
+    "walden-thoreau-011-p02"
+   ]
+  },
+  "AS46": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "bib-isaiah-004-p02",
+    "sn-010-p04",
+    "bib-sirach-009-p01"
+   ]
+  },
+  "AS47": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 8,
+   "top1_grade": 1,
+   "top3": [
+    "mn-090-p01",
+    "sn-090-p02",
+    "an-048-p04"
+   ]
+  },
+  "AS48": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "seneca-024-p02",
+    "chuang-tzu-giles-010-p02",
+    "tagore-gitanjali-001-p21"
+   ]
+  },
+  "AS49": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "seneca-005-p06",
+    "seneca-005-p09",
+    "imitation-of-christ-benham-014-p08"
+   ]
+  },
+  "AS50": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-038-p02",
+    "bib-psa-012-p01",
+    "bib-joel-001-p02"
+   ]
+  },
+  "AS51": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 4,
+   "top1_grade": 1,
+   "top3": [
+    "bib-james-001-p14",
+    "bib-psa-003-p03",
+    "bib-3maccabees-001-p01"
+   ]
+  },
+  "AS52": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "schopenhauer-counsels-maxims-012-p06",
+    "gibran-sand-and-foam-002-p30",
+    "emerson-essays-019-p03"
+   ]
+  },
+  "AS53": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "bib-psa-003-p03",
+    "viv12-002-p06",
+    "meditations-012-p06"
+   ]
+  },
+  "AS54": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 6,
+   "top1_grade": 0,
+   "top3": [
+    "emerson-essays-044-p06",
+    "viv08-011-p02",
+    "bib-nehemiah-002-p03"
+   ]
+  },
+  "AS55": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "imitation-of-christ-benham-019-p07",
+    "bib-colossians-001-p03",
+    "bib-ephesians-001-p04"
+   ]
+  },
+  "AS56": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-009-p07",
+    "mn-018-p02",
+    "bib-psa-004-p06"
+   ]
+  },
+  "AS57": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "augustine-confessions-pusey-028-p03",
+    "imitation-of-christ-benham-018-p06",
+    "gibran-sand-and-foam-001-p58"
+   ]
+  },
+  "AS58": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 3,
+   "top1_grade": 1,
+   "top3": [
+    "dn-069-p01",
+    "meditations-014-p10",
+    "meditations-007-p06"
+   ]
+  },
+  "AS59": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "seneca-015-p03",
+    "seneca-058-p05",
+    "schopenhauer-counsels-maxims-015-p02"
+   ]
+  },
+  "AS60": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "tagore-gitanjali-003-p10",
+    "emerson-essays-026-p03",
+    "seneca-013-p03"
+   ]
+  },
+  "AS61": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-013-p03",
+    "bib-genesis-003-p01",
+    "tagore-sadhana-007-p03"
+   ]
+  },
+  "AS62": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "aristotle-ethics-007-p03",
+    "emerson-essays-048-p01",
+    "dn-067-p02"
+   ]
+  },
+  "AS63": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-019-p03",
+    "enchiridion-001-p07",
+    "schopenhauer-wisdom-of-life-008-p02"
+   ]
+  },
+  "AS64": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "seneca-007-p01",
+    "an-176-p01",
+    "schopenhauer-counsels-maxims-005-p03"
+   ]
+  },
+  "AS65": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv13-014-p02",
+    "meditations-019-p03",
+    "seneca-007-p05"
+   ]
+  },
+  "AS66": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "viv13-016-p01",
+    "imitation-of-christ-benham-007-p06",
+    "imitation-of-christ-benham-023-p03"
+   ]
+  },
+  "AS67": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "imitation-of-christ-benham-009-p02",
+    "imitation-of-christ-benham-012-p06",
+    "bib-psa-014-p04"
+   ]
+  },
+  "AS68": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-053-p05",
+    "viv03-002-p03",
+    "viv05-003-p02"
+   ]
+  },
+  "AS69": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "viv11-023-p03",
+    "seneca-011-p05",
+    "viv12-004-p02"
+   ]
+  },
+  "AS70": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "viv03-015-p02",
+    "viv13-025-p03",
+    "an-006-p03"
+   ]
+  },
+  "AS71": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "imitation-of-christ-benham-020-p03",
+    "imitation-of-christ-benham-016-p06",
+    "bib-james-001-p14"
+   ]
+  },
+  "AS72": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "dn-041-p01",
+    "chuang-tzu-giles-021-p02",
+    "viv13-026-p05"
+   ]
+  },
+  "AS73": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "bib-matthew-008-p04",
+    "meditations-002-p01",
+    "bib-isaiah-011-p03"
+   ]
+  },
+  "AS74": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "meditations-006-p02",
+    "imitation-of-christ-benham-008-p01",
+    "walden-thoreau-047-p04"
+   ]
+  },
+  "AS75": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "american-indian-stories-zitkala-006-p03",
+    "seneca-013-p01",
+    "walden-thoreau-016-p01"
+   ]
+  },
+  "AS76": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 6,
+   "top1_grade": 0,
+   "top3": [
+    "augustine-confessions-pusey-024-p03",
+    "emerson-essays-015-p02",
+    "an-176-p01"
+   ]
+  },
+  "AS77": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "sn-055-p02",
+    "tagore-stray-birds-002-p71",
+    "emerson-essays-015-p02"
+   ]
+  },
+  "AS78": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "seneca-002-p07",
+    "walden-thoreau-019-p02",
+    "an-176-p01"
+   ]
+  },
+  "AS79": {
+   "set": "agent",
+   "part": "golden",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "tagore-stray-birds-002-p83",
+    "an-176-p01",
+    "dn-021-p02"
+   ]
+  },
+  "AS80": {
+   "set": "agent",
+   "part": "held-out",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "augustine-confessions-pusey-027-p02",
+    "gibran-sand-and-foam-001-p26",
+    "augustine-confessions-pusey-024-p02"
+   ]
+  },
+  "AL01": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "seneca-084-p01",
+    "mn-090-p01",
+    "chuang-tzu-giles-003-p08"
+   ]
+  },
+  "AL02": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "augustine-confessions-pusey-024-p02",
+    "mn-114-p01",
+    "mn-069-p02"
+   ]
+  },
+  "AL03": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "seneca-066-p05",
+    "seneca-027-p13",
+    "bib-psa-005-p05"
+   ]
+  },
+  "AL04": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 2,
+   "top1_grade": 1,
+   "top3": [
+    "gibran-madman-002-p04",
+    "viv08-001-p03",
+    "gibran-sand-and-foam-002-p30"
+   ]
+  },
+  "AL05": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "schopenhauer-counsels-maxims-008-p01",
+    "dn-021-p02",
+    "bib-jeremiah-009-p04"
+   ]
+  },
+  "AL06": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 3,
+   "top3": [
+    "emerson-essays-019-p03",
+    "emerson-essays-044-p04",
+    "schopenhauer-counsels-maxims-015-p06"
+   ]
+  },
+  "AL07": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 4,
+   "top1_grade": 1,
+   "top3": [
+    "bib-luke-003-p01",
+    "mn-096-p02",
+    "rumi-masnavi-whinfield-015-p01"
+   ]
+  },
+  "AL08": {
+   "set": "agent",
+   "part": "look-alike",
+   "first_acceptable": 1,
+   "top1_grade": 2,
+   "top3": [
+    "emerson-essays-019-p03",
+    "seneca-004-p06",
+    "emerson-essays-044-p04"
+   ]
+  }
+ },
+ "judge": "v2"
+}

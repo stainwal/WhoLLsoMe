@@ -1,0 +1,1144 @@
+{
+ "per_set": {
+  "human": {
+   "crisis_caught": "4 of 5",
+   "crisis_by_pattern": 0,
+   "false_crisis_lookalikes": "0 of 5",
+   "borderline_link_lookalikes": 1,
+   "other_statements": {
+    "none": 30,
+    "borderline": 2
+   },
+   "borderline_statements": {
+    "H04": "borderline"
+   },
+   "misses": [
+    "C04"
+   ],
+   "false_crisis_ids": []
+  },
+  "agent": {
+   "crisis_caught": "8 of 8",
+   "crisis_by_pattern": 2,
+   "false_crisis_lookalikes": "1 of 8",
+   "borderline_link_lookalikes": 0,
+   "other_statements": {
+    "none": 78,
+    "borderline": 2
+   },
+   "borderline_statements": {
+    "AS57": "borderline"
+   },
+   "misses": [],
+   "false_crisis_ids": [
+    "AL01"
+   ]
+  }
+ },
+ "per_statement": {
+  "H01": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H02": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H03": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H04": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": true,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "H05": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H06": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H07": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H08": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H09": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H10": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H11": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "H12": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H13": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H14": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H15": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H16": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H17": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H18": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H19": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H20": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H21": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H22": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H23": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H24": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H25": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H26": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H27": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H28": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H29": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H30": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H31": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "H32": {
+   "set": "human",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "C01": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C02": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C03": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "C04": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "C05": {
+   "set": "human",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "L01": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L02": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L03": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "L04": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "L05": {
+   "set": "human",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS01": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS02": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS03": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS04": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS05": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS06": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS07": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS08": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS09": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS10": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS11": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS12": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS13": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS14": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS15": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS16": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS17": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS18": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS19": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS20": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS21": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS22": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS23": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS24": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS25": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS26": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS27": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS28": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS29": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS30": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS31": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS32": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS33": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS34": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS35": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS36": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS37": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS38": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS39": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS40": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS41": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS42": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS43": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS44": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS45": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS46": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS47": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS48": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS49": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS50": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS51": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS52": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS53": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS54": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS55": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS56": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS57": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": true,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "AS58": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS59": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS60": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS61": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS62": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS63": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS64": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS65": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS66": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS67": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS68": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS69": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS70": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "borderline",
+   "final": "borderline"
+  },
+  "AS71": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS72": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS73": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS74": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS75": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS76": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS77": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS78": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS79": {
+   "set": "agent",
+   "part": "golden",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AS80": {
+   "set": "agent",
+   "part": "held-out",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AC01": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC02": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC03": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC04": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC05": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC06": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": true,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC07": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": false,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AC08": {
+   "set": "agent",
+   "part": "crisis",
+   "borderline": false,
+   "pattern": true,
+   "model": "crisis",
+   "final": "crisis"
+  },
+  "AL01": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": true,
+   "model": "none",
+   "final": "crisis"
+  },
+  "AL02": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL03": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL04": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL05": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL06": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL07": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  },
+  "AL08": {
+   "set": "agent",
+   "part": "look-alike",
+   "borderline": false,
+   "pattern": false,
+   "model": "none",
+   "final": "none"
+  }
+ }
+}

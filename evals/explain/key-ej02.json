@@ -1,0 +1,18 @@
+{
+ "writers": [
+  "sonnet-api",
+  "sonnet-sub5"
+ ],
+ "key": {
+  "E001": "sonnet-api|H21",
+  "E002": "sonnet-sub5|H21",
+  "E003": "sonnet-sub5|AS39",
+  "E004": "sonnet-api|AS21",
+  "E005": "sonnet-api|H07",
+  "E006": "sonnet-sub5|H07",
+  "E007": "sonnet-api|H14",
+  "E008": "sonnet-api|AS39",
+  "E009": "sonnet-sub5|AS21",
+  "E010": "sonnet-sub5|H14"
+ }
+}

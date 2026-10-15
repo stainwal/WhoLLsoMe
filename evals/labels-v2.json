@@ -1,0 +1,6502 @@
+{
+ "AL01": {
+  "seneca-056-p02": {
+   "grade": 1,
+   "reason": "Preparing for calamity is too heavy for a cheerful minor kitchen cut.",
+   "batch": "v01"
+  },
+  "meditations-008-p06": {
+   "grade": 1,
+   "reason": "About forgiving a sparring partner; only shares the idea of a wound.",
+   "batch": "v01"
+  },
+  "chuang-tzu-giles-003-p08": {
+   "grade": 2,
+   "reason": "Playful cook-and-knife wisdom: slice, don't hack. Fits the light mood.",
+   "batch": "v01"
+  },
+  "mn-090-p01": {
+   "grade": 1,
+   "reason": "Poisoned arrow surgery is far too grave for a small cut.",
+   "batch": "v01"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 1,
+   "reason": "About looking foolish; person isn't embarrassed, just carried on.",
+   "batch": "v01"
+  },
+  "walden-thoreau-002-p02": {
+   "grade": 1,
+   "reason": "General trust in nature; little to do with the mishap.",
+   "batch": "v01"
+  },
+  "enchiridion-001-p05": {
+   "grade": 2,
+   "reason": "Pain calls for fortitude; affirms carrying on with dinner.",
+   "batch": "v01"
+  },
+  "meditations-010-p02": {
+   "grade": 2,
+   "reason": "The finger may complain; I'm not harmed. Matches their shrug.",
+   "batch": "v01"
+  },
+  "schopenhauer-counsels-maxims-001-p01": {
+   "grade": 1,
+   "reason": "Sore spot spoiling comfort; person isn't dwelling on it.",
+   "batch": "v01"
+  },
+  "seneca-084-p01": {
+   "grade": 2,
+   "reason": "Nothing heavy if accepted lightly; kitchen setting, affirms their good humour.",
+   "batch": "v01"
+  }
+ },
+ "AL02": {
+  "emerson-essays-007-p05": {
+   "grade": 2,
+   "reason": "Life works by letting go; a light affirmation of the cancellation.",
+   "batch": "v01"
+  },
+  "mn-114-p01": {
+   "grade": 1,
+   "reason": "Liberation from birth and death is too grand for a gym membership.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-024-p02": {
+   "grade": 3,
+   "reason": "What I feared to give up is now a joy to part with.",
+   "batch": "v01"
+  },
+  "viv13-026-p04": {
+   "grade": 2,
+   "reason": "Giving up the lesser for greater joy; fits the relief, a bit lofty.",
+   "batch": "v01"
+  },
+  "viv04-023-p01": {
+   "grade": 1,
+   "reason": "Superstitions and the eternal soul; only shares the word free.",
+   "batch": "v01"
+  },
+  "mn-069-p02": {
+   "grade": 2,
+   "reason": "Released from bonds and knowing it; playful fit for the freedom felt.",
+   "batch": "v01"
+  },
+  "epictetus-discourses-long-017-p04": {
+   "grade": 1,
+   "reason": "About renewing a contest after quitting; pulls against their happy quitting.",
+   "batch": "v01"
+  },
+  "viv07-005-p02": {
+   "grade": 1,
+   "reason": "Seeing God in others; shares only the idea of freedom.",
+   "batch": "v01"
+  },
+  "seneca-018-p02": {
+   "grade": 2,
+   "reason": "You'll live without the extra just as easily; less money, less trouble.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-001-p09": {
+   "grade": 1,
+   "reason": "Forgetting as freedom; too abstract for this moment.",
+   "batch": "v01"
+  }
+ },
+ "AL03": {
+  "seneca-027-p13": {
+   "grade": 2,
+   "reason": "Other friends can console; make new friends. Useful, slightly stern.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Only names the wound of lost closeness; offers nothing further.",
+   "batch": "v01"
+  },
+  "seneca-066-p04": {
+   "grade": 2,
+   "reason": "Rejoice you had the friend rather than mourn losing them.",
+   "batch": "v01"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Restates betrayal by a close friend; no way forward.",
+   "batch": "v01"
+  },
+  "imitation-of-christ-benham-007-p04": {
+   "grade": 2,
+   "reason": "Don't resent being left by a friend; all must part. Somewhat austere.",
+   "batch": "v01"
+  },
+  "bib-sirach-008-p01": {
+   "grade": 1,
+   "reason": "Names the grief of a friend turned away; only restates.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Generic comfort about sorrow; not about the friendship.",
+   "batch": "v01"
+  },
+  "seneca-066-p05": {
+   "grade": 3,
+   "reason": "The friendship isn't erased; the past is yours. Directly answers getting over it.",
+   "batch": "v01"
+  },
+  "bib-psa-010-p04": {
+   "grade": 1,
+   "reason": "Lament of friends taken away; restates the pain only.",
+   "batch": "v01"
+  },
+  "bib-psa-006-p06": {
+   "grade": 1,
+   "reason": "Close friend's betrayal described; nothing to take away.",
+   "batch": "v01"
+  }
+ },
+ "AL04": {
+  "seneca-071-p01": {
+   "grade": 1,
+   "reason": "Night terrors laughable by day; loose fit for a funny mishap.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-003-p12": {
+   "grade": 1,
+   "reason": "Witty fox fable, but about being hunted, not the stolen chicken.",
+   "batch": "v01"
+  },
+  "gibran-madman-002-p04": {
+   "grade": 1,
+   "reason": "Laughing at loss, but grave imagery is beside the point.",
+   "batch": "v01"
+  },
+  "viv12-002-p05": {
+   "grade": 1,
+   "reason": "Warns merriment brings sorrow; dampens a harmless laugh.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-002-p30": {
+   "grade": 1,
+   "reason": "Laughing at being cheated; only loosely echoes the theft.",
+   "batch": "v01"
+  },
+  "viv08-001-p03": {
+   "grade": 2,
+   "reason": "Puppies at play, nothing to anger; gentle and dog-themed.",
+   "batch": "v01"
+  },
+  "epictetus-discourses-long-003-p03": {
+   "grade": 3,
+   "reason": "Stolen lamp: the thief did nothing strange. Perfectly wry for a thieving dog.",
+   "batch": "v01"
+  },
+  "schopenhauer-counsels-maxims-012-p03": {
+   "grade": 1,
+   "reason": "About irritating conversations; off-target.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-003-p08": {
+   "grade": 2,
+   "reason": "Laughter and unkindness don't mix; nice nudge to laugh at the dog.",
+   "batch": "v01"
+  },
+  "gibran-madman-001-p09": {
+   "grade": 1,
+   "reason": "Funny food fable, but about scaling ambition, not the dog.",
+   "batch": "v01"
+  }
+ },
+ "AL05": {
+  "dn-021-p02": {
+   "grade": 1,
+   "reason": "Recovery from grave illness; too serious for sore legs.",
+   "batch": "v01"
+  },
+  "bib-2esdras-007-p01": {
+   "grade": 1,
+   "reason": "Weakness from terror; only shares weariness.",
+   "batch": "v01"
+  },
+  "viv13-025-p03": {
+   "grade": 1,
+   "reason": "Meditation as rest; tangential to post-workout soreness.",
+   "batch": "v01"
+  },
+  "schopenhauer-counsels-maxims-008-p01": {
+   "grade": 3,
+   "reason": "Harden the body through hard labour when healthy. Spot on for leg day.",
+   "batch": "v01"
+  },
+  "bib-psa-001-p06": {
+   "grade": 0,
+   "reason": "Nightly tears and enemies; wrong register for gym soreness.",
+   "batch": "v01"
+  },
+  "bib-hebrews-003-p02": {
+   "grade": 3,
+   "reason": "Training hurts now, pays later; strengthen feeble knees. Apt and witty.",
+   "batch": "v01"
+  },
+  "bib-jeremiah-009-p04": {
+   "grade": 1,
+   "reason": "Refreshing the sorrowful soul; only shares weariness.",
+   "batch": "v01"
+  },
+  "aristotle-ethics-015-p01": {
+   "grade": 2,
+   "reason": "Rest is indispensable; a fair nudge to recover.",
+   "batch": "v01"
+  },
+  "bib-psa-014-p04": {
+   "grade": 1,
+   "reason": "Weary with sorrow; tone too heavy for the situation.",
+   "batch": "v01"
+  },
+  "tagore-stray-birds-001-p10": {
+   "grade": 2,
+   "reason": "Rest belongs to work; neat reminder to recover.",
+   "batch": "v01"
+  }
+ },
+ "AL06": {
+  "schopenhauer-counsels-maxims-012-p01": {
+   "grade": 1,
+   "reason": "About taking offence at insults; not embarrassment.",
+   "batch": "v01"
+  },
+  "emerson-essays-028-p01": {
+   "grade": 2,
+   "reason": "Social slips matter less than composure and self-content.",
+   "batch": "v01"
+  },
+  "schopenhauer-wisdom-of-life-008-p02": {
+   "grade": 2,
+   "reason": "Worry about what people say causes needless trouble; useful perspective.",
+   "batch": "v01"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 3,
+   "reason": "Nature never promised we'd never look ridiculous. Exactly the comfort needed.",
+   "batch": "v01"
+  },
+  "emerson-essays-044-p04": {
+   "grade": 1,
+   "reason": "Describes the forced smile's discomfort; nothing to take away.",
+   "batch": "v01"
+  },
+  "tagore-gitanjali-003-p01": {
+   "grade": 1,
+   "reason": "Glad humiliation amid scorn; too lofty for a mistaken wave.",
+   "batch": "v01"
+  },
+  "enchiridion-002-p03": {
+   "grade": 1,
+   "reason": "About revilers upsetting you; no one insulted them.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-002-p58": {
+   "grade": 1,
+   "reason": "We're all alike in our failings; loose comfort only.",
+   "batch": "v01"
+  },
+  "schopenhauer-counsels-maxims-015-p06": {
+   "grade": 2,
+   "reason": "Social clumsiness as sign of nobler character; amusing reassurance.",
+   "batch": "v01"
+  },
+  "an-007-p02": {
+   "grade": 1,
+   "reason": "About confessing mistakes; nothing to confess here.",
+   "batch": "v01"
+  }
+ },
+ "AL07": {
+  "bib-luke-003-p01": {
+   "grade": 1,
+   "reason": "Spiritual hunger and weeping; too solemn for a curry craving.",
+   "batch": "v01"
+  },
+  "tagore-stray-birds-001-p17": {
+   "grade": 1,
+   "reason": "About lack of appetite; the opposite situation.",
+   "batch": "v01"
+  },
+  "mn-096-p02": {
+   "grade": 1,
+   "reason": "Eat only to sustain the body; preachy for a playful craving.",
+   "batch": "v01"
+  },
+  "seneca-084-p02": {
+   "grade": 1,
+   "reason": "Get used to plain fare; lecture-like for a light remark.",
+   "batch": "v01"
+  },
+  "seneca-027-p01": {
+   "grade": 1,
+   "reason": "Cravings cost us dear; mildly scolding for a joke.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-001-p16": {
+   "grade": 1,
+   "reason": "Desire as pain; heavier than the mood.",
+   "batch": "v01"
+  },
+  "bib-ecc-001-p05": {
+   "grade": 3,
+   "reason": "Nothing better than to eat, drink and enjoy. A cheerful yes.",
+   "batch": "v01"
+  },
+  "rumi-masnavi-whinfield-015-p01": {
+   "grade": 1,
+   "reason": "Cooking imagery, but really about suffering as refinement.",
+   "batch": "v01"
+  },
+  "sn-035-p01": {
+   "grade": 0,
+   "reason": "Poisoned drink and deadly pain; wrong for a curry craving.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-001-p56": {
+   "grade": 2,
+   "reason": "No longing unfulfilled; light, wry promise of curry.",
+   "batch": "v01"
+  }
+ },
+ "AL08": {
+  "emerson-essays-019-p03": {
+   "grade": 2,
+   "reason": "We're allowed to look foolish sometimes; eases the embarrassment.",
+   "batch": "v01"
+  },
+  "seneca-004-p06": {
+   "grade": 1,
+   "reason": "Nerves before speaking; not the spilled-deck panic.",
+   "batch": "v01"
+  },
+  "seneca-005-p08": {
+   "grade": 3,
+   "reason": "Test whether the feared trouble is real; directly answers 'boss will kill me'.",
+   "batch": "v01"
+  },
+  "an-028-p02": {
+   "grade": 2,
+   "reason": "A mistake owned and handled properly is accepted; steadying.",
+   "batch": "v01"
+  },
+  "schopenhauer-wisdom-of-life-008-p02": {
+   "grade": 1,
+   "reason": "Worry about opinion generally; not the practical fix.",
+   "batch": "v01"
+  },
+  "bib-isaiah-006-p02": {
+   "grade": 1,
+   "reason": "Hide until anger passes; amusing but unhelpful before a meeting.",
+   "batch": "v01"
+  },
+  "emerson-essays-012-p03": {
+   "grade": 2,
+   "reason": "Be poised in this moment; fits the minutes before the meeting.",
+   "batch": "v01"
+  },
+  "schopenhauer-counsels-maxims-006-p03": {
+   "grade": 1,
+   "reason": "Dwell on mistakes' enormity; too harsh for a coffee spill.",
+   "batch": "v01"
+  },
+  "sn-015-p01": {
+   "grade": 2,
+   "reason": "Things fall apart; carry on diligently. Brief, steadying.",
+   "batch": "v01"
+  },
+  "emerson-essays-044-p04": {
+   "grade": 1,
+   "reason": "About forced smiles; beside the point.",
+   "batch": "v01"
+  }
+ },
+ "AS01": {
+  "bib-jeremiah-003-p02": {
+   "grade": 1,
+   "reason": "Wishes for endless tears; restates the weeping only.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the wound of loss; offers nothing to carry it.",
+   "batch": "v01"
+  },
+  "sn-040-p01": {
+   "grade": 2,
+   "reason": "All have wept for a mother; you are not alone in this.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p05": {
+   "grade": 3,
+   "reason": "Augustine on his mother: letting tears flow and finding rest in them.",
+   "batch": "v01"
+  },
+  "seneca-066-p11": {
+   "grade": 3,
+   "reason": "Tears fall and ease the soul; let them. Directly reassures.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p03": {
+   "grade": 2,
+   "reason": "After sleep grief softened a little; hopeful for sleepless nights.",
+   "batch": "v01"
+  },
+  "bib-sirach-008-p06": {
+   "grade": 1,
+   "reason": "Mourn a day or two then be comforted; feels rushing.",
+   "batch": "v01"
+  },
+  "seneca-067-p03": {
+   "grade": 1,
+   "reason": "Assumes mourning is finished; would land coldly two weeks in.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Vivid description of grief's darkness; nothing beyond it.",
+   "batch": "v01"
+  },
+  "bib-jeremiah-004-p01": {
+   "grade": 2,
+   "reason": "This is my grief and I must bear it; steadying acceptance.",
+   "batch": "v01"
+  }
+ },
+ "AS02": {
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Describes grief's darkness only; no consolation.",
+   "batch": "v01"
+  },
+  "seneca-027-p10": {
+   "grade": 2,
+   "reason": "Memory stings but holds pleasure; fits loving the dog.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-003-p69": {
+   "grade": 2,
+   "reason": "Never forget who you wept with; honours the dog's comfort.",
+   "batch": "v01"
+  },
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Loss raises 'what after this?'; abstract, no comfort.",
+   "batch": "v01"
+  },
+  "seneca-067-p04": {
+   "grade": 2,
+   "reason": "Speak of and cherish the departed; gentle and usable.",
+   "batch": "v01"
+  },
+  "seneca-027-p11": {
+   "grade": 2,
+   "reason": "Lost as if we still have them; tender consolation.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the wrench of loss only.",
+   "batch": "v01"
+  },
+  "chuang-tzu-giles-020-p08": {
+   "grade": 2,
+   "reason": "Something remains that does not pass; answers 'last bit of him gone'.",
+   "batch": "v01"
+  },
+  "an-068-p02": {
+   "grade": 1,
+   "reason": "Universal parting; too abstract for this fresh, layered loss.",
+   "batch": "v01"
+  },
+  "seneca-066-p05": {
+   "grade": 3,
+   "reason": "Those we loved still abide with us; the past is ours. Speaks to the brother link.",
+   "batch": "v01"
+  }
+ },
+ "AS03": {
+  "gibran-madman-003-p06": {
+   "grade": 1,
+   "reason": "Strange parable of dead sorrow; off-target for fresh absence.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Mirrors expecting them to come; restates without consolation.",
+   "batch": "v01"
+  },
+  "seneca-067-p04": {
+   "grade": 2,
+   "reason": "Speak of and cherish them; gives the quiet something to hold.",
+   "batch": "v01"
+  },
+  "tagore-gitanjali-005-p02": {
+   "grade": 3,
+   "reason": "Searching the house for her, then finding nothing truly vanishes. Deeply apt.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the broken habit of living together; restates only.",
+   "batch": "v01"
+  },
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Abstract question after loss; not the daily emptiness.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-009-p03": {
+   "grade": 2,
+   "reason": "Time slowly patches us up; quiet hope.",
+   "batch": "v01"
+  },
+  "viv12-004-p02": {
+   "grade": 1,
+   "reason": "Grief's spiritual wave fades; beside the point, slightly deflating.",
+   "batch": "v01"
+  },
+  "viv05-003-p02": {
+   "grade": 1,
+   "reason": "Same point as above; not about the empty house.",
+   "batch": "v01"
+  },
+  "viv04-027-p03": {
+   "grade": 1,
+   "reason": "Loss raises soul questions; generic.",
+   "batch": "v01"
+  }
+ },
+ "AS04": {
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Vague comfort about sorrow; misses the guilt and unkindness.",
+   "batch": "v01"
+  },
+  "american-indian-stories-zitkala-008-p02": {
+   "grade": 1,
+   "reason": "Grieving apart in spirit from family; loosely echoes distance.",
+   "batch": "v01"
+  },
+  "seneca-067-p03": {
+   "grade": 1,
+   "reason": "Accept calmly, mourning done; dismissive of the conflict.",
+   "batch": "v01"
+  },
+  "seneca-027-p10": {
+   "grade": 1,
+   "reason": "Assumes a loved, pleasant memory; doesn't fit an unkind parent.",
+   "batch": "v01"
+  },
+  "bib-genesis-011-p01": {
+   "grade": 1,
+   "reason": "Jacob's inconsolable grief for a beloved son; wrong relationship.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Grief for a dear friend; not mixed grief and guilt.",
+   "batch": "v01"
+  },
+  "bib-sirach-008-p06": {
+   "grade": 2,
+   "reason": "Mourn as the person deserves, then be comforted; permission for measured grief.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p03": {
+   "grade": 1,
+   "reason": "Grief softening after sleep; misses the core conflict.",
+   "batch": "v01"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Despair that the divine doesn't care; unhelpful here.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Loss of a sweet bond; jars with an unkind parent.",
+   "batch": "v01"
+  }
+ },
+ "AS05": {
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Abstract question after loss; nothing to hold.",
+   "batch": "v01"
+  },
+  "seneca-067-p03": {
+   "grade": 1,
+   "reason": "Calm acceptance, mourning finished; cold for a young widow.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-008-p03": {
+   "grade": 1,
+   "reason": "Calls love of perishable things wretched; bleak, near-blaming.",
+   "batch": "v01"
+  },
+  "an-068-p02": {
+   "grade": 2,
+   "reason": "Not just me; all are parted from those they love. Eases isolation.",
+   "batch": "v01"
+  },
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "The one we loved still abides with us; misses the loneliness.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the wound of a shared life torn away; restates.",
+   "batch": "v01"
+  },
+  "gibran-sand-and-foam-003-p69": {
+   "grade": 1,
+   "reason": "About remembering who you wept with; loosely related.",
+   "batch": "v01"
+  },
+  "seneca-067-p04": {
+   "grade": 1,
+   "reason": "'No one enjoys a sorrowful person' could sting someone tired of explaining.",
+   "batch": "v01"
+  },
+  "chuang-tzu-giles-020-p08": {
+   "grade": 1,
+   "reason": "Something remains; too abstract for this grief.",
+   "batch": "v01"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Describes grief's darkness; nothing to take away.",
+   "batch": "v01"
+  }
+ },
+ "AS06": {
+  "augustine-confessions-pusey-027-p02": {
+   "grade": 1,
+   "reason": "Grieving over one's own feelings; mirrors the guilt but offers no release.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-003-p01": {
+   "grade": 0,
+   "reason": "Child parted from mother; unrelated to carer's relief.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Vague comfort about sorrow; doesn't touch relief or guilt.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Despair about divine indifference; unhelpful here.",
+   "batch": "v02"
+  },
+  "bib-psa-004-p06": {
+   "grade": 0,
+   "reason": "About enemies repaying kindness with evil; off-topic.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-008-p02": {
+   "grade": 0,
+   "reason": "Family divided by faith; not relevant.",
+   "batch": "v02"
+  },
+  "an-021-p02": {
+   "grade": 1,
+   "reason": "Mothers and children parted by sickness and death; no answer to guilt.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p58": {
+   "grade": 2,
+   "reason": "The day's work is done, rest with Mother; gently legitimises relief.",
+   "batch": "v02"
+  },
+  "an-017-p02": {
+   "grade": 1,
+   "reason": "Disgust at sickness is wrong; could read as judging the carer.",
+   "batch": "v02"
+  },
+  "seneca-040-p05": {
+   "grade": 1,
+   "reason": "Friends' care helps the sick; only loosely affirms caring.",
+   "batch": "v02"
+  }
+ },
+ "AS07": {
+  "epictetus-discourses-long-024-p01": {
+   "grade": 2,
+   "reason": "Show sympathy and even lament with them; usable, if Stoic.",
+   "batch": "v02"
+  },
+  "seneca-067-p02": {
+   "grade": 1,
+   "reason": "Dignity in grief; addressed to the mourner, not the friend.",
+   "batch": "v02"
+  },
+  "avot-002-p06": {
+   "grade": 3,
+   "reason": "Don't comfort while the dead lies before them; directly on timing and space.",
+   "batch": "v02"
+  },
+  "seneca-066-p05": {
+   "grade": 1,
+   "reason": "Consolation for the bereaved, not guidance for the supporter.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-003-p69": {
+   "grade": 3,
+   "reason": "Never forgotten: the one you wept with. Encourages simply being there.",
+   "batch": "v02"
+  },
+  "seneca-027-p08": {
+   "grade": 1,
+   "reason": "Tells mourner not to grieve too much; not about supporting.",
+   "batch": "v02"
+  },
+  "enchiridion-001-p09": {
+   "grade": 2,
+   "reason": "Accommodate and groan with the grieving; practical, if detached.",
+   "batch": "v02"
+  },
+  "seneca-067-p04": {
+   "grade": 2,
+   "reason": "Speaking of the departed helps; hints at letting her talk.",
+   "batch": "v02"
+  },
+  "seneca-066-p11": {
+   "grade": 1,
+   "reason": "Tears ease the soul; helps understanding but not the question.",
+   "batch": "v02"
+  },
+  "seneca-067-p01": {
+   "grade": 1,
+   "reason": "Let tears flow naturally; aimed at the mourner.",
+   "batch": "v02"
+  }
+ },
+ "AS08": {
+  "tagore-stray-birds-002-p36": {
+   "grade": 2,
+   "reason": "Distance looms larger to the heart; offers perspective on the fading.",
+   "batch": "v02"
+  },
+  "prophet-003-p08": {
+   "grade": 2,
+   "reason": "What you love may be clearer in absence; reframes distance.",
+   "batch": "v02"
+  },
+  "prophet-001-p02": {
+   "grade": 1,
+   "reason": "Love's depth shown at separation; only loosely helps her uncertainty.",
+   "batch": "v02"
+  },
+  "emerson-essays-026-p03": {
+   "grade": 2,
+   "reason": "Relationships may give way to something better; eases fear of ending.",
+   "batch": "v02"
+  },
+  "schopenhauer-counsels-maxims-011-p02": {
+   "grade": 2,
+   "reason": "Distance naturally dries up regard; explains the fading without blame.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p66": {
+   "grade": 1,
+   "reason": "Cryptic aphorism on love; not helpful for her question.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-002-p03": {
+   "grade": 1,
+   "reason": "Abstract line about lovers; beside the point.",
+   "batch": "v02"
+  },
+  "seneca-066-p05": {
+   "grade": 1,
+   "reason": "About a dead friend; not fading romance.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p77": {
+   "grade": 1,
+   "reason": "Love can't lose; vague and doesn't address her doubt.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-002-p08": {
+   "grade": 1,
+   "reason": "Mind versus heart; loosely echoes confusion only.",
+   "batch": "v02"
+  }
+ },
+ "AS09": {
+  "bib-jeremiah-005-p04": {
+   "grade": 1,
+   "reason": "The heart is deceitful; restates the betrayal, nothing to hold.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p77": {
+   "grade": 1,
+   "reason": "Love can't lose; jars with discovered infidelity.",
+   "batch": "v02"
+  },
+  "schopenhauer-wisdom-of-life-009-p01": {
+   "grade": 2,
+   "reason": "Broken trust is forfeited; validates her inability to believe him.",
+   "batch": "v02"
+  },
+  "imitation-of-christ-benham-016-p08": {
+   "grade": 1,
+   "reason": "About gossips betraying secrets; not infidelity.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p28": {
+   "grade": 1,
+   "reason": "Listen to what's unsaid; loosely touches his silence.",
+   "batch": "v02"
+  },
+  "augustine-confessions-pusey-016-p03": {
+   "grade": 0,
+   "reason": "Augustine's own lust and concubines; painful and off-target.",
+   "batch": "v02"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Trusted one turned against me; restates only.",
+   "batch": "v02"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the wrench of shared life; restates.",
+   "batch": "v02"
+  },
+  "emerson-essays-038-p06": {
+   "grade": 1,
+   "reason": "People can't fully know each other; generic.",
+   "batch": "v02"
+  },
+  "an-041-p01": {
+   "grade": 0,
+   "reason": "A faithful couple's devotion; a painful contrast right now.",
+   "batch": "v02"
+  }
+ },
+ "AS10": {
+  "dhp-002-p21": {
+   "grade": 1,
+   "reason": "Avoid attachment; doesn't help ending it kindly.",
+   "batch": "v02"
+  },
+  "seneca-015-p05": {
+   "grade": 1,
+   "reason": "Love can harm; learn to love. Loosely related.",
+   "batch": "v02"
+  },
+  "sn-118-p05": {
+   "grade": 1,
+   "reason": "All dear things must part; abstract, not about kindness.",
+   "batch": "v02"
+  },
+  "an-068-p02": {
+   "grade": 1,
+   "reason": "Parting is universal; little guidance on how.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p59": {
+   "grade": 1,
+   "reason": "Parting extinguishes the lamp; restates the dread.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p77": {
+   "grade": 1,
+   "reason": "Love can't lose; off-target.",
+   "batch": "v02"
+  },
+  "emerson-essays-026-p03": {
+   "grade": 2,
+   "reason": "Relationships give way to something more beautiful; eases fear of hurting him.",
+   "batch": "v02"
+  },
+  "seneca-032-p06": {
+   "grade": 2,
+   "reason": "Love regrows easily, so avoid reminders; supports a clean, kind break.",
+   "batch": "v02"
+  },
+  "schopenhauer-counsels-maxims-010-p02": {
+   "grade": 1,
+   "reason": "Break at once and for good; cold, ignores her wish for kindness.",
+   "batch": "v02"
+  },
+  "prophet-001-p05": {
+   "grade": 1,
+   "reason": "How to love without binding; not about ending.",
+   "batch": "v02"
+  }
+ },
+ "AS11": {
+  "viv12-001-p01": {
+   "grade": 2,
+   "reason": "Love without becoming a slave to attachment; relevant, a bit stern.",
+   "batch": "v02"
+  },
+  "emerson-essays-053-p03": {
+   "grade": 3,
+   "reason": "Let your feet run, not your mind; what's yours comes to you.",
+   "batch": "v02"
+  },
+  "sn-020-p01": {
+   "grade": 2,
+   "reason": "Consumed by irrational thoughts; check them. Short, apt.",
+   "batch": "v02"
+  },
+  "emerson-essays-049-p05": {
+   "grade": 2,
+   "reason": "Curiosity about others' estimate of us is idle; eases the checking.",
+   "batch": "v02"
+  },
+  "seneca-032-p06": {
+   "grade": 1,
+   "reason": "About getting over old love; wrong situation.",
+   "batch": "v02"
+  },
+  "seneca-005-p07": {
+   "grade": 2,
+   "reason": "Ask whether you're inventing an evil; fits imagined scenarios.",
+   "batch": "v02"
+  },
+  "epictetus-discourses-long-011-p01": {
+   "grade": 3,
+   "reason": "Don't let impressions paint vivid pictures; test them. Exactly the scenarios problem.",
+   "batch": "v02"
+  },
+  "epictetus-discourses-long-009-p01": {
+   "grade": 2,
+   "reason": "Anxiety comes from wanting what isn't in your control; useful.",
+   "batch": "v02"
+  },
+  "dhp-002-p21": {
+   "grade": 1,
+   "reason": "Avoid closeness altogether; too blunt for someone in a relationship.",
+   "batch": "v02"
+  },
+  "viv09-001-p08": {
+   "grade": 1,
+   "reason": "Describes the relapse cycle of attachment; restates only.",
+   "batch": "v02"
+  }
+ },
+ "AS12": {
+  "walden-thoreau-019-p02": {
+   "grade": 1,
+   "reason": "Prefers solitude to company; doesn't meet her longing for closeness.",
+   "batch": "v02"
+  },
+  "emerson-essays-013-p05": {
+   "grade": 2,
+   "reason": "All sympathy is partial, like touching globes; honest perspective.",
+   "batch": "v02"
+  },
+  "bib-genesis-001-p01": {
+   "grade": 1,
+   "reason": "Not good to be alone; she isn't alone, just lonely.",
+   "batch": "v02"
+  },
+  "tao-001-p06": {
+   "grade": 1,
+   "reason": "Forlorn amid contented others; restates the feeling.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p34": {
+   "grade": 2,
+   "reason": "We can't fully reach each other, but let us talk; a gentle step.",
+   "batch": "v02"
+  },
+  "viv07-007-p01": {
+   "grade": 1,
+   "reason": "Metaphysical oneness; too abstract.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p52": {
+   "grade": 2,
+   "reason": "Not into the house but into my loneliness; names the deeper longing.",
+   "batch": "v02"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 2,
+   "reason": "We walk alone, yet hope remains for kindred souls.",
+   "batch": "v02"
+  },
+  "walden-thoreau-018-p04": {
+   "grade": 1,
+   "reason": "Proximity doesn't bring minds closer; restates her experience.",
+   "batch": "v02"
+  },
+  "walden-thoreau-018-p03": {
+   "grade": 1,
+   "reason": "Comfort in nature's company; sidesteps the marriage.",
+   "batch": "v02"
+  }
+ },
+ "AS13": {
+  "epictetus-discourses-long-015-p02": {
+   "grade": 3,
+   "reason": "Be sufficient for yourself, your own companion. Directly answers.",
+   "batch": "v02"
+  },
+  "seneca-002-p07": {
+   "grade": 3,
+   "reason": "Becoming a friend to oneself; such a person is never alone.",
+   "batch": "v02"
+  },
+  "viv07-007-p01": {
+   "grade": 1,
+   "reason": "Oneness with the Whole; abstract.",
+   "batch": "v02"
+  },
+  "walden-thoreau-018-p03": {
+   "grade": 2,
+   "reason": "Loneliness gave way to companionship in nature; hopeful.",
+   "batch": "v02"
+  },
+  "viv09-001-p08": {
+   "grade": 1,
+   "reason": "Attachment as misery and relapse; bleak.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-002-p78": {
+   "grade": 2,
+   "reason": "Solitude prunes dead branches and deepens roots; growth alone.",
+   "batch": "v02"
+  },
+  "sn-048-p04": {
+   "grade": 2,
+   "reason": "Living alone means letting go of past and future; usable.",
+   "batch": "v02"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the torn habit of living together; restates.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p02": {
+   "grade": 2,
+   "reason": "Not a fragment but whole; fits relearning to be one.",
+   "batch": "v02"
+  },
+  "meditations-012-p04": {
+   "grade": 1,
+   "reason": "Severed limb rejoining the whole; implies fault, off-angle.",
+   "batch": "v02"
+  }
+ },
+ "AS14": {
+  "viv09-001-p08": {
+   "grade": 1,
+   "reason": "Describes repeated relapse into attachment; restates only.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Generic comfort; doesn't touch the checking.",
+   "batch": "v02"
+  },
+  "viv12-001-p01": {
+   "grade": 2,
+   "reason": "Don't become a slave to attachment; relevant push to be free.",
+   "batch": "v02"
+  },
+  "dhp-002-p21": {
+   "grade": 1,
+   "reason": "Missing the liked is suffering; mostly restates.",
+   "batch": "v02"
+  },
+  "dn-069-p01": {
+   "grade": 1,
+   "reason": "Letting go of resentment; her issue is longing.",
+   "batch": "v02"
+  },
+  "seneca-032-p06": {
+   "grade": 3,
+   "reason": "Avoid every reminder of an old love, since love regrows easily. Directly apt.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p85": {
+   "grade": 1,
+   "reason": "Unfulfilled past clinging; death framing is off.",
+   "batch": "v02"
+  },
+  "an-079-p01": {
+   "grade": 1,
+   "reason": "Ways to drop resentment; disregarding him fits slightly, but monastic.",
+   "batch": "v02"
+  },
+  "bib-job-003-p06": {
+   "grade": 1,
+   "reason": "Broken plans and hopes; restates only.",
+   "batch": "v02"
+  },
+  "emerson-essays-053-p03": {
+   "grade": 2,
+   "reason": "What's yours comes to you; accept not finding him as best.",
+   "batch": "v02"
+  }
+ },
+ "AS15": {
+  "dn-069-p01": {
+   "grade": 1,
+   "reason": "Releasing resentment; doesn't answer why it still hurts.",
+   "batch": "v02"
+  },
+  "emerson-essays-035-p03": {
+   "grade": 2,
+   "reason": "Rejection can open a larger life; reframes the hurt.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Vague comfort about sorrow.",
+   "batch": "v02"
+  },
+  "emerson-essays-017-p01": {
+   "grade": 3,
+   "reason": "Love outgrows an unworthy object and feels freer. Speaks to 'better off'.",
+   "batch": "v02"
+  },
+  "meditations-004-p06": {
+   "grade": 1,
+   "reason": "Drop the judgment and harm vanishes; dismissive of real betrayal.",
+   "batch": "v02"
+  },
+  "viv09-001-p07": {
+   "grade": 1,
+   "reason": "Don't hit back; she isn't seeking revenge.",
+   "batch": "v02"
+  },
+  "emerson-essays-026-p03": {
+   "grade": 2,
+   "reason": "Something more beautiful follows; hope beyond this relationship.",
+   "batch": "v02"
+  },
+  "gibran-sand-and-foam-002-p09": {
+   "grade": 2,
+   "reason": "A broken heart is how it opens; gives the hurt meaning.",
+   "batch": "v02"
+  },
+  "augustine-confessions-pusey-016-p03": {
+   "grade": 0,
+   "reason": "Augustine's lust and concubines; unsuitable for a betrayed partner.",
+   "batch": "v02"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Pain from a broken habit of closeness; restates.",
+   "batch": "v02"
+  }
+ },
+ "AS16": {
+  "epictetus-discourses-long-024-p13": {
+   "grade": 1,
+   "reason": "Damaged only if you think so; dismissive of family unfairness.",
+   "batch": "v02"
+  },
+  "dhp-003-p04": {
+   "grade": 2,
+   "reason": "Everyone is blamed whatever they do; eases the sting of blame.",
+   "batch": "v02"
+  },
+  "epictetus-discourses-long-014-p04": {
+   "grade": 1,
+   "reason": "Mind your own conduct toward a brother; misses parents' favouritism.",
+   "batch": "v02"
+  },
+  "enchiridion-003-p05": {
+   "grade": 1,
+   "reason": "Bear a sibling's wrong; the sister isn't the wrongdoer.",
+   "batch": "v02"
+  },
+  "bib-matthew-006-p03": {
+   "grade": 1,
+   "reason": "Raise the fault privately; she has tried and gets screamed at.",
+   "batch": "v02"
+  },
+  "enchiridion-002-p05": {
+   "grade": 1,
+   "reason": "Hurt only if you consent; dismissive here.",
+   "batch": "v02"
+  },
+  "aristotle-ethics-019-p01": {
+   "grade": 2,
+   "reason": "Being wronged carries no blame; affirms she isn't the bad one.",
+   "batch": "v02"
+  },
+  "mn-018-p02": {
+   "grade": 2,
+   "reason": "Don't let abuse make you bitter; steadying stance.",
+   "batch": "v02"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 1,
+   "reason": "Sibling wrongdoing; not her situation.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-005-p02": {
+   "grade": 1,
+   "reason": "Family doesn't understand me; restates only.",
+   "batch": "v02"
+  }
+ },
+ "AS17": {
+  "an-065-p02": {
+   "grade": 1,
+   "reason": "Duty to parents; adds to guilt rather than easing it.",
+   "batch": "v02"
+  },
+  "bib-psa-004-p13": {
+   "grade": 1,
+   "reason": "Faint and failing strength; restates exhaustion.",
+   "batch": "v02"
+  },
+  "chuang-tzu-giles-002-p01": {
+   "grade": 1,
+   "reason": "Pity of endless toil; bleak restatement.",
+   "batch": "v02"
+  },
+  "sn-119-p02": {
+   "grade": 3,
+   "reason": "Looking after yourself is looking after others. Exactly what a carer needs.",
+   "batch": "v02"
+  },
+  "bib-deuteronomy-001-p01": {
+   "grade": 1,
+   "reason": "How can I bear this alone; restates only.",
+   "batch": "v02"
+  },
+  "bib-sirach-001-p04": {
+   "grade": 1,
+   "reason": "Duty to help father; could deepen guilt.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-006-p03": {
+   "grade": 1,
+   "reason": "Weariness overwhelming intention; restates.",
+   "batch": "v02"
+  },
+  "viv02-012-p04": {
+   "grade": 1,
+   "reason": "Slaves to duty dying in harness; grim for an exhausted carer.",
+   "batch": "v02"
+  },
+  "seneca-064-p06": {
+   "grade": 1,
+   "reason": "Troubles are common; thin comfort.",
+   "batch": "v02"
+  },
+  "tagore-stray-birds-002-p58": {
+   "grade": 1,
+   "reason": "Rest after work; loosely touches exhaustion.",
+   "batch": "v02"
+  }
+ },
+ "AS18": {
+  "epictetus-discourses-long-018-p01": {
+   "grade": 1,
+   "reason": "Shame only for one's own acts; loosely touches guilt.",
+   "batch": "v02"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 1,
+   "reason": "Brother's wrong; off-target.",
+   "batch": "v02"
+  },
+  "bib-colossians-001-p03": {
+   "grade": 0,
+   "reason": "Fathers not provoking children; irrelevant.",
+   "batch": "v02"
+  },
+  "sn-017-p01": {
+   "grade": 0,
+   "reason": "Sons cast out father as monsters; would condemn them.",
+   "batch": "v02"
+  },
+  "an-062-p01": {
+   "grade": 2,
+   "reason": "Kindness sometimes means a distressing choice; reframes care-home decision.",
+   "batch": "v02"
+  },
+  "an-065-p02": {
+   "grade": 1,
+   "reason": "Duty to care for parents; may deepen guilt.",
+   "batch": "v02"
+  },
+  "american-indian-stories-zitkala-006-p03": {
+   "grade": 1,
+   "reason": "Exhaustion described; nothing more.",
+   "batch": "v02"
+  },
+  "schopenhauer-counsels-maxims-018-p03": {
+   "grade": 1,
+   "reason": "Decline of age prepares for death; bleak, beside the question.",
+   "batch": "v02"
+  },
+  "emerson-essays-045-p05": {
+   "grade": 1,
+   "reason": "Don't adopt family's faults; doesn't address guilt or snapping.",
+   "batch": "v02"
+  },
+  "bib-sirach-001-p04": {
+   "grade": 1,
+   "reason": "Patience with ageing father; may sound like a rebuke.",
+   "batch": "v02"
+  }
+ },
+ "AS19": {
+  "epictetus-discourses-long-024-p09": {
+   "grade": 1,
+   "reason": "About being passed over socially; not about a father's absence from a wedding.",
+   "batch": "v03"
+  },
+  "emerson-essays-013-p04": {
+   "grade": 1,
+   "reason": "Speaks from the absent person's side; does not ease the heartbreak.",
+   "batch": "v03"
+  },
+  "sn-017-p01": {
+   "grade": 0,
+   "reason": "Casts the child as a monster who rejects the father; would sting.",
+   "batch": "v03"
+  },
+  "bib-jeremiah-015-p01": {
+   "grade": 0,
+   "reason": "About orphans and widows; off-topic.",
+   "batch": "v03"
+  },
+  "bib-psa-003-p06": {
+   "grade": 2,
+   "reason": "Consolation if a parent withdraws; fits the hurt, not the wedding dilemma.",
+   "batch": "v03"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names a wound of separation; offers nothing to carry it.",
+   "batch": "v03"
+  },
+  "gibran-sand-and-foam-003-p53": {
+   "grade": 0,
+   "reason": "About a father's fame and wealth; beside the point.",
+   "batch": "v03"
+  },
+  "chuang-tzu-giles-027-p04": {
+   "grade": 1,
+   "reason": "Parent-child love theme, but generic and not helpful here.",
+   "batch": "v03"
+  },
+  "bib-genesis-014-p02": {
+   "grade": 1,
+   "reason": "Father-son reunion story; only loosely hopeful for this situation.",
+   "batch": "v03"
+  },
+  "gibran-sand-and-foam-002-p85": {
+   "grade": 0,
+   "reason": "Funeral imagery for a wedding worry; off-target.",
+   "batch": "v03"
+  }
+ },
+ "AS20": {
+  "teresa-interior-castle-012-p02": {
+   "grade": 1,
+   "reason": "Urges yielding to others' wishes; pulls against his decision without helping.",
+   "batch": "v03"
+  },
+  "aristotle-ethics-002-p01": {
+   "grade": 1,
+   "reason": "Humans are social, family included; general, no guidance for the conflict.",
+   "batch": "v03"
+  },
+  "bib-jeremiah-015-p01": {
+   "grade": 0,
+   "reason": "About orphans and widows; off-topic.",
+   "batch": "v03"
+  },
+  "emerson-essays-004-p03": {
+   "grade": 3,
+   "reason": "Living for the future always looks selfish to others; answers the accusation.",
+   "batch": "v03"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 2,
+   "reason": "Hold the sister by the handle of kinship, not the hurtful word.",
+   "batch": "v03"
+  },
+  "bib-job-003-p07": {
+   "grade": 1,
+   "reason": "Only restates the fear of losing family.",
+   "batch": "v03"
+  },
+  "bib-genesis-003-p01": {
+   "grade": 2,
+   "reason": "Leaving country and kin for a new land; a precedent for the move.",
+   "batch": "v03"
+  },
+  "bib-genesis-003-p02": {
+   "grade": 3,
+   "reason": "Family parting ways without strife; models leaving without losing them.",
+   "batch": "v03"
+  },
+  "bib-matthew-006-p03": {
+   "grade": 2,
+   "reason": "Speak privately to the sister to win her back; practical angle.",
+   "batch": "v03"
+  },
+  "enchiridion-003-p05": {
+   "grade": 2,
+   "reason": "Bear the sister's words by remembering she is family.",
+   "batch": "v03"
+  }
+ },
+ "AS21": {
+  "gibran-sand-and-foam-002-p07": {
+   "grade": 1,
+   "reason": "Says we cannot separate from others; deepens the bind.",
+   "batch": "v03"
+  },
+  "an-008-p01": {
+   "grade": 1,
+   "reason": "Stresses parents can never be repaid; likely feeds the guilt despite reframe.",
+   "batch": "v03"
+  },
+  "epictetus-discourses-long-018-p01": {
+   "grade": 0,
+   "reason": "About shame over parents' poverty; beside the point.",
+   "batch": "v03"
+  },
+  "bib-sirach-002-p03": {
+   "grade": 0,
+   "reason": "Asks how you could ever repay parents; would intensify guilt.",
+   "batch": "v03"
+  },
+  "prophet-001-p06": {
+   "grade": 3,
+   "reason": "Children belong to life, not parents; frees them to build their own.",
+   "batch": "v03"
+  },
+  "mn-069-p02": {
+   "grade": 2,
+   "reason": "Growing up naturally releases one's bonds; gentle permission to go.",
+   "batch": "v03"
+  },
+  "tagore-sadhana-007-p03": {
+   "grade": 1,
+   "reason": "A mother's claim to her trouble; ambiguous for someone seeking freedom.",
+   "batch": "v03"
+  },
+  "viv02-005-p03": {
+   "grade": 2,
+   "reason": "Parents give without expecting return; loosens the debt framing.",
+   "batch": "v03"
+  },
+  "seneca-016-p03": {
+   "grade": 1,
+   "reason": "Brief and generic on freedom; does not touch the guilt.",
+   "batch": "v03"
+  },
+  "seneca-013-p03": {
+   "grade": 1,
+   "reason": "About place and travel; only loosely related to leaving home.",
+   "batch": "v03"
+  }
+ },
+ "AS22": {
+  "bib-exodus-006-p01": {
+   "grade": 3,
+   "reason": "The load is too heavy to carry alone; validates stepping back.",
+   "batch": "v03"
+  },
+  "enchiridion-003-p05": {
+   "grade": 1,
+   "reason": "About bearing a brother's wrong; not their situation.",
+   "batch": "v03"
+  },
+  "viv02-005-p03": {
+   "grade": 1,
+   "reason": "Encourages giving more without return; little relief for exhaustion.",
+   "batch": "v03"
+  },
+  "bib-deuteronomy-001-p01": {
+   "grade": 1,
+   "reason": "Only restates the burden of carrying everyone alone.",
+   "batch": "v03"
+  },
+  "teresa-interior-castle-012-p02": {
+   "grade": 0,
+   "reason": "Tells an exhausted person to take on more burdens.",
+   "batch": "v03"
+  },
+  "walden-thoreau-047-p03": {
+   "grade": 3,
+   "reason": "No one must do everything, only something; releases the duty.",
+   "batch": "v03"
+  },
+  "chuang-tzu-giles-027-p07": {
+   "grade": 2,
+   "reason": "Questions taking on everyone's sorrows; acknowledges weariness.",
+   "batch": "v03"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 1,
+   "reason": "About a brother's injustice; beside the point.",
+   "batch": "v03"
+  },
+  "walden-thoreau-046-p04": {
+   "grade": 1,
+   "reason": "About not supporting wrongs; only loosely about limits.",
+   "batch": "v03"
+  },
+  "bib-psa-006-p07": {
+   "grade": 2,
+   "reason": "Hand the burden over; comfort for carrying too much.",
+   "batch": "v03"
+  }
+ },
+ "AS23": {
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Restates the wound of separation; nothing to carry it.",
+   "batch": "v03"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Grief for a dead friend; restates pain, heavier than her loss.",
+   "batch": "v03"
+  },
+  "dhp-001-p11": {
+   "grade": 1,
+   "reason": "Wander alone rather than with fools; cold for someone lonely.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 2,
+   "reason": "Alone now, but hope that souls elsewhere can love us.",
+   "batch": "v03"
+  },
+  "seneca-023-p05": {
+   "grade": 1,
+   "reason": "Keeping absent friends in spirit; her friend dropped her.",
+   "batch": "v03"
+  },
+  "chuang-tzu-giles-024-p02": {
+   "grade": 1,
+   "reason": "Describes longing for familiar faces; restates.",
+   "batch": "v03"
+  },
+  "schopenhauer-counsels-maxims-011-p02": {
+   "grade": 1,
+   "reason": "Distance kills friendship; cold, offers nothing.",
+   "batch": "v03"
+  },
+  "bib-psa-010-p04": {
+   "grade": 1,
+   "reason": "Mostly restates loss of friends and confinement.",
+   "batch": "v03"
+  },
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "The friendship's past is still hers; consolation for the loss.",
+   "batch": "v03"
+  },
+  "bib-job-003-p07": {
+   "grade": 1,
+   "reason": "Only restates being forgotten by friends.",
+   "batch": "v03"
+  }
+ },
+ "AS24": {
+  "epictetus-discourses-long-011-p03": {
+   "grade": 2,
+   "reason": "Friendship needs fidelity; those who betrayed trust weren't friends.",
+   "batch": "v03"
+  },
+  "seneca-003-p07": {
+   "grade": 1,
+   "reason": "Fair-weather friends; not quite her cliquey betrayal.",
+   "batch": "v03"
+  },
+  "an-105-p01": {
+   "grade": 3,
+   "reason": "A true friend keeps your secrets; seek such people. Clear direction.",
+   "batch": "v03"
+  },
+  "seneca-001-p08": {
+   "grade": 2,
+   "reason": "Judge before trusting; a lesson for finding real friends.",
+   "batch": "v03"
+  },
+  "aristotle-ethics-028-p02": {
+   "grade": 0,
+   "reason": "About mothers loving given-up children; off-topic.",
+   "batch": "v03"
+  },
+  "seneca-066-p05": {
+   "grade": 0,
+   "reason": "About a lost friend; she never had one.",
+   "batch": "v03"
+  },
+  "aristotle-ethics-031-p03": {
+   "grade": 1,
+   "reason": "Definitions of friendship; abstract and generic.",
+   "batch": "v03"
+  },
+  "seneca-001-p09": {
+   "grade": 2,
+   "reason": "After betrayal, trusting no one is also a fault; balanced counsel.",
+   "batch": "v03"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Only restates betrayal by a trusted friend.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 2,
+   "reason": "Real friends are rare, yet hope remains they exist.",
+   "batch": "v03"
+  }
+ },
+ "AS25": {
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "The friendship's past remains hers; consolation for the loss.",
+   "batch": "v03"
+  },
+  "bib-psa-010-p04": {
+   "grade": 1,
+   "reason": "Mostly restates loss of friends and grief.",
+   "batch": "v03"
+  },
+  "viv02-010-p02": {
+   "grade": 1,
+   "reason": "About friends dying and the world moving on; cold.",
+   "batch": "v03"
+  },
+  "seneca-023-p05": {
+   "grade": 1,
+   "reason": "Absent friends kept in spirit; she was ghosted, not apart.",
+   "batch": "v03"
+  },
+  "gibran-sand-and-foam-003-p69": {
+   "grade": 1,
+   "reason": "About remembering who we wept with; beside the point.",
+   "batch": "v03"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Restates grief for a friend, framed by death.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 2,
+   "reason": "Hope that other souls can love us; gentle consolation.",
+   "batch": "v03"
+  },
+  "bib-job-003-p07": {
+   "grade": 1,
+   "reason": "Only restates being forgotten by friends.",
+   "batch": "v03"
+  },
+  "seneca-027-p13": {
+   "grade": 2,
+   "reason": "Let other friends console the loss of one; slightly stern.",
+   "batch": "v03"
+  },
+  "schopenhauer-counsels-maxims-011-p02": {
+   "grade": 1,
+   "reason": "Explains drift through absence; cold, no comfort.",
+   "batch": "v03"
+  }
+ },
+ "AS26": {
+  "seneca-020-p04": {
+   "grade": 1,
+   "reason": "Live for your neighbour; he already does, feels beside the point.",
+   "batch": "v03"
+  },
+  "viv07-006-p02": {
+   "grade": 2,
+   "reason": "Expect nothing from others; a hard but freeing reframe.",
+   "batch": "v03"
+  },
+  "aristotle-ethics-034-p02": {
+   "grade": 1,
+   "reason": "Etiquette of calling on friends; dense and indirect.",
+   "batch": "v03"
+  },
+  "schopenhauer-counsels-maxims-009-p03": {
+   "grade": 1,
+   "reason": "Too much kindness breeds arrogance; cynical, off-target.",
+   "batch": "v03"
+  },
+  "emerson-essays-017-p03": {
+   "grade": 3,
+   "reason": "Services get consumed and you're left out; love, not service, connects.",
+   "batch": "v03"
+  },
+  "seneca-003-p07": {
+   "grade": 1,
+   "reason": "Fair-weather friendship; loosely related.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 1,
+   "reason": "General on rare friendship; not his event-planner feeling.",
+   "batch": "v03"
+  },
+  "walden-thoreau-019-p03": {
+   "grade": 1,
+   "reason": "Society too frequent and cheap; tangential.",
+   "batch": "v03"
+  },
+  "emerson-essays-043-p02": {
+   "grade": 1,
+   "reason": "Enjoy affections near; generic here.",
+   "batch": "v03"
+  },
+  "emerson-essays-013-p04": {
+   "grade": 0,
+   "reason": "About missing a meeting; off-topic.",
+   "batch": "v03"
+  }
+ },
+ "AS27": {
+  "schopenhauer-counsels-maxims-011-p02": {
+   "grade": 2,
+   "reason": "Yes, distance naturally wears friendships; answers 'is it normal'.",
+   "batch": "v03"
+  },
+  "aristotle-ethics-031-p02": {
+   "grade": 3,
+   "reason": "Friends who grow apart can't stay close, yet honour the past.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 1,
+   "reason": "Rare ideal friendship; general.",
+   "batch": "v03"
+  },
+  "bib-job-003-p07": {
+   "grade": 1,
+   "reason": "Restates being forgotten; not his situation.",
+   "batch": "v03"
+  },
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "Past friendship stays yours even as it drifts.",
+   "batch": "v03"
+  },
+  "emerson-essays-015-p03": {
+   "grade": 3,
+   "reason": "Friends come and go like leaves; drift is natural growth.",
+   "batch": "v03"
+  },
+  "seneca-023-p05": {
+   "grade": 1,
+   "reason": "Absent friends in spirit; misses the drifting apart.",
+   "batch": "v03"
+  },
+  "seneca-003-p07": {
+   "grade": 1,
+   "reason": "Utility friendships; not this case.",
+   "batch": "v03"
+  },
+  "seneca-070-p06": {
+   "grade": 3,
+   "reason": "New friends won't be the same, nor will you; balanced hope.",
+   "batch": "v03"
+  },
+  "emerson-essays-043-p02": {
+   "grade": 2,
+   "reason": "Don't hold back waiting; embrace the people near you now.",
+   "batch": "v03"
+  }
+ },
+ "AS28": {
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Recollect good friends; generic for his question.",
+   "batch": "v03"
+  },
+  "gibran-sand-and-foam-003-p69": {
+   "grade": 2,
+   "reason": "Being with someone when they weep matters; affirms his presence.",
+   "batch": "v03"
+  },
+  "seneca-023-p05": {
+   "grade": 1,
+   "reason": "Absent friends; beside the point.",
+   "batch": "v03"
+  },
+  "seneca-027-p13": {
+   "grade": 1,
+   "reason": "Stern on losing friends; not helpful for comforting her.",
+   "batch": "v03"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 1,
+   "reason": "General on friendship; little for his question.",
+   "batch": "v03"
+  },
+  "tagore-stray-birds-001-p03": {
+   "grade": 1,
+   "reason": "Pleasant but loosely related.",
+   "batch": "v03"
+  },
+  "bib-psa-010-p04": {
+   "grade": 1,
+   "reason": "Restates losing friends; not about helping someone.",
+   "batch": "v03"
+  },
+  "seneca-066-p05": {
+   "grade": 0,
+   "reason": "About a friend who is gone; off-target.",
+   "batch": "v03"
+  },
+  "enchiridion-001-p09": {
+   "grade": 2,
+   "reason": "How to sit with someone weeping: share their sorrow kindly.",
+   "batch": "v03"
+  },
+  "epictetus-discourses-long-024-p01": {
+   "grade": 2,
+   "reason": "Sympathise and lament with the grieving one; guidance on comforting.",
+   "batch": "v03"
+  }
+ },
+ "AS29": {
+  "seneca-012-p06": {
+   "grade": 2,
+   "reason": "Sharing troubles as fellow patients; invites openness.",
+   "batch": "v03"
+  },
+  "seneca-040-p05": {
+   "grade": 2,
+   "reason": "Friends' care heals; shows the value of letting them in.",
+   "batch": "v03"
+  },
+  "emerson-essays-015-p07": {
+   "grade": 1,
+   "reason": "Restates hiding from others; offers nothing beyond.",
+   "batch": "v03"
+  },
+  "an-105-p01": {
+   "grade": 2,
+   "reason": "True friends don't abandon you in trouble; encourages trusting them.",
+   "batch": "v03"
+  },
+  "augustine-confessions-pusey-018-p02": {
+   "grade": 2,
+   "reason": "Unspoken suffering is still heard; consolation for hidden pain.",
+   "batch": "v03"
+  },
+  "seneca-067-p01": {
+   "grade": 2,
+   "reason": "Don't hide tears for an audience; let feelings show.",
+   "batch": "v03"
+  },
+  "gibran-sand-and-foam-001-p31": {
+   "grade": 1,
+   "reason": "About loneliness from misjudgement; loosely related.",
+   "batch": "v03"
+  },
+  "seneca-005-p07": {
+   "grade": 1,
+   "reason": "About others insisting you're unhappy; the reverse situation.",
+   "batch": "v03"
+  },
+  "gibran-madman-001-p03": {
+   "grade": 1,
+   "reason": "Restates the hidden self; offers nothing to carry it.",
+   "batch": "v03"
+  },
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Be grateful for friends; misses the inability to open up.",
+   "batch": "v03"
+  }
+ },
+ "AS30": {
+  "schopenhauer-counsels-maxims-010-p02": {
+   "grade": 2,
+   "reason": "Weigh whether the relationship is worth repeated offence; frames the choice.",
+   "batch": "v03"
+  },
+  "an-010-p01": {
+   "grade": 1,
+   "reason": "Welcome correction gratefully; ignores the public humiliation.",
+   "batch": "v03"
+  },
+  "bib-ecc-002-p08": {
+   "grade": 3,
+   "reason": "When a ruler turns on you, stay calm; gentleness settles offences.",
+   "batch": "v03"
+  },
+  "schopenhauer-wisdom-of-life-007-p03": {
+   "grade": 2,
+   "reason": "Others' slights deserve little weight; eases the sting.",
+   "batch": "v03"
+  },
+  "chuang-tzu-giles-013-p01": {
+   "grade": 1,
+   "reason": "Accept true criticism; edges toward blaming them.",
+   "batch": "v03"
+  },
+  "enchiridion-002-p06": {
+   "grade": 2,
+   "reason": "Take criticism lightly with humour; steadies against reproach.",
+   "batch": "v03"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 2,
+   "reason": "No one is promised never to look foolish; comfort in exposure.",
+   "batch": "v03"
+  },
+  "mn-093-p01": {
+   "grade": 2,
+   "reason": "Equanimity toward a difficult person; useful steadiness.",
+   "batch": "v03"
+  },
+  "mn-120-p01": {
+   "grade": 1,
+   "reason": "Rules on speaking; not their situation.",
+   "batch": "v03"
+  },
+  "mn-018-p02": {
+   "grade": 2,
+   "reason": "Don't let harassment make you bitter; inner steadiness.",
+   "batch": "v03"
+  }
+ },
+ "AS31": {
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Ambiguous: suggests desisting before urging effort.",
+   "batch": "v03"
+  },
+  "viv09-006-p02": {
+   "grade": 2,
+   "reason": "No effort is lost; consolation, though framed by rebirth.",
+   "batch": "v03"
+  },
+  "viv04-015-p10": {
+   "grade": 3,
+   "reason": "Failures are natural; try once more. Direct encouragement.",
+   "batch": "v03"
+  },
+  "seneca-012-p01": {
+   "grade": 2,
+   "reason": "Better to lack success than faith; keep going.",
+   "batch": "v03"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 2,
+   "reason": "Whatever your failures, don't despair; much remains possible.",
+   "batch": "v03"
+  },
+  "epictetus-discourses-long-017-p04": {
+   "grade": 3,
+   "reason": "You can renew the contest at once; one win erases the falls.",
+   "batch": "v03"
+  },
+  "emerson-essays-046-p02": {
+   "grade": 2,
+   "reason": "Don't lose heart at first failure; many chances remain.",
+   "batch": "v03"
+  },
+  "viv13-010-p01": {
+   "grade": 2,
+   "reason": "We grow wiser through failure.",
+   "batch": "v03"
+  },
+  "meditations-006-p07": {
+   "grade": 2,
+   "reason": "Don't be discouraged by failing; return and keep on.",
+   "batch": "v03"
+  },
+  "viv07-018-p06": {
+   "grade": 3,
+   "reason": "Don't count failures; go forward and light will come.",
+   "batch": "v03"
+  }
+ },
+ "AS32": {
+  "bib-pro-001-p05": {
+   "grade": 2,
+   "reason": "Do not fear sudden terror; steady confidence before the review.",
+   "batch": "v04"
+  },
+  "teresa-interior-castle-016-p03": {
+   "grade": 1,
+   "reason": "Praise or blame, you gain; only loosely touches review anxiety.",
+   "batch": "v04"
+  },
+  "seneca-005-p08": {
+   "grade": 3,
+   "reason": "Test whether your evidence of trouble is real; fits fear despite fine metrics.",
+   "batch": "v04"
+  },
+  "viv08-010-p05": {
+   "grade": 2,
+   "reason": "Fear nothing, be at peace; general calm for the dread.",
+   "batch": "v04"
+  },
+  "imitation-of-christ-benham-014-p08": {
+   "grade": 2,
+   "reason": "Worry about future events that may never come only adds sorrow.",
+   "batch": "v04"
+  },
+  "seneca-005-p06": {
+   "grade": 3,
+   "reason": "We suffer more in imagination; don't be unhappy before the crisis.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-009-p01": {
+   "grade": 2,
+   "reason": "Anxiety comes from wanting what's outside our control, like applause.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-023-p02": {
+   "grade": 2,
+   "reason": "Treat the frightening thought as only an impression and test it.",
+   "batch": "v04"
+  },
+  "seneca-011-p02": {
+   "grade": 3,
+   "reason": "Don't spoil today fearing tomorrow; size up the worst case.",
+   "batch": "v04"
+  },
+  "emerson-essays-044-p06": {
+   "grade": 1,
+   "reason": "About consistency and self-trust; beside the point.",
+   "batch": "v04"
+  }
+ },
+ "AS33": {
+  "bib-galatians-001-p06": {
+   "grade": 1,
+   "reason": "Examine your own work; only partly touches stolen credit.",
+   "batch": "v04"
+  },
+  "meditations-015-p02": {
+   "grade": 1,
+   "reason": "Turns blame on the helper; would land poorly here.",
+   "batch": "v04"
+  },
+  "viv02-010-p03": {
+   "grade": 2,
+   "reason": "Expect nothing, even thanks; eases the sting of ingratitude.",
+   "batch": "v04"
+  },
+  "seneca-043-p02": {
+   "grade": 1,
+   "reason": "Virtue is its own reward; generic for a credit question.",
+   "batch": "v04"
+  },
+  "mn-120-p01": {
+   "grade": 3,
+   "reason": "If true and beneficial, choose the right time to speak; answers the question.",
+   "batch": "v04"
+  },
+  "meditations-006-p06": {
+   "grade": 1,
+   "reason": "Do good without seeking notice; sidesteps wanting to be seen.",
+   "batch": "v04"
+  },
+  "viv02-008-p02": {
+   "grade": 1,
+   "reason": "Don't expect thanks; misses the workplace visibility issue.",
+   "batch": "v04"
+  },
+  "gibran-sand-and-foam-002-p20": {
+   "grade": 0,
+   "reason": "About charity and the receiver's shyness; off-topic.",
+   "batch": "v04"
+  },
+  "enchiridion-003-p04": {
+   "grade": 1,
+   "reason": "Bear wrongdoers gently; loosely related.",
+   "batch": "v04"
+  },
+  "tagore-stray-birds-001-p46": {
+   "grade": 2,
+   "reason": "Don't credit others with your own merits; light, apt nudge.",
+   "batch": "v04"
+  }
+ },
+ "AS34": {
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Ambiguous on striving; little help with the fear.",
+   "batch": "v04"
+  },
+  "an-089-p01": {
+   "grade": 1,
+   "reason": "About a dying husband's worries; only loosely about providing.",
+   "batch": "v04"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "There is a fit place and work for you; trust in guidance.",
+   "batch": "v04"
+  },
+  "bib-hebrews-003-p04": {
+   "grade": 2,
+   "reason": "You will not be forsaken; courage against fear of loss.",
+   "batch": "v04"
+  },
+  "bib-deuteronomy-009-p01": {
+   "grade": 0,
+   "reason": "A curse of constant dread; deepens fear.",
+   "batch": "v04"
+  },
+  "seneca-061-p05": {
+   "grade": 1,
+   "reason": "Leaving harmful company is health; loosely supports leaving.",
+   "batch": "v04"
+  },
+  "sn-056-p01": {
+   "grade": 0,
+   "reason": "About living on alms; off-target and bleak.",
+   "batch": "v04"
+  },
+  "mn-090-p01": {
+   "grade": 2,
+   "reason": "Painful steps lead to healing and freedom; fits a hard transition.",
+   "batch": "v04"
+  },
+  "seneca-040-p03": {
+   "grade": 0,
+   "reason": "About suicidal impulses; unsuitable here.",
+   "batch": "v04"
+  },
+  "seneca-016-p03": {
+   "grade": 1,
+   "reason": "Brief and general; no help with how to do it.",
+   "batch": "v04"
+  }
+ },
+ "AS35": {
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "A right place exists for you; reassurance amid doubt.",
+   "batch": "v04"
+  },
+  "viv12-009-p04": {
+   "grade": 3,
+   "reason": "Choose the ideal that suits your nature and persevere.",
+   "batch": "v04"
+  },
+  "seneca-007-p01": {
+   "grade": 2,
+   "reason": "Don't measure against those ahead; compare with yourself.",
+   "batch": "v04"
+  },
+  "schopenhauer-wisdom-of-life-002-p02": {
+   "grade": 2,
+   "reason": "A calling that ignores your strengths brings unhappiness; validates change.",
+   "batch": "v04"
+  },
+  "seneca-010-p01": {
+   "grade": 1,
+   "reason": "Suggests people cling to what they hate; faintly accusatory.",
+   "batch": "v04"
+  },
+  "tagore-gitanjali-003-p01": {
+   "grade": 2,
+   "reason": "Companions hurry on; finding quiet delight in falling behind.",
+   "batch": "v04"
+  },
+  "enchiridion-001-p13": {
+   "grade": 2,
+   "reason": "Hold to what seems best despite others; steadiness on a different path.",
+   "batch": "v04"
+  },
+  "emerson-essays-037-p02": {
+   "grade": 2,
+   "reason": "Every gift has its turn; we all take turns at the top.",
+   "batch": "v04"
+  },
+  "seneca-035-p08": {
+   "grade": 1,
+   "reason": "About ambition never satisfied; not their feeling.",
+   "batch": "v04"
+  },
+  "emerson-essays-048-p02": {
+   "grade": 3,
+   "reason": "Each has their own vocation and open channel; hope for a new path.",
+   "batch": "v04"
+  }
+ },
+ "AS36": {
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Ambiguous: suggests stopping; not encouraging.",
+   "batch": "v04"
+  },
+  "viv13-025-p02": {
+   "grade": 2,
+   "reason": "We all struggle, and effort gets us somewhere better.",
+   "batch": "v04"
+  },
+  "viv02-002-p03": {
+   "grade": 0,
+   "reason": "About selfish motives; off-topic.",
+   "batch": "v04"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 2,
+   "reason": "Past failures don't measure your capacity; don't despair.",
+   "batch": "v04"
+  },
+  "teresa-interior-castle-003-p03": {
+   "grade": 1,
+   "reason": "Perseverance in religious calling; only loosely fits.",
+   "batch": "v04"
+  },
+  "bib-2chronicles-004-p02": {
+   "grade": 2,
+   "reason": "Be strong; your work will be rewarded.",
+   "batch": "v04"
+  },
+  "emerson-essays-046-p02": {
+   "grade": 2,
+   "reason": "Don't lose heart at early setbacks; many chances remain.",
+   "batch": "v04"
+  },
+  "seneca-002-p10": {
+   "grade": 1,
+   "reason": "Learning isn't wasted; tangential to job rejections.",
+   "batch": "v04"
+  },
+  "an-114-p01": {
+   "grade": 1,
+   "reason": "Generic call to persist.",
+   "batch": "v04"
+  },
+  "viv07-006-p02": {
+   "grade": 1,
+   "reason": "Expect nothing from others; cold for this moment.",
+   "batch": "v04"
+  }
+ },
+ "AS37": {
+  "viv03-004-p03": {
+   "grade": 2,
+   "reason": "Begin where you stand, with what's nearest; a starting point.",
+   "batch": "v04"
+  },
+  "walden-thoreau-006-p01": {
+   "grade": 0,
+   "reason": "Praises borrowing; jarring to someone drowning in debt.",
+   "batch": "v04"
+  },
+  "teresa-interior-castle-004-p05": {
+   "grade": 2,
+   "reason": "The past can't be undone; rely on mercy and go on.",
+   "batch": "v04"
+  },
+  "emerson-essays-014-p02": {
+   "grade": 0,
+   "reason": "Frames the struggling as clinging to vices; blaming.",
+   "batch": "v04"
+  },
+  "tagore-gitanjali-002-p02": {
+   "grade": 1,
+   "reason": "Echoes debts and shame; mostly restates.",
+   "batch": "v04"
+  },
+  "walden-thoreau-046-p04": {
+   "grade": 0,
+   "reason": "About not supporting wrongs; off-topic.",
+   "batch": "v04"
+  },
+  "gibran-sand-and-foam-002-p22": {
+   "grade": 1,
+   "reason": "Restates the debt cycle; nothing to take away.",
+   "batch": "v04"
+  },
+  "seneca-016-p03": {
+   "grade": 2,
+   "reason": "You can't escape necessities but can overcome them.",
+   "batch": "v04"
+  },
+  "augustine-confessions-pusey-034-p05": {
+   "grade": 1,
+   "reason": "Sin-focused; some comfort but may feel like blame.",
+   "batch": "v04"
+  },
+  "augustine-confessions-pusey-017-p01": {
+   "grade": 1,
+   "reason": "About carnal sins; only loosely about the mire of debt.",
+   "batch": "v04"
+  }
+ },
+ "AS38": {
+  "bib-isaiah-006-p02": {
+   "grade": 1,
+   "reason": "Hide in your rooms; ironic for someone losing their home.",
+   "batch": "v04"
+  },
+  "bib-psa-001-p08": {
+   "grade": 2,
+   "reason": "A refuge for the oppressed in trouble.",
+   "batch": "v04"
+  },
+  "bib-psa-006-p10": {
+   "grade": 2,
+   "reason": "Shelter until disaster passes; comfort in crisis.",
+   "batch": "v04"
+  },
+  "bib-deuteronomy-011-p01": {
+   "grade": 2,
+   "reason": "God as dwelling place; a refuge when home is lost.",
+   "batch": "v04"
+  },
+  "bib-zechariah-002-p02": {
+   "grade": 2,
+   "reason": "Prisoners of hope will be restored; encouragement.",
+   "batch": "v04"
+  },
+  "bib-judith-003-p01": {
+   "grade": 2,
+   "reason": "Protector of the weak and forlorn; consolation.",
+   "batch": "v04"
+  },
+  "tagore-gitanjali-003-p10": {
+   "grade": 3,
+   "reason": "Fear of leaving familiar shelter; new homes and friends will come.",
+   "batch": "v04"
+  },
+  "bib-psa-012-p05": {
+   "grade": 3,
+   "reason": "Homeless wanderers led to a city to live in; direct hope.",
+   "batch": "v04"
+  },
+  "bib-psa-003-p06": {
+   "grade": 1,
+   "reason": "About parental abandonment; loosely related.",
+   "batch": "v04"
+  },
+  "imitation-of-christ-benham-007-p05": {
+   "grade": 2,
+   "reason": "When comfort is taken, don't despair; more may be given back.",
+   "batch": "v04"
+  }
+ },
+ "AS39": {
+  "seneca-018-p02": {
+   "grade": 1,
+   "reason": "Less money, less trouble; glib for someone struggling.",
+   "batch": "v04"
+  },
+  "seneca-078-p01": {
+   "grade": 0,
+   "reason": "About greed; implies a fault they don't have.",
+   "batch": "v04"
+  },
+  "bib-matthew-002-p06": {
+   "grade": 2,
+   "reason": "Don't be anxious; you are cared for. Comfort for worry.",
+   "batch": "v04"
+  },
+  "viv11-031-p02": {
+   "grade": 2,
+   "reason": "Years without knowing the next meal, yet needs came; hope.",
+   "batch": "v04"
+  },
+  "bib-luke-006-p03": {
+   "grade": 2,
+   "reason": "Worry can't add anything; you are valued and provided for.",
+   "batch": "v04"
+  },
+  "bib-haggai-001-p01": {
+   "grade": 1,
+   "reason": "Restates the leaking wages; 'consider your ways' sounds blaming.",
+   "batch": "v04"
+  },
+  "schopenhauer-wisdom-of-life-006-p02": {
+   "grade": 1,
+   "reason": "About riches and lowering claims; detached.",
+   "batch": "v04"
+  },
+  "bib-hebrews-003-p04": {
+   "grade": 1,
+   "reason": "'Don't love money' misreads their need, though offers presence.",
+   "batch": "v04"
+  },
+  "chuang-tzu-giles-007-p03": {
+   "grade": 2,
+   "reason": "Poverty not one's own fault; validates doing everything right.",
+   "batch": "v04"
+  },
+  "sn-056-p01": {
+   "grade": 0,
+   "reason": "About living on alms; bleak and off-target.",
+   "batch": "v04"
+  }
+ },
+ "AS40": {
+  "seneca-064-p06": {
+   "grade": 1,
+   "reason": "Losses and illness are common; thin solidarity.",
+   "batch": "v04"
+  },
+  "seneca-002-p01": {
+   "grade": 0,
+   "reason": "Calls needs superfluous; dismissive of medicine and brakes.",
+   "batch": "v04"
+  },
+  "viv12-002-p02": {
+   "grade": 1,
+   "reason": "Dignity of the poor; not addressed to their choice.",
+   "batch": "v04"
+  },
+  "viv11-051-p03": {
+   "grade": 2,
+   "reason": "Basic needs come first; respects material hardship.",
+   "batch": "v04"
+  },
+  "seneca-012-p01": {
+   "grade": 0,
+   "reason": "About curing others; off-topic.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-014-p03": {
+   "grade": 1,
+   "reason": "Bear hardship well; may feel dismissive.",
+   "batch": "v04"
+  },
+  "aristotle-ethics-007-p03": {
+   "grade": 2,
+   "reason": "Choosing between painful alternatives is hard; compulsion lessens blame.",
+   "batch": "v04"
+  },
+  "bib-matthew-003-p01": {
+   "grade": 1,
+   "reason": "Sick need a physician; shares a word only.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-023-p07": {
+   "grade": 1,
+   "reason": "Illness doesn't bind the will; abstract here.",
+   "batch": "v04"
+  },
+  "sn-056-p01": {
+   "grade": 0,
+   "reason": "About living on alms; off-target.",
+   "batch": "v04"
+  }
+ },
+ "AS41": {
+  "bib-hebrews-003-p04": {
+   "grade": 2,
+   "reason": "Contentment and not being forsaken; calms money fear.",
+   "batch": "v04"
+  },
+  "seneca-078-p01": {
+   "grade": 1,
+   "reason": "About greed; partly mirrors worry over losses.",
+   "batch": "v04"
+  },
+  "viv11-031-p02": {
+   "grade": 1,
+   "reason": "Money will come; breezy for real anxiety.",
+   "batch": "v04"
+  },
+  "bib-luke-006-p03": {
+   "grade": 2,
+   "reason": "Worry adds nothing; you are cared for.",
+   "batch": "v04"
+  },
+  "seneca-006-p03": {
+   "grade": 1,
+   "reason": "About craving riches; not their fear.",
+   "batch": "v04"
+  },
+  "emerson-essays-035-p04": {
+   "grade": 1,
+   "reason": "Paralysed by fear of losing property; restates more than helps.",
+   "batch": "v04"
+  },
+  "augustine-confessions-pusey-047-p01": {
+   "grade": 2,
+   "reason": "Learning to be steady in plenty or need.",
+   "batch": "v04"
+  },
+  "bib-matthew-002-p06": {
+   "grade": 2,
+   "reason": "Don't be anxious about provision; consolation.",
+   "batch": "v04"
+  },
+  "seneca-005-p06": {
+   "grade": 3,
+   "reason": "We suffer more in imagination; helps tell fear from real trouble.",
+   "batch": "v04"
+  },
+  "seneca-036-p06": {
+   "grade": 1,
+   "reason": "Fleeting goods crush their owners; bleak.",
+   "batch": "v04"
+  }
+ },
+ "AS42": {
+  "enchiridion-003-p05": {
+   "grade": 1,
+   "reason": "Bear a brother's wrongs; not about setting limits.",
+   "batch": "v04"
+  },
+  "soul-of-the-indian-eastman-005-p01": {
+   "grade": 0,
+   "reason": "Shames the ungenerous; would deepen guilt.",
+   "batch": "v04"
+  },
+  "aristotle-ethics-034-p02": {
+   "grade": 1,
+   "reason": "Etiquette of friends' help; indirect.",
+   "batch": "v04"
+  },
+  "viv02-005-p03": {
+   "grade": 1,
+   "reason": "Give without return; doesn't help with limits.",
+   "batch": "v04"
+  },
+  "bib-2corinthians-002-p02": {
+   "grade": 3,
+   "reason": "Giving is judged by what you have, not what you lack.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 1,
+   "reason": "About a brother's injustice; beside the point.",
+   "batch": "v04"
+  },
+  "aristotle-ethics-011-p03": {
+   "grade": 3,
+   "reason": "Generosity is proportion to means; limits aren't stinginess.",
+   "batch": "v04"
+  },
+  "teresa-interior-castle-012-p02": {
+   "grade": 0,
+   "reason": "Urges forfeiting your own interests; works against them.",
+   "batch": "v04"
+  },
+  "aristotle-ethics-030-p02": {
+   "grade": 2,
+   "reason": "Relationships ask what is possible, not what is due.",
+   "batch": "v04"
+  },
+  "schopenhauer-counsels-maxims-009-p03": {
+   "grade": 2,
+   "reason": "Refusing a loan rarely loses a relationship; eases guilt.",
+   "batch": "v04"
+  }
+ },
+ "AS43": {
+  "aristotle-ethics-028-p02": {
+   "grade": 0,
+   "reason": "About mothers giving up children; off-topic.",
+   "batch": "v04"
+  },
+  "viv02-005-p03": {
+   "grade": 1,
+   "reason": "Parental duty without return; doesn't address the ex.",
+   "batch": "v04"
+  },
+  "emerson-essays-051-p05": {
+   "grade": 1,
+   "reason": "About relating to a child; beside the question.",
+   "batch": "v04"
+  },
+  "gibran-sand-and-foam-003-p78": {
+   "grade": 1,
+   "reason": "Empty and full hands; only loosely fits.",
+   "batch": "v04"
+  },
+  "viv07-006-p02": {
+   "grade": 1,
+   "reason": "Expect nothing from anyone; may read as giving up.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-015-p06": {
+   "grade": 0,
+   "reason": "Calls hardship mere opinion; dismissive to a struggling parent.",
+   "batch": "v04"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Despair that justice won't come; deflating.",
+   "batch": "v04"
+  },
+  "seneca-012-p01": {
+   "grade": 2,
+   "reason": "Better to try and lack success than lack faith.",
+   "batch": "v04"
+  },
+  "chuang-tzu-giles-027-p04": {
+   "grade": 0,
+   "reason": "Filial piety; off-topic.",
+   "batch": "v04"
+  },
+  "bib-jeremiah-015-p01": {
+   "grade": 1,
+   "reason": "Care for fatherless and widows; some comfort, oddly framed.",
+   "batch": "v04"
+  }
+ },
+ "AS44": {
+  "an-048-p04": {
+   "grade": 1,
+   "reason": "Mental vs physical illness; doctrinal, not consoling.",
+   "batch": "v04"
+  },
+  "epictetus-discourses-long-023-p07": {
+   "grade": 2,
+   "reason": "Illness hinders the body, not the self; addresses the gap.",
+   "batch": "v04"
+  },
+  "bib-psa-004-p13": {
+   "grade": 1,
+   "reason": "Mostly restates illness and friends keeping distance.",
+   "batch": "v04"
+  },
+  "dn-021-p02": {
+   "grade": 2,
+   "reason": "Recovery from grave illness brings joy; hope.",
+   "batch": "v04"
+  },
+  "enchiridion-001-p04": {
+   "grade": 2,
+   "reason": "Sickness hinders the body but not you yourself.",
+   "batch": "v04"
+  },
+  "seneca-041-p05": {
+   "grade": 2,
+   "reason": "Courage and virtue possible even on a sickbed.",
+   "batch": "v04"
+  },
+  "viv04-004-p04": {
+   "grade": 1,
+   "reason": "Body-identity causes separation; abstract and faintly blaming.",
+   "batch": "v04"
+  },
+  "seneca-040-p05": {
+   "grade": 2,
+   "reason": "Friends' affection heals the sick; bridges the gap to others.",
+   "batch": "v04"
+  },
+  "augustine-confessions-pusey-018-p03": {
+   "grade": 1,
+   "reason": "Spiritual healing of pride; loosely related.",
+   "batch": "v04"
+  },
+  "an-100-p02": {
+   "grade": 1,
+   "reason": "Only states that illness is suffering.",
+   "batch": "v04"
+  }
+ },
+ "AS45": {
+  "dn-021-p02": {
+   "grade": 2,
+   "reason": "Image of recovery after grave illness; offers hope, though not the carer's fear.",
+   "batch": "v05"
+  },
+  "bib-deuteronomy-009-p01": {
+   "grade": 1,
+   "reason": "A curse describing constant dread; restates fear with nothing to hold.",
+   "batch": "v05"
+  },
+  "seneca-012-p01": {
+   "grade": 2,
+   "reason": "Don't despair of a cure even when illness persists; steadying hope.",
+   "batch": "v05"
+  },
+  "seneca-040-p05": {
+   "grade": 2,
+   "reason": "Shows how much a loved one's presence helps the sick; gives the carer purpose.",
+   "batch": "v05"
+  },
+  "seneca-064-p06": {
+   "grade": 1,
+   "reason": "Illness is common lot; cool and generic for someone scared.",
+   "batch": "v05"
+  },
+  "seneca-011-p05": {
+   "grade": 1,
+   "reason": "Expect every disaster; harsh for a frightened person.",
+   "batch": "v05"
+  },
+  "walden-thoreau-011-p02": {
+   "grade": 1,
+   "reason": "Share courage not despair; could read as a rebuke of their fear.",
+   "batch": "v05"
+  },
+  "seneca-041-p05": {
+   "grade": 1,
+   "reason": "Addresses the patient's bravery, not the frightened partner.",
+   "batch": "v05"
+  },
+  "bib-2esdras-007-p01": {
+   "grade": 1,
+   "reason": "Only restates weakness from fear; nothing to take away.",
+   "batch": "v05"
+  },
+  "walden-thoreau-002-p02": {
+   "grade": 1,
+   "reason": "General call to trust more; loosely tied to their fear.",
+   "batch": "v05"
+  }
+ },
+ "AS46": {
+  "bib-psa-006-p05": {
+   "grade": 1,
+   "reason": "Describes terror and wish to escape; restates without relief.",
+   "batch": "v05"
+  },
+  "bib-deuteronomy-009-p01": {
+   "grade": 0,
+   "reason": "A curse of constant dread; would deepen night panic.",
+   "batch": "v05"
+  },
+  "bib-isaiah-004-p02": {
+   "grade": 1,
+   "reason": "Heart fluttering in horror; mirrors the feeling but offers nothing.",
+   "batch": "v05"
+  },
+  "viv11-023-p03": {
+   "grade": 0,
+   "reason": "About glimpses of the Infinite; off-topic for night panic.",
+   "batch": "v05"
+  },
+  "bib-psa-001-p02": {
+   "grade": 2,
+   "reason": "Lay down, slept, woke sustained and unafraid; calming.",
+   "batch": "v05"
+  },
+  "bib-2esdras-002-p03": {
+   "grade": 2,
+   "reason": "Woke trembling and was held and comforted; others have known this.",
+   "batch": "v05"
+  },
+  "seneca-024-p01": {
+   "grade": 2,
+   "reason": "Night magnifies worries; points to calm of a relaxed mind.",
+   "batch": "v05"
+  },
+  "sn-010-p04": {
+   "grade": 1,
+   "reason": "Buddha sleeps untroubled; distant from someone waking in panic.",
+   "batch": "v05"
+  },
+  "bib-sirach-009-p01": {
+   "grade": 3,
+   "reason": "Everyone wakes troubled at night, then marvels the fear was nothing; normalising.",
+   "batch": "v05"
+  },
+  "viv07-017-p02": {
+   "grade": 1,
+   "reason": "Scattered mind in meditation; only loosely related.",
+   "batch": "v05"
+  }
+ },
+ "AS47": {
+  "sn-090-p02": {
+   "grade": 1,
+   "reason": "Calls those who can't bear pain weaklings; harsh to someone dismissed.",
+   "batch": "v05"
+  },
+  "walden-thoreau-002-p02": {
+   "grade": 0,
+   "reason": "Calls anxiety the disease; echoes the 'just stress' dismissal.",
+   "batch": "v05"
+  },
+  "mn-090-p01": {
+   "grade": 1,
+   "reason": "Painful treatment then healing; not their situation of no diagnosis.",
+   "batch": "v05"
+  },
+  "seneca-037-p04": {
+   "grade": 0,
+   "reason": "Implies symptoms come from a feeble spirit; invalidating.",
+   "batch": "v05"
+  },
+  "seneca-070-p07": {
+   "grade": 1,
+   "reason": "Sick need medicine; faintly supports seeking care, mostly off-target.",
+   "batch": "v05"
+  },
+  "an-048-p04": {
+   "grade": 0,
+   "reason": "Everyone is mentally ill; reinforces 'it's in your head'.",
+   "batch": "v05"
+  },
+  "seneca-059-p02": {
+   "grade": 0,
+   "reason": "Says lasting pain can't be severe; dismissive of constant pain.",
+   "batch": "v05"
+  },
+  "chuang-tzu-giles-010-p02": {
+   "grade": 0,
+   "reason": "Stillness brings immortality; irrelevant to unexplained pain.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-018-p03": {
+   "grade": 0,
+   "reason": "About spiritual pride being healed; off-topic.",
+   "batch": "v05"
+  },
+  "seneca-012-p01": {
+   "grade": 2,
+   "reason": "Don't give up on healing chronic illness; encourages persistence.",
+   "batch": "v05"
+  }
+ },
+ "AS48": {
+  "viv13-025-p03": {
+   "grade": 2,
+   "reason": "Meditation gives rest deeper than sleep; a possible route to relief.",
+   "batch": "v05"
+  },
+  "sn-010-p04": {
+   "grade": 1,
+   "reason": "Even the pierced sleep a little; thin comfort, about the Buddha.",
+   "batch": "v05"
+  },
+  "bib-psa-009-p01": {
+   "grade": 1,
+   "reason": "Kept awake and uncomforted; restates the sleeplessness.",
+   "batch": "v05"
+  },
+  "seneca-024-p01": {
+   "grade": 2,
+   "reason": "Sleepless nights harrow; real calm comes from a relaxed mind.",
+   "batch": "v05"
+  },
+  "tagore-gitanjali-001-p21": {
+   "grade": 2,
+   "reason": "Sleep without struggle, trusting; gentle for an exhausted person.",
+   "batch": "v05"
+  },
+  "chuang-tzu-giles-010-p02": {
+   "grade": 1,
+   "reason": "'Hear nothing' is impossible advice for tinnitus.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-027-p03": {
+   "grade": 1,
+   "reason": "Sleep softened grief; about sorrow, not noise or insomnia.",
+   "batch": "v05"
+  },
+  "bib-2esdras-001-p03": {
+   "grade": 2,
+   "reason": "Short promise that rest and quietness will come; meets the longing.",
+   "batch": "v05"
+  },
+  "seneca-024-p02": {
+   "grade": 1,
+   "reason": "Mocks hearing sounds that aren't there; risks dismissing tinnitus.",
+   "batch": "v05"
+  },
+  "chuang-tzu-giles-028-p01": {
+   "grade": 1,
+   "reason": "Quiet heals; generic, they cannot get quiet.",
+   "batch": "v05"
+  }
+ },
+ "AS49": {
+  "seneca-011-p02": {
+   "grade": 3,
+   "reason": "Don't ruin today fearing tomorrow; directly about waiting in dread.",
+   "batch": "v05"
+  },
+  "imitation-of-christ-benham-014-p08": {
+   "grade": 3,
+   "reason": "Vain fear of future things; wait, healing will come.",
+   "batch": "v05"
+  },
+  "seneca-005-p06": {
+   "grade": 3,
+   "reason": "We suffer more in imagination; don't be unhappy before the crisis.",
+   "batch": "v05"
+  },
+  "meditations-012-p05": {
+   "grade": 3,
+   "reason": "Only the present can hurt; take it moment by moment.",
+   "batch": "v05"
+  },
+  "seneca-059-p02": {
+   "grade": 1,
+   "reason": "About enduring pain, not the anxious wait.",
+   "batch": "v05"
+  },
+  "walden-thoreau-002-p02": {
+   "grade": 1,
+   "reason": "Trust more, but calls anxiety near-incurable; mixed for health anxiety.",
+   "batch": "v05"
+  },
+  "teresa-interior-castle-007-p01": {
+   "grade": 2,
+   "reason": "Don't be distressed by intrusive thoughts; bear them patiently.",
+   "batch": "v05"
+  },
+  "seneca-005-p09": {
+   "grade": 3,
+   "reason": "The expected often never comes; don't rush to meet suffering.",
+   "batch": "v05"
+  },
+  "seneca-005-p10": {
+   "grade": 3,
+   "reason": "The mind invents worst cases; temper fear with hope.",
+   "batch": "v05"
+  },
+  "seneca-041-p01": {
+   "grade": 2,
+   "reason": "Opinion adds to pain; helpful, though may minimise a real symptom.",
+   "batch": "v05"
+  }
+ },
+ "AS50": {
+  "bib-psa-012-p01": {
+   "grade": 1,
+   "reason": "Plea not to die mid-life; touches lost years without consolation for them.",
+   "batch": "v05"
+  },
+  "bib-joel-001-p02": {
+   "grade": 3,
+   "reason": "Promise to restore the years the locusts ate; speaks to lost years.",
+   "batch": "v05"
+  },
+  "bib-psa-004-p13": {
+   "grade": 1,
+   "reason": "Sick and abandoned by friends; restates without comfort.",
+   "batch": "v05"
+  },
+  "an-100-p02": {
+   "grade": 1,
+   "reason": "Illness is suffering; generic, nothing to take away.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-018-p03": {
+   "grade": 0,
+   "reason": "About healing pride; off-target.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-038-p02": {
+   "grade": 1,
+   "reason": "Years spent in mourning; mostly restates, faint comfort.",
+   "batch": "v05"
+  },
+  "emerson-essays-010-p06": {
+   "grade": 3,
+   "reason": "Illness seems pure loss but years reveal growth and new paths.",
+   "batch": "v05"
+  },
+  "seneca-040-p05": {
+   "grade": 1,
+   "reason": "Friends at the bedside; contrasts painfully with nobody understanding.",
+   "batch": "v05"
+  },
+  "bib-isaiah-008-p02": {
+   "grade": 1,
+   "reason": "Robbed of remaining years; restates the loss only.",
+   "batch": "v05"
+  },
+  "bib-lamentations-001-p05": {
+   "grade": 2,
+   "reason": "Lost peace and strength, yet hope renewed each morning.",
+   "batch": "v05"
+  }
+ },
+ "AS51": {
+  "augustine-confessions-pusey-012-p01": {
+   "grade": 0,
+   "reason": "About lying to his mother; unrelated to being scammed.",
+   "batch": "v05"
+  },
+  "sn-099-p01": {
+   "grade": 0,
+   "reason": "About giving up lying; casts the victim as wrongdoer.",
+   "batch": "v05"
+  },
+  "bib-psa-003-p03": {
+   "grade": 0,
+   "reason": "Asks pardon for sins; they were victims, not sinners.",
+   "batch": "v05"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Tells mother to stop praying; would undermine their prayer.",
+   "batch": "v05"
+  },
+  "bib-james-001-p14": {
+   "grade": 1,
+   "reason": "Opening up brings healing, but framed as confessing offences.",
+   "batch": "v05"
+  },
+  "teresa-interior-castle-004-p05": {
+   "grade": 1,
+   "reason": "Can't undo the past, rely on mercy; framed around sin.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-028-p03": {
+   "grade": 1,
+   "reason": "Rising from despair after sin; misframes their shame.",
+   "batch": "v05"
+  },
+  "bib-psa-006-p02": {
+   "grade": 0,
+   "reason": "Plea to wash away guilt; implies they sinned.",
+   "batch": "v05"
+  },
+  "schopenhauer-counsels-maxims-012-p06": {
+   "grade": 2,
+   "reason": "Reframes being cheated as buying wisdom; eases 'stupid', may feel light.",
+   "batch": "v05"
+  },
+  "bib-3maccabees-001-p01": {
+   "grade": 1,
+   "reason": "Prayer for peace for the broken-hearted, but about sins.",
+   "batch": "v05"
+  }
+ },
+ "AS52": {
+  "schopenhauer-counsels-maxims-012-p06": {
+   "grade": 1,
+   "reason": "Quip about cheated money; may feel like the laugh they fear.",
+   "batch": "v05"
+  },
+  "schopenhauer-counsels-maxims-006-p02": {
+   "grade": 3,
+   "reason": "Don't torment yourself that it could have been avoided.",
+   "batch": "v05"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 3,
+   "reason": "No one is promised never to look foolish; be generous with your dignity.",
+   "batch": "v05"
+  },
+  "seneca-066-p02": {
+   "grade": 1,
+   "reason": "Cherish what you had; poor fit for lost rent money.",
+   "batch": "v05"
+  },
+  "mn-018-p02": {
+   "grade": 1,
+   "reason": "Don't resent abuse; not about self-blame over a scam.",
+   "batch": "v05"
+  },
+  "epictetus-discourses-long-003-p03": {
+   "grade": 2,
+   "reason": "Thief's act is nothing strange; calm acceptance of being robbed.",
+   "batch": "v05"
+  },
+  "seneca-018-p02": {
+   "grade": 1,
+   "reason": "'Less money, less trouble' is flippant about rent money.",
+   "batch": "v05"
+  },
+  "meditations-012-p06": {
+   "grade": 2,
+   "reason": "Don't inflict pain on yourself; counters 'I deserve it'.",
+   "batch": "v05"
+  },
+  "an-139-p01": {
+   "grade": 1,
+   "reason": "About resentment toward others, not self-blame.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-002-p30": {
+   "grade": 0,
+   "reason": "Laughing about being cheated; feels mocking here.",
+   "batch": "v05"
+  }
+ },
+ "AS53": {
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Sorrow grows the self; vague for their dilemma.",
+   "batch": "v05"
+  },
+  "bib-james-001-p14": {
+   "grade": 2,
+   "reason": "Confessing to one another heals; supports reaching out.",
+   "batch": "v05"
+  },
+  "bib-psa-003-p13": {
+   "grade": 2,
+   "reason": "Silence wasted me; acknowledging wrong brought forgiveness.",
+   "batch": "v05"
+  },
+  "bib-psa-003-p03": {
+   "grade": 2,
+   "reason": "Plea not to be held to the sins of youth; fits a teenage wrong.",
+   "batch": "v05"
+  },
+  "bib-psa-006-p02": {
+   "grade": 1,
+   "reason": "Sin always before me; mostly restates the haunting.",
+   "batch": "v05"
+  },
+  "emerson-essays-004-p02": {
+   "grade": 3,
+   "reason": "New actions are the true apology; answers the selfish-apology worry.",
+   "batch": "v05"
+  },
+  "imitation-of-christ-benham-018-p06": {
+   "grade": 2,
+   "reason": "Contrition reconciles a troubled conscience; hope of pardon.",
+   "batch": "v05"
+  },
+  "american-indian-stories-zitkala-005-p01": {
+   "grade": 0,
+   "reason": "Speaker's own sad school memories; not about having harmed someone.",
+   "batch": "v05"
+  },
+  "viv12-002-p06": {
+   "grade": 2,
+   "reason": "Schoolboy wrong later became friendship; hope from the other side.",
+   "batch": "v05"
+  },
+  "meditations-012-p06": {
+   "grade": 0,
+   "reason": "Premise 'never gave pain' contradicts their cruelty.",
+   "batch": "v05"
+  }
+ },
+ "AS54": {
+  "gibran-sand-and-foam-002-p33": {
+   "grade": 1,
+   "reason": "Taking blame to appease another; restates the dynamic.",
+   "batch": "v05"
+  },
+  "bib-nehemiah-002-p03": {
+   "grade": 0,
+   "reason": "'You imagine them' echoes gaslighting; harmful.",
+   "batch": "v05"
+  },
+  "schopenhauer-counsels-maxims-009-p01": {
+   "grade": 2,
+   "reason": "Truth surfaces over time; supports trusting a clear view.",
+   "batch": "v05"
+  },
+  "emerson-essays-044-p06": {
+   "grade": 0,
+   "reason": "Says don't rely on memory; undermines a gaslit person.",
+   "batch": "v05"
+  },
+  "viv08-011-p02": {
+   "grade": 0,
+   "reason": "All past actions are good; jarring after abuse.",
+   "batch": "v05"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Betrayal by one trusted; restates without help.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-001-p09": {
+   "grade": 1,
+   "reason": "Forgetting as freedom; thin, they doubt memory already.",
+   "batch": "v05"
+  },
+  "viv07-008-p02": {
+   "grade": 3,
+   "reason": "Told he was weak all his life, he reasons his way to his own strength.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-001-p57": {
+   "grade": 0,
+   "reason": "Truth lies between us; feeds self-doubt.",
+   "batch": "v05"
+  },
+  "dn-069-p01": {
+   "grade": 1,
+   "reason": "Letting go resentment; not about rebuilding self-trust.",
+   "batch": "v05"
+  }
+ },
+ "AS55": {
+  "bib-sirach-002-p03": {
+   "grade": 0,
+   "reason": "Honour your father; jarring given their father's harm.",
+   "batch": "v05"
+  },
+  "imitation-of-christ-benham-019-p07": {
+   "grade": 2,
+   "reason": "Check hasty words that hurt the little ones; storm calms, grace returns.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-003-p56": {
+   "grade": 0,
+   "reason": "Children as regrets; hurtful and off-point.",
+   "batch": "v05"
+  },
+  "emerson-essays-051-p05": {
+   "grade": 3,
+   "reason": "With a child, wilfulness fails; acting from soul restores love.",
+   "batch": "v05"
+  },
+  "bib-colossians-001-p03": {
+   "grade": 1,
+   "reason": "Don't provoke children; true but only a rebuke.",
+   "batch": "v05"
+  },
+  "bib-psa-003-p03": {
+   "grade": 1,
+   "reason": "Plea for pardon of youthful sins; not this situation.",
+   "batch": "v05"
+  },
+  "bib-nehemiah-003-p02": {
+   "grade": 2,
+   "reason": "God ready to pardon and slow to anger; mercy and a model.",
+   "batch": "v05"
+  },
+  "viv13-010-p04": {
+   "grade": 2,
+   "reason": "Patience with a child's failings, God's patience with ours.",
+   "batch": "v05"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Lost faith and despair; unrelated.",
+   "batch": "v05"
+  },
+  "bib-ephesians-001-p04": {
+   "grade": 1,
+   "reason": "Don't provoke children to wrath; instruction, little comfort.",
+   "batch": "v05"
+  }
+ },
+ "AS56": {
+  "tagore-stray-birds-002-p81": {
+   "grade": 2,
+   "reason": "History waits for the wronged to triumph; hope of justice.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-002-p67": {
+   "grade": 2,
+   "reason": "The victim's honour is not being the wrongdoer.",
+   "batch": "v05"
+  },
+  "bib-psa-004-p06": {
+   "grade": 1,
+   "reason": "Enemies rejoicing over me; restates the injury.",
+   "batch": "v05"
+  },
+  "viv12-002-p06": {
+   "grade": 0,
+   "reason": "Bully became a friend; inappropriate after assault.",
+   "batch": "v05"
+  },
+  "seneca-043-p04": {
+   "grade": 1,
+   "reason": "Choose to forget wrongs; pressure on an assault survivor.",
+   "batch": "v05"
+  },
+  "mn-018-p02": {
+   "grade": 1,
+   "reason": "Don't be resentful when abused; risks dismissing their sickness.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-002-p42": {
+   "grade": 0,
+   "reason": "Implies the wronged first did wrong; blames the survivor.",
+   "batch": "v05"
+  },
+  "schopenhauer-wisdom-of-life-007-p03": {
+   "grade": 1,
+   "reason": "Public opinion matters little; tangential.",
+   "batch": "v05"
+  },
+  "emerson-essays-009-p07": {
+   "grade": 2,
+   "reason": "In time communities see the truth; hope amid public praise of a wrongdoer.",
+   "batch": "v05"
+  },
+  "aristotle-ethics-019-p01": {
+   "grade": 2,
+   "reason": "Suffering injustice carries no blame; doing it is worse.",
+   "batch": "v05"
+  }
+ },
+ "AS57": {
+  "meditations-012-p06": {
+   "grade": 0,
+   "reason": "Premise of never giving pain doesn't fit someone who cheated.",
+   "batch": "v05"
+  },
+  "teresa-interior-castle-004-p05": {
+   "grade": 2,
+   "reason": "Can't undo the past; turn to mercy.",
+   "batch": "v05"
+  },
+  "imitation-of-christ-benham-018-p06": {
+   "grade": 2,
+   "reason": "Contrition brings pardon and a reconciled conscience.",
+   "batch": "v05"
+  },
+  "bib-isaiah-008-p03": {
+   "grade": 2,
+   "reason": "Sins cast behind God's back; release from anguish.",
+   "batch": "v05"
+  },
+  "viv03-023-p03": {
+   "grade": 3,
+   "reason": "Nothing you do destroys your true nature; answers 'don't deserve'.",
+   "batch": "v05"
+  },
+  "viv07-010-p06": {
+   "grade": 3,
+   "reason": "Don't mope over mistakes; goodness is your indestructible nature.",
+   "batch": "v05"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Sorrow grows the self; too vague.",
+   "batch": "v05"
+  },
+  "augustine-confessions-pusey-028-p03": {
+   "grade": 3,
+   "reason": "Forgiven past wakes the heart from despair; evils that have been and are not.",
+   "batch": "v05"
+  },
+  "bib-nehemiah-003-p02": {
+   "grade": 2,
+   "reason": "God ready to pardon; mercy for one who can't forgive himself.",
+   "batch": "v05"
+  },
+  "bib-psa-003-p03": {
+   "grade": 2,
+   "reason": "Remember me by kindness, not my wrongs.",
+   "batch": "v05"
+  }
+ },
+ "AS58": {
+  "dn-069-p01": {
+   "grade": 1,
+   "reason": "About letting go resentment, not self-blame after a violation.",
+   "batch": "v06"
+  },
+  "epictetus-discourses-long-024-p13": {
+   "grade": 1,
+   "reason": "'Not damaged unless you think so' risks minimising the violation.",
+   "batch": "v06"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Trusted friend turned; restates betrayal only.",
+   "batch": "v06"
+  },
+  "seneca-001-p09": {
+   "grade": 1,
+   "reason": "Calls trusting everyone a fault; could feed their self-blame.",
+   "batch": "v06"
+  },
+  "gibran-sand-and-foam-002-p33": {
+   "grade": 1,
+   "reason": "Taking blame for others' wrongs; mirrors the pattern without help.",
+   "batch": "v06"
+  },
+  "viv13-022-p01": {
+   "grade": 0,
+   "reason": "About acting on inner messages; off-topic.",
+   "batch": "v06"
+  },
+  "viv08-011-p02": {
+   "grade": 0,
+   "reason": "All past actions good; jarring after a violation.",
+   "batch": "v06"
+  },
+  "meditations-007-p06": {
+   "grade": 2,
+   "reason": "Another's wrong is theirs to answer for; places responsibility on them.",
+   "batch": "v06"
+  },
+  "meditations-012-p06": {
+   "grade": 2,
+   "reason": "Don't inflict pain on yourself; counters the rumination.",
+   "batch": "v06"
+  },
+  "meditations-014-p10": {
+   "grade": 0,
+   "reason": "'Perhaps he has not done wrong' feeds their doubt.",
+   "batch": "v06"
+  }
+ },
+ "AS59": {
+  "seneca-005-p02": {
+   "grade": 1,
+   "reason": "Mostly about facing death; slight hope in 'one more day'.",
+   "batch": "v06"
+  },
+  "seneca-027-p02": {
+   "grade": 1,
+   "reason": "Old man ending desires; distant from a birthday crisis.",
+   "batch": "v06"
+  },
+  "tagore-stray-birds-002-p75": {
+   "grade": 3,
+   "reason": "Barren years crossed to reach fulfilment; answers 'is this it?'.",
+   "batch": "v06"
+  },
+  "seneca-015-p03": {
+   "grade": 1,
+   "reason": "Calm about time; abstract for their worry.",
+   "batch": "v06"
+  },
+  "chuang-tzu-giles-002-p01": {
+   "grade": 0,
+   "reason": "Life as pitiful toil ending in grief; deepens despair.",
+   "batch": "v06"
+  },
+  "schopenhauer-counsels-maxims-015-p02": {
+   "grade": 0,
+   "reason": "Says the hoped-for happiness doesn't exist; bleak here.",
+   "batch": "v06"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 3,
+   "reason": "Whatever your failures, no one can say what you have left to do.",
+   "batch": "v06"
+  },
+  "seneca-058-p05": {
+   "grade": 2,
+   "reason": "A modest life can be complete; stop drifting and live.",
+   "batch": "v06"
+  },
+  "schopenhauer-counsels-maxims-016-p02": {
+   "grade": 1,
+   "reason": "Youth crams years with plans; loosely related.",
+   "batch": "v06"
+  },
+  "meditations-011-p06": {
+   "grade": 2,
+   "reason": "Little is needed for a happy life; worth unseen by others.",
+   "batch": "v06"
+  }
+ },
+ "AS60": {
+  "emerson-essays-013-p04": {
+   "grade": 1,
+   "reason": "Presence is useful anywhere; tangential to the move decision.",
+   "batch": "v06"
+  },
+  "seneca-013-p01": {
+   "grade": 1,
+   "reason": "Travel can't cure gloom; they aren't fleeing gloom.",
+   "batch": "v06"
+  },
+  "bib-genesis-003-p01": {
+   "grade": 2,
+   "reason": "Called to leave kin for a new land; faith in a leap.",
+   "batch": "v06"
+  },
+  "viv04-020-p05": {
+   "grade": 1,
+   "reason": "Moving doesn't change you; off the decision.",
+   "batch": "v06"
+  },
+  "aristotle-ethics-007-p03": {
+   "grade": 1,
+   "reason": "Choices are hard; restates the difficulty.",
+   "batch": "v06"
+  },
+  "emerson-essays-026-p03": {
+   "grade": 2,
+   "reason": "Nothing lost as the soul grows; reassuring, if abstract.",
+   "batch": "v06"
+  },
+  "tagore-gitanjali-003-p10": {
+   "grade": 3,
+   "reason": "Uneasy leaving shelter, yet the old abides in the new; new friends.",
+   "batch": "v06"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "Trust guidance rather than agonising over the choice.",
+   "batch": "v06"
+  },
+  "seneca-013-p03": {
+   "grade": 2,
+   "reason": "Who you are matters more than where; eases fear of moving.",
+   "batch": "v06"
+  },
+  "epictetus-discourses-long-019-p01": {
+   "grade": 1,
+   "reason": "Old friends drag you down; poor fit for loved friends and family.",
+   "batch": "v06"
+  }
+ },
+ "AS61": {
+  "bib-genesis-003-p01": {
+   "grade": 2,
+   "reason": "Leaving homeland for a new land in faith; relevant to relocating.",
+   "batch": "v06"
+  },
+  "viv09-004-p01": {
+   "grade": 0,
+   "reason": "Business crushes family life; off-point and grim.",
+   "batch": "v06"
+  },
+  "seneca-013-p01": {
+   "grade": 1,
+   "reason": "Travel doesn't lift gloom; not their question.",
+   "batch": "v06"
+  },
+  "seneca-013-p03": {
+   "grade": 2,
+   "reason": "Whole world your country; who you are matters more than place.",
+   "batch": "v06"
+  },
+  "bib-ruth-001-p01": {
+   "grade": 2,
+   "reason": "Where you go I will go; family moving together.",
+   "batch": "v06"
+  },
+  "tagore-sadhana-007-p03": {
+   "grade": 1,
+   "reason": "Taking on trouble for love; loosely related.",
+   "batch": "v06"
+  },
+  "aristotle-ethics-007-p03": {
+   "grade": 1,
+   "reason": "Decisions are hard; restates.",
+   "batch": "v06"
+  },
+  "viv11-032-p01": {
+   "grade": 1,
+   "reason": "'Home is best' just tilts the answer; little to weigh.",
+   "batch": "v06"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "Trust guidance; there is a fit place for you.",
+   "batch": "v06"
+  },
+  "viv11-027-p01": {
+   "grade": 1,
+   "reason": "Work for others over home; doesn't fit the family question.",
+   "batch": "v06"
+  }
+ },
+ "AS62": {
+  "walden-thoreau-008-p01": {
+   "grade": 3,
+   "reason": "Don't trade your best years for money to live later.",
+   "batch": "v06"
+  },
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Striving or not; loosely related.",
+   "batch": "v06"
+  },
+  "aristotle-ethics-007-p03": {
+   "grade": 1,
+   "reason": "Choosing is hard; restates the bind.",
+   "batch": "v06"
+  },
+  "tao-003-p01": {
+   "grade": 3,
+   "reason": "Life or wealth, which is dearer; frames the choice exactly.",
+   "batch": "v06"
+  },
+  "emerson-essays-035-p04": {
+   "grade": 3,
+   "reason": "Paralysed by fear, clinging to money though our being isn't in it.",
+   "batch": "v06"
+  },
+  "schopenhauer-wisdom-of-life-002-p02": {
+   "grade": 2,
+   "reason": "Work that misfits your powers brings lifelong unhappiness.",
+   "batch": "v06"
+  },
+  "augustine-confessions-pusey-023-p03": {
+   "grade": 1,
+   "reason": "A divided will; restates the paralysis.",
+   "batch": "v06"
+  },
+  "viv11-010-p02": {
+   "grade": 2,
+   "reason": "Giving life to an ideal gives it value; favours meaning.",
+   "batch": "v06"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "Why choose so painfully; trust there is a right place.",
+   "batch": "v06"
+  },
+  "dn-067-p02": {
+   "grade": 2,
+   "reason": "Painful now vs later; a frame for weighing the offers.",
+   "batch": "v06"
+  }
+ },
+ "AS63": {
+  "emerson-essays-040-p03": {
+   "grade": 1,
+   "reason": "Talent as dust in others' eyes; may reinforce feeling a fraud.",
+   "batch": "v06"
+  },
+  "schopenhauer-wisdom-of-life-008-p02": {
+   "grade": 2,
+   "reason": "Worry over what people say causes half our troubles.",
+   "batch": "v06"
+  },
+  "enchiridion-001-p07": {
+   "grade": 2,
+   "reason": "Be content to be thought foolish; eases fear of exposure.",
+   "batch": "v06"
+  },
+  "epictetus-discourses-long-023-p10": {
+   "grade": 2,
+   "reason": "Accept seeming foolish; releases the need to appear capable.",
+   "batch": "v06"
+  },
+  "emerson-essays-044-p01": {
+   "grade": 3,
+   "reason": "Genuine over glittering; I exist and need no outside proof.",
+   "batch": "v06"
+  },
+  "gibran-madman-001-p03": {
+   "grade": 1,
+   "reason": "I am not what I seem; restates the gap.",
+   "batch": "v06"
+  },
+  "emerson-essays-049-p05": {
+   "grade": 2,
+   "reason": "Others' estimate is idle to worry about.",
+   "batch": "v06"
+  },
+  "viv11-009-p02": {
+   "grade": 2,
+   "reason": "The real you is already strong; you just don't know it.",
+   "batch": "v06"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 3,
+   "reason": "Nature never promised we'd never look foolish; answers fear of a slip.",
+   "batch": "v06"
+  },
+  "gibran-sand-and-foam-003-p35": {
+   "grade": 0,
+   "reason": "Shyness before servants; off-topic.",
+   "batch": "v06"
+  }
+ },
+ "AS64": {
+  "schopenhauer-counsels-maxims-005-p03": {
+   "grade": 2,
+   "reason": "Comparison is self-torture; think of those behind too.",
+   "batch": "v06"
+  },
+  "tagore-gitanjali-003-p01": {
+   "grade": 3,
+   "reason": "Companions hurried ahead; the speaker finds quiet delight staying behind.",
+   "batch": "v06"
+  },
+  "seneca-007-p01": {
+   "grade": 3,
+   "reason": "Why mind the others? You have outstripped yourself.",
+   "batch": "v06"
+  },
+  "epictetus-discourses-long-024-p09": {
+   "grade": 2,
+   "reason": "Rejoice in others' good; don't grieve what you lack.",
+   "batch": "v06"
+  },
+  "emerson-essays-050-p04": {
+   "grade": 3,
+   "reason": "Content with one's own form of life; sitting still is also good.",
+   "batch": "v06"
+  },
+  "seneca-061-p03": {
+   "grade": 2,
+   "reason": "Those the crowd calls fortunate are no happier.",
+   "batch": "v06"
+  },
+  "gibran-sand-and-foam-002-p46": {
+   "grade": 1,
+   "reason": "Above and below no one; cryptic here.",
+   "batch": "v06"
+  },
+  "seneca-070-p04": {
+   "grade": 2,
+   "reason": "Comparison makes you feel last whoever is ahead; names the trap.",
+   "batch": "v06"
+  },
+  "emerson-essays-010-p03": {
+   "grade": 2,
+   "reason": "Loving others' greatness makes it yours; turns envy around.",
+   "batch": "v06"
+  },
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Gratitude for friends; thin link.",
+   "batch": "v06"
+  }
+ },
+ "AS65": {
+  "augustine-confessions-pusey-016-p02": {
+   "grade": 1,
+   "reason": "Seeking happiness by fleeing it; touches escape but no guide.",
+   "batch": "v06"
+  },
+  "seneca-016-p01": {
+   "grade": 3,
+   "reason": "Test: do you want the same thing today as yesterday?",
+   "batch": "v06"
+  },
+  "viv02-002-p03": {
+   "grade": 1,
+   "reason": "Motives start selfish; tangential.",
+   "batch": "v06"
+  },
+  "seneca-053-p01": {
+   "grade": 2,
+   "reason": "Impulse should match the real worth of its object.",
+   "batch": "v06"
+  },
+  "meditations-019-p03": {
+   "grade": 2,
+   "reason": "Ask what's in your mind: fear or desire? a way to check.",
+   "batch": "v06"
+  },
+  "sn-115-p02": {
+   "grade": 2,
+   "reason": "A clear mind sees what is good; points to clarity first.",
+   "batch": "v06"
+  },
+  "sn-115-p01": {
+   "grade": 2,
+   "reason": "Muddied by doubt you can't see clearly; wait for clarity.",
+   "batch": "v06"
+  },
+  "viv13-014-p02": {
+   "grade": 1,
+   "reason": "Intense motive test aimed at missionaries; overreaching here.",
+   "batch": "v06"
+  },
+  "seneca-022-p01": {
+   "grade": 1,
+   "reason": "We veer between plans; restates the confusion.",
+   "batch": "v06"
+  },
+  "seneca-007-p05": {
+   "grade": 2,
+   "reason": "A desire with no stopping point is misleading; a usable test.",
+   "batch": "v06"
+  }
+ },
+ "AS66": {
+  "bib-jude-001-p01": {
+   "grade": 1,
+   "reason": "Keep praying; generic, doesn't touch the dryness.",
+   "batch": "v06"
+  },
+  "teresa-interior-castle-006-p05": {
+   "grade": 2,
+   "reason": "Prayer isn't wasted though it feels so; not your fault.",
+   "batch": "v06"
+  },
+  "augustine-confessions-pusey-011-p01": {
+   "grade": 1,
+   "reason": "God near while I wandered; implies they've gone away.",
+   "batch": "v06"
+  },
+  "augustine-confessions-pusey-044-p03": {
+   "grade": 2,
+   "reason": "Where are You? hope and endure until day breaks.",
+   "batch": "v06"
+  },
+  "viv13-016-p01": {
+   "grade": 1,
+   "reason": "Cry for God to speak; restates.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-023-p03": {
+   "grade": 2,
+   "reason": "When dry, keep knocking; affirms persistence.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-007-p06": {
+   "grade": 3,
+   "reason": "Even saints felt God withdraw; you're doing nothing wrong.",
+   "batch": "v06"
+  },
+  "bib-psa-007-p04": {
+   "grade": 1,
+   "reason": "Thirst in a dry land; mirrors the dryness only.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-024-p02": {
+   "grade": 3,
+   "reason": "Little devotion: don't be cast down; God gives in His time.",
+   "batch": "v06"
+  },
+  "bib-psa-002-p08": {
+   "grade": 1,
+   "reason": "Why have you forsaken me; restates silence.",
+   "batch": "v06"
+  }
+ },
+ "AS67": {
+  "bib-psa-005-p02": {
+   "grade": 2,
+   "reason": "A simple prayer of tears they could borrow.",
+   "batch": "v06"
+  },
+  "augustine-confessions-pusey-038-p02": {
+   "grade": 1,
+   "reason": "Torn by turmoil; mostly restates.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-009-p02": {
+   "grade": 2,
+   "reason": "A ready prayer for strength and comfort.",
+   "batch": "v06"
+  },
+  "bib-jude-001-p01": {
+   "grade": 1,
+   "reason": "Keep praying; generic.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-018-p01": {
+   "grade": 1,
+   "reason": "Not as yesterday when You withdraw; restates the change.",
+   "batch": "v06"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Urges stopping prayer; undermines their need.",
+   "batch": "v06"
+  },
+  "bib-psa-014-p04": {
+   "grade": 3,
+   "reason": "One-line prayer for a weary soul; usable when prayer is hard.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-020-p03": {
+   "grade": 2,
+   "reason": "Laying all trouble on God; a prayer of trust.",
+   "batch": "v06"
+  },
+  "imitation-of-christ-benham-012-p06": {
+   "grade": 2,
+   "reason": "Grace makes possible what seems impossible; short prayer.",
+   "batch": "v06"
+  },
+  "bib-psa-007-p01": {
+   "grade": 3,
+   "reason": "When my heart is overwhelmed, lead me to the rock; ready prayer.",
+   "batch": "v06"
+  }
+ },
+ "AS68": {
+  "emerson-essays-053-p05": {
+   "grade": 2,
+   "reason": "Faith on authority isn't faith; validates honest doubt.",
+   "batch": "v06"
+  },
+  "viv11-024-p01": {
+   "grade": 1,
+   "reason": "Religion is being; abstract here.",
+   "batch": "v06"
+  },
+  "plato-phaedo-jowett-006-p02": {
+   "grade": 1,
+   "reason": "Shaken conviction breeds confusion; restates.",
+   "batch": "v06"
+  },
+  "mn-085-p01": {
+   "grade": 1,
+   "reason": "Faith can be false; thin comfort.",
+   "batch": "v06"
+  },
+  "viv03-002-p03": {
+   "grade": 2,
+   "reason": "Every person may ask why and seek their own answer.",
+   "batch": "v06"
+  },
+  "viv12-007-p02": {
+   "grade": 2,
+   "reason": "Find your own light; honours an independent search.",
+   "batch": "v06"
+  },
+  "viv05-003-p02": {
+   "grade": 0,
+   "reason": "About fleeting religious feeling after grief; off-topic.",
+   "batch": "v06"
+  },
+  "soul-of-the-indian-eastman-001-p01": {
+   "grade": 1,
+   "reason": "Religion as unity; doesn't meet their loss.",
+   "batch": "v06"
+  },
+  "viv13-015-p02": {
+   "grade": 1,
+   "reason": "Must sense God to believe; tangential.",
+   "batch": "v06"
+  },
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Bitter despair at God; not their calm loss of belief.",
+   "batch": "v06"
+  }
+ },
+ "AS69": {
+  "emerson-essays-010-p06": {
+   "grade": 2,
+   "reason": "Shocks end one phase and open a new one.",
+   "batch": "v06"
+  },
+  "seneca-067-p03": {
+   "grade": 1,
+   "reason": "Accept the inevitable; about mourning, not re-entry.",
+   "batch": "v06"
+  },
+  "viv04-027-p03": {
+   "grade": 1,
+   "reason": "Death stops the din; restates the shift.",
+   "batch": "v06"
+  },
+  "viv12-004-p02": {
+   "grade": 1,
+   "reason": "Such feeling fades; little guidance.",
+   "batch": "v06"
+  },
+  "viv05-003-p02": {
+   "grade": 1,
+   "reason": "Feeling fades back; little guidance.",
+   "batch": "v06"
+  },
+  "viv11-023-p03": {
+   "grade": 2,
+   "reason": "A shock gives a glimpse to be deepened and practised.",
+   "batch": "v06"
+  },
+  "meditations-010-p15": {
+   "grade": 3,
+   "reason": "Count your life finished; live the rest well. Fits a survivor.",
+   "batch": "v06"
+  },
+  "meditations-009-p09": {
+   "grade": 2,
+   "reason": "Recovering your life by renewing your principles.",
+   "batch": "v06"
+  },
+  "seneca-011-p05": {
+   "grade": 1,
+   "reason": "Death always hangs over us; no help returning to life.",
+   "batch": "v06"
+  },
+  "viv12-001-p04": {
+   "grade": 2,
+   "reason": "This world is a means, not an end; frames trivial goals.",
+   "batch": "v06"
+  }
+ },
+ "AS70": {
+  "viv05-003-p03": {
+   "grade": 2,
+   "reason": "Persevere through long struggle; success comes at last.",
+   "batch": "v06"
+  },
+  "an-006-p03": {
+   "grade": 1,
+   "reason": "Strive till skin and bones; hard on someone depleted.",
+   "batch": "v06"
+  },
+  "viv13-025-p03": {
+   "grade": 1,
+   "reason": "Work harder for deep rest; pushes an exhausted person.",
+   "batch": "v06"
+  },
+  "sn-062-p01": {
+   "grade": 3,
+   "reason": "Progress is invisible day to day but real, like a worn handle.",
+   "batch": "v06"
+  },
+  "an-028-p01": {
+   "grade": 2,
+   "reason": "Practice is never barren, even partial.",
+   "batch": "v06"
+  },
+  "mn-091-p01": {
+   "grade": 1,
+   "reason": "Strive painfully; little for someone out of energy.",
+   "batch": "v06"
+  },
+  "viv02-002-p03": {
+   "grade": 1,
+   "reason": "Motives purify with persistence; tangential.",
+   "batch": "v06"
+  },
+  "viv03-015-p02": {
+   "grade": 3,
+   "reason": "Progress stalls then resumes; persevere through rise and fall.",
+   "batch": "v06"
+  },
+  "emerson-essays-014-p05": {
+   "grade": 2,
+   "reason": "Patience; insight from solitude lasts. Up again, old heart.",
+   "batch": "v06"
+  },
+  "sn-125-p01": {
+   "grade": 2,
+   "reason": "Again and again, until hearsay becomes direct experience.",
+   "batch": "v06"
+  }
+ },
+ "AS71": {
+  "bib-hebrews-001-p01": {
+   "grade": 2,
+   "reason": "Invites drawing near despite weakness; speaks to self-doubt, not to the leaders.",
+   "batch": "v07"
+  },
+  "bib-sirach-001-p03": {
+   "grade": 1,
+   "reason": "General assurance about trusting God; misses broken trust in people and self.",
+   "batch": "v07"
+  },
+  "bib-james-001-p14": {
+   "grade": 2,
+   "reason": "Talking honestly to one another heals; a first step, though may feel blaming.",
+   "batch": "v07"
+  },
+  "imitation-of-christ-benham-014-p09": {
+   "grade": 2,
+   "reason": "All is not lost; don't judge by present feeling. Steadying, if general.",
+   "batch": "v07"
+  },
+  "bib-2chronicles-005-p02": {
+   "grade": 2,
+   "reason": "Not knowing what to do yet looking to God; fits not knowing where to begin.",
+   "batch": "v07"
+  },
+  "bib-psa-016-p07": {
+   "grade": 2,
+   "reason": "Prayer to be shown the way to walk; fits uncertainty about next step.",
+   "batch": "v07"
+  },
+  "imitation-of-christ-benham-006-p01": {
+   "grade": 2,
+   "reason": "People's trustworthiness is fragile; trust God. Fits lost trust, not the wish to talk.",
+   "batch": "v07"
+  },
+  "imitation-of-christ-benham-020-p03": {
+   "grade": 1,
+   "reason": "Says counsellors are useless; undercuts their wish to talk to someone.",
+   "batch": "v07"
+  },
+  "imitation-of-christ-benham-016-p06": {
+   "grade": 3,
+   "reason": "Faithfulness failed where expected, we are easily deceived; hope in God. Both halves.",
+   "batch": "v07"
+  },
+  "bib-jude-001-p01": {
+   "grade": 1,
+   "reason": "Generic call to build faith; doesn't touch broken trust or where to begin.",
+   "batch": "v07"
+  }
+ },
+ "AS72": {
+  "viv04-004-p01": {
+   "grade": 2,
+   "reason": "One way of living with death: life in the whole, fear overcome.",
+   "batch": "v07"
+  },
+  "viv04-002-p02": {
+   "grade": 1,
+   "reason": "Restates the question of death's meaning; offers no way of living with it.",
+   "batch": "v07"
+  },
+  "chuang-tzu-giles-021-p02": {
+   "grade": 3,
+   "reason": "Non-religious calm view: life and death follow each other, why complain.",
+   "batch": "v07"
+  },
+  "seneca-005-p02": {
+   "grade": 2,
+   "reason": "Face death at any age, yet value each day as a stage.",
+   "batch": "v07"
+  },
+  "epictetus-discourses-long-022-p01": {
+   "grade": 3,
+   "reason": "Ties death to a worthwhile life: be found doing something kind and noble.",
+   "batch": "v07"
+  },
+  "dn-041-p01": {
+   "grade": 2,
+   "reason": "Since none escape death, wake up and do good; some rebirth framing.",
+   "batch": "v07"
+  },
+  "viv13-026-p05": {
+   "grade": 1,
+   "reason": "Answers with immortal spirit; asserts a religious answer they didn't seek.",
+   "batch": "v07"
+  },
+  "viv12-001-p04": {
+   "grade": 1,
+   "reason": "World as means to an end; doctrinal, not how people live with questions.",
+   "batch": "v07"
+  },
+  "seneca-011-p05": {
+   "grade": 1,
+   "reason": "Stern reminder of perils; little on what makes life worthwhile.",
+   "batch": "v07"
+  },
+  "viv04-027-p03": {
+   "grade": 1,
+   "reason": "Describes the old questions arising; nothing on living with them.",
+   "batch": "v07"
+  }
+ },
+ "AS73": {
+  "imitation-of-christ-benham-017-p02": {
+   "grade": 0,
+   "reason": "About enduring labour and sorrow; wrong note for a celebration.",
+   "batch": "v07"
+  },
+  "augustine-confessions-pusey-033-p03": {
+   "grade": 0,
+   "reason": "Pride curbed and sin forgiven; off-topic for job joy.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-003-p53": {
+   "grade": 1,
+   "reason": "Mentions a father and wealth, but the point doesn't fit their relief.",
+   "batch": "v07"
+  },
+  "bib-psa-002-p02": {
+   "grade": 2,
+   "reason": "Lines fallen in pleasant places: gratitude for a secure portion.",
+   "batch": "v07"
+  },
+  "bib-habakkuk-001-p03": {
+   "grade": 1,
+   "reason": "Rejoicing despite failure; their news is success, so angle is off.",
+   "batch": "v07"
+  },
+  "bib-isaiah-011-p03": {
+   "grade": 0,
+   "reason": "Labouring in vain; contradicts their good news.",
+   "batch": "v07"
+  },
+  "bib-matthew-008-p04": {
+   "grade": 2,
+   "reason": "Well done, enter into joy; affirms faithful effort rewarded.",
+   "batch": "v07"
+  },
+  "bib-2chronicles-004-p02": {
+   "grade": 2,
+   "reason": "Your work will be rewarded; fits, though phrased as future encouragement.",
+   "batch": "v07"
+  },
+  "meditations-002-p01": {
+   "grade": 1,
+   "reason": "Gratitude for good parents; tangential to independence and pride.",
+   "batch": "v07"
+  },
+  "bib-isaiah-014-p01": {
+   "grade": 2,
+   "reason": "Exuberant rejoicing, clothed with dignity; matches their joy.",
+   "batch": "v07"
+  }
+ },
+ "AS74": {
+  "meditations-006-p02": {
+   "grade": 2,
+   "reason": "Rising is a human being's work; affirms getting up, slightly stern tone.",
+   "batch": "v07"
+  },
+  "meditations-014-p07": {
+   "grade": 3,
+   "reason": "Be content when the smallest thing goes well; count it no small matter.",
+   "batch": "v07"
+  },
+  "viv11-022-p02": {
+   "grade": 3,
+   "reason": "Even the least thing well done brings marvellous results; do what little you can.",
+   "batch": "v07"
+  },
+  "emerson-essays-012-p04": {
+   "grade": 2,
+   "reason": "Thankful for small mercies; affirms valuing modest goods.",
+   "batch": "v07"
+  },
+  "bib-zechariah-001-p02": {
+   "grade": 3,
+   "reason": "Who despises the day of small things? Direct yes, it counts.",
+   "batch": "v07"
+  },
+  "walden-thoreau-047-p04": {
+   "grade": 3,
+   "reason": "However small the beginning, what is well done is done forever.",
+   "batch": "v07"
+  },
+  "seneca-084-p01": {
+   "grade": 1,
+   "reason": "Accepting things lightly when tired; mentions a cook but beside the point.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p38": {
+   "grade": 1,
+   "reason": "Seeing the morning afresh; loosely related, doesn't affirm the effort.",
+   "batch": "v07"
+  },
+  "imitation-of-christ-benham-008-p01": {
+   "grade": 2,
+   "reason": "Treat the least as the greatest; values small things, framed as gift.",
+   "batch": "v07"
+  },
+  "walden-thoreau-013-p01": {
+   "grade": 2,
+   "reason": "Shaping the quality of the day is the highest art; elevates small effort.",
+   "batch": "v07"
+  }
+ },
+ "AS75": {
+  "american-indian-stories-zitkala-006-p03": {
+   "grade": 1,
+   "reason": "Describes heavy weariness back to them; offers nothing beyond it.",
+   "batch": "v07"
+  },
+  "walden-thoreau-016-p01": {
+   "grade": 1,
+   "reason": "Follow your genius and you won't be bored; glib for flat low mood.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-003-p57": {
+   "grade": 3,
+   "reason": "Permission to be dark honestly, without pretending; gentle and fitting.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-001-p09": {
+   "grade": 1,
+   "reason": "Existence as surprise; too slight to reach their tiredness.",
+   "batch": "v07"
+  },
+  "dn-021-p02": {
+   "grade": 2,
+   "reason": "Lost appetite and strength return in time; quiet hope of recovery.",
+   "batch": "v07"
+  },
+  "sn-129-p01": {
+   "grade": 1,
+   "reason": "Lax enthusiasm and laziness; dry and could feel like a label.",
+   "batch": "v07"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 2,
+   "reason": "Tedium is ancient; don't despair, your capacities are unmeasured.",
+   "batch": "v07"
+  },
+  "aristotle-ethics-035-p02": {
+   "grade": 2,
+   "reason": "Explains why pleasure dulls with weariness; normalising, if academic.",
+   "batch": "v07"
+  },
+  "seneca-013-p01": {
+   "grade": 2,
+   "reason": "You're not alone in this heaviness; points inward, not outward change.",
+   "batch": "v07"
+  },
+  "viv03-020-p05": {
+   "grade": 0,
+   "reason": "Calls gloom indigestion; dismissive of their low mood.",
+   "batch": "v07"
+  }
+ },
+ "AS76": {
+  "augustine-confessions-pusey-024-p03": {
+   "grade": 0,
+   "reason": "About a dead friend in heaven; wrong for a joyful moment.",
+   "batch": "v07"
+  },
+  "sn-010-p04": {
+   "grade": 1,
+   "reason": "Peaceful sleep and sympathy for creatures; loosely touches the scene.",
+   "batch": "v07"
+  },
+  "emerson-essays-015-p02": {
+   "grade": 1,
+   "reason": "Gratitude for friends; generic, not about this bond.",
+   "batch": "v07"
+  },
+  "emerson-essays-015-p01": {
+   "grade": 2,
+   "reason": "Affection transforms the world; matches their full heart.",
+   "batch": "v07"
+  },
+  "seneca-040-p05": {
+   "grade": 1,
+   "reason": "Friends at a sickbed easing fear of death; off-tone.",
+   "batch": "v07"
+  },
+  "emerson-essays-053-p02": {
+   "grade": 1,
+   "reason": "God filling lonely places; tangential.",
+   "batch": "v07"
+  },
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Recollecting advising friends; not about this moment.",
+   "batch": "v07"
+  },
+  "an-116-p01": {
+   "grade": 3,
+   "reason": "Loving just one creature with an open heart makes you a true person.",
+   "batch": "v07"
+  },
+  "bib-psa-004-p07": {
+   "grade": 1,
+   "reason": "God's shelter and loving kindness; only a faint echo of refuge.",
+   "batch": "v07"
+  },
+  "dhp-004-p04": {
+   "grade": 2,
+   "reason": "A friend in need and contentment are blessings; fits the joy.",
+   "batch": "v07"
+  }
+ },
+ "AS77": {
+  "bib-romans-004-p02": {
+   "grade": 2,
+   "reason": "Night is far gone, day is near; fits the sunrise, slight moral tone.",
+   "batch": "v07"
+  },
+  "dn-019-p01": {
+   "grade": 2,
+   "reason": "Corrupting qualities dropped, calm and clarity grow; fits sobriety.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p75": {
+   "grade": 3,
+   "reason": "Crossing barren years to reach fulfilment; honours the hard road.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p83": {
+   "grade": 3,
+   "reason": "Suffered, despaired, known death, and glad to be here; mirrors their arc.",
+   "batch": "v07"
+  },
+  "emerson-essays-015-p02": {
+   "grade": 1,
+   "reason": "Morning gratitude for friends; not about recovery.",
+   "batch": "v07"
+  },
+  "sn-020-p04": {
+   "grade": 2,
+   "reason": "Each day better for the mindful; affirms the path.",
+   "batch": "v07"
+  },
+  "viv04-023-p01": {
+   "grade": 2,
+   "reason": "Look back on terror and smile, I am free; fits freedom gained.",
+   "batch": "v07"
+  },
+  "light-of-asia-arnold-015-p09": {
+   "grade": 1,
+   "reason": "Shun drink; on-topic but lectures someone who already has.",
+   "batch": "v07"
+  },
+  "sn-055-p02": {
+   "grade": 1,
+   "reason": "Perfected ones without craving; lofty, distant from their milestone.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p71": {
+   "grade": 3,
+   "reason": "Last night's storm crowned this morning with golden peace.",
+   "batch": "v07"
+  }
+ },
+ "AS78": {
+  "emerson-essays-015-p02": {
+   "grade": 1,
+   "reason": "Gratitude for friends; partly fits solitude but beside the point.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-002-p78": {
+   "grade": 2,
+   "reason": "Solitude deepens roots; fits being alone without sadness.",
+   "batch": "v07"
+  },
+  "schopenhauer-counsels-maxims-003-p05": {
+   "grade": 2,
+   "reason": "Alone one is free; affirms solitude, a bit austere for a birthday.",
+   "batch": "v07"
+  },
+  "seneca-010-p07": {
+   "grade": 3,
+   "reason": "Gladness born inside you, at home; warm fit for a solo birthday.",
+   "batch": "v07"
+  },
+  "seneca-002-p07": {
+   "grade": 3,
+   "reason": "A friend to oneself is never alone; fits celebrating alone.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-001-p31": {
+   "grade": 1,
+   "reason": "Origin of loneliness in being misjudged; off-target.",
+   "batch": "v07"
+  },
+  "tao-001-p06": {
+   "grade": 1,
+   "reason": "Forlorn and alone among the feasting; darker than they feel.",
+   "batch": "v07"
+  },
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Recollect good friends; generic.",
+   "batch": "v07"
+  },
+  "walden-thoreau-018-p03": {
+   "grade": 2,
+   "reason": "Nature's friendliness fills solitude; gentle company for a lone day.",
+   "batch": "v07"
+  },
+  "walden-thoreau-019-p02": {
+   "grade": 2,
+   "reason": "Solitude as the best companion; affirms being alone.",
+   "batch": "v07"
+  }
+ },
+ "AS79": {
+  "dn-021-p02": {
+   "grade": 2,
+   "reason": "A small good story of recovery and joy; answers the ask.",
+   "batch": "v07"
+  },
+  "emerson-essays-047-p03": {
+   "grade": 2,
+   "reason": "Peace comes from within, not news; useful angle on news-driven moods.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-003-p77": {
+   "grade": 2,
+   "reason": "Sorrows buried become flowers; hopeful image.",
+   "batch": "v07"
+  },
+  "meditations-006-p01": {
+   "grade": 1,
+   "reason": "Staying untroubled despite misfortune; not the good they asked for.",
+   "batch": "v07"
+  },
+  "tagore-sadhana-005-p02": {
+   "grade": 3,
+   "reason": "The wonder is not suffering but beauty, joy, goodness, love.",
+   "batch": "v07"
+  },
+  "viv08-011-p02": {
+   "grade": 1,
+   "reason": "Past actions are good; beside the point.",
+   "batch": "v07"
+  },
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Recollect good friends; weak link to bad news.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p83": {
+   "grade": 2,
+   "reason": "Despite suffering, glad to be in this great world.",
+   "batch": "v07"
+  },
+  "emerson-essays-012-p04": {
+   "grade": 2,
+   "reason": "Gratitude for small mercies; a way to find good.",
+   "batch": "v07"
+  },
+  "viv04-020-p01": {
+   "grade": 0,
+   "reason": "A grim story mocking consolation; the opposite of what they need.",
+   "batch": "v07"
+  }
+ },
+ "AS80": {
+  "bib-ezra-001-p01": {
+   "grade": 3,
+   "reason": "Joy and weeping mingled indistinguishably at a long-awaited moment.",
+   "batch": "v07"
+  },
+  "augustine-confessions-pusey-027-p02": {
+   "grade": 1,
+   "reason": "Grieving over grief; describes double sorrow, no joy or perspective.",
+   "batch": "v07"
+  },
+  "prophet-002-p03": {
+   "grade": 3,
+   "reason": "Joy and sorrow spring from the same well; exactly their mix.",
+   "batch": "v07"
+  },
+  "an-092-p01": {
+   "grade": 0,
+   "reason": "About giving; off-topic.",
+   "batch": "v07"
+  },
+  "augustine-confessions-pusey-024-p02": {
+   "grade": 0,
+   "reason": "Giving up trifling pleasures; off-topic.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-001-p26": {
+   "grade": 3,
+   "reason": "Grieving without knowing why means growing; reassures the weird sadness.",
+   "batch": "v07"
+  },
+  "schopenhauer-counsels-maxims-013-p08": {
+   "grade": 1,
+   "reason": "Don't rejoice too much; cautionary, doesn't speak to mixed feelings.",
+   "batch": "v07"
+  },
+  "viv12-002-p05": {
+   "grade": 2,
+   "reason": "Tears and laughter are near kin; normalises the swing.",
+   "batch": "v07"
+  },
+  "tagore-sadhana-003-p03": {
+   "grade": 1,
+   "reason": "Sharing loved ones' joys; tangential to their ambivalence.",
+   "batch": "v07"
+  },
+  "dn-021-p02": {
+   "grade": 1,
+   "reason": "Joy after recovery; doesn't address mixed feelings.",
+   "batch": "v07"
+  }
+ },
+ "H01": {
+  "walden-thoreau-023-p02": {
+   "grade": 3,
+   "reason": "Being lost is where we begin to find ourselves; reframes feeling at sea.",
+   "batch": "v07"
+  },
+  "as-a-man-thinketh-allen-002-p07": {
+   "grade": 2,
+   "reason": "Set one purpose and focus; relevant, though advice-heavy when they can't care.",
+   "batch": "v07"
+  },
+  "meditations-002-p05": {
+   "grade": 2,
+   "reason": "Learn something good and have an aim; speaks to aimlessness.",
+   "batch": "v07"
+  },
+  "seneca-013-p01": {
+   "grade": 2,
+   "reason": "Not alone in heaviness; change must be inward.",
+   "batch": "v07"
+  },
+  "viv05-003-p02": {
+   "grade": 1,
+   "reason": "Left stranded where we were; restates without help.",
+   "batch": "v07"
+  },
+  "viv07-011-p04": {
+   "grade": 1,
+   "reason": "Mind pauses seeking beyond; loose fit.",
+   "batch": "v07"
+  },
+  "viv04-021-p02": {
+   "grade": 3,
+   "reason": "Drifting aimlessly, yet carried to the ocean; consoles feeling at sea.",
+   "batch": "v07"
+  },
+  "viv13-009-p01": {
+   "grade": 1,
+   "reason": "We are lost like straws on water; restates the feeling only.",
+   "batch": "v07"
+  },
+  "seneca-013-p03": {
+   "grade": 1,
+   "reason": "Whole world my country; about place, not purpose.",
+   "batch": "v07"
+  },
+  "gibran-sand-and-foam-001-p26": {
+   "grade": 2,
+   "reason": "Unnamed longing as growth; gentle reframe of directionlessness.",
+   "batch": "v07"
+  }
+ },
+ "H02": {
+  "meditations-006-p01": {
+   "grade": 2,
+   "reason": "Could happen to anyone; bear it well. Steadying, misses worth.",
+   "batch": "v07"
+  },
+  "emerson-essays-041-p01": {
+   "grade": 1,
+   "reason": "Right to be employed; political, not consoling.",
+   "batch": "v07"
+  },
+  "viv02-006-p04": {
+   "grade": 1,
+   "reason": "Implies unfit for the role; could land as blame despite later line.",
+   "batch": "v07"
+  },
+  "emerson-essays-019-p03": {
+   "grade": 2,
+   "reason": "Comfort in exposure; be generous of dignity. Fits shame of telling.",
+   "batch": "v07"
+  },
+  "bib-job-003-p06": {
+   "grade": 1,
+   "reason": "Plans broken off; restates the shock only.",
+   "batch": "v07"
+  },
+  "seneca-064-p06": {
+   "grade": 2,
+   "reason": "Lost income and losses are common to all; normalises.",
+   "batch": "v07"
+  },
+  "bib-isaiah-011-p03": {
+   "grade": 3,
+   "reason": "Laboured seemingly in vain, yet my due is safe; fits hard work unrewarded.",
+   "batch": "v07"
+  },
+  "emerson-essays-035-p03": {
+   "grade": 2,
+   "reason": "Rejection as unworthy can open new powers; addresses worth.",
+   "batch": "v07"
+  },
+  "chuang-tzu-giles-007-p03": {
+   "grade": 2,
+   "reason": "Searched for cause, found none: destiny, not desert. Fits undeserved loss.",
+   "batch": "v07"
+  },
+  "viv07-006-p02": {
+   "grade": 1,
+   "reason": "Expect nothing from others; cold for someone shaken.",
+   "batch": "v07"
+  }
+ },
+ "H03": {
+  "sn-118-p05": {
+   "grade": 2,
+   "reason": "Parting from all we love is inevitable; perspective, a bit cool.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p77": {
+   "grade": 1,
+   "reason": "Love can lose; states the hurt, little to carry.",
+   "batch": "v07"
+  },
+  "bib-job-003-p06": {
+   "grade": 1,
+   "reason": "Plans broken off; restates the loss.",
+   "batch": "v07"
+  },
+  "epictetus-discourses-long-018-p02": {
+   "grade": 1,
+   "reason": "Fear versus grief, terse; touches future fear but abstract.",
+   "batch": "v07"
+  },
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "What was shared isn't lost; the past is ours. Fits, though about death.",
+   "batch": "v07"
+  },
+  "tagore-stray-birds-002-p59": {
+   "grade": 1,
+   "reason": "Parting ends things in a moment; restates suddenness only.",
+   "batch": "v07"
+  },
+  "an-068-p02": {
+   "grade": 2,
+   "reason": "Not only me; all beings part from loved ones. Shared road.",
+   "batch": "v07"
+  },
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Describes the blow and question; offers little.",
+   "batch": "v07"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the wound of a broken habit together; restates only.",
+   "batch": "v07"
+  },
+  "augustine-confessions-pusey-008-p04": {
+   "grade": 0,
+   "reason": "Death of a friend, life a horror; too dark and off-situation.",
+   "batch": "v07"
+  }
+ },
+ "H04": {
+  "imitation-of-christ-benham-002-p05": {
+   "grade": 1,
+   "reason": "On-topic about habit, but scolds for lack of zeal at a low moment.",
+   "batch": "v08"
+  },
+  "teresa-interior-castle-004-p01": {
+   "grade": 3,
+   "reason": "If you lapse, don't lose heart or stop; good comes even from falls.",
+   "batch": "v08"
+  },
+  "viv07-029-p02": {
+   "grade": 2,
+   "reason": "Mistakes happen, don't wallow, keep going; brisk but helpful.",
+   "batch": "v08"
+  },
+  "viv09-001-p08": {
+   "grade": 1,
+   "reason": "Resolve then relapse, bird in a net; restates the cycle only.",
+   "batch": "v08"
+  },
+  "viv04-015-p10": {
+   "grade": 3,
+   "reason": "Fail a thousand times, try once more; speaks to repeated relapse.",
+   "batch": "v08"
+  },
+  "meditations-006-p07": {
+   "grade": 3,
+   "reason": "Don't be discouraged when you fail; return gently, as to a remedy.",
+   "batch": "v08"
+  },
+  "imitation-of-christ-benham-004-p06": {
+   "grade": 1,
+   "reason": "Describes repeated failure and urges humility; may deepen shame.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-017-p04": {
+   "grade": 3,
+   "reason": "You can renew the contest at once, again and again; one win suffices.",
+   "batch": "v08"
+  },
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Flirts with ceasing to strive; risky for someone asking why try.",
+   "batch": "v08"
+  },
+  "viv07-018-p06": {
+   "grade": 3,
+   "reason": "Don't count failures; time is infinite, keep going and light will come.",
+   "batch": "v08"
+  }
+ },
+ "H05": {
+  "walden-thoreau-001-p06": {
+   "grade": 2,
+   "reason": "Tedium is ancient; your capacities are untried. Gentle hope.",
+   "batch": "v08"
+  },
+  "walden-thoreau-016-p01": {
+   "grade": 1,
+   "reason": "Follow your genius and you won't be bored; glib for deep dullness.",
+   "batch": "v08"
+  },
+  "emerson-essays-055-p01": {
+   "grade": 1,
+   "reason": "Plain life is rich enough; about expression, not lost interest.",
+   "batch": "v08"
+  },
+  "aristotle-ethics-035-p02": {
+   "grade": 2,
+   "reason": "Explains why pleasure dulls; normalises the flatness.",
+   "batch": "v08"
+  },
+  "schopenhauer-wisdom-of-life-003-p03": {
+   "grade": 1,
+   "reason": "Life swings between pain and boredom; restates bleakly.",
+   "batch": "v08"
+  },
+  "meditations-002-p05": {
+   "grade": 2,
+   "reason": "Activity without aim wearies; learn something good. Fits going through motions.",
+   "batch": "v08"
+  },
+  "schopenhauer-counsels-maxims-015-p02": {
+   "grade": 1,
+   "reason": "Later life has less longing; age-specific, tangential.",
+   "batch": "v08"
+  },
+  "aristotle-ethics-035-p01": {
+   "grade": 2,
+   "reason": "Some things are worth doing even without pleasure; a reason to continue.",
+   "batch": "v08"
+  },
+  "seneca-005-p01": {
+   "grade": 1,
+   "reason": "Comfort of worn-out appetites in age; off-target.",
+   "batch": "v08"
+  },
+  "walden-thoreau-001-p04": {
+   "grade": 1,
+   "reason": "Quiet desperation; mostly mirrors their emptiness back.",
+   "batch": "v08"
+  }
+ },
+ "H06": {
+  "gibran-sand-and-foam-001-p26": {
+   "grade": 1,
+   "reason": "Sadness without known cause; their cause is clear.",
+   "batch": "v08"
+  },
+  "viv09-001-p02": {
+   "grade": 1,
+   "reason": "Clinging to failure like a stuck bee; could feel like blame.",
+   "batch": "v08"
+  },
+  "seneca-066-p05": {
+   "grade": 0,
+   "reason": "About a lost friend; doesn't fit a rejection.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 2,
+   "reason": "We grow through sorrow, so all is well; brief comfort.",
+   "batch": "v08"
+  },
+  "viv13-025-p02": {
+   "grade": 2,
+   "reason": "Even if we miss the goal, we'll get somewhere better.",
+   "batch": "v08"
+  },
+  "tagore-sadhana-005-p06": {
+   "grade": 3,
+   "reason": "Failures loom large up close; a wider hope outruns them.",
+   "batch": "v08"
+  },
+  "emerson-essays-046-p02": {
+   "grade": 3,
+   "reason": "Don't lose heart at a first setback; you have a hundred chances.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-001-p56": {
+   "grade": 1,
+   "reason": "Every longing fulfilled; too slight, may ring false right now.",
+   "batch": "v08"
+  },
+  "bib-job-003-p06": {
+   "grade": 1,
+   "reason": "Plans broken off; restates the loss only.",
+   "batch": "v08"
+  },
+  "emerson-essays-035-p03": {
+   "grade": 2,
+   "reason": "Rejection can open new powers and paths; fits, if lofty.",
+   "batch": "v08"
+  }
+ },
+ "H07": {
+  "augustine-confessions-pusey-008-p03": {
+   "grade": 1,
+   "reason": "Bitter weeping, and calls loving perishable things wretched.",
+   "batch": "v08"
+  },
+  "an-068-p02": {
+   "grade": 2,
+   "reason": "Everyone must part from what they love; shared road.",
+   "batch": "v08"
+  },
+  "augustine-confessions-pusey-008-p04": {
+   "grade": 1,
+   "reason": "Life a horror after loss; mirrors grief darkly, offers nothing.",
+   "batch": "v08"
+  },
+  "seneca-066-p05": {
+   "grade": 3,
+   "reason": "Years of companionship aren't lost; what we loved stays with us.",
+   "batch": "v08"
+  },
+  "seneca-067-p04": {
+   "grade": 3,
+   "reason": "Speak of him often, cherish his memory without bitterness.",
+   "batch": "v08"
+  },
+  "chuang-tzu-giles-020-p08": {
+   "grade": 1,
+   "reason": "Why grieve; something remains. Abstract and a little dismissive.",
+   "batch": "v08"
+  },
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Describes the blow; offers little.",
+   "batch": "v08"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Wound of losing daily companionship; accurate but only restates.",
+   "batch": "v08"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Searching every place for the lost one; restates grief.",
+   "batch": "v08"
+  },
+  "seneca-066-p04": {
+   "grade": 2,
+   "reason": "Rejoice that you had him; consoling, a bit brisk so soon.",
+   "batch": "v08"
+  }
+ },
+ "H08": {
+  "emerson-essays-040-p02": {
+   "grade": 1,
+   "reason": "On understanding a child; not the career-family trade-off.",
+   "batch": "v08"
+  },
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Whether to keep striving; vague link.",
+   "batch": "v08"
+  },
+  "walden-thoreau-046-p04": {
+   "grade": 0,
+   "reason": "About not supporting injustice; off-topic.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-003-p56": {
+   "grade": 0,
+   "reason": "Children as regrets; would land cruelly on this parent.",
+   "batch": "v08"
+  },
+  "aristotle-ethics-007-p03": {
+   "grade": 1,
+   "reason": "Hard choices between painful options; restates the bind.",
+   "batch": "v08"
+  },
+  "seneca-053-p01": {
+   "grade": 1,
+   "reason": "Weigh effort by worth; abstract, little purchase here.",
+   "batch": "v08"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 2,
+   "reason": "Need not choose so painfully; listen for your right place.",
+   "batch": "v08"
+  },
+  "chuang-tzu-giles-027-p04": {
+   "grade": 0,
+   "reason": "Filial piety and love; off-topic.",
+   "batch": "v08"
+  },
+  "viv02-005-p03": {
+   "grade": 2,
+   "reason": "Give to children expecting nothing back; speaks to the feared grudge.",
+   "batch": "v08"
+  },
+  "emerson-essays-051-p05": {
+   "grade": 2,
+   "reason": "With a child, only soul counts, not accomplishments; reframes good parenting.",
+   "batch": "v08"
+  }
+ },
+ "H09": {
+  "seneca-070-p04": {
+   "grade": 3,
+   "reason": "Comparing with others makes imaginary poverty; names the LinkedIn trap.",
+   "batch": "v08"
+  },
+  "emerson-essays-037-p02": {
+   "grade": 2,
+   "reason": "Every gift has its season; we all take turns at the top.",
+   "batch": "v08"
+  },
+  "seneca-032-p03": {
+   "grade": 2,
+   "reason": "Fine to be outdone in status if you master fortune.",
+   "batch": "v08"
+  },
+  "emerson-essays-046-p02": {
+   "grade": 2,
+   "reason": "Not one chance but a hundred; counters 'no way to catch up'.",
+   "batch": "v08"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 2,
+   "reason": "Whatever your failures, no one can say what you have left to do.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-002-p71": {
+   "grade": 2,
+   "reason": "Least with dreams beats greatest without; honours their ambition.",
+   "batch": "v08"
+  },
+  "schopenhauer-wisdom-of-life-002-p02": {
+   "grade": 1,
+   "reason": "Unused powers breed unhappiness; warns of conceit, could sting.",
+   "batch": "v08"
+  },
+  "seneca-035-p08": {
+   "grade": 2,
+   "reason": "Ambition sees only those ahead, never behind; useful perspective.",
+   "batch": "v08"
+  },
+  "tagore-sadhana-005-p06": {
+   "grade": 2,
+   "reason": "Failures loom large in narrow view; hope looks wider.",
+   "batch": "v08"
+  },
+  "seneca-007-p01": {
+   "grade": 3,
+   "reason": "Think how many are behind; you have outstripped yourself.",
+   "batch": "v08"
+  }
+ },
+ "H10": {
+  "american-indian-stories-zitkala-007-p01": {
+   "grade": 0,
+   "reason": "Despairing cry about faith; nothing to do with this conflict.",
+   "batch": "v08"
+  },
+  "emerson-essays-045-p07": {
+   "grade": 3,
+   "reason": "I must be myself; love me as I am. Speaks to parental pressure.",
+   "batch": "v08"
+  },
+  "emerson-essays-040-p02": {
+   "grade": 1,
+   "reason": "Parent's view on ordering a child; tangential, from her side.",
+   "batch": "v08"
+  },
+  "enchiridion-003-p05": {
+   "grade": 2,
+   "reason": "Take hold of the bond, not the wrong; a way to bear family hurt.",
+   "batch": "v08"
+  },
+  "augustine-confessions-pusey-022-p06": {
+   "grade": 0,
+   "reason": "Inner struggle with habit; off-topic.",
+   "batch": "v08"
+  },
+  "augustine-confessions-pusey-026-p02": {
+   "grade": 1,
+   "reason": "Mother as peacemaker; doesn't help them with this mother.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-025-p09": {
+   "grade": 2,
+   "reason": "Two handles: hold the relationship, not the injury.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-024-p13": {
+   "grade": 2,
+   "reason": "Focus on your own stance; she can't harm you unless you let it.",
+   "batch": "v08"
+  },
+  "bib-psa-015-p02": {
+   "grade": 1,
+   "reason": "I speak for peace, they for war; restates the dynamic.",
+   "batch": "v08"
+  },
+  "bib-2esdras-008-p01": {
+   "grade": 1,
+   "reason": "Wisdom as mother; only a word overlap.",
+   "batch": "v08"
+  }
+ },
+ "H11": {
+  "teresa-interior-castle-013-p03": {
+   "grade": 2,
+   "reason": "Long suffering, and a way to bear it: charity and trust.",
+   "batch": "v08"
+  },
+  "seneca-012-p01": {
+   "grade": 2,
+   "reason": "Don't despair of curing even chronic illness; keep faith.",
+   "batch": "v08"
+  },
+  "sn-090-p02": {
+   "grade": 1,
+   "reason": "Endure pain without trembling, but calls the sufferer a weakling.",
+   "batch": "v08"
+  },
+  "seneca-059-p02": {
+   "grade": 1,
+   "reason": "Prolonged pain can't be severe; dismissive of chronic pain.",
+   "batch": "v08"
+  },
+  "bib-2corinthians-001-p03": {
+   "grade": 2,
+   "reason": "Body decays but inner self renewed daily; don't lose heart.",
+   "batch": "v08"
+  },
+  "an-100-p02": {
+   "grade": 1,
+   "reason": "Lists suffering; restates without help.",
+   "batch": "v08"
+  },
+  "bib-lamentations-001-p05": {
+   "grade": 3,
+   "reason": "Strength and hope gone, yet mercies new every morning; fits waking to pain.",
+   "batch": "v08"
+  },
+  "mn-090-p01": {
+   "grade": 2,
+   "reason": "Painful treatment step after step, then healing; hope through tiring care.",
+   "batch": "v08"
+  },
+  "seneca-040-p07": {
+   "grade": 1,
+   "reason": "Pain is either bearable or short; denies their lived experience.",
+   "batch": "v08"
+  },
+  "tagore-sadhana-005-p03": {
+   "grade": 2,
+   "reason": "Pain is not a permanent fixture; quiet hope, abstract.",
+   "batch": "v08"
+  }
+ },
+ "H12": {
+  "gibran-sand-and-foam-001-p31": {
+   "grade": 1,
+   "reason": "Origin of loneliness in being misjudged; not their story.",
+   "batch": "v08"
+  },
+  "emerson-essays-016-p05": {
+   "grade": 2,
+   "reason": "We walk alone, yet souls exist who can love us; hopeful.",
+   "batch": "v08"
+  },
+  "walden-thoreau-018-p04": {
+   "grade": 1,
+   "reason": "Distance between minds; restates isolation.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-001-p34": {
+   "grade": 2,
+   "reason": "Let us talk so we don't feel lonely; gentle nudge to try.",
+   "batch": "v08"
+  },
+  "viv07-028-p02": {
+   "grade": 1,
+   "reason": "Ties isolation to selfishness; could feel blaming.",
+   "batch": "v08"
+  },
+  "walden-thoreau-019-p02": {
+   "grade": 1,
+   "reason": "Praises solitude; dismisses the loneliness they feel.",
+   "batch": "v08"
+  },
+  "schopenhauer-counsels-maxims-004-p03": {
+   "grade": 1,
+   "reason": "Befriending solitude is rare luck; little comfort.",
+   "batch": "v08"
+  },
+  "viv07-007-p01": {
+   "grade": 1,
+   "reason": "Separation from the Whole brings misery; abstract.",
+   "batch": "v08"
+  },
+  "walden-thoreau-018-p03": {
+   "grade": 2,
+   "reason": "Lonely once, then found company in nature; a way through.",
+   "batch": "v08"
+  },
+  "seneca-002-p07": {
+   "grade": 2,
+   "reason": "Be a friend to yourself and you're never alone.",
+   "batch": "v08"
+  }
+ },
+ "H13": {
+  "bib-deuteronomy-010-p04": {
+   "grade": 2,
+   "reason": "Don't be afraid, you won't be abandoned; fits fear and being left.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-017-p03": {
+   "grade": 0,
+   "reason": "Child's mortality; wrong to show an expectant mother.",
+   "batch": "v08"
+  },
+  "viv04-023-p03": {
+   "grade": 2,
+   "reason": "Responsibility for a baby brings out our best; answers 'responsible enough'.",
+   "batch": "v08"
+  },
+  "bib-jeremiah-001-p01": {
+   "grade": 2,
+   "reason": "Don't say 'I'm not ready'; I am with you. Fits unpreparedness.",
+   "batch": "v08"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 1,
+   "reason": "Untried capacities; generic here.",
+   "batch": "v08"
+  },
+  "gibran-sand-and-foam-003-p55": {
+   "grade": 1,
+   "reason": "Mother dreaming then giving birth; image only, no help.",
+   "batch": "v08"
+  },
+  "seneca-011-p05": {
+   "grade": 0,
+   "reason": "Death and exile hang over you; harsh for a frightened person.",
+   "batch": "v08"
+  },
+  "bib-psa-003-p06": {
+   "grade": 1,
+   "reason": "If parents forsake, God takes up; child's view, oblique.",
+   "batch": "v08"
+  },
+  "bib-2maccabees-003-p02": {
+   "grade": 1,
+   "reason": "Mother's wonder at life in the womb; little to help with fear.",
+   "batch": "v08"
+  },
+  "bib-jeremiah-015-p01": {
+   "grade": 2,
+   "reason": "Fatherless children will be kept; reassurance for a lone mother.",
+   "batch": "v08"
+  }
+ },
+ "H14": {
+  "bib-sirach-006-p05": {
+   "grade": 1,
+   "reason": "Revealing secrets destroys friendship; one-sided, ignores the wife.",
+   "batch": "v08"
+  },
+  "mn-098-p01": {
+   "grade": 1,
+   "reason": "Counsel that harms no one; too slight for the dilemma.",
+   "batch": "v08"
+  },
+  "bib-sirach-005-p05": {
+   "grade": 1,
+   "reason": "Betrayed secrets end friendships; restates one horn.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-011-p03": {
+   "grade": 2,
+   "reason": "Friendship rests on fidelity and honesty; reframes the loyalty owed.",
+   "batch": "v08"
+  },
+  "soul-of-the-indian-eastman-003-p01": {
+   "grade": 1,
+   "reason": "Be true to a friend through all trials; pushes one side.",
+   "batch": "v08"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Betrayal by a close friend; names betrayal, no help.",
+   "batch": "v08"
+  },
+  "aristotle-ethics-031-p01": {
+   "grade": 3,
+   "reason": "When a friend goes wrong, help him mend first; real way through.",
+   "batch": "v08"
+  },
+  "mn-120-p01": {
+   "grade": 3,
+   "reason": "If true and beneficial, know the right time to speak; direct guidance.",
+   "batch": "v08"
+  },
+  "seneca-001-p08": {
+   "grade": 2,
+   "reason": "Speak boldly with a true friend; suggests confronting him.",
+   "batch": "v08"
+  },
+  "meditations-009-p03": {
+   "grade": 2,
+   "reason": "Live in truth and justice, with goodwill even to liars.",
+   "batch": "v08"
+  }
+ },
+ "H15": {
+  "meditations-005-p05": {
+   "grade": 2,
+   "reason": "Love your craft; be no man's slave. Inner freedom under a bad boss.",
+   "batch": "v08"
+  },
+  "viv02-006-p04": {
+   "grade": 1,
+   "reason": "Says don't grumble at your position; little for mistreatment.",
+   "batch": "v08"
+  },
+  "schopenhauer-wisdom-of-life-002-p02": {
+   "grade": 1,
+   "reason": "Unused powers make one unhappy; restates, warns of conceit.",
+   "batch": "v08"
+  },
+  "viv02-007-p03": {
+   "grade": 0,
+   "reason": "Grumblers doomed to failure; blames someone being belittled.",
+   "batch": "v08"
+  },
+  "bib-job-002-p01": {
+   "grade": 1,
+   "reason": "Life as hired drudgery; restates the misery.",
+   "batch": "v08"
+  },
+  "seneca-010-p01": {
+   "grade": 0,
+   "reason": "Says people cling to their slavery; blaming when they can't leave.",
+   "batch": "v08"
+  },
+  "epictetus-discourses-long-024-p02": {
+   "grade": 2,
+   "reason": "Play your given part well; a way to endure while stuck.",
+   "batch": "v08"
+  },
+  "seneca-019-p03": {
+   "grade": 1,
+   "reason": "Power runs both ways; aimed at masters, not the mistreated.",
+   "batch": "v08"
+  },
+  "viv13-010-p08": {
+   "grade": 1,
+   "reason": "No work is menial; doesn't touch the boss problem.",
+   "batch": "v08"
+  },
+  "enchiridion-001-p10": {
+   "grade": 2,
+   "reason": "Act the given part well; steadiness while choice is limited.",
+   "batch": "v08"
+  }
+ },
+ "H16": {
+  "seneca-005-p02": {
+   "grade": 2,
+   "reason": "No one too old to hope for another day; each day counts.",
+   "batch": "v08"
+  },
+  "seneca-004-p09": {
+   "grade": 3,
+   "reason": "Cherish old age; it is full of pleasure if well used.",
+   "batch": "v08"
+  },
+  "seneca-058-p05": {
+   "grade": 3,
+   "reason": "Length isn't yours to decide, how you live is; start truly living.",
+   "batch": "v08"
+  },
+  "seneca-005-p01": {
+   "grade": 2,
+   "reason": "Life's later slope has its own delights.",
+   "batch": "v08"
+  },
+  "schopenhauer-counsels-maxims-015-p02": {
+   "grade": 2,
+   "reason": "Later life brings restfulness and pleasure in small things.",
+   "batch": "v08"
+  },
+  "meditations-014-p05": {
+   "grade": 2,
+   "reason": "Each life stage ended without harm; endings needn't be feared.",
+   "batch": "v08"
+  },
+  "dn-025-p01": {
+   "grade": 1,
+   "reason": "Life is short; restates.",
+   "batch": "v08"
+  },
+  "bib-psa-011-p01": {
+   "grade": 1,
+   "reason": "Years pass quickly in toil and sorrow; mirrors fear bleakly.",
+   "batch": "v08"
+  },
+  "schopenhauer-counsels-maxims-016-p07": {
+   "grade": 2,
+   "reason": "Years before old age are called one's best; lighter burden.",
+   "batch": "v08"
+  },
+  "schopenhauer-counsels-maxims-018-p03": {
+   "grade": 1,
+   "reason": "Faculties waste away; bleak, little comfort at 58.",
+   "batch": "v08"
+  }
+ },
+ "H17": {
+  "seneca-013-p01": {
+   "grade": 2,
+   "reason": "You are not alone; the stuckness is inward and needs a change of soul.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-003-p03": {
+   "grade": 1,
+   "reason": "General theory of boredom; doesn't meet the comparison or self-doubt.",
+   "batch": "v09"
+  },
+  "chuang-tzu-giles-017-p02": {
+   "grade": 2,
+   "reason": "Questions whether others' visible happiness is real; eases the comparison.",
+   "batch": "v09"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 3,
+   "reason": "Boredom is ancient, your capacities unmeasured; don't despair of what's left.",
+   "batch": "v09"
+  },
+  "walden-thoreau-016-p01": {
+   "grade": 2,
+   "reason": "Follow your own genius and life shows fresh prospects; a way forward.",
+   "batch": "v09"
+  },
+  "schopenhauer-counsels-maxims-015-p02": {
+   "grade": 1,
+   "reason": "About youth versus age and illusions of happiness; mostly beside the point.",
+   "batch": "v09"
+  },
+  "walden-thoreau-001-p04": {
+   "grade": 1,
+   "reason": "Others' amusements hide despair; bleak and offers little to someone stuck.",
+   "batch": "v09"
+  },
+  "tao-001-p06": {
+   "grade": 1,
+   "reason": "Mirrors 'everyone else is happy, I alone am listless' without offering more.",
+   "batch": "v09"
+  },
+  "emerson-essays-007-p05": {
+   "grade": 1,
+   "reason": "Generic line on enthusiasm; doesn't speak to feeling stuck or left out.",
+   "batch": "v09"
+  },
+  "seneca-031-p04": {
+   "grade": 1,
+   "reason": "About an untested easy life; loosely related to a flat, boring life.",
+   "batch": "v09"
+  }
+ },
+ "H18": {
+  "viv04-010-p04": {
+   "grade": 1,
+   "reason": "Describes life as struggle until death; restates the question, no answer.",
+   "batch": "v09"
+  },
+  "viv11-010-p02": {
+   "grade": 2,
+   "reason": "Offers a point: giving life to a high ideal gives it value.",
+   "batch": "v09"
+  },
+  "viv13-026-p05": {
+   "grade": 2,
+   "reason": "Death everywhere, yet the spirit is immortal; a perspective beyond mortality.",
+   "batch": "v09"
+  },
+  "viv04-002-p02": {
+   "grade": 1,
+   "reason": "Poses the same question death raises; gives nothing to hold.",
+   "batch": "v09"
+  },
+  "dn-041-p01": {
+   "grade": 2,
+   "reason": "Since none escape death, wake up and do good; a response to pointlessness.",
+   "batch": "v09"
+  },
+  "viv13-025-p05": {
+   "grade": 1,
+   "reason": "Only asks what the goal of life is; restates the person's question.",
+   "batch": "v09"
+  },
+  "chuang-tzu-giles-021-p02": {
+   "grade": 2,
+   "reason": "Life and death follow each other, so no need to complain; a calm view.",
+   "batch": "v09"
+  },
+  "viv12-001-p04": {
+   "grade": 2,
+   "reason": "This world is a means, not the end; reframes the race toward death.",
+   "batch": "v09"
+  },
+  "viv13-025-p02": {
+   "grade": 2,
+   "reason": "Struggle still gets us somewhere better; a modest reason to go on.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-001-p61": {
+   "grade": 3,
+   "reason": "Answers 'what's the point' directly: we live to discover beauty.",
+   "batch": "v09"
+  }
+ },
+ "H19": {
+  "viv13-013-p02": {
+   "grade": 2,
+   "reason": "A circle of light remains in every heart; hope amid human darkness.",
+   "batch": "v09"
+  },
+  "viv04-020-p02": {
+   "grade": 2,
+   "reason": "Be good and merciful to sufferers; don't carry the world's cure alone.",
+   "batch": "v09"
+  },
+  "viv02-008-p04": {
+   "grade": 3,
+   "reason": "World always mixes good and evil; sympathise and grow stronger through it.",
+   "batch": "v09"
+  },
+  "bib-matthew-008-p02": {
+   "grade": 2,
+   "reason": "Wars will come; don't be troubled. Steadiness in face of world news.",
+   "batch": "v09"
+  },
+  "viv04-020-p05": {
+   "grade": 1,
+   "reason": "'If I am evil the world is evil' could imply blame for seeing darkness.",
+   "batch": "v09"
+  },
+  "teresa-interior-castle-007-p02": {
+   "grade": 2,
+   "reason": "Outer conflict can be borne with inner peace; speaks to keeping darkness out.",
+   "batch": "v09"
+  },
+  "upanishads-paramananda-002-p04": {
+   "grade": 3,
+   "reason": "Like the sun, the inner Self is not stained by the world's misery.",
+   "batch": "v09"
+  },
+  "viv02-008-p03": {
+   "grade": 2,
+   "reason": "Don't lose sleep over the world; calm, loving people do real good.",
+   "batch": "v09"
+  },
+  "bib-john-001-p01": {
+   "grade": 3,
+   "reason": "Light shines in darkness and isn't overcome; exactly the needed hope.",
+   "batch": "v09"
+  },
+  "as-a-man-thinketh-allen-002-p04": {
+   "grade": 1,
+   "reason": "Suggests the world mirrors your thoughts; dismisses real war and poverty.",
+   "batch": "v09"
+  }
+ },
+ "H20": {
+  "viv12-003-p04": {
+   "grade": 0,
+   "reason": "About love of God beyond intellect; not about conversion or the relationship.",
+   "batch": "v09"
+  },
+  "viv08-010-p08": {
+   "grade": 1,
+   "reason": "Realisation over argument; only loosely touches insincere conversion.",
+   "batch": "v09"
+  },
+  "viv01-003-p03": {
+   "grade": 3,
+   "reason": "No one need convert; each grows by their own law. Speaks to the core.",
+   "batch": "v09"
+  },
+  "viv12-006-p02": {
+   "grade": 3,
+   "reason": "My religion cannot be yours; each takes their own road. Directly relevant.",
+   "batch": "v09"
+  },
+  "teresa-interior-castle-005-p03": {
+   "grade": 1,
+   "reason": "Virtue over outward dress, but urges submitting will to God; mismatched.",
+   "batch": "v09"
+  },
+  "viv07-017-p06": {
+   "grade": 2,
+   "reason": "Religion is realisation, not assent; supports the worry that converting is hollow.",
+   "batch": "v09"
+  },
+  "viv02-010-p07": {
+   "grade": 2,
+   "reason": "Unselfishness matters more than religious forms; affirms her as she is.",
+   "batch": "v09"
+  },
+  "viv11-005-p02": {
+   "grade": 2,
+   "reason": "Different natures need different ways; one way for all is harmful.",
+   "batch": "v09"
+  },
+  "viv13-009-p05": {
+   "grade": 1,
+   "reason": "Defines religion as realisation; general, doesn't address the dilemma.",
+   "batch": "v09"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 1,
+   "reason": "Urges faith and obedience to guidance; off for a non-religious person's choice.",
+   "batch": "v09"
+  }
+ },
+ "H21": {
+  "seneca-066-p05": {
+   "grade": 0,
+   "reason": "Consolation for a friend who has died; wrong situation entirely.",
+   "batch": "v09"
+  },
+  "seneca-001-p09": {
+   "grade": 1,
+   "reason": "On whom to confide in; could read as faulting her for trusting.",
+   "batch": "v09"
+  },
+  "schopenhauer-counsels-maxims-011-p01": {
+   "grade": 1,
+   "reason": "Testing friends through misfortune; tangential to a broken confidence.",
+   "batch": "v09"
+  },
+  "bib-psa-005-p05": {
+   "grade": 1,
+   "reason": "Close friend turned against me; restates the betrayal only.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-011-p03": {
+   "grade": 2,
+   "reason": "Friendship rests on fidelity; helps her see what was broken.",
+   "batch": "v09"
+  },
+  "imitation-of-christ-benham-016-p08": {
+   "grade": 2,
+   "reason": "Secret betrayed by a confidant, with a prayer for protection and integrity.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-009-p01": {
+   "grade": 2,
+   "reason": "Breaking confidence forfeits trust; validates her shaken sense of trust.",
+   "batch": "v09"
+  },
+  "bib-psa-006-p06": {
+   "grade": 1,
+   "reason": "It was my close friend, not an enemy; restates the pain only.",
+   "batch": "v09"
+  },
+  "bib-sirach-006-p05": {
+   "grade": 2,
+   "reason": "Revealing secrets destroys friendship; names the gravity of what she felt.",
+   "batch": "v09"
+  },
+  "emerson-essays-038-p06": {
+   "grade": 1,
+   "reason": "On people misunderstanding each other; not about betrayal of trust.",
+   "batch": "v09"
+  }
+ },
+ "H22": {
+  "prophet-004-p05": {
+   "grade": 2,
+   "reason": "Daily life is the real temple; religion beyond Sunday attendance.",
+   "batch": "v09"
+  },
+  "viv05-006-p03": {
+   "grade": 3,
+   "reason": "Forms matter only while they express inner life; speaks to hollow ritual.",
+   "batch": "v09"
+  },
+  "viv11-028-p02": {
+   "grade": 2,
+   "reason": "Religion isn't going to church but an opened heart; validates the doubt.",
+   "batch": "v09"
+  },
+  "viv03-019-p01": {
+   "grade": 1,
+   "reason": "People make a church; brief and doesn't address hypocrisy or leaving.",
+   "batch": "v09"
+  },
+  "emerson-essays-034-p02": {
+   "grade": 3,
+   "reason": "Falsehood is everywhere, not just church; directly weighs whether to leave.",
+   "batch": "v09"
+  },
+  "viv11-006-p01": {
+   "grade": 2,
+   "reason": "Religion is sincere love, not ceremony; a lens on the meaningless ritual.",
+   "batch": "v09"
+  },
+  "emerson-essays-053-p05": {
+   "grade": 1,
+   "reason": "Faith on authority isn't faith; abstract, touches it only loosely.",
+   "batch": "v09"
+  },
+  "bib-james-001-p05": {
+   "grade": 2,
+   "reason": "Pure religion is caring for the afflicted; contrasts with congregants' conduct.",
+   "batch": "v09"
+  },
+  "japji-macauliffe-001-p06": {
+   "grade": 2,
+   "reason": "No devotion without virtue; speaks to morality missing from worship.",
+   "batch": "v09"
+  },
+  "viv13-019-p05": {
+   "grade": 2,
+   "reason": "Praying to God as Father yet not treating others as brothers; names hypocrisy.",
+   "batch": "v09"
+  }
+ },
+ "H23": {
+  "bib-philippians-001-p01": {
+   "grade": 2,
+   "reason": "Forgetting what lies behind and pressing on; answers how to move forward.",
+   "batch": "v09"
+  },
+  "an-079-p01": {
+   "grade": 3,
+   "reason": "Concrete ways to let go of resentment toward someone; fits the anger.",
+   "batch": "v09"
+  },
+  "bib-genesis-013-p02": {
+   "grade": 2,
+   "reason": "Joseph reconciles with family who wronged him; a model of moving past.",
+   "batch": "v09"
+  },
+  "dn-069-p01": {
+   "grade": 1,
+   "reason": "A thin one-line tactic for resentment; little to hold here.",
+   "batch": "v09"
+  },
+  "imitation-of-christ-benham-019-p07": {
+   "grade": 1,
+   "reason": "Bear indignation patiently; generic, misses the longing and the past.",
+   "batch": "v09"
+  },
+  "bib-psa-003-p03": {
+   "grade": 0,
+   "reason": "Prayer about one's own sins of youth; not about the father's wrongs.",
+   "batch": "v09"
+  },
+  "sn-002-p07": {
+   "grade": 1,
+   "reason": "Pardoning a confessed mistake; the father hasn't confessed anything here.",
+   "batch": "v09"
+  },
+  "an-139-p01": {
+   "grade": 1,
+   "reason": "Brief resentment tactic; too slight for years of hurt.",
+   "batch": "v09"
+  },
+  "augustine-confessions-pusey-018-p03": {
+   "grade": 0,
+   "reason": "About God healing the speaker's pride; off-topic.",
+   "batch": "v09"
+  },
+  "viv06-005-p02": {
+   "grade": 1,
+   "reason": "Direct anger at God; sidesteps the father and the past.",
+   "batch": "v09"
+  }
+ },
+ "H24": {
+  "seneca-029-p02": {
+   "grade": 2,
+   "reason": "A beautiful soul can come from any body; consoling though it says 'ugly'.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-015-p02": {
+   "grade": 2,
+   "reason": "Worth shouldn't rest on others' opinions; eases comparison with others.",
+   "batch": "v09"
+  },
+  "seneca-085-p02": {
+   "grade": 2,
+   "reason": "Stop competing on looks you can't win; return to the good that's yours.",
+   "batch": "v09"
+  },
+  "tagore-stray-birds-001-p12": {
+   "grade": 2,
+   "reason": "Find beauty in love, not the mirror; short but on point.",
+   "batch": "v09"
+  },
+  "rumi-masnavi-whinfield-019-p03": {
+   "grade": 3,
+   "reason": "Your own thoughts wound you; stop warring with yourself. Speaks to self-hatred.",
+   "batch": "v09"
+  },
+  "seneca-042-p06": {
+   "grade": 2,
+   "reason": "Look into your soul instead of taking others' word for your worth.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-001-p03": {
+   "grade": 2,
+   "reason": "You have something better than your flesh; turns from the body.",
+   "batch": "v09"
+  },
+  "rumi-masnavi-whinfield-011-p05": {
+   "grade": 2,
+   "reason": "Stop staring at your image; look toward what you love.",
+   "batch": "v09"
+  },
+  "seneca-057-p04": {
+   "grade": 2,
+   "reason": "The body is a cloak; it doesn't decide the worth of who you are.",
+   "batch": "v09"
+  },
+  "bib-1peter-001-p02": {
+   "grade": 2,
+   "reason": "True beauty is a gentle inner spirit; a gentle reframe.",
+   "batch": "v09"
+  }
+ },
+ "H25": {
+  "mn-096-p02": {
+   "grade": 1,
+   "reason": "Instruction to eat in moderation; could feel like a lecture amid self-loathing.",
+   "batch": "v09"
+  },
+  "augustine-confessions-pusey-022-p06": {
+   "grade": 1,
+   "reason": "Self-lashing and a habit one can't break; mirrors the spiral, no relief.",
+   "batch": "v09"
+  },
+  "seneca-032-p02": {
+   "grade": 1,
+   "reason": "Hidden inner wound and self-condemnation; restates rather than helps.",
+   "batch": "v09"
+  },
+  "teresa-interior-castle-007-p01": {
+   "grade": 2,
+   "reason": "Don't be troubled by frailties; accept being human, long to be undespised.",
+   "batch": "v09"
+  },
+  "meditations-012-p06": {
+   "grade": 2,
+   "reason": "I shouldn't hurt myself, as I wouldn't hurt others; counters self-loathing.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-001-p58": {
+   "grade": 1,
+   "reason": "Cryptic line on sorrow; unlikely to land for this person.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-001-p03": {
+   "grade": 2,
+   "reason": "You are more than your body; a gentle turn from body-hatred.",
+   "batch": "v09"
+  },
+  "viv07-010-p02": {
+   "grade": 0,
+   "reason": "About judging others by one's standard on money; off-topic.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-003-p71": {
+   "grade": 1,
+   "reason": "Larger self beyond the hungry mouth; obscure, loosely related.",
+   "batch": "v09"
+  },
+  "mn-034-p01": {
+   "grade": 1,
+   "reason": "Vow not to overeat; prescriptive and could deepen shame.",
+   "batch": "v09"
+  }
+ },
+ "H26": {
+  "emerson-essays-044-p01": {
+   "grade": 2,
+   "reason": "Life is for itself, not a spectacle; worth needs no outside proof.",
+   "batch": "v09"
+  },
+  "meditations-006-p04": {
+   "grade": 2,
+   "reason": "Don't be diverted by others' blame; follow your own nature.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-008-p01": {
+   "grade": 3,
+   "reason": "Real life is in your own skin, not others' opinions; directly on point.",
+   "batch": "v09"
+  },
+  "seneca-005-p07": {
+   "grade": 2,
+   "reason": "Attend to what you feel, not what others say about you.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-015-p02": {
+   "grade": 3,
+   "reason": "Making worth depend on others' views is wretched; frees from judgement.",
+   "batch": "v09"
+  },
+  "emerson-essays-044-p02": {
+   "grade": 3,
+   "reason": "What I must do concerns me, not what people think; independence in a crowd.",
+   "batch": "v09"
+  },
+  "seneca-013-p07": {
+   "grade": 2,
+   "reason": "What you think of yourself matters more than others' approval.",
+   "batch": "v09"
+  },
+  "sn-001-p05": {
+   "grade": 2,
+   "reason": "Measuring yourself as equal, better or worse breeds conflict; on comparing.",
+   "batch": "v09"
+  },
+  "meditations-011-p03": {
+   "grade": 2,
+   "reason": "Look at whose approval you seek; then you won't crave it.",
+   "batch": "v09"
+  },
+  "seneca-042-p06": {
+   "grade": 3,
+   "reason": "You're taking others' word for who you are; look into your own soul.",
+   "batch": "v09"
+  }
+ },
+ "H27": {
+  "walden-thoreau-010-p02": {
+   "grade": 3,
+   "reason": "Find your own way, not your father's or mother's; speaks to the core.",
+   "batch": "v09"
+  },
+  "emerson-essays-006-p03": {
+   "grade": 1,
+   "reason": "Poetry jolts us out of habit; tangential to choosing a course.",
+   "batch": "v09"
+  },
+  "emerson-essays-048-p02": {
+   "grade": 3,
+   "reason": "Talent is the call; one direction opens freely. Affirms the pull to writing.",
+   "batch": "v09"
+  },
+  "emerson-essays-046-p02": {
+   "grade": 2,
+   "reason": "One who tries many paths has a hundred chances; eases practicality fears.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-002-p02": {
+   "grade": 2,
+   "reason": "Unused strengths bring lifelong unhappiness, with a fair caution against conceit.",
+   "batch": "v09"
+  },
+  "emerson-essays-048-p01": {
+   "grade": 1,
+   "reason": "Trust guidance, there is a right place; vague for this decision.",
+   "batch": "v09"
+  },
+  "schopenhauer-counsels-maxims-015-p01": {
+   "grade": 1,
+   "reason": "Youthful dreams breed disappointment; discouraging and off the question.",
+   "batch": "v09"
+  },
+  "walden-thoreau-008-p01": {
+   "grade": 2,
+   "reason": "Don't postpone the poet's life to earn first; relevant to the dilemma.",
+   "batch": "v09"
+  },
+  "emerson-essays-039-p01": {
+   "grade": 1,
+   "reason": "Young dreamers foretell the future; loosely encouraging, not about the choice.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-002-p01": {
+   "grade": 2,
+   "reason": "Choose work that uses your own qualities; supports following aptitude.",
+   "batch": "v09"
+  }
+ },
+ "H28": {
+  "epictetus-discourses-long-025-p09": {
+   "grade": 1,
+   "reason": "About bearing a brother's wrong; he is the one who did wrong here.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-003-p56": {
+   "grade": 0,
+   "reason": "Calling a child a regret would wound a guilty, estranged parent.",
+   "batch": "v09"
+  },
+  "enchiridion-003-p05": {
+   "grade": 1,
+   "reason": "Bearing another's injustice; reversed from his situation.",
+   "batch": "v09"
+  },
+  "bib-matthew-006-p03": {
+   "grade": 0,
+   "reason": "Confronting someone who wronged you; wrong direction and could mislead.",
+   "batch": "v09"
+  },
+  "imitation-of-christ-benham-019-p07": {
+   "grade": 1,
+   "reason": "Bear patiently, the storm will calm; generic for guilt and estrangement.",
+   "batch": "v09"
+  },
+  "meditations-012-p06": {
+   "grade": 1,
+   "reason": "Assumes one never caused pain; he did, so it doesn't fit.",
+   "batch": "v09"
+  },
+  "emerson-essays-051-p05": {
+   "grade": 2,
+   "reason": "With a child, will fails and soul connects; shows what went wrong and a way.",
+   "batch": "v09"
+  },
+  "bib-psa-003-p03": {
+   "grade": 2,
+   "reason": "Prayer for past wrongs to be met with loving kindness; speaks to guilt.",
+   "batch": "v09"
+  },
+  "emerson-essays-040-p02": {
+   "grade": 2,
+   "reason": "Stand in the child's place rather than command; a path to repair.",
+   "batch": "v09"
+  },
+  "bib-colossians-001-p03": {
+   "grade": 1,
+   "reason": "Fathers, don't provoke children; true but reads as a rebuke now.",
+   "batch": "v09"
+  }
+ },
+ "H29": {
+  "mn-018-p02": {
+   "grade": 1,
+   "reason": "Don't be elated or resentful; general, misses the hurt from his wife.",
+   "batch": "v09"
+  },
+  "enchiridion-002-p02": {
+   "grade": 1,
+   "reason": "Addresses the envier, not the one envied; loosely related.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-024-p09": {
+   "grade": 1,
+   "reason": "Advice for the one passed over; not his position.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-024-p03": {
+   "grade": 1,
+   "reason": "On avoiding envy oneself; tangential to a spouse's coolness.",
+   "batch": "v09"
+  },
+  "seneca-070-p04": {
+   "grade": 2,
+   "reason": "Others' promotions torment the stalled; helps him understand his wife's reaction.",
+   "batch": "v09"
+  },
+  "an-040-p03": {
+   "grade": 1,
+   "reason": "Ideal of spouses speaking kindly; generic, offers little now.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-003-p54": {
+   "grade": 1,
+   "reason": "Envy as hidden praise; could harden him against his wife.",
+   "batch": "v09"
+  },
+  "schopenhauer-wisdom-of-life-001-p02": {
+   "grade": 0,
+   "reason": "About envying others' experiences; off-topic.",
+   "batch": "v09"
+  },
+  "gibran-sand-and-foam-003-p04": {
+   "grade": 1,
+   "reason": "Envious silence is loud; restates his perception, nothing more.",
+   "batch": "v09"
+  },
+  "epictetus-discourses-long-021-p03": {
+   "grade": 1,
+   "reason": "Contentment when others have power; addresses envier, not him.",
+   "batch": "v09"
+  }
+ },
+ "H30": {
+  "schopenhauer-wisdom-of-life-006-p02": {
+   "grade": 2,
+   "reason": "Riches like sea-water never satisfy; explains why money hasn't filled the hole.",
+   "batch": "v10"
+  },
+  "walden-thoreau-027-p01": {
+   "grade": 1,
+   "reason": "Brief line on true wealth; too slight for his anger.",
+   "batch": "v10"
+  },
+  "seneca-070-p04": {
+   "grade": 1,
+   "reason": "About comparing with richer neighbours; not his resentment of the past.",
+   "batch": "v10"
+  },
+  "seneca-008-p05": {
+   "grade": 2,
+   "reason": "Rich and hungry versus poor and sated; speaks to wealth not satisfying.",
+   "batch": "v10"
+  },
+  "epictetus-discourses-long-015-p06": {
+   "grade": 2,
+   "reason": "Rid yourself of the opinion about poverty; addresses lingering resentment.",
+   "batch": "v10"
+  },
+  "viv13-026-p01": {
+   "grade": 2,
+   "reason": "Poverty then wealth deceive us; dissatisfaction can also be a blessing.",
+   "batch": "v10"
+  },
+  "schopenhauer-wisdom-of-life-002-p03": {
+   "grade": 2,
+   "reason": "What you are matters more than what you have; a direction beyond money.",
+   "batch": "v10"
+  },
+  "viv06-002-p01": {
+   "grade": 2,
+   "reason": "Pain over money is misdirected; turn it toward a higher aim.",
+   "batch": "v10"
+  },
+  "seneca-007-p06": {
+   "grade": 3,
+   "reason": "What burdened poverty now burdens riches; the malady travels with the person.",
+   "batch": "v10"
+  },
+  "an-079-p01": {
+   "grade": 1,
+   "reason": "Resentment toward a person; his anger is at circumstance.",
+   "batch": "v10"
+  }
+ },
+ "H31": {
+  "light-of-asia-arnold-009-p01": {
+   "grade": 3,
+   "reason": "The whole world weeps with you; shared grief grows lighter.",
+   "batch": "v10"
+  },
+  "viv12-003-p03": {
+   "grade": 1,
+   "reason": "Describes loss and asks 'what after this?'; offers nothing to hold.",
+   "batch": "v10"
+  },
+  "augustine-confessions-pusey-008-p01": {
+   "grade": 1,
+   "reason": "Vivid portrait of grief; restates without consolation.",
+   "batch": "v10"
+  },
+  "seneca-066-p05": {
+   "grade": 2,
+   "reason": "Those we love stay with us; the past is ours. Consoling, a bit brisk.",
+   "batch": "v10"
+  },
+  "augustine-confessions-pusey-038-p02": {
+   "grade": 2,
+   "reason": "Years of mourning, yet God as comfort; grief accompanied by consolation.",
+   "batch": "v10"
+  },
+  "bib-sirach-008-p06": {
+   "grade": 1,
+   "reason": "Mourn a day or two then be comforted; would feel dismissive to a parent.",
+   "batch": "v10"
+  },
+  "augustine-confessions-pusey-027-p01": {
+   "grade": 1,
+   "reason": "Names the fresh wound of loss; nothing beyond description.",
+   "batch": "v10"
+  },
+  "bib-genesis-011-p01": {
+   "grade": 1,
+   "reason": "Jacob mourns his son and refuses comfort; mirrors grief only.",
+   "batch": "v10"
+  },
+  "viv04-027-p03": {
+   "grade": 1,
+   "reason": "Death stops the world and raises questions; no comfort offered.",
+   "batch": "v10"
+  },
+  "an-068-p02": {
+   "grade": 2,
+   "reason": "All beings are parted from those they love; you are not alone.",
+   "batch": "v10"
+  }
+ },
+ "H32": {
+  "an-176-p01": {
+   "grade": 1,
+   "reason": "Gratitude for good friends; misses the engagement.",
+   "batch": "v10"
+  },
+  "bib-isaiah-014-p01": {
+   "grade": 3,
+   "reason": "Great rejoicing, like a bride with her jewels; fits the joy.",
+   "batch": "v10"
+  },
+  "bib-luke-001-p01": {
+   "grade": 2,
+   "reason": "Joy that great things have been done for me; fits gratitude.",
+   "batch": "v10"
+  },
+  "bib-2corinthians-003-p02": {
+   "grade": 2,
+   "reason": "Rejoice, live in peace, God of love with you; warm blessing.",
+   "batch": "v10"
+  },
+  "gibran-sand-and-foam-001-p56": {
+   "grade": 3,
+   "reason": "No longing remains unfulfilled; honours years of hoping.",
+   "batch": "v10"
+  },
+  "tagore-stray-birds-001-p18": {
+   "grade": 3,
+   "reason": "This is what I had long waited for; captures the moment.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-006-p07": {
+   "grade": 1,
+   "reason": "Joy of being human in general; not about finding love.",
+   "batch": "v10"
+  },
+  "emerson-essays-015-p01": {
+   "grade": 3,
+   "reason": "Affection transforms the world; celebrates finding the beloved.",
+   "batch": "v10"
+  },
+  "bib-isaiah-012-p09": {
+   "grade": 2,
+   "reason": "Go out with joy; hills sing. Shares the celebration.",
+   "batch": "v10"
+  },
+  "an-173-p01": {
+   "grade": 1,
+   "reason": "Joy from ethical living; beside the point here.",
+   "batch": "v10"
+  }
+ },
+ "L01": {
+  "tagore-stray-birds-001-p18": {
+   "grade": 0,
+   "reason": "Love line unrelated to keeping a surprise.",
+   "batch": "v10"
+  },
+  "seneca-002-p06": {
+   "grade": 1,
+   "reason": "Good things want sharing; relatable but no help holding it in.",
+   "batch": "v10"
+  },
+  "enchiridion-001-p08": {
+   "grade": 2,
+   "reason": "Don't reach before it comes; wait your turn. Patience for the moment.",
+   "batch": "v10"
+  },
+  "an-092-p01": {
+   "grade": 2,
+   "reason": "Joy before, during and after giving; savour the surprise as a gift.",
+   "batch": "v10"
+  },
+  "emerson-essays-013-p01": {
+   "grade": 2,
+   "reason": "Life is a series of surprises; affirms why waiting is worth it.",
+   "batch": "v10"
+  },
+  "epictetus-discourses-long-023-p12": {
+   "grade": 2,
+   "reason": "Wait till the dish reaches you; light lesson in patience.",
+   "batch": "v10"
+  },
+  "bib-sirach-004-p06": {
+   "grade": 3,
+   "reason": "Let it die with you, it won't burst you; apt and reassuring.",
+   "batch": "v10"
+  },
+  "epictetus-discourses-long-025-p04": {
+   "grade": 2,
+   "reason": "Delay a pleasure and enjoy the victory of restraint.",
+   "batch": "v10"
+  },
+  "seneca-071-p05": {
+   "grade": 2,
+   "reason": "Talk less; conversation coaxes secrets out. Practical for holding it in.",
+   "batch": "v10"
+  },
+  "enchiridion-003-p01": {
+   "grade": 2,
+   "reason": "Make the pleasure wait; pride in restraint. Fits lightly.",
+   "batch": "v10"
+  }
+ },
+ "L02": {
+  "tagore-sadhana-005-p05": {
+   "grade": 3,
+   "reason": "Watching a child fall while learning; joy carries them. Speaks to the parent.",
+   "batch": "v10"
+  },
+  "walden-thoreau-001-p06": {
+   "grade": 1,
+   "reason": "Mostly about boredom; only the last line touches failure.",
+   "batch": "v10"
+  },
+  "viv13-025-p02": {
+   "grade": 1,
+   "reason": "Struggle gets somewhere; too brief and general.",
+   "batch": "v10"
+  },
+  "teresa-interior-castle-006-p01": {
+   "grade": 2,
+   "reason": "Nestlings learn to fly bit by bit; growth through trying.",
+   "batch": "v10"
+  },
+  "bib-colossians-001-p03": {
+   "grade": 0,
+   "reason": "Implies the parent provokes the child; unfair and off-target.",
+   "batch": "v10"
+  },
+  "viv13-010-p01": {
+   "grade": 2,
+   "reason": "We grow wiser through failure; supports what the parent knows.",
+   "batch": "v10"
+  },
+  "emerson-essays-040-p02": {
+   "grade": 1,
+   "reason": "About guiding a child by shared view; not the pain of watching.",
+   "batch": "v10"
+  },
+  "viv04-015-p10": {
+   "grade": 2,
+   "reason": "Failures are life's beauty; try again. Reassures about the son's struggles.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-012-p03": {
+   "grade": 1,
+   "reason": "Whether to keep striving; loosely related.",
+   "batch": "v10"
+  },
+  "imitation-of-christ-benham-003-p02": {
+   "grade": 2,
+   "reason": "Bear patiently what you can't fix in others; fits the parent's helplessness.",
+   "batch": "v10"
+  }
+ },
+ "L03": {
+  "dhp-004-p02": {
+   "grade": 1,
+   "reason": "Pull yourself from the pit; only a playful word match.",
+   "batch": "v10"
+  },
+  "seneca-020-p02": {
+   "grade": 1,
+   "reason": "Annoyance isn't injury, but scolds about luxury; slightly heavy.",
+   "batch": "v10"
+  },
+  "viv12-002-p05": {
+   "grade": 0,
+   "reason": "About merriment and sorrow; off-topic.",
+   "batch": "v10"
+  },
+  "gibran-sand-and-foam-003-p12": {
+   "grade": 0,
+   "reason": "Hunted fox fable; unrelated.",
+   "batch": "v10"
+  },
+  "viv08-001-p03": {
+   "grade": 2,
+   "reason": "Puppies' play does no harm; struggles are play. Lightens the frustration.",
+   "batch": "v10"
+  },
+  "tagore-sadhana-005-p05": {
+   "grade": 1,
+   "reason": "Repeated failure with joy; a stretch for a dog in a pool.",
+   "batch": "v10"
+  },
+  "schopenhauer-counsels-maxims-006-p07": {
+   "grade": 2,
+   "reason": "Small annoyances swell when brooded on; take it calmly.",
+   "batch": "v10"
+  },
+  "schopenhauer-counsels-maxims-010-p02": {
+   "grade": 1,
+   "reason": "Put up with annoying traits or break off; awkward for a pet.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-004-p07": {
+   "grade": 1,
+   "reason": "Caring for animals; loosely related only.",
+   "batch": "v10"
+  },
+  "viv09-001-p02": {
+   "grade": 0,
+   "reason": "Clinging to failing pursuits; unrelated and heavy.",
+   "batch": "v10"
+  }
+ },
+ "L04": {
+  "chuang-tzu-giles-015-p01": {
+   "grade": 2,
+   "reason": "Body and mind need rest or lose power; validates exhaustion, points to rest.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-010-p02": {
+   "grade": 2,
+   "reason": "Rest in quiet, don't weary the body; a way to recover.",
+   "batch": "v10"
+  },
+  "american-indian-stories-zitkala-006-p03": {
+   "grade": 1,
+   "reason": "Describes leaden weariness; restates without help.",
+   "batch": "v10"
+  },
+  "bib-2esdras-007-p01": {
+   "grade": 1,
+   "reason": "Weary and weak in spirit; mirrors only.",
+   "batch": "v10"
+  },
+  "viv13-025-p03": {
+   "grade": 1,
+   "reason": "Work harder at meditation for rest; odd advice for the exhausted.",
+   "batch": "v10"
+  },
+  "tagore-stray-birds-001-p10": {
+   "grade": 3,
+   "reason": "Rest belongs to work like eyelids to eyes; gentle permission to rest.",
+   "batch": "v10"
+  },
+  "aristotle-ethics-015-p01": {
+   "grade": 2,
+   "reason": "Rest and pause are indispensable; affirms the need to stop.",
+   "batch": "v10"
+  },
+  "bib-psa-002-p09": {
+   "grade": 1,
+   "reason": "Strength dried up, brought to dust of death; restates and darkens.",
+   "batch": "v10"
+  },
+  "viv07-018-p05": {
+   "grade": 2,
+   "reason": "Near collapse, he found inner strength and rose; hope through exhaustion.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-002-p01": {
+   "grade": 1,
+   "reason": "Worn out toil then death; bleak echo of 'could just die'.",
+   "batch": "v10"
+  }
+ },
+ "L05": {
+  "american-indian-stories-zitkala-006-p03": {
+   "grade": 1,
+   "reason": "Weary collapse onto bed; heavier than a day in heels.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-015-p01": {
+   "grade": 1,
+   "reason": "Toil without rest kills; too grave for sore feet.",
+   "batch": "v10"
+  },
+  "chuang-tzu-giles-002-p01": {
+   "grade": 0,
+   "reason": "Life's grim wear and death; far too heavy for a light complaint.",
+   "batch": "v10"
+  },
+  "seneca-084-p01": {
+   "grade": 3,
+   "reason": "Tired from a hard journey; nothing is heavy if taken lightly. Apt and light.",
+   "batch": "v10"
+  },
+  "tagore-stray-birds-002-p58": {
+   "grade": 2,
+   "reason": "Day's work done, let me rest and dream; gentle end-of-day fit.",
+   "batch": "v10"
+  },
+  "tagore-gitanjali-001-p20": {
+   "grade": 2,
+   "reason": "Exhausted traveller renewed by night; a tender note on rest.",
+   "batch": "v10"
+  },
+  "bib-2esdras-007-p01": {
+   "grade": 0,
+   "reason": "Weakness from great terror; wrong tone for tired feet.",
+   "batch": "v10"
+  },
+  "tagore-stray-birds-001-p10": {
+   "grade": 2,
+   "reason": "Rest belongs to work; fitting permission to put feet up.",
+   "batch": "v10"
+  },
+  "aristotle-ethics-015-p01": {
+   "grade": 1,
+   "reason": "Pause is indispensable; generic for this moment.",
+   "batch": "v10"
+  },
+  "seneca-032-p02": {
+   "grade": 0,
+   "reason": "Hidden inner ulcer and self-condemnation; unrelated and heavy.",
+   "batch": "v10"
+  }
+ }
+}

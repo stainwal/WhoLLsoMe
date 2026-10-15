@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Tue 13 Oct 2026, ~21:30 IST (session 11: Day 17 closed; Days 18–19 experiments done; retrieval setup decision waiting).*
+*Updated at the end of every session. Last update: Thu 15 Oct 2026 (session 12: Day 20 done; gate metrics in; crisis check 12 of 13; gate decision waiting).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–19 (`logs/D18.md`, session 11). Days 18–19 finished on 13 Oct, 9 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–20 (`logs/D20.md`, session 12); Day 21 gate prepared (`logs/Phase-2-Report.md`), decision pending. About 6 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -22,26 +22,31 @@
   - Session 9 (12 Oct, `logs/D16.md` fourth entry): name spelled WhoLLsoMe everywhere; GitHub description and topics; README as a personal project; `docs/Showcase.md` cut to `docs/Publication-Checklist.md` (case-study material in the private archive); both scanners recurse into folders (`pipeline/test_scanners.py`). **Supabase loaded:** pgvector 0.8.2, 39 sources, 5,540 passages (0 differ from files), RLS on, 47 MB. **Baseline embeddings:** Voyage `voyage-4-lite`, 1024 dims, passage text + plain version, 5,540 vectors, 603,619 tokens, $0 (free allowance). **`stainwal/WhoLLsoMe` is public** (Shailesh).
   - Session 10 (13 Oct, `logs/D17.md`): `public_passages` view, the only thing the public key can read (16 of 16 checks, database and REST API); deny rules for hook-bypassing git commands; pause plan in section 7.1. Eval harness `evals/retrieval.py`; 3,074 pooled pairs AI-judged; baseline scored (section 4); 10% consistency re-judge.
   - Session 11 (13 Oct, `logs/D18.md`): spot check 7 of 8, labels stand; 5 harsh passages hidden from distress (68 in all); top-1 metrics; commits pushed through `6b8df0b`; Opus vs Fable cross-check; 24 retrieval setups scored, every top 10 judged (6,610 labels).
-- **Not started:** Explain and experiment 5 (Day 20), app code.
+  - Session 12 (15 Oct, `logs/D20.md`): Setup A, judge v2 and embedding clean-up decided and done; API key works; Explain built (Sonnet 5.5) with guards and an end-to-end test; experiment 5 decided Sonnet for Explain and Setup B with Haiku rewrites; crisis check built (12 of 13); gate re-judged with v2. API spend $0.0195.
+- **Not started:** web app pages (Days 23–24); Day 22 routes beyond Explain.
 
 ## 2. Next session
 
-1. **Shailesh:** the three decisions in section 3 (retrieval setup; judge prompt v2; dropping unused embeddings). And create the Anthropic API account (prepaid, hard spend cap) for Day 20.
-2. **Day 20, Claude:** Explain prompt, rubric and judge; experiment 5 (Haiku vs Sonnet), including runtime query rewrites compared with `evals/rewrites/opus-v1.json`; Shailesh spot-checks 5 explanations.
-3. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch. Session 11's close commit is **not pushed**.
-4. **App, when built:** read passages through `public_passages` only; `SUPABASE_URL` and the publishable key are in `.env`.
+1. **Shailesh (~10 min):** mark `evals/explain-spot-check.md`; the three decisions in section 3.
+2. **Day 21:** gate decision; if chosen, one improvement day on the crisis check (re-test on new statements as well as the 13).
+3. **Day 22, Claude:** routes for crisis check → rewrite → retrieval → up to 10 passages; Surprise me; shared rate-limit store; crisis check inside `/api/explain` too.
+4. **Spend guards:** the app's per-visitor limits and Turnstile protect the endpoints; **the Console's monthly spend limit on the Anthropic account is the final backstop** ($5 prepaid). API calls only for the purposes Shailesh allows; every call goes into `evals/results/api-spend.jsonl`.
+5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch.
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 19 | Retrieval setup: A `when+tone/0.1` (no runtime model call), B A + query rewriting if Haiku matches on Day 20, C baseline. Recommend A now, test B | `logs/D18.md` section 4 |
-| 19 | Judge prompt v2: no credit for a passage that only restates the problem (Shailesh's H03 disagreement); re-judge the chosen setup before the gate. Recommend yes | `logs/D18.md` section 4 |
-| 19 | Drop the 3 unused embedding setups (174 → about 100 MB) once the setup is chosen | `logs/D18.md` section 4 |
+| 21 | Gate: pass retrieval and Explain, one improvement day on the crisis check (recommended); or pass all now; or hold | `logs/D20.md` section 4, `logs/Phase-2-Report.md` |
+| 21 | Crisis fix: crisis screen for "borderline" too, with a continue choice (recommended); or Sonnet; or both | `logs/D20.md` section 4 |
+| 21 | Explain: tighten to 70 words and re-run the 40 through the API (about $0.13). Recommend yes | `logs/D20.md` section 4 |
 | 27 | Name, look, domain | — |
 
 ## 4. Eval results
 
+- **Gate (Day 21 prep, `logs/Phase-2-Report.md`):** Setup B, judge v2. Human held-out hit@3 **29 of 32 (91%)** (bar 23), hit@10 32, MRR 0.676, first acceptable 15, first graded 0 **0**. Crisis **12 of 13** (bar 13; C04 → borderline). False crisis: human 0 of 5, agent 1 of 8 (bar 1 each). Explain rubric **97.5%** on the subscription (bar 90%); API sample 3 of 5.
+- **Experiment 5 (Day 20, `logs/D20.md`):** Explain rubric pass Sonnet 39 of 40, Haiku 34 of 40. Setup B with Haiku rewrites vs A (first acceptable / first graded 0 / hit@3): golden 39 / 3 / 53 vs 37 / 6 / 53; human held-out 24 / 1 / 30 vs 23 / 2 / 30.
+- **Judge v1 vs v2 (Day 20):** 1,250 pairs, acceptable 52.2% → 45.8%; 82.9% agree on acceptable/not.
 - **Experiments (Days 18–19, `evals/results/experiments-d18.md`):** each value is top-1 acceptable / top-1 graded 0 / hit@3. Baseline after the hides: golden 31 / 11 / 50, agent held-out 9 / 4 / 12, human held-out 21 / 4 / 29. **`when+tone/0.1`** (embed passage + plain + when-helps; tone prior): 37 / 6 / 53; 11 / 5 / 16; **23 / 2 / 30**. **`when+rewrite-concat+tone/0.2`** (needs a runtime rewrite): 39 / 5 / 52; 11 / 1 / 18; 19 / 1 / 29. Hybrid search hurts (golden 21 / 18 / 39); quotability, faith framing and `voyage-4` don't help.
 - **Opus vs Fable (Day 18, `evals/judge-cross-model.md`):** 375 baseline top-3 pairs. Acceptable/not agreement: human 83.8%, agent 85.6%; exact grade 59.5% and 61.7%. Fable is more lenient, especially on tone: top-1 graded 0 is 12 of 125 under Fable and 26 under Opus. hit@3 is about the same (105 vs 103 of 125). Opus stays the judge of record.
 - **Spot check (Day 17):** Shailesh agreed with 7 of 8; the labels stand.
@@ -94,6 +99,8 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
 - **Enrichment and judge (Day 15, measured):** about **9% of the weekly limit** for one pass over 5,540 passages (plain version plus judge) together with 75k words of extraction and tagging: roughly 1.5% per 1,000 passages enriched and judged. The 5-hour window moved about 35 points over the run, so one window holds a pass of this size with room to spare.
 - **Relevance judging (Day 17, measured):** 3,074 + 307 judgements took about **2% of the weekly limit** (cap agreed 10%, estimate 2–4%): about 0.6% per 1,000 judgements, 8 + 2 helpers of about 170k tokens each, mostly cached.
 - **Experiments (Days 18–19, measured):** 3,536 judgements, 125 rewrites and Fable's 375 took about **3% of the weekly limit** (cap agreed 15%): about 0.8% per 1,000 judgements. Fable has its own weekly bar (moved 2 points).
+- **Day 20 (measured):** 80 Explains and 250 rewrites on Haiku/Sonnet subagents, 1,440 Opus judgements, 80 Explain judgements: about **1% of the weekly limit**. Haiku and Sonnet subagents cost little against the weekly bar.
+- **API spend (real money):** $0.0195 on Day 20 (12 calls). Measured: Explain on Sonnet $3.16 per 1,000; rewrite on Haiku $0.10 per 1,000.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
@@ -122,6 +129,8 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
   | Session 11 start | 11% | 41% (Fable 45%) |
   | After Fable check, experiment round 1 | 19% | 42% (Fable 47%) |
   | Session 11 close | 27% | 44% (Fable 47%) |
+  | Session 12 start, 15 Oct (new week) | 6% | 2% (Fable 0%) |
+  | Session 12 close | 14% | 3% |
 - **One-time full reset:** available on the Usage screen ("Reset for free"), expires 22 Oct. Not needed for the corpus run, which fit in one week's allowance. Use only with Shailesh's say-so.
 
 ## 7. Free-tier limits
@@ -133,7 +142,7 @@ Checked 7 Oct 2026 on the official pricing and docs pages. Check again before la
 | Limit | Value | What it means for us |
 | --- | --- | --- |
 | Projects | 2 per organisation (paused projects don't count) | One is enough |
-| Database | 500 MB per project | **13 Oct:** 174 MB with 6 embedding setups (about 25 MB each); drop the unused ones once the setup is chosen |
+| Database | 500 MB per project | **15 Oct:** 83 MB with the 2 embedding setups in use |
 | Storage / egress | 1 GB / 5 GB per month | Fine at hobby scale |
 | Edge functions | 500,000 invocations per month | Not used; the API runs on Vercel |
 | pgvector | Can be enabled (Dashboard → Database → Extensions). The docs don't say it's paid-only | **Confirmed 12 Oct:** pgvector 0.8.2 enabled on the free plan |
