@@ -94,5 +94,15 @@ else:
         check(f"REST: {method} on the view refused", refused, f"HTTP {code} {out.get('code') if isinstance(out, dict) else ''}")
     code, _, n = rest("public_passages?select=pid", count=True)
     check("REST: view unchanged after the write attempts", n == expected, f"{n} of {expected:,}")
+    # The app's server functions and rate-limit table (backend/app.sql, Day 22) are for whollsome_app only.
+    code, body, _ = rest("rate_limits?select=*&limit=1")
+    check("REST: table rate_limits refused", code == 401 and isinstance(body, dict) and body.get("code") == "42501",
+          f"HTTP {code} {body.get('code') if isinstance(body, dict) else ''}")
+    for fn, args in (("take_rate", {"p_key": "anon-test", "p_max": 1, "p_window_seconds": 60}),
+                     ("match_passages", {"q": "[" + ",".join(["0.01"] * 1024) + "]", "p_setup": "x", "p_n": 1}),
+                     ("surprise_passage", {})):
+        code, body, _ = rest(f"rpc/{fn}", "POST", args or None)
+        refused = code in (401, 403, 404) and isinstance(body, dict) and body.get("code") in ("42501", "PGRST202")
+        check(f"REST: function {fn} refused", refused, f"HTTP {code} {body.get('code') if isinstance(body, dict) else ''}")
 
 sys.exit(1 if fails else 0)

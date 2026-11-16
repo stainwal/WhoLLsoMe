@@ -17,7 +17,7 @@ if (kind === "explain") {
   for (const id of ids) {
     guardCap();
     const p = pairs.find((x: { id: string }) => x.id === id);
-    const r = await explain(p.statement, { pid: p.pid, display: "", display_text: p.passage, plain: p.plain, work: p.work, translator: p.translator, hide_in_distress: false });
+    const r = await explain(p.statement, { pid: p.pid, display: "", display_text: p.passage, plain: p.plain, work: p.work, translator: p.translator, tradition: "", hide_in_distress: false });
     if (!r.ok) { console.log(id, "no note:", r.reason); continue; }
     record(`fidelity-explain ${id}`, EXPLAIN_MODEL, r.usage.input, r.usage.output);
     notes[id] = r.text;
@@ -31,7 +31,7 @@ if (kind === "explain") {
   const notes: Record<string, string> = {};
   for (const p of pairs) {
     if (spentSoFar() - start >= CAP - 0.005) { console.log("stopping: run cap reached"); break; }
-    const r = await explain(p.statement, { pid: p.pid, display: "", display_text: p.passage, plain: p.plain, work: p.work, translator: p.translator, hide_in_distress: false });
+    const r = await explain(p.statement, { pid: p.pid, display: "", display_text: p.passage, plain: p.plain, work: p.work, translator: p.translator, tradition: "", hide_in_distress: false });
     if (!r.ok) { console.log(p.id, "no note:", r.reason); continue; }
     record(`gate-explain ${p.id} ${r.promptVersion}`, EXPLAIN_MODEL, r.usage.input, r.usage.output);
     notes[p.id] = r.text;

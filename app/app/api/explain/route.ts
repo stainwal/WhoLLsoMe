@@ -1,21 +1,20 @@
-// POST /api/explain  { statement, pid, turnstileToken? } -> { text } | { error }
-// Order: Turnstile -> rate limit -> validate -> passage lookup -> one model call. What the person typed is
-// never logged or stored (CLAUDE.md section 5, rule 5): logs carry counts and error kinds only.
+// POST /api/explain  { statement, pid, turnstileToken? } -> { text, label } | { crisis: "crisis" } | { error }
+// Order: Turnstile -> validate -> rate limit -> passage lookup -> crisis check and Explain side by side.
+// The crisis check runs here too because this endpoint can be called directly, not only after a search.
+// Only "crisis" blocks the note: a "borderline" visitor has already chosen "Continue to passages".
+// What the person typed is never logged or stored (CLAUDE.md section 5, rule 5).
 
 import Anthropic from "@anthropic-ai/sdk";
+import { checkCrisis } from "@/lib/crisis";
 import { explain, MAX_STATEMENT_CHARS } from "@/lib/explain";
-import { EXPLAIN_LIMIT, MemoryRateLimiter, verifyTurnstile, visitorKey } from "@/lib/guards";
+import { checkLimits, fail, limited, serverTiming, verifyTurnstile, visitorKey } from "@/lib/guards";
 import { getPassage } from "@/lib/passages";
 
 export const runtime = "nodejs";
-
-const limiter = new MemoryRateLimiter(EXPLAIN_LIMIT.max, EXPLAIN_LIMIT.windowMs);
-
-function fail(status: number, error: string, headers?: Record<string, string>) {
-  return Response.json({ error }, { status, headers });
-}
+export const maxDuration = 60; // Explain: 20 s timeout with one retry; Hobby allows 300 s
 
 export async function POST(req: Request) {
+  const t0 = performance.now();
   let body: { statement?: unknown; pid?: unknown; turnstileToken?: unknown };
   try {
     body = await req.json();
@@ -29,23 +28,28 @@ export async function POST(req: Request) {
   if (!(await verifyTurnstile(token, req.headers.get("x-forwarded-for") ?? undefined))) {
     return fail(403, "bot_check_failed");
   }
-  const { allowed, retryAfterSec } = await limiter.take(visitorKey(req.headers));
-  if (!allowed) return fail(429, "rate_limited", { "Retry-After": String(retryAfterSec) });
-
   if (!statement || statement.length > MAX_STATEMENT_CHARS || !pid) return fail(400, "bad_request");
-  // Crisis statements never reach a passage, so they never reach Explain; the Day 22 crisis check will
-  // also run here, since this endpoint can be called directly.
 
   try {
+    const lim = await checkLimits("explain", visitorKey(req.headers));
+    if (!lim.allowed) return limited(lim);
+
     const passage = await getPassage(pid);
-    if (!passage) return fail(404, "unknown_passage");
-    const result = await explain(statement, passage);
+    // Passages hidden from distress are never offered by search or Surprise, so never explained either.
+    if (!passage || passage.hide_in_distress) return fail(404, "unknown_passage");
+
+    const [crisis, result] = await Promise.all([checkCrisis(statement), explain(statement, passage)]);
+    const timing = { "Server-Timing": serverTiming({ total: performance.now() - t0 }), "Cache-Control": "no-store" };
+    if (crisis.label === "crisis") {
+      console.info(`explain: crisis via=${crisis.via}`);
+      return Response.json({ crisis: "crisis" }, { headers: timing });
+    }
     if (!result.ok) {
       console.warn(`explain: no note (${result.reason})`);
       return fail(502, "no_explanation");
     }
-    console.info(`explain: ok model=${result.model} in=${result.usage.input} out=${result.usage.output}`);
-    return Response.json({ text: result.text, label: "AI-generated explanation" });
+    console.info(`explain: ok model=${result.model} in=${result.usage.input} out=${result.usage.output} ms=${Math.round(performance.now() - t0)}`);
+    return Response.json({ text: result.text, label: "AI-generated explanation" }, { headers: timing });
   } catch (err) {
     if (err instanceof Anthropic.RateLimitError) return fail(503, "busy");
     if (err instanceof Anthropic.APIError) {

@@ -1,44 +1,61 @@
-// Abuse guards for paid endpoints (Plan section 7: Turnstile, per-visitor rate limit, hard spend caps).
-// The final backstop is the monthly spend limit on the Anthropic Console account.
+// Abuse and spend guards for the server routes (Plan section 6: Turnstile, per-visitor rate limit, spend caps).
+// Counts live in Supabase (rate_limits, backend/app.sql), so every Vercel instance shares them.
+// The final backstop is the Anthropic account itself: $5 prepaid, auto-reload off (Decisions, 16 Nov).
 
 import { createHash } from "node:crypto";
+import { db } from "./db";
 
-// ---- per-visitor rate limit ----------------------------------------------------------------------------
+// ---- limits ---------------------------------------------------------------------------------------------
 
-export const EXPLAIN_LIMIT = { max: 20, windowMs: 60 * 60 * 1000 }; // 20 Explains per visitor per hour
+const HOUR = 3600;
+const DAY = 86400;
 
-export interface RateLimiter {
-  /** Counts one use; false if the visitor is over the limit. */
-  take(key: string): Promise<{ allowed: boolean; retryAfterSec: number }>;
+// Per visitor (hashed IP) per window. Search makes two Haiku calls and one embedding; Explain one Sonnet
+// and one Haiku call; Surprise and access make no model call.
+export const VISITOR_LIMITS = {
+  search: { max: 30, windowSec: HOUR },
+  explain: { max: 20, windowSec: HOUR },
+  surprise: { max: 120, windowSec: HOUR },
+  access: { max: 10, windowSec: HOUR }, // access-code attempts: slows guessing
+} as const;
+
+// Site-wide per day, whoever is calling: a ceiling on daily model spend even if many visitors (or one
+// visitor behind many IPs) hit the routes. At Day 21 prices: 500 Explains about $1.60, 2,000 searches
+// about $0.40. Raise after launch if real use needs it.
+export const GLOBAL_LIMITS = {
+  search: { max: 2000, windowSec: DAY },
+  explain: { max: 500, windowSec: DAY },
+} as const;
+
+export type Route = keyof typeof VISITOR_LIMITS;
+
+export type LimitResult = { allowed: boolean; retryAfterSec: number; scope?: "visitor" | "site" };
+
+async function take(key: string, max: number, windowSec: number): Promise<{ allowed: boolean; retryAfterSec: number }> {
+  const [row] = await db()<{ allowed: boolean; retry_after: number }[]>`
+    select allowed, retry_after from take_rate(${key}, ${max}, ${windowSec})`;
+  return { allowed: row.allowed, retryAfterSec: row.retry_after };
 }
 
-// In-memory fixed window. Good for local use and a single instance only: Vercel runs several instances,
-// each with its own memory, so Day 22 swaps in a shared store (a Supabase table keyed by the hashed visitor
-// and the hour) behind this same interface.
-export class MemoryRateLimiter implements RateLimiter {
-  private hits = new Map<string, { start: number; count: number }>();
-  constructor(private max: number, private windowMs: number) {}
-
-  async take(key: string) {
-    const now = Date.now();
-    const cur = this.hits.get(key);
-    if (!cur || now - cur.start >= this.windowMs) {
-      this.hits.set(key, { start: now, count: 1 });
-      return { allowed: true, retryAfterSec: 0 };
-    }
-    if (cur.count >= this.max) {
-      return { allowed: false, retryAfterSec: Math.ceil((cur.start + this.windowMs - now) / 1000) };
-    }
-    cur.count += 1;
-    return { allowed: true, retryAfterSec: 0 };
+/** Counts one use of `route` for this visitor, then for the whole site; refuses if either is over. */
+export async function checkLimits(route: Route, visitor: string): Promise<LimitResult> {
+  const v = VISITOR_LIMITS[route];
+  const mine = await take(`${route}:${visitor}`, v.max, v.windowSec);
+  if (!mine.allowed) return { ...mine, scope: "visitor" };
+  const g = (GLOBAL_LIMITS as Record<string, { max: number; windowSec: number }>)[route];
+  if (g) {
+    const site = await take(`global:${route}`, g.max, g.windowSec);
+    if (!site.allowed) return { ...site, scope: "site" };
   }
+  return { allowed: true, retryAfterSec: 0 };
 }
 
 /** A visitor key that never stores the raw IP: a salted hash, truncated. */
 export function visitorKey(headers: Headers): string {
   const ip = headers.get("x-forwarded-for")?.split(",")[0]?.trim() || headers.get("x-real-ip") || "unknown";
-  const salt = process.env.VISITOR_SALT ?? "whollsome-dev";
-  return createHash("sha256").update(`${salt}:${ip}`).digest("hex").slice(0, 32);
+  const salt = process.env.VISITOR_SALT;
+  if (!salt && process.env.NODE_ENV === "production") throw new Error("VISITOR_SALT is not set");
+  return createHash("sha256").update(`${salt ?? "whollsome-dev"}:${ip}`).digest("hex").slice(0, 32);
 }
 
 // ---- Cloudflare Turnstile hook ----------------------------------------------------------------------------
@@ -53,8 +70,27 @@ export async function verifyTurnstile(token: string | undefined, ip?: string): P
   if (!token) return false;
   const body = new URLSearchParams({ secret, response: token });
   if (ip) body.set("remoteip", ip);
-  const res = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", { method: "POST", body });
+  const res = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", {
+    method: "POST",
+    body,
+    signal: AbortSignal.timeout(5000),
+  });
   if (!res.ok) return false;
   const data = (await res.json()) as { success?: boolean };
   return data.success === true;
+}
+
+// ---- shared response helpers ------------------------------------------------------------------------------
+
+export function fail(status: number, error: string, headers?: Record<string, string>) {
+  return Response.json({ error }, { status, headers: { "Cache-Control": "no-store", ...headers } });
+}
+
+export function limited(r: LimitResult) {
+  return fail(429, r.scope === "site" ? "busy_today" : "rate_limited", { "Retry-After": String(r.retryAfterSec) });
+}
+
+/** Server-Timing header: how long each step took, in ms, so latency can be read from the browser. */
+export function serverTiming(marks: Record<string, number>): string {
+  return Object.entries(marks).map(([k, ms]) => `${k};dur=${Math.round(ms)}`).join(", ");
 }

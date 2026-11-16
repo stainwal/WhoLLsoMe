@@ -1,8 +1,8 @@
 # WhoLLsoMe v1 — Web Launch Plan
 
-*Created 7 Oct 2026. Replaces the earlier iOS-first and Android-first plans. Day 1 = Thu 8 Oct 2026, one 1-hour session per day. **Revised 11 Oct:** plain-language versions, Explain and Surprise me added; an enrichment pass and seven aphoristic sources added to Phase 2; human review cut to small targeted checks; speed to release first.*
+*Created 7 Oct 2026. Replaces the earlier iOS-first and Android-first plans. Day 1 = Thu 8 Oct 2026, one 1-hour session per day. **Re-dated 16 Nov** after a 3.5-week pause: Phase 3 onward runs from Tue 17 Nov, one session a day Monday to Saturday. **Revised 11 Oct:** plain-language versions, Explain and Surprise me added; an enrichment pass and seven aphoristic sources added to Phase 2; human review cut to small targeted checks; speed to release first.*
 
-The web app goes public on **Day 33 (Mon 9 Nov 2026)** with all 33 sources, a crisis-safe flow and a published eval page. Android follows, recruiting its closed-test testers from web users.
+The web app goes public on **Day 33 (Mon 30 Nov 2026)** with all 33 sources, a crisis-safe flow and a published eval page. Android follows, recruiting its closed-test testers from web users.
 
 ## 1. Outcome and dates
 
@@ -12,10 +12,10 @@ The web app goes public on **Day 33 (Mon 9 Nov 2026)** with all 33 sources, a cr
 | Extraction rules proven on a pilot | 6 | Tue 13 Oct |
 | Corpus frozen (all 33 sources extracted, tagged, reviewed) — done 9 Oct | 14 | Wed 21 Oct |
 | Enrichment pass and new sources | 15 | Thu 22 Oct |
-| Retrieval gate passed | 21 | Wed 28 Oct |
-| Working web app with friends testing | 29 | Thu 5 Nov |
-| **Public web launch** | **33** | **Mon 9 Nov** |
-| Android live (after its 14-day closed test) | — | early Dec (estimate) |
+| Retrieval gate passed — closed 16 Nov (resumed after a pause) | 21 | Wed 28 Oct |
+| Working web app with friends testing | 29 | Wed 25 Nov |
+| **Public web launch** | **33** | **Mon 30 Nov** |
+| Android live (after its 14-day closed test) | — | late Dec (estimate) |
 
 Your time goes mostly on decisions and a few 10-minute checks; Claude runs the rest. A missed day moves everything right by one day; the corpus freeze (Day 14) and the retrieval gate (Day 21) are the two planned stops to reassess.
 
@@ -139,27 +139,27 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 - [x] **D17:** Eval harness. AI judge labels acceptable passages for both test sets; you spot-check it on 8 human statements (~10 min). Baseline scores.
 - [x] **D18–19:** Experiments 1–4, 6 and 7 (section 4.4).
 - [x] **D20:** Create the Anthropic API account (prepaid, hard spend cap). Explain prompt, rubric and judge; experiment 5. You spot-check 5 explanations (~5 min).
-- [ ] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Bar (decided 9 Oct; the bridge rubric now applies to Explain): human held-out hit@3 ≥ 70% (23 of 32); crisis 13 of 13 across both sets, borderline statements correct either way; false crisis at most 1 of 5 human and 1 of 8 agent; Explain rubric pass ≥ 90%; hit@10, MRR and agent held-out reported with no bar. [DECISION] Pass, or spend up to 3 days improving.
+- [x] **D21:** Retrieval gate; `logs/Phase-2-Report.md`. Bar (decided 9 Oct; the bridge rubric now applies to Explain): human held-out hit@3 ≥ 70% (23 of 32); crisis 13 of 13 across both sets, borderline statements correct either way; false crisis at most 1 of 5 human and 1 of 8 agent; Explain rubric pass ≥ 90%; hit@10, MRR and agent held-out reported with no bar. [DECISION] Pass, or spend up to 3 days improving.
 
-### 5.4 Phase 3 — Web app (Days 22–29, 29 Oct–5 Nov)
+### 5.4 Phase 3 — Web app (Days 22–29, 17–25 Nov)
 
-- [ ] **D22:** API routes in Next.js: crisis check → retrieval → ranked list of up to 10 (plain version + passage); Explain on request; Surprise me; rate limit; spend caps.
-- [ ] **D23–24:** Next.js web app: input → first passage (plain version first, original beside it) → Next / Back through up to 10 → Explain → Save. Surprise me on the home screen.
-- [ ] **D25:** Consent notice, crisis screen, "Need help now?", "Report this response".
-- [ ] **D26:** Turnstile bot check (free Cloudflare account); Privacy and About pages.
-- [ ] **D27:** [DECISION] Name, look, domain. One visual pass.
-- [ ] **D28:** Evals page with real results.
-- [ ] **D29:** Friends test, optional: 5–10 people if they're quick to find; otherwise you use it yourself for a few days.
+- [ ] **D22 (Tue 17 Nov):** API routes in Next.js: crisis check → retrieval → ranked list of up to 10 (plain version + passage); Explain on request; Surprise me; rate limit; spend caps.
+- [ ] **D23–24 (Wed 18–Thu 19 Nov):** Next.js web app: input → first passage (plain version first, original beside it) → Next / Back through up to 10 → Explain → Save. Surprise me on the home screen.
+- [ ] **D25 (Fri 20 Nov):** Consent notice, crisis screen, "Need help now?", "Report this response".
+- [ ] **D26 (Sat 21 Nov):** Turnstile bot check (free Cloudflare account); Privacy and About pages.
+- [ ] **D27 (Mon 23 Nov):** [DECISION] Name, look, domain. One visual pass.
+- [ ] **D28 (Tue 24 Nov):** Evals page with real results.
+- [ ] **D29 (Wed 25 Nov):** Friends test, optional: 5–10 people if they're quick to find; otherwise you use it yourself for a few days.
 
-### 5.5 Phase 4 — Launch (Days 30–33, 6–9 Nov)
+### 5.5 Phase 4 — Launch (Days 30–33, 26–30 Nov)
 
-- [ ] **D30–31:** Fix what testers found.
-- [ ] **D32:** Final eval run on the deployed system; `logs/Launch-Report.md`. [DECISION] Go / no-go.
-- [ ] **D33:** Public launch; share the link.
+- [ ] **D30–31 (Thu 26–Fri 27 Nov):** Fix what testers found.
+- [ ] **D32 (Sat 28 Nov):** Final eval run on the deployed system; `logs/Launch-Report.md`. [DECISION] Go / no-go.
+- [ ] **D33 (Mon 30 Nov):** Public launch; share the link.
 
 ### 5.6 After launch
 
-1. Android: [DECISION] wrap the website as an Android app (fastest) or build a React Native app that reuses the API (more native). Then register Google Play Console ($25), recruit 15–20 closed testers from web users, run the 14-day closed test. Live around early December (estimate).
+1. Android: [DECISION] wrap the website as an Android app (fastest) or build a React Native app that reuses the API (more native). Then register Google Play Console ($25), recruit 15–20 closed testers from web users, run the 14-day closed test. Live around late December (estimate).
 2. Grow the corpus server-side (Phase 2 sources) without app releases.
 3. iOS after Android.
 4. Publication prep: a clean public repo with fresh history, a public README and code licence, and every item on the `docs/Publication-Checklist.md` checklist cleared before anything is made public.

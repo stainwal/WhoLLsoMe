@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Thu 15 Oct 2026 (session 13: crisis check passes 13 of 13; Explain misses the gate at 70 words, 23 of 40; length decision waiting).*
+*Updated at the end of every session. Last update: Mon 16 Nov 2026 (session 14, after a 3.5-week pause: Supabase up, public view 16 of 16; Phase 2 closed on the 90-word rule; launch re-dated to Mon 30 Nov).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–20; Day 21 in progress (`logs/D21.md`, session 13): retrieval and crisis pass, Explain length decision pending. About 6 days ahead of plan. Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–21. **Phase 2 closed 16 Nov** (Explain gated at 90 words: 37 of 40, 92.5%; at 70 words 23 of 40). Project paused 15 Oct–16 Nov; plan re-dated: Day 22 Tue 17 Nov, **launch Mon 30 Nov** (Day 33). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -28,21 +28,19 @@
 
 ## 2. Next session
 
-1. **Shailesh:** the Explain length decision (section 3). If A, Phase 2 closes and Day 21 is ticked at the start of the next session.
-2. **Before Phase 3, Shailesh** (full list in `logs/D21.md` section 5): Vercel project from the repo with root `app/`; a separate production Anthropic key with a Console monthly spend limit; Vercel environment variables; a Cloudflare account for Turnstile (by Day 26); three small decisions (helpline countries, where reports go, Save on device only).
+1. **Done 16 Nov:** Explain length (A), helplines, reports, Save, push rule, re-dating (section 3).
+2. **Before Phase 3, Shailesh** (full list in `logs/D21.md` section 5): Vercel project from the repo with root `app/`; a separate production Anthropic key with a Console monthly spend limit; Vercel environment variables; a Cloudflare account for Turnstile (by Day 26); the three small decisions are made (16 Nov).
 3. **Day 22, Claude (after the go-ahead):** routes for crisis check → rewrite → retrieval → up to 10 passages; Surprise me; shared rate-limit store; crisis check inside `/api/explain`.
 4. **Spend guards:** per-visitor limits and Turnstile protect the endpoints; **the Console's monthly spend limit on the Anthropic account is the final backstop**. Every real API call goes into `evals/results/api-spend.jsonl`.
-5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; re-run gitleaks before the site launch. Session 13's commit is **not pushed**.
+5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; push at every session end after the guard and gitleaks pass (decided 16 Nov). Pushed through `e50380f` (16 Nov).
 
 ## 3. Open decisions
 
 | Day | Decision | Where |
 | --- | --- | --- |
-| 21 | Explain length rule for the gate: A gate on content and 90 words (37 of 40 pass now, recommended); B enforce 70 with a retry; C ask for 55 and re-measure | `logs/D21.md` section 4 |
-| 22 | Helpline countries on the crisis screen (recommend India, US, UK + international link) | `logs/D21.md` section 5 |
-| 22 | Where "Report this response" goes (recommend a Supabase table: passage id, reason, time; never the user's words) | `logs/D21.md` section 5 |
-| 23 | "Save" on the visitor's device only (recommended) | `logs/D21.md` section 5 |
-| 27 | Name, look, domain | — |
+| 27 (Mon 23 Nov) | Name, look, domain | — |
+
+Decided 16 Nov (`docs/Decisions.md`): Explain gate at 90 words (Phase 2 closed); helplines India, US, UK + international directory; reports to a Supabase table (passage id, reason, timestamp; rate-limited); Save on the device only; push at every session end; launch Mon 30 Nov.
 
 ## 4. Eval results
 

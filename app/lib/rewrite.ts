@@ -9,7 +9,7 @@ export const REWRITE_MODEL = process.env.REWRITE_MODEL ?? "claude-haiku-5-5";
 let client: Anthropic | null = null;
 
 export async function rewriteQuery(statement: string, model = REWRITE_MODEL) {
-  client ??= new Anthropic({ maxRetries: 2, timeout: 15_000 });
+  client ??= new Anthropic({ maxRetries: 1, timeout: 10_000 }); // worst case ~20 s, inside the route's maxDuration
   const r = await client.messages.create({
     model,
     max_tokens: 512,

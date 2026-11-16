@@ -2,7 +2,18 @@
 
 *Written 15 Oct 2026 (session 12), six days ahead of the planned 22 Oct. Covers Days 15–21: enrichment, retrieval, evals, Explain. The gate decision is Shailesh's (Plan section 5.3, D21).*
 
-## 0. Update, 15 Oct (session 13): improvement day on the crisis check
+## 0. Updates
+
+**16 Nov: gate passed, Phase 2 closed** (Shailesh's decision, option A). Explain is gated on the original rubric's 90-word limit; the prompt still asks for 70. Both rates, Sonnet 5.5 through the API, 40 pairs, Opus judging:
+
+| Length rule | Pass | Rate |
+| --- | --- | --- |
+| At most 90 words (gate) | 37 of 40 | **92.5%** (bar 90%): passes |
+| At most 70 words (prompt target) | 23 of 40 | 57.5% |
+
+Final gate: retrieval hit@3 29 of 32 (91%); crisis 13 of 13; false crisis 0 of 5 human, 0 of 8 agent; Explain 92.5%. All bars met.
+
+**15 Oct (session 13): improvement day on the crisis check**
 
 - **Crisis check: passes.** "Borderline" now routes to the helpline screen with a "Continue to passages" option (Shailesh's decision), and the phrase list no longer fires on an obvious accident ("cut myself slicing onions"). A fresh Haiku run on the 13 crisis statements and both look-alike sets: **crisis 13 of 13; false crisis 0 of 5 human, 0 of 8 agent** (`evals/results/crisis-c02-rule-v2.json`). Re-scoring the earlier run over all 138 statements under the new rule: crisis 13 of 13; false crisis 1 of 5 human (an "I could just die" from tiredness), 0 of 8 agent; 2 ordinary statements (H11, AS70) would also see the helpline screen first, with the option to continue.
 - **Explain: does not pass at 70 words.** Explain prompt v2 (at most 70 words, no guessing at feelings), 40 pairs through the real API on Sonnet 5.5 ($0.1185), Opus judging against rubric v1.1: **23 of 40 (57.5%)**, bar 90%. Content is sound: 37 of 40 (92.5%) pass all four content checks, and no note guessed at feelings (was 1 of 5). The failures are length: Sonnet writes a median 66 words and 13 of 40 go over 70 (at most 81); 5 run to four sentences. Under the v1 length rule (at most 90 words, 4 sentences) the same notes pass 37 of 40 (92.5%).

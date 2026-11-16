@@ -14,7 +14,7 @@ const MAX_TOKENS = 1024; // includes any thinking at low effort; the note itself
 let client: Anthropic | null = null;
 function getClient(): Anthropic {
   // Reads ANTHROPIC_API_KEY from the environment; never logged.
-  client ??= new Anthropic({ maxRetries: 2, timeout: 30_000 });
+  client ??= new Anthropic({ maxRetries: 1, timeout: 20_000 }); // worst case ~40 s, inside the route's maxDuration
   return client;
 }
 
