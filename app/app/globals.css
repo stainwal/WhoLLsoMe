@@ -1,0 +1,199 @@
+/* Clean, neutral styling for Days 23-24. The visual pass is Day 27: change tokens here, not in components. */
+
+:root {
+  --bg: #ffffff;
+  --surface: #f6f6f4;
+  --text: #1c1c1c;
+  --muted: #555555;      /* 7.4:1 on --bg */
+  --border: #d4d4d0;
+  --accent: #1f4f8a;     /* 8.2:1 on --bg */
+  --accent-text: #ffffff;
+  --danger: #9b1c1c;
+  --focus: #1f4f8a;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161616;
+    --surface: #212121;
+    --text: #ececec;
+    --muted: #b0b0b0;    /* 8.6:1 on --bg */
+    --border: #3a3a3a;
+    --accent: #8fb8ee;   /* 9.0:1 on --bg */
+    --accent-text: #0e0e0e;
+    --danger: #f19a9a;
+    --focus: #8fb8ee;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.55;
+  -webkit-text-size-adjust: 100%;
+}
+
+.page {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 4rem;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.brand {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  color: var(--text);
+  text-decoration: none;
+}
+
+h1, h2 { font-family: var(--serif); font-weight: normal; line-height: 1.25; }
+h1 { font-size: 1.6rem; margin: 0 0 0.5rem; }
+h2 { font-size: 1.25rem; margin: 0 0 0.75rem; }
+
+.lede { color: var(--muted); margin: 0 0 1.5rem; }
+
+a { color: var(--accent); }
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+label { display: block; font-weight: 600; margin-bottom: 0.4rem; }
+
+textarea {
+  width: 100%;
+  min-height: 7.5rem;
+  padding: 0.75rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--muted);
+  border-radius: 6px;
+  resize: vertical;
+}
+
+.hint { color: var(--muted); font-size: 0.9rem; margin: 0.35rem 0 0; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
+
+button, .button {
+  min-height: 44px;
+  padding: 0.6rem 1.1rem;
+  font: inherit;
+  font-weight: 600;
+  border-radius: 6px;
+  border: 1px solid var(--accent);
+  background: var(--bg);
+  color: var(--accent);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+button.primary, .button.primary { background: var(--accent); color: var(--accent-text); }
+button:disabled { opacity: 0.55; cursor: not-allowed; }
+button.link {
+  border: none;
+  background: none;
+  padding: 0.6rem 0.25rem;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1rem;
+}
+
+.passage-grid { display: grid; gap: 1.25rem; }
+@media (min-width: 48rem) {
+  .passage-grid { grid-template-columns: 1fr 1fr; }
+  .card { padding: 1.5rem; }
+}
+
+.label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.35rem;
+}
+
+.plain { font-size: 1.15rem; margin: 0; }
+.original { font-family: var(--serif); font-size: 1.1rem; margin: 0; white-space: pre-line; }
+.credit { color: var(--muted); font-size: 0.92rem; margin: 1rem 0 0; }
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+.position { color: var(--muted); font-variant-numeric: tabular-nums; }
+.position-heading {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 0 0 0.75rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.explain {
+  margin-top: 1rem;
+  border-left: 3px solid var(--accent);
+  padding: 0.25rem 0 0.25rem 0.9rem;
+}
+
+.status { min-height: 1.5em; }
+.error { color: var(--danger); }
+
+.spinner {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.5em;
+  vertical-align: -0.15em;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+
+.notice {
+  border: 2px solid var(--danger);
+  border-radius: 8px;
+  padding: 1.25rem 1rem;
+}
+
+.saved-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1rem; }
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+}

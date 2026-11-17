@@ -1,4 +1,6 @@
-// Placeholder until the web app is built (Plan Days 23-24).
+// Home: the visitor flow lives in one client component (./ui/app.tsx).
+import App from "./ui/app";
+
 export default function Home() {
-  return <main>WhoLLsoMe: coming soon.</main>;
+  return <App />;
 }

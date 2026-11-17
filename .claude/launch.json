@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["--prefix", "app", "run", "dev", "--", "--port", "3017"],
       "port": 3017
+    },
+    {
+      "name": "app-dev-open",
+      "runtimeExecutable": "env",
+      "runtimeArgs": ["SITE_GATE=off", "npm", "--prefix", "app", "run", "dev", "--", "--port", "3018"],
+      "port": 3018
     }
   ]
 }

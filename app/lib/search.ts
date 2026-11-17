@@ -23,7 +23,14 @@ const TONE: Record<string, number> = {
   companioning: 0.06, affirming: 0.07, uplifting: 0.13, consoling: 0.21,
 };
 
+export const EMBED_MODEL_ID = EMBED_MODEL;
+
 export async function embedQuery(text: string): Promise<number[]> {
+  return (await embedQueryWithUsage(text)).vector;
+}
+
+/** The query vector and the tokens Voyage counted (for the spend log). */
+export async function embedQueryWithUsage(text: string): Promise<{ vector: number[]; tokens: number }> {
   const key = process.env.VOYAGE_API_KEY;
   if (!key) throw new Error("VOYAGE_API_KEY is not set");
   const res = await fetch("https://api.voyageai.com/v1/embeddings", {
@@ -33,8 +40,8 @@ export async function embedQuery(text: string): Promise<number[]> {
     signal: AbortSignal.timeout(8000),
   });
   if (!res.ok) throw new Error(`embedding failed: HTTP ${res.status}`);
-  const data = (await res.json()) as { data: { embedding: number[] }[] };
-  return data.data[0].embedding;
+  const data = (await res.json()) as { data: { embedding: number[] }[]; usage?: { total_tokens?: number } };
+  return { vector: data.data[0].embedding, tokens: data.usage?.total_tokens ?? 0 };
 }
 
 type Candidate = { pid: string; near_group: string | null; tone: string[] | null; similarity: number };

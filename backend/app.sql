@@ -80,3 +80,27 @@ grant select on public_passages to whollsome_app;
 grant execute on function take_rate(text, integer, integer) to whollsome_app;
 grant execute on function match_passages(vector, text, integer) to whollsome_app;
 grant execute on function surprise_passage() to whollsome_app;
+
+-- ---- spend log (Day 23) ---------------------------------------------------------------------------------
+-- One row per paid API call made by the live site: when, which route, which model, tokens, cost. No text of
+-- any kind (CLAUDE.md section 5, rule 5): the columns can't hold a statement. Scripts keep writing to
+-- evals/results/api-spend.jsonl; app/scripts/spend.ts reports both together.
+create table if not exists api_spend (
+  id bigint generated always as identity primary key,
+  at timestamptz not null default now(),
+  route text not null check (route ~ '^[a-z-]{1,20}$'),
+  model text not null check (model ~ '^[a-z0-9.-]{1,40}$'),
+  input_tokens integer not null check (input_tokens >= 0),
+  output_tokens integer not null check (output_tokens >= 0),
+  usd numeric(12, 8) not null check (usd >= 0)
+);
+alter table api_spend enable row level security;
+revoke all on api_spend from public, anon, authenticated;
+
+-- The app can add rows through this function but can't read or change the table.
+create or replace function record_spend(p_route text, p_model text, p_in integer, p_out integer, p_usd numeric)
+returns void language sql volatile security definer set search_path = public as $$
+  insert into api_spend (route, model, input_tokens, output_tokens, usd) values (p_route, p_model, p_in, p_out, p_usd)
+$$;
+revoke all on function record_spend(text, text, integer, integer, numeric) from public, anon, authenticated;
+grant execute on function record_spend(text, text, integer, integer, numeric) to whollsome_app;

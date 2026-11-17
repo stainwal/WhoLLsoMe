@@ -18,8 +18,13 @@ export type CrisisResult = {
 
 let client: Anthropic | null = null;
 
+/** The deterministic first layer alone: true if an explicit phrase matches (no model call). */
+export function matchesCrisisPattern(statement: string): boolean {
+  return CRISIS_PATTERNS.some((re) => re.test(statement));
+}
+
 export async function checkCrisis(statement: string): Promise<CrisisResult> {
-  if (CRISIS_PATTERNS.some((re) => re.test(statement))) {
+  if (matchesCrisisPattern(statement)) {
     return { label: "crisis", via: "pattern", promptVersion: CRISIS_PROMPT_VERSION };
   }
   try {

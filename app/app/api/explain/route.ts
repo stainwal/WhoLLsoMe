@@ -5,7 +5,8 @@
 // What the person typed is never logged or stored (CLAUDE.md section 5, rule 5).
 
 import Anthropic from "@anthropic-ai/sdk";
-import { checkCrisis } from "@/lib/crisis";
+import { CRISIS_MODEL, checkCrisis } from "@/lib/crisis";
+import { recordSpend } from "@/lib/spend";
 import { explain, MAX_STATEMENT_CHARS } from "@/lib/explain";
 import { checkLimits, fail, limited, serverTiming, verifyTurnstile, visitorKey } from "@/lib/guards";
 import { getPassage } from "@/lib/passages";
@@ -39,6 +40,8 @@ export async function POST(req: Request) {
     if (!passage || passage.hide_in_distress) return fail(404, "unknown_passage");
 
     const [crisis, result] = await Promise.all([checkCrisis(statement), explain(statement, passage)]);
+    recordSpend("explain", CRISIS_MODEL, crisis.usage);
+    recordSpend("explain", result.model, result.usage); // failed notes cost tokens too
     const timing = { "Server-Timing": serverTiming({ total: performance.now() - t0 }), "Cache-Control": "no-store" };
     if (crisis.label === "crisis") {
       console.info(`explain: crisis via=${crisis.via}`);

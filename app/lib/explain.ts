@@ -20,7 +20,7 @@ function getClient(): Anthropic {
 
 export type ExplainResult =
   | { ok: true; text: string; model: string; promptVersion: string; usage: { input: number; output: number } }
-  | { ok: false; reason: "refused" | "empty" | "too_long" };
+  | { ok: false; reason: "refused" | "empty" | "too_long"; model: string; usage: { input: number; output: number } };
 
 export async function explain(statement: string, passage: Passage, model = EXPLAIN_MODEL): Promise<ExplainResult> {
   const response = await getClient().messages.create({
@@ -42,18 +42,19 @@ export async function explain(statement: string, passage: Passage, model = EXPLA
     ],
   });
 
-  if (response.stop_reason === "refusal") return { ok: false, reason: "refused" };
-  if (response.stop_reason === "max_tokens") return { ok: false, reason: "too_long" };
+  const usage = { input: response.usage.input_tokens, output: response.usage.output_tokens };
+  if (response.stop_reason === "refusal") return { ok: false, reason: "refused", model: response.model, usage };
+  if (response.stop_reason === "max_tokens") return { ok: false, reason: "too_long", model: response.model, usage };
   const text = response.content
     .flatMap((b) => (b.type === "text" ? [b.text] : []))
     .join("")
     .trim();
-  if (!text) return { ok: false, reason: "empty" };
+  if (!text) return { ok: false, reason: "empty", model: response.model, usage };
   return {
     ok: true,
     text,
     model: response.model,
     promptVersion: EXPLAIN_PROMPT_VERSION,
-    usage: { input: response.usage.input_tokens, output: response.usage.output_tokens },
+    usage,
   };
 }

@@ -3,7 +3,9 @@
 // subagents; this confirms it through the path the live site uses.
 // Writes ids and labels only, never statement text: evals/results/crisis-api-d22.json. Each call goes in
 // the spend ledger.
-//   cd app && npx tsx scripts/crisis-api.ts
+//   cd app && npx tsx scripts/crisis-api.ts                 all sets, writes crisis-api-d22.json
+//   cd app && npx tsx scripts/crisis-api.ts --public TAG    ordinary and look-alike sets only (no private
+//                                                          crisis statements), writes crisis-api-TAG.json
 import fs from "node:fs";
 import path from "node:path";
 import { record, ROOT } from "./ledger";
@@ -13,7 +15,10 @@ import { SHOWS_HELPLINE } from "../lib/crisis-prompt";
 type Row = { id: string; set: string; part: string; borderline: boolean; text: string };
 const read = (f: string): Row[] =>
   fs.readFileSync(path.join(ROOT, f), "utf8").trim().split("\n").map((l) => JSON.parse(l));
-const rows = [...read("evals/private/crisis.jsonl"), ...read("evals/human-set.jsonl"), ...read("evals/agent-set.jsonl")];
+const pub = process.argv[2] === "--public";
+const tag = pub ? process.argv[3] ?? "public" : "d22";
+const rows = [...(pub ? [] : read("evals/private/crisis.jsonl")), ...read("evals/human-set.jsonl"), ...read("evals/agent-set.jsonl")]
+  .filter((r) => !pub || r.part !== "crisis"); // the public sets' crisis items are private too (evals/sets.py)
 
 const out: { id: string; set: string; part: string; borderline: boolean; label: string; via: string }[] = [];
 let usd = 0;
@@ -22,7 +27,7 @@ for (let i = 0; i < rows.length; i += 6) {
   const res = await Promise.all(batch.map((r) => checkCrisis(r.text)));
   res.forEach((c, j) => {
     const r = batch[j];
-    if (c.usage) usd += record("crisis-api-d22", CRISIS_MODEL, c.usage.input, c.usage.output);
+    if (c.usage) usd += record(`crisis-api-${tag}`, CRISIS_MODEL, c.usage.input, c.usage.output);
     out.push({ id: r.id, set: r.set, part: r.part, borderline: r.borderline, label: c.label, via: c.via });
   });
 }
@@ -42,7 +47,7 @@ const summary = {
   usd: Number(usd.toFixed(4)),
 };
 fs.writeFileSync(
-  path.join(ROOT, "evals/results/crisis-api-d22.json"),
+  path.join(ROOT, `evals/results/crisis-api-${tag}.json`),
   JSON.stringify({ run_at: new Date().toISOString(), model: CRISIS_MODEL, rule: "v2 (crisis or borderline shows the helpline screen)", summary, labels: out.map(({ id, label, via }) => ({ id, label, via })) }, null, 1) + "\n",
 );
 console.log(JSON.stringify(summary, null, 1));
