@@ -1,10 +1,10 @@
 # Status
 
-*Updated at the end of every session. Last update: Mon 16 Nov 2026 (session 14, after a 3.5-week pause: Supabase up, public view 16 of 16; Phase 2 closed on the 90-word rule; launch re-dated to Mon 30 Nov).*
+*Updated at the end of every session. Last update: Tue 17 Nov 2026 (session 14: Day 22 API routes built and deployed to Vercel behind the holding page; all end-to-end checks pass on the live site).*
 
 ## 1. Where we are
 
-- **Plan days done:** 1–21. **Phase 2 closed 16 Nov** (Explain gated at 90 words: 37 of 40, 92.5%; at 70 words 23 of 40). Project paused 15 Oct–16 Nov; plan re-dated: Day 22 Tue 17 Nov, **launch Mon 30 Nov** (Day 33). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
+- **Plan days done:** 1–22. **Live (gated): `https://whollsome.vercel.app`** — coming-soon page; access code in `.env` / Vercel. **Phase 2 closed 16 Nov** (Explain gated at 90 words: 37 of 40, 92.5%; at 70 words 23 of 40). Project paused 15 Oct–16 Nov; plan re-dated: Day 22 Tue 17 Nov, **launch Mon 30 Nov** (Day 33). Phase 1 closed 9 Oct (`logs/Phase-1-Report.md`); Day 15 (new sources, enrichment pass, plain-version judge) done 11–12 Oct, 10 days ahead of plan (`logs/D15.md`).
 - **Done:**
   - Days 0–1: setup, repo, accounts, free-tier limits.
   - Day 2: tag schema and taxonomy v2; source on/off switch; harm review narrowed to a safety field (Decision 3).
@@ -24,15 +24,16 @@
   - Session 11 (13 Oct, `logs/D18.md`): spot check 7 of 8, labels stand; 5 harsh passages hidden from distress (68 in all); top-1 metrics; commits pushed through `6b8df0b`; Opus vs Fable cross-check; 24 retrieval setups scored, every top 10 judged (6,610 labels).
   - Session 12 (15 Oct, `logs/D20.md`): Setup A, judge v2 and embedding clean-up decided and done; API key works; Explain built (Sonnet 5.5) with guards and an end-to-end test; experiment 5 decided Sonnet for Explain and Setup B with Haiku rewrites; crisis check built (12 of 13); gate re-judged with v2. API spend $0.0195.
   - Session 13 (15 Oct, `logs/D21.md`): Explain spot check 5 of 5 agree; borderline routes to the helpline screen; crisis re-test 13 of 13, false crisis 0 of 5 and 0 of 8; Explain prompt v2 through the API 23 of 40 (content 37 of 40). API spend $0.1185.
-- **Not started:** Phase 3 (Days 22–29).
+  - Session 14 (16–17 Nov, `logs/D22.md`): Phase 2 closed; launch re-dated to Mon 30 Nov. Day 22: API routes (search, explain, surprise, access), rate limits in Supabase with site-wide daily ceilings, low-privilege database role, holding page with access code; deployed to Vercel (iad1). Deployed checks all pass; warm search 1.5 s server, Explain 2.0–2.7 s wall.
+- **Phase 3 in progress:** Day 22 done; next D23–24 (UI).
 
 ## 2. Next session
 
-1. **Done 16 Nov:** Explain length (A), helplines, reports, Save, push rule, re-dating (section 3).
-2. **Before Phase 3, Shailesh** (full list in `logs/D21.md` section 5): Vercel project from the repo with root `app/`; a separate production Anthropic key with a Console monthly spend limit; Vercel environment variables; a Cloudflare account for Turnstile (by Day 26); the three small decisions are made (16 Nov).
-3. **Day 22, Claude (after the go-ahead):** routes for crisis check → rewrite → retrieval → up to 10 passages; Surprise me; shared rate-limit store; crisis check inside `/api/explain`.
-4. **Spend guards:** per-visitor limits and Turnstile protect the endpoints; **the Console's monthly spend limit on the Anthropic account is the final backstop**. Every real API call goes into `evals/results/api-spend.jsonl`.
-5. **Every push publishes** (the repo is public): the pre-commit hook guards restricted and crisis text; push at every session end after the guard and gitleaks pass (decided 16 Nov). Pushed through `e50380f` (16 Nov).
+1. **D23–24 (Wed 18–Thu 19 Nov), Claude:** the web app UI on top of the deployed routes: input → first passage (plain version first, original beside it) → Next / Back through up to 10 → Explain → Save (on the device only). Surprise me on the home screen. Deploy as built (push to `main` deploys).
+2. **Shailesh, by Day 26:** a Cloudflare account for Turnstile; then add `TURNSTILE_SECRET_KEY` and the public site key in Vercel.
+3. **Launch day:** in Vercel set `SITE_GATE` to `off`, then Redeploy (variable changes need a redeploy).
+4. **Spend guards:** per-visitor limits, site-wide daily ceilings (500 Explains, 2,000 searches), Turnstile from Day 26; one Anthropic key with auto-reload off and **$5 prepaid as the ceiling** (decided 16 Nov). Script calls go into `evals/results/api-spend.jsonl`.
+5. **Every push publishes** (the repo is public, and pushing `main` deploys the site): push at every session end after the guard and gitleaks pass. Pushed through `9ec2b0d` (17 Nov).
 
 ## 3. Open decisions
 
@@ -40,10 +41,11 @@
 | --- | --- | --- |
 | 27 (Mon 23 Nov) | Name, look, domain | — |
 
-Decided 16 Nov (`docs/Decisions.md`): Explain gate at 90 words (Phase 2 closed); helplines India, US, UK + international directory; reports to a Supabase table (passage id, reason, timestamp; rate-limited); Save on the device only; push at every session end; launch Mon 30 Nov.
+Decided 16 Nov (`docs/Decisions.md`): deploy to Vercel from Day 22 behind a holding page; one Anthropic key (auto-reload off, $5 ceiling); Explain gate at 90 words (Phase 2 closed); helplines India, US, UK + international directory; reports to a Supabase table (passage id, reason, timestamp; rate-limited); Save on the device only; push at every session end; launch Mon 30 Nov.
 
 ## 4. Eval results
 
+- **Day 22, deployed system (`logs/D22.md`):** crisis check through the real API **13 of 13**; false crisis human 1 of 5 (at the bar), agent 0 of 8; ordinary statements shown the helpline screen first 7 of 112 (5 not marked borderline, up from 2; flag). Ranking parity with the eval's Setup B: 8 of 8 same 10 and same first passage. Live site: gate, cookie (secure), refusals, crisis-only response all correct; search warm 1.45–1.49 s server; Explain 2.0–2.7 s wall, 56 words.
 - **Day 21 improvement day (`logs/D21.md`):** crisis check with borderline routed to the helpline screen: **13 of 13**, false crisis **0 of 5** human, **0 of 8** agent (fresh run). Explain prompt v2 through the API, Sonnet 5.5, 40 pairs: rubric **23 of 40 (57.5%)**, bar 90%; content checks 37 of 40; length is the only gap (13 over 70 words). Under the 90-word rule: 37 of 40 (92.5%).
 - **Gate (Day 21 prep, `logs/Phase-2-Report.md`):** Setup B, judge v2. Human held-out hit@3 **29 of 32 (91%)** (bar 23), hit@10 32, MRR 0.676, first acceptable 15, first graded 0 **0**. Crisis **12 of 13** (bar 13; C04 → borderline). False crisis: human 0 of 5, agent 1 of 8 (bar 1 each). Explain rubric **97.5%** on the subscription (bar 90%); API sample 3 of 5.
 - **Experiment 5 (Day 20, `logs/D20.md`):** Explain rubric pass Sonnet 39 of 40, Haiku 34 of 40. Setup B with Haiku rewrites vs A (first acceptable / first graded 0 / hit@3): golden 39 / 3 / 53 vs 37 / 6 / 53; human held-out 24 / 1 / 30 vs 23 / 2 / 30.
@@ -101,7 +103,7 @@ Used by `CLAUDE.md` section 4.3 for every heavy run.
 - **Relevance judging (Day 17, measured):** 3,074 + 307 judgements took about **2% of the weekly limit** (cap agreed 10%, estimate 2–4%): about 0.6% per 1,000 judgements, 8 + 2 helpers of about 170k tokens each, mostly cached.
 - **Experiments (Days 18–19, measured):** 3,536 judgements, 125 rewrites and Fable's 375 took about **3% of the weekly limit** (cap agreed 15%): about 0.8% per 1,000 judgements. Fable has its own weekly bar (moved 2 points).
 - **Day 20 (measured):** 80 Explains and 250 rewrites on Haiku/Sonnet subagents, 1,440 Opus judgements, 80 Explain judgements: about **1% of the weekly limit**. Haiku and Sonnet subagents cost little against the weekly bar.
-- **API spend (real money):** $0.0195 on Day 20 (12 calls); $0.1185 on Day 21 (40 calls); $0.1379 in all. Measured: Explain on Sonnet $3.16 per 1,000; rewrite on Haiku $0.10 per 1,000.
+- **API spend (real money):** $0.0195 on Day 20 (12 calls); $0.1185 on Day 21 (40 calls); $0.0089 on Day 22 (crisis run) plus about $0.03 of untracked end-to-end calls; about $0.18 in all. Measured: Explain on Sonnet $3.16 per 1,000; rewrite on Haiku $0.10 per 1,000.
 - **Overhead:** each helper carries about 70k tokens of mostly cached overhead, so pack many chunks per helper (batching tested: 101 passages tagged in one helper for about 94k tokens).
 - **Default budget per run:** at most 15% of the weekly limit; leave at least 30% of the week unused.
 - **Model for bulk work:** Opus 5.5, medium effort (decided 7 Oct; pilot showed the same cost as Sonnet).
