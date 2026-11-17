@@ -145,7 +145,7 @@ Exit: every passage extracted, tagged and harm-reviewed per `docs/Corpus-Policy.
 
 - [x] **D22 (Tue 17 Nov):** API routes in Next.js: crisis check → retrieval → ranked list of up to 10 (plain version + passage); Explain on request; Surprise me; rate limit; spend caps.
 - [x] **D23–24 (Wed 18–Thu 19 Nov):** Next.js web app: input → first passage (plain version first, original beside it) → Next / Back through up to 10 → Explain → Save. Surprise me on the home screen.
-- [ ] **D25 (Fri 20 Nov):** Consent notice, crisis screen, "Need help now?", "Report this response".
+- [x] **D25 (Fri 20 Nov):** Consent notice, crisis screen, "Need help now?", "Report this response".
 - [ ] **D26 (Sat 21 Nov):** Turnstile bot check (free Cloudflare account); Privacy and About pages.
 - [ ] **D27 (Mon 23 Nov):** [DECISION] Name, look, domain. One visual pass.
 - [ ] **D28 (Tue 24 Nov):** Evals page with real results.
