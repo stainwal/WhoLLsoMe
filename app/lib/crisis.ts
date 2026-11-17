@@ -1,8 +1,8 @@
 // Crisis check at runtime (Plan section 2.1, item 6; prompt and routing in ./crisis-prompt.ts).
 // Two layers, as in the eval (evals/crisis.py): explicit phrases go straight to "crisis" with no model call;
 // otherwise one Haiku call labels the statement. If the model can't answer (error, timeout, refusal or an
-// unexpected reply) the result is "borderline": the helpline screen shows, with "Continue to passages".
-// Failing towards the helpline screen is deliberate; failing towards passages could miss someone at risk.
+// unexpected reply) the result is "borderline", which since crisis-v2 (17 Nov) means passages plus the
+// "Talk to someone" line: only a clear crisis shows the helpline screen (Decisions, 17 Nov).
 
 import Anthropic from "@anthropic-ai/sdk";
 import { CRISIS_PATTERNS, CRISIS_PROMPT_VERSION, CRISIS_SYSTEM, type CrisisLabel } from "./crisis-prompt";

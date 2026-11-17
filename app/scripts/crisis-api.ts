@@ -4,19 +4,20 @@
 // Writes ids and labels only, never statement text: evals/results/crisis-api-d22.json. Each call goes in
 // the spend ledger.
 //   cd app && npx tsx scripts/crisis-api.ts                 all sets, writes crisis-api-d22.json
+//   cd app && npx tsx scripts/crisis-api.ts --all TAG       all sets, writes crisis-api-TAG.json
 //   cd app && npx tsx scripts/crisis-api.ts --public TAG    ordinary and look-alike sets only (no private
 //                                                          crisis statements), writes crisis-api-TAG.json
 import fs from "node:fs";
 import path from "node:path";
 import { record, ROOT } from "./ledger";
 import { CRISIS_MODEL, checkCrisis } from "../lib/crisis";
-import { SHOWS_HELPLINE } from "../lib/crisis-prompt";
+import { CRISIS_PROMPT_VERSION, SHOWS_HELPLINE } from "../lib/crisis-prompt";
 
 type Row = { id: string; set: string; part: string; borderline: boolean; text: string };
 const read = (f: string): Row[] =>
   fs.readFileSync(path.join(ROOT, f), "utf8").trim().split("\n").map((l) => JSON.parse(l));
 const pub = process.argv[2] === "--public";
-const tag = pub ? process.argv[3] ?? "public" : "d22";
+const tag = process.argv[3] ?? (pub ? "public" : "d22"); // --all TAG: every set, written to crisis-api-TAG.json
 const rows = [...(pub ? [] : read("evals/private/crisis.jsonl")), ...read("evals/human-set.jsonl"), ...read("evals/agent-set.jsonl")]
   .filter((r) => !pub || r.part !== "crisis"); // the public sets' crisis items are private too (evals/sets.py)
 
@@ -48,6 +49,6 @@ const summary = {
 };
 fs.writeFileSync(
   path.join(ROOT, `evals/results/crisis-api-${tag}.json`),
-  JSON.stringify({ run_at: new Date().toISOString(), model: CRISIS_MODEL, rule: "v2 (crisis or borderline shows the helpline screen)", summary, labels: out.map(({ id, label, via }) => ({ id, label, via })) }, null, 1) + "\n",
+  JSON.stringify({ run_at: new Date().toISOString(), model: CRISIS_MODEL, rule: `${CRISIS_PROMPT_VERSION} (helpline screen for: ${Object.entries(SHOWS_HELPLINE).filter(([, v]) => v).map(([k]) => k).join(", ")})`, summary, labels: out.map(({ id, label, via }) => ({ id, label, via })) }, null, 1) + "\n",
 );
 console.log(JSON.stringify(summary, null, 1));

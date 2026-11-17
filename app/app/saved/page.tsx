@@ -5,6 +5,7 @@
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { readSaved, remove, type SavedPassage } from "@/lib/saved";
+import { SiteHeader } from "../ui/header";
 import { PassageBody } from "../ui/passage-view";
 
 export default function SavedPage() {
@@ -25,16 +26,13 @@ export default function SavedPage() {
 
   return (
     <div className="page">
-      <header className="topbar">
-        <Link className="brand" href="/">WhoLLsoMe</Link>
-        <Link href="/">New search</Link>
-      </header>
+      <SiteHeader />
       <main>
         <h1 ref={headingRef} tabIndex={-1}>Saved</h1>
         <p className="lede">Kept on this device only. Clearing your browser&apos;s site data removes them.</p>
         <p className="visually-hidden" role="status" aria-live="polite">{msg}</p>
         {list === null ? null : list.length === 0 ? (
-          <p>Nothing saved yet. Use <strong>Save</strong> under any passage.</p>
+          <p>Nothing saved yet. Use <strong>Save</strong> under any passage. <Link href="/">Start a search</Link>.</p>
         ) : (
           <ul className="saved-list">
             {list.map((p, i) => (

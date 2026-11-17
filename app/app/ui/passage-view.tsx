@@ -5,6 +5,7 @@
 // statement to explain against) the Explain button.
 
 import { useEffect, useState } from "react";
+import { REPORT_REASONS } from "@/lib/report-reasons";
 import { isSaved, remove, save, type ShownPassage } from "@/lib/saved";
 
 export type ExplainState =
@@ -80,6 +81,76 @@ export function ExplainBlock({ state, onExplain }: { state: ExplainState; onExpl
           <p className="label">{state.label}</p>
           <p style={{ margin: 0 }}>{state.text}</p>
         </section>
+      )}
+    </div>
+  );
+}
+
+/** "Report this response": pick a reason, send. Only the passage id and the reason go to the server. */
+export function ReportBlock({ pid, explained, searched = true }: { pid: string; explained: boolean; searched?: boolean }) {
+  const [open, setOpen] = useState(false);
+  const [reason, setReason] = useState("");
+  const [state, setState] = useState<"idle" | "sending" | "sent" | "error">("idle");
+  const [msg, setMsg] = useState("");
+  useEffect(() => {
+    setOpen(false);
+    setReason("");
+    setState("idle");
+    setMsg("");
+  }, [pid]);
+
+  async function send(e: React.FormEvent) {
+    e.preventDefault();
+    if (!reason) return setMsg("Please choose a reason.");
+    setState("sending");
+    try {
+      const res = await fetch("/api/report", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ pid, reason }),
+      });
+      if (res.ok) {
+        setState("sent");
+        setMsg("Thanks. This passage has been reported.");
+        return;
+      }
+      setState("error");
+      setMsg(res.status === 429 ? "Too many reports from you in the last hour. Please try later." : "Couldn't send the report. Please try again.");
+    } catch {
+      setState("error");
+      setMsg("Couldn't reach the site. Check your connection and try again.");
+    }
+  }
+
+  const reasons = REPORT_REASONS.filter(
+    (r) => (explained || r.id !== "explain_wrong") && (searched || r.id !== "doesnt_fit"),
+  );
+  return (
+    <div className="report">
+      {state === "sent" ? (
+        <p role="status">{msg}</p>
+      ) : !open ? (
+        <button type="button" className="link" onClick={() => setOpen(true)} aria-expanded={false}>
+          Report this response
+        </button>
+      ) : (
+        <form onSubmit={send}>
+          <fieldset>
+            <legend>What&apos;s wrong with it?</legend>
+            {reasons.map((r) => (
+              <label key={r.id} className="radio">
+                <input type="radio" name={`reason-${pid}`} value={r.id} checked={reason === r.id} onChange={() => setReason(r.id)} />
+                {r.label}
+              </label>
+            ))}
+          </fieldset>
+          <p className="hint">Only the passage and the reason are sent, not what you wrote.</p>
+          <div className="actions">
+            <button type="submit" disabled={state === "sending"}>{state === "sending" ? "Sending…" : "Send report"}</button>
+            <button type="button" className="link" onClick={() => setOpen(false)}>Cancel</button>
+          </div>
+          <p className="status" role="status" aria-live="polite">{msg && <span className="error">{msg}</span>}</p>
+        </form>
       )}
     </div>
   );

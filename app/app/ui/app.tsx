@@ -1,14 +1,16 @@
 "use client";
 
 // The whole visitor flow on one page (Days 23-24): home -> results (one passage at a time, Next / Back
-// through up to 10, Explain, Save), Surprise me, and the helpline screen for crisis or borderline results.
+// through up to 10, Explain, Save, Report), Surprise me, and the helpline screen for a clear crisis.
 // What the visitor types stays in this page's memory only: it is sent to /api/search and /api/explain and
 // nowhere else, never put in the URL, never saved on the device (only saved passages are).
 
-import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { ShownPassage } from "@/lib/saved";
-import { ExplainBlock, PassageBody, SaveButton, type ExplainState } from "./passage-view";
+import { ConsentNote } from "./consent";
+import { SiteHeader } from "./header";
+import { HelpContent } from "./help";
+import { ExplainBlock, PassageBody, ReportBlock, SaveButton, type ExplainState } from "./passage-view";
 
 const MAX_CHARS = 2000; // same as the server (lib/explain.ts)
 const SLOW_SEARCH_MS = 4000;
@@ -17,9 +19,9 @@ const SLOW_EXPLAIN_MS = 8000;
 type View =
   | { kind: "home" }
   | { kind: "searching"; slow: boolean }
-  | { kind: "results"; passages: ShownPassage[]; index: number }
+  | { kind: "results"; passages: ShownPassage[]; index: number; gentle: boolean }
   | { kind: "surprise"; passage: ShownPassage | null; loading: boolean }
-  | { kind: "helpline"; level: "crisis" | "borderline"; passages: ShownPassage[] };
+  | { kind: "helpline" };
 
 type ApiResult = { ok: boolean; status: number; data: Record<string, unknown>; retryAfter: number };
 
@@ -103,8 +105,10 @@ export default function App() {
     setExplains({});
     const passages = (r.data.passages as ShownPassage[] | undefined) ?? [];
     const crisis = r.data.crisis;
-    if (crisis === "crisis" || crisis === "borderline") {
-      enter({ kind: "helpline", level: crisis, passages });
+    // Only a clear crisis shows the helpline screen (crisis-v2, 17 Nov); "borderline" gets passages, with
+    // "Need help now?" on every screen.
+    if (crisis === "crisis") {
+      enter({ kind: "helpline" });
       return;
     }
     if (!passages.length) {
@@ -112,7 +116,7 @@ export default function App() {
       setError("Nothing close enough was found. Try saying a little more about what's happening.");
       return;
     }
-    enter({ kind: "results", passages, index: 0 });
+    enter({ kind: "results", passages, index: 0, gentle: crisis === "borderline" });
   }
 
   async function surprise() {
@@ -138,7 +142,7 @@ export default function App() {
     clearTimeout(slow);
     if (r.status === 401) return window.location.reload();
     if (r.ok && r.data.crisis === "crisis") {
-      enter({ kind: "helpline", level: "crisis", passages: [] });
+      enter({ kind: "helpline" });
       return;
     }
     if (r.ok && typeof r.data.text === "string") {
@@ -150,10 +154,7 @@ export default function App() {
 
   return (
     <div className="page">
-      <header className="topbar">
-        <a className="brand" href="/" onClick={(e) => { e.preventDefault(); goHome(); }}>WhoLLsoMe</a>
-        <Link href="/saved">Saved</Link>
-      </header>
+      <SiteHeader onHome={goHome} />
 
       <main>
         {(view.kind === "home" || view.kind === "searching") && (
@@ -163,6 +164,7 @@ export default function App() {
               Say how you feel and get passages from the world&apos;s wisdom literature, quoted exactly, each with a
               plain-words version. Not therapy or advice.
             </p>
+            <ConsentNote />
             <form onSubmit={search} noValidate>
               <label htmlFor="statement">Your words</label>
               <textarea
@@ -175,7 +177,7 @@ export default function App() {
                 disabled={view.kind === "searching"}
               />
               <p className="hint" id="statement-hint">
-                Nothing you write is stored. {statement.length > MAX_CHARS - 200 && `${MAX_CHARS - statement.length} characters left.`}
+                Nothing you write is stored on this site. {statement.length > MAX_CHARS - 200 && `${MAX_CHARS - statement.length} characters left.`}
               </p>
               <div className="actions">
                 <button type="submit" className="primary" disabled={view.kind === "searching"}>
@@ -209,6 +211,13 @@ export default function App() {
               <h1 ref={headingRef} tabIndex={-1} className="position-heading">
                 Passage {view.index + 1} of {n}
               </h1>
+              {view.gentle && view.index === 0 && (
+                // A "borderline" result (crisis-v2): passages, with support one tap away. Not a wall.
+                <p className="gentle">
+                  If things feel very heavy right now, you don&apos;t have to carry them alone.{" "}
+                  <a href="/help">Talk to someone</a>.
+                </p>
+              )}
               <PassageBody p={p} headingId={`p${view.index}`} />
               <div className="actions">
                 <SaveButton p={p} />
@@ -228,6 +237,7 @@ export default function App() {
               <button type="button" className="link" onClick={() => window.history.back()}>
                 Start again
               </button>
+              <ReportBlock pid={p.pid} explained={explains[p.pid]?.kind === "done"} />
             </>
           );
         })()}
@@ -245,6 +255,7 @@ export default function App() {
                   </button>
                 </div>
                 <p className="hint">To get an explanation, write what&apos;s on your mind and search instead.</p>
+                <ReportBlock pid={view.passage.pid} explained={false} searched={false} />
               </>
             ) : (
               <p role="status"><span className="spinner" aria-hidden="true" />Finding a passage…</p>
@@ -254,25 +265,12 @@ export default function App() {
         )}
 
         {view.kind === "helpline" && (
-          // PLACEHOLDER until Day 25: the real screen has verified helplines (India, US, UK) with sources.
+          // Shown only for a clear crisis (crisis-v2): helplines, no passages, no option to continue.
           <section className="notice" aria-labelledby="help-heading">
             <h1 id="help-heading" ref={headingRef} tabIndex={-1}>You don&apos;t have to carry this alone</h1>
-            <p>
-              If you might act on thoughts of ending your life, or you are in danger now, please call your local
-              emergency number or a crisis line right away.
-            </p>
-            <p>
-              <a href="https://findahelpline.com" target="_blank" rel="noopener noreferrer">
-                Find a free, confidential helpline in your country (findahelpline.com)
-              </a>
-            </p>
-            <p className="hint">Placeholder screen for testing. Checked helpline numbers are added on Day 25.</p>
+            <p>What you wrote sounds serious. Please talk to someone now; it can help to say it out loud.</p>
+            <HelpContent />
             <div className="actions">
-              {view.level === "borderline" && view.passages.length > 0 && (
-                <button type="button" className="primary" onClick={() => setView({ kind: "results", passages: view.passages, index: 0 })}>
-                  Continue to passages
-                </button>
-              )}
               <button type="button" onClick={() => window.history.back()}>Back to start</button>
             </div>
           </section>

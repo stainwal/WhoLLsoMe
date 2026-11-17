@@ -17,6 +17,7 @@ export const VISITOR_LIMITS = {
   explain: { max: 20, windowSec: HOUR },
   surprise: { max: 120, windowSec: HOUR },
   access: { max: 10, windowSec: HOUR }, // access-code attempts: slows guessing
+  report: { max: 10, windowSec: HOUR }, // "Report this response"
 } as const;
 
 // Site-wide per day, whoever is calling: a ceiling on daily model spend even if many visitors (or one
@@ -25,6 +26,7 @@ export const VISITOR_LIMITS = {
 export const GLOBAL_LIMITS = {
   search: { max: 2000, windowSec: DAY },
   explain: { max: 500, windowSec: DAY },
+  report: { max: 500, windowSec: DAY }, // keeps the reports table small even under abuse
 } as const;
 
 export type Route = keyof typeof VISITOR_LIMITS;

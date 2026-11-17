@@ -197,3 +197,30 @@ button.link {
   width: 1px; height: 1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
 }
+
+/* Day 25 */
+.topnav { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.help-link { font-weight: 600; }
+.consent {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+.consent p { margin: 0 0 0.75rem; }
+.gentle {
+  border-left: 3px solid var(--accent);
+  padding: 0.5rem 0 0.5rem 0.9rem;
+  margin: 0 0 1rem;
+}
+.help-list { list-style: none; padding: 0; margin: 1rem 0; display: grid; gap: 1rem; }
+.help-list p { margin: 0; }
+.help-name { font-weight: 600; }
+.help-number { font-size: 1.35rem; font-weight: 700; display: inline-block; min-height: 44px; line-height: 44px; }
+.report { margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 0.5rem; }
+fieldset { border: 1px solid var(--border); border-radius: 6px; padding: 0.75rem 1rem; margin: 0.5rem 0; }
+legend { font-weight: 600; padding: 0 0.25rem; }
+.radio { display: flex; align-items: center; gap: 0.6rem; font-weight: normal; min-height: 44px; margin: 0; }
+.radio input { width: 1.2rem; height: 1.2rem; }

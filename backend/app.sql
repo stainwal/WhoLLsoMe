@@ -104,3 +104,22 @@ returns void language sql volatile security definer set search_path = public as 
 $$;
 revoke all on function record_spend(text, text, integer, integer, numeric) from public, anon, authenticated;
 grant execute on function record_spend(text, text, integer, integer, numeric) to whollsome_app;
+
+-- ---- "Report this response" (Day 25; Decisions, 16 Nov) ------------------------------------------------
+-- Passage id, reason and time only. No free text, no statement, no visitor key: nothing that could hold
+-- what the person typed or who they are. Rate-limited in the app (VISITOR_LIMITS.report).
+create table if not exists reports (
+  id bigint generated always as identity primary key,
+  at timestamptz not null default now(),
+  pid text not null check (pid ~ '^[a-z0-9][a-z0-9-]{2,80}$'),
+  reason text not null check (reason in ('doesnt_fit', 'upsetting', 'text_error', 'explain_wrong', 'other'))
+);
+alter table reports enable row level security;
+revoke all on reports from public, anon, authenticated;
+
+create or replace function add_report(p_pid text, p_reason text)
+returns void language sql volatile security definer set search_path = public as $$
+  insert into reports (pid, reason) values (p_pid, p_reason)
+$$;
+revoke all on function add_report(text, text) from public, anon, authenticated;
+grant execute on function add_report(text, text) to whollsome_app;
